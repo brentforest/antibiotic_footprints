@@ -1,0 +1,71 @@
+﻿food_loss_region,food_loss_group,loss_%_production,loss_%_postharvest,loss_%_milling,%_unproc,loss_%_proc,loss_%_dist_unproc,loss_%_dist_proc,loss_%_cons_unproc,loss_%_cons_proc,note
+europe_incl_russia,cereals_excl_rice,0.02,0.04,0.005,0,0.1,0,0.02,0,0.25,
+industrialized_asia,cereals_excl_rice,0.02,0.1,0.005,0,0.1,0,0.02,0,0.2,
+latin_america,cereals_excl_rice,0.06,0.04,0.02,0,0.07,0,0.04,0,0.1,
+n_africa_w_and_central_asia,cereals_excl_rice,0.06,0.08,0.02,0,0.07,0,0.04,0,0.12,
+n_america_and_oceania,cereals_excl_rice,0.02,0.02,0.005,0,0.1,0,0.02,0,0.27,
+s_and_se_asia,cereals_excl_rice,0.06,0.07,0.035,0,0.035,0,0.02,0,0.03,
+sub_saharan_africa,cereals_excl_rice,0.06,0.08,0.035,0,0.035,0,0.02,0,0.01,
+europe_incl_russia,eggs,0.04,0,0,0,0.005,0,0.02,0,0.08,
+industrialized_asia,eggs,0.06,0,0,0,0.005,0,0.04,0,0.05,
+latin_america,eggs,0.06,0,0,0,0.005,0,0.04,0,0.04,
+n_africa_w_and_central_asia,eggs,0.06,0.08,0,0,0.02,0,0.04,0,0.12,Gustavson has two values for losses during processing; we only used the first value
+n_america_and_oceania,eggs,0.04,0,0,0,0.005,0,0.02,0,0.15,
+s_and_se_asia,eggs,0.08,0,0,0,0.001,0,0.03,0,0.02,
+sub_saharan_africa,eggs,0.08,0,0,0,0.001,0,0.03,0,0.01,
+europe_incl_russia,fish_and_seafood,0.094,0.005,0,0.04,0.06,0.09,0.05,0.11,0.1,
+industrialized_asia,fish_and_seafood,0.15,0.02,0,0.04,0.06,0.11,0.05,0.08,0.07,
+latin_america,fish_and_seafood,0.057,0.05,0,0.6,0.09,0.1,0.05,0.04,0.02,
+n_africa_w_and_central_asia,fish_and_seafood,0.066,0.05,0,0.6,0.09,0.1,0.05,0.04,0.02,
+n_america_and_oceania,fish_and_seafood,0.12,0.005,0,0.04,0.06,0.09,0.05,0.33,0.1,
+s_and_se_asia,fish_and_seafood,0.082,0.06,0,0.6,0.09,0.15,0.1,0.02,0.01,
+sub_saharan_africa,fish_and_seafood,0.057,0.06,0,0.6,0.09,0.15,0.1,0.02,0.01,
+europe_incl_russia,fruits_and_vegetables,0.2,0.05,0,0.4,0.02,0.1,0.02,0.19,0.15,
+industrialized_asia,fruits_and_vegetables,0.1,0.08,0,0.96,0.02,0.08,0.02,0.15,0.08,
+latin_america,fruits_and_vegetables,0.2,0.1,0,0.5,0.2,0.12,0.02,0.1,0.01,
+n_africa_w_and_central_asia,fruits_and_vegetables,0.17,0.1,0,0.5,0.2,0.15,0.03,0.12,0.01,
+n_america_and_oceania,fruits_and_vegetables,0.2,0.04,0,0.4,0.02,0.12,0.02,0.28,0.1,
+s_and_se_asia,fruits_and_vegetables,0.15,0.09,0,0.95,0.25,0.1,0.1,0.07,0.01,
+sub_saharan_africa,fruits_and_vegetables,0.1,0.09,0,0.99,0.25,0.17,0.1,0.05,0.01,
+europe_incl_russia,meat,0.032,0.007,0,0,0.05,0,0.04,0,0.11,
+industrialized_asia,meat,0.031,0.006,0,0,0.05,0,0.06,0,0.08,
+latin_america,meat,0.053,0.011,0,0,0.05,0,0.05,0,0.06,
+n_africa_w_and_central_asia,meat,0.075,0.002,0,0,0.05,0,0.05,0,0.08,
+n_america_and_oceania,meat,0.037,0.01,0,0,0.05,0,0.04,0,0.11,
+s_and_se_asia,meat,0.051,0.003,0,0,0.05,0,0.07,0,0.04,
+sub_saharan_africa,meat,0.19,0.007,0,0,0.05,0,0.07,0,0.02,
+europe_incl_russia,milk,0.035,0.005,0,0,0.012,0,0.005,0,0.07,
+industrialized_asia,milk,0.035,0.01,0,0,0.012,0,0.005,0,0.05,
+latin_america,milk,0.035,0.06,0,0,0.02,0,0.08,0,0.04,
+n_africa_w_and_central_asia,milk,0.035,0.06,0,0,0.02,0,0.08,0,0.02,
+n_america_and_oceania,milk,0.035,0.005,0,0,0.012,0,0.005,0,0.15,
+s_and_se_asia,milk,0.035,0.06,0,0,0.02,0,0.1,0,0.01,
+sub_saharan_africa,milk,0.06,0.11,0,0,0.001,0,0.1,0,0.001,
+europe_incl_russia,oils_and_sugars,0,0,0,0,0,0,0,0,0,not in original source; assume 0% losses
+industrialized_asia,oils_and_sugars,0,0,0,0,0,0,0,0,0,not in original source; assume 0% losses
+latin_america,oils_and_sugars,0,0,0,0,0,0,0,0,0,not in original source; assume 0% losses
+n_africa_w_and_central_asia,oils_and_sugars,0,0,0,0,0,0,0,0,0,not in original source; assume 0% losses
+n_america_and_oceania,oils_and_sugars,0,0,0,0,0,0,0,0,0,not in original source; assume 0% losses
+s_and_se_asia,oils_and_sugars,0,0,0,0,0,0,0,0,0,not in original source; assume 0% losses
+sub_saharan_africa,oils_and_sugars,0,0,0,0,0,0,0,0,0,not in original source; assume 0% losses
+europe_incl_russia,oilseeds_and_pulses,0.1,0.01,0,0,0.05,0,0.01,0,0.04,
+industrialized_asia,oilseeds_and_pulses,0.06,0.03,0,0,0.05,0,0.01,0,0.04,
+latin_america,oilseeds_and_pulses,0.06,0.03,0,0,0.08,0,0.02,0,0.02,
+n_africa_w_and_central_asia,oilseeds_and_pulses,0.15,0.06,0,0,0.08,0,0.02,0,0.02,
+n_america_and_oceania,oilseeds_and_pulses,0.12,0,0,0,0.05,0,0.01,0,0.04,
+s_and_se_asia,oilseeds_and_pulses,0.07,0.12,0,0,0.08,0,0.02,0,0.01,
+sub_saharan_africa,oilseeds_and_pulses,0.12,0.08,0,0,0.08,0,0.02,0,0.01,
+europe_incl_russia,rice,0.02,0.04,0,0,0,0,0.02,0,0.25,"not in original source; added to differentiate rice from cereals that undergo milling (FBS already report rice as milled equivalent) and processing (i.e., industrial baking)"
+industrialized_asia,rice,0.02,0.1,0,0,0,0,0.02,0,0.2,"not in original source; added to differentiate rice from cereals that undergo milling (FBS already report rice as milled equivalent) and processing (i.e., industrial baking)"
+latin_america,rice,0.06,0.04,0,0,0,0,0.04,0,0.1,"not in original source; added to differentiate rice from cereals that undergo milling (FBS already report rice as milled equivalent) and processing (i.e., industrial baking)"
+n_africa_w_and_central_asia,rice,0.06,0.08,0,0,0,0,0.04,0,0.12,"not in original source; added to differentiate rice from cereals that undergo milling (FBS already report rice as milled equivalent) and processing (i.e., industrial baking)"
+n_america_and_oceania,rice,0.02,0.02,0,0,0,0,0.02,0,0.27,"not in original source; added to differentiate rice from cereals that undergo milling (FBS already report rice as milled equivalent) and processing (i.e., industrial baking)"
+s_and_se_asia,rice,0.06,0.07,0,0,0,0,0.02,0,0.03,"not in original source; added to differentiate rice from cereals that undergo milling (FBS already report rice as milled equivalent) and processing (i.e., industrial baking)"
+sub_saharan_africa,rice,0.06,0.08,0,0,0,0,0.02,0,0.01,"not in original source; added to differentiate rice from cereals that undergo milling (FBS already report rice as milled equivalent) and processing (i.e., industrial baking)"
+europe_incl_russia,roots_and_tubers,0.2,0.09,0,0.27,0.15,0.07,0.03,0.17,0.12,
+industrialized_asia,roots_and_tubers,0.2,0.07,0,0.85,0.15,0.09,0.03,0.1,0.12,
+latin_america,roots_and_tubers,0.14,0.14,0,0.2,0.12,0.03,0.03,0.04,0.02,
+n_africa_w_and_central_asia,roots_and_tubers,0.06,0.1,0,0.81,0.12,0.04,0.02,0.06,0.03,
+n_america_and_oceania,roots_and_tubers,0.2,0.1,0,0.27,0.15,0.07,0.03,0.3,0.12,
+s_and_se_asia,roots_and_tubers,0.06,0.19,0,0.9,0.1,0.11,0.08,0.03,0.05,
+sub_saharan_africa,roots_and_tubers,0.14,0.18,0,0.5,0.15,0.05,0.02,0.02,0.01,

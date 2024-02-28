@@ -1,0 +1,833 @@
+country_code,country,gleam_region,fbs_item_code,fbs_item,feed,meat,total_footprint,fraction_from_feed,income_class
+1,Armenia,Near East and North Africa,2731,Bovine Meat,0.0019323671497584,134.271347356,134.27327972314976,1.4391300739377449e-05,Upper middle income
+1,Armenia,Near East and North Africa,2732,Mutton & Goat Meat,0.0,343.8313571943396,343.8313571943396,0.0,Upper middle income
+1,Armenia,Near East and North Africa,2733,Pigmeat,0.0631469739552493,198.19881939466666,198.2619663686219,0.0003185027119010927,Upper middle income
+1,Armenia,Near East and North Africa,2734,Poultry Meat,1.6646363986588013,52.25260828333333,53.91724468199213,0.03087391443084581,Upper middle income
+2,Afghanistan,South Asia,2731,Bovine Meat,0.0019323671497584,103.57882426399999,103.58075663114975,1.865565779403933e-05,Low income
+2,Afghanistan,South Asia,2732,Mutton & Goat Meat,0.0,209.73395230377355,209.73395230377355,0.0,Low income
+2,Afghanistan,South Asia,2733,Pigmeat,0.0,155.64850775466667,155.64850775466667,0.0,Low income
+2,Afghanistan,South Asia,2734,Poultry Meat,0.24218665072153872,37.68174212777778,37.92392877849932,0.006386117117139103,Low income
+3,Albania,Western Europe,2731,Bovine Meat,0.004503604771679701,135.226486834,135.2309904387717,3.33030524812934e-05,Upper middle income
+3,Albania,Western Europe,2732,Mutton & Goat Meat,0.0016200375124396978,343.8313571943396,343.83297723185206,4.711699050749517e-06,Upper middle income
+3,Albania,Western Europe,2733,Pigmeat,0.0008671534498333728,200.00665038933334,200.00751754278318,4.335604283713395e-06,Upper middle income
+3,Albania,Western Europe,2734,Poultry Meat,0.010669434807992342,52.50250791250001,52.513177347308,0.00020317633300738166,Upper middle income
+4,Algeria,Near East and North Africa,2731,Bovine Meat,0.004173641048837791,32.472390634,32.47656427504884,0.00012851239476844307,Lower middle income
+4,Algeria,Near East and North Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+4,Algeria,Near East and North Africa,2733,Pigmeat,0.0,71.04680333333333,71.04680333333333,0.0,Lower middle income
+4,Algeria,Near East and North Africa,2734,Poultry Meat,0.01654149726627348,13.715738218055556,13.732279715321829,0.001204570370629522,Lower middle income
+6,Andorra,Western Europe,2731,Bovine Meat,0.0019323671497584,135.226486834,135.22841920114976,1.4289652731087833e-05,High income
+6,Andorra,Western Europe,2732,Mutton & Goat Meat,0.0,343.8313571943396,343.8313571943396,0.0,High income
+7,Angola,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,43.343104826,43.34503719314976,4.458104721764528e-05,Lower middle income
+7,Angola,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+7,Angola,Sub-Saharan Africa,2733,Pigmeat,0.11133184243140867,73.66076080666667,73.77209264909808,0.0015091322264771051,Lower middle income
+7,Angola,Sub-Saharan Africa,2734,Poultry Meat,1.3167707488186875,16.787087954166665,18.103858702985352,0.07273425905613978,Lower middle income
+8,Antigua and Barbuda,Latin America and the Caribbean,2731,Bovine Meat,0.0019323671497584,103.34746921799999,103.34940158514975,1.8697419821694075e-05,High income
+8,Antigua and Barbuda,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,High income
+8,Antigua and Barbuda,Latin America and the Caribbean,2733,Pigmeat,0.0,414.7940099813334,414.7940099813334,0.0,High income
+8,Antigua and Barbuda,Latin America and the Caribbean,2734,Poultry Meat,0.0,50.7687128875,50.7687128875,0.0,High income
+9,Argentina,Latin America and the Caribbean,2731,Bovine Meat,0.0040155921579181995,101.66037528800001,101.66439088015792,3.949851194851286e-05,Upper middle income
+9,Argentina,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Upper middle income
+9,Argentina,Latin America and the Caribbean,2733,Pigmeat,0.0001807551423185,349.3380774746667,349.338258229809,5.174215479130026e-07,Upper middle income
+9,Argentina,Latin America and the Caribbean,2734,Poultry Meat,0.000885170299102,48.57087999583334,48.57176516613244,1.822396810316462e-05,Upper middle income
+10,Australia,Oceania,2731,Bovine Meat,0.0059656334921161,232.02837952599998,232.0343451594921,2.5710131351527023e-05,High income
+10,Australia,Oceania,2732,Mutton & Goat Meat,0.0008813521433019629,681.5694554056604,681.5703367578037,1.2931198671211417e-06,High income
+10,Australia,Oceania,2733,Pigmeat,0.0010713193201043706,462.7261618586666,462.7272331779867,2.3152285910353813e-06,High income
+10,Australia,Oceania,2734,Poultry Meat,0.005303401039013899,91.87739968472222,91.88270308576124,5.7719253579902025e-05,High income
+11,Austria,Western Europe,2731,Bovine Meat,0.00634110529251,14.368515976000001,14.374857081292511,0.0004411247539123249,High income
+11,Austria,Western Europe,2732,Mutton & Goat Meat,0.0009605203710144,111.76329600377358,111.76425652414459,8.594164188860303e-06,High income
+11,Austria,Western Europe,2733,Pigmeat,0.0007057515998535,46.12985109733333,46.13055684893318,1.529900456577344e-05,High income
+11,Austria,Western Europe,2734,Poultry Meat,0.0078382017363336,14.67100496111111,14.678843162847445,0.0005339795274992994,High income
+12,Bahamas,Latin America and the Caribbean,2731,Bovine Meat,0.0019323671497584,104.333048658,104.33498102514976,1.8520798401186332e-05,High income
+12,Bahamas,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,High income
+12,Bahamas,Latin America and the Caribbean,2733,Pigmeat,0.0,453.03255739733333,453.03255739733333,0.0,High income
+12,Bahamas,Latin America and the Caribbean,2734,Poultry Meat,0.0002824464810791626,52.052659726388896,52.052942172869976,5.426138644404502e-06,High income
+13,Bahrain,Near East and North Africa,2731,Bovine Meat,0.0019323671497584,103.57882426399999,103.58075663114975,1.865565779403933e-05,High income
+13,Bahrain,Near East and North Africa,2732,Mutton & Goat Meat,0.0,209.73395230377355,209.73395230377355,0.0,High income
+13,Bahrain,Near East and North Africa,2733,Pigmeat,0.0,155.64850775466667,155.64850775466667,0.0,High income
+13,Bahrain,Near East and North Africa,2734,Poultry Meat,0.0,37.68174212777778,37.68174212777778,0.0,High income
+14,Barbados,Latin America and the Caribbean,2731,Bovine Meat,0.0019323671497584,103.44990302400001,103.45183539114977,1.8678906395929564e-05,High income
+14,Barbados,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,High income
+14,Barbados,Latin America and the Caribbean,2733,Pigmeat,8.208926146047396e-06,418.768240904,418.7682491129261,1.9602551443277533e-08,High income
+14,Barbados,Latin America and the Caribbean,2734,Poultry Meat,0.00011761793555287086,50.90215679861111,50.90227441654666,2.310661692449584e-06,High income
+16,Bangladesh,South Asia,2731,Bovine Meat,0.0019323671497584,222.11566369599998,222.11759606314973,8.699748169474215e-06,Lower middle income
+16,Bangladesh,South Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Lower middle income
+16,Bangladesh,South Asia,2733,Pigmeat,0.0,471.43510125066666,471.43510125066666,0.0,Lower middle income
+16,Bangladesh,South Asia,2734,Poultry Meat,5.97232505410493,89.26809207083335,95.24041712493828,0.06270788426168183,Lower middle income
+17,Bermuda,North America,2731,Bovine Meat,0.0019323671497584,102.517497052,102.51942941914976,1.884878954854435e-05,High income
+17,Bermuda,North America,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,High income
+17,Bermuda,North America,2733,Pigmeat,0.0,382.5927196933333,382.5927196933333,0.0,High income
+17,Bermuda,North America,2734,Poultry Meat,0.0,49.68748078888889,49.68748078888889,0.0,High income
+18,Bhutan,South Asia,2731,Bovine Meat,0.0019323671497584,216.99909803,217.00103039714975,8.904875457143365e-06,Lower middle income
+18,Bhutan,South Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Lower middle income
+18,Bhutan,South Asia,2733,Pigmeat,0.0,475.93032334000003,475.93032334000003,0.0,Lower middle income
+18,Bhutan,South Asia,2734,Poultry Meat,0.0,87.92126707083332,87.92126707083332,0.0,Lower middle income
+19,Bolivia (Plurinational State of),Latin America and the Caribbean,2731,Bovine Meat,0.0172608150557498,102.29534862,102.31260943505575,0.00016870662522498094,Lower middle income
+19,Bolivia (Plurinational State of),Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Lower middle income
+19,Bolivia (Plurinational State of),Latin America and the Caribbean,2733,Pigmeat,0.006583768077409337,373.9737965213333,373.98038028941073,1.7604581481826353e-05,Lower middle income
+19,Bolivia (Plurinational State of),Latin America and the Caribbean,2734,Poultry Meat,0.04311990169579138,49.3980807,49.44120060169579,0.0008721451172509027,Lower middle income
+20,Botswana,Sub-Saharan Africa,2731,Bovine Meat,0.0019389105505308174,39.74568078,39.74761969055053,4.8780544989258004e-05,Upper middle income
+20,Botswana,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Upper middle income
+20,Botswana,Sub-Saharan Africa,2733,Pigmeat,0.0,72.79572899200001,72.79572899200001,0.0,Upper middle income
+20,Botswana,Sub-Saharan Africa,2734,Poultry Meat,0.0001825154708625,15.770692231944444,15.770874747415307,1.157294530491484e-05,Upper middle income
+21,Brazil,Latin America and the Caribbean,2731,Bovine Meat,0.0,101.370496394,101.370496394,0.0,Upper middle income
+21,Brazil,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Upper middle income
+21,Brazil,Latin America and the Caribbean,2733,Pigmeat,0.0,338.091345532,338.091345532,0.0,Upper middle income
+21,Brazil,Latin America and the Caribbean,2734,Poultry Meat,0.0,48.19324518611111,48.19324518611111,0.0,Upper middle income
+22,Aruba,Latin America and the Caribbean,2731,Bovine Meat,0.0019323671497584,102.517497052,102.51942941914976,1.884878954854435e-05,High income
+22,Aruba,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,High income
+22,Aruba,Latin America and the Caribbean,2733,Pigmeat,0.0,382.5927196933333,382.5927196933333,0.0,High income
+22,Aruba,Latin America and the Caribbean,2734,Poultry Meat,0.0,49.68748078888889,49.68748078888889,0.0,High income
+23,Belize,Latin America and the Caribbean,2731,Bovine Meat,0.0698470675004934,103.31181212,103.38165918750049,0.0006756233944148031,Lower middle income
+23,Belize,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Lower middle income
+23,Belize,Latin America and the Caribbean,2733,Pigmeat,0.0,413.410584884,413.410584884,0.0,Lower middle income
+23,Belize,Latin America and the Caribbean,2734,Poultry Meat,0.023547385411519062,50.72226122083333,50.74580860624485,0.00046402621336141814,Lower middle income
+25,Solomon Islands,Oceania,2731,Bovine Meat,0.0019323671497584,222.11566369599998,222.11759606314973,8.699748169474215e-06,Lower middle income
+25,Solomon Islands,Oceania,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Lower middle income
+25,Solomon Islands,Oceania,2733,Pigmeat,0.3657454430530837,471.43510125066666,471.80084669371973,0.0007752115020906601,Lower middle income
+25,Solomon Islands,Oceania,2734,Poultry Meat,0.0,89.26809207083335,89.26809207083335,0.0,Lower middle income
+26,Brunei Darussalam,East Asia and Southeast Asia,2731,Bovine Meat,0.0019323671497584,181.80253163999998,181.80446400714973,1.0628821246558648e-05,High income
+26,Brunei Darussalam,East Asia and Southeast Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,High income
+26,Brunei Darussalam,East Asia and Southeast Asia,2733,Pigmeat,0.0,506.85270320533334,506.85270320533334,0.0,High income
+26,Brunei Darussalam,East Asia and Southeast Asia,2734,Poultry Meat,0.0,78.65653379722222,78.65653379722222,0.0,High income
+27,Bulgaria,Eastern Europe,2731,Bovine Meat,0.0,120.037096684,120.037096684,0.0,Upper middle income
+27,Bulgaria,Eastern Europe,2732,Mutton & Goat Meat,0.0,289.97796970566037,289.97796970566037,0.0,Upper middle income
+27,Bulgaria,Eastern Europe,2733,Pigmeat,0.0,194.24880955733335,194.24880955733335,0.0,Upper middle income
+27,Bulgaria,Eastern Europe,2734,Poultry Meat,0.0,62.838886893055566,62.838886893055566,0.0,Upper middle income
+28,Myanmar,East Asia and Southeast Asia,2731,Bovine Meat,0.9935887183756884,226.839640186,227.8332289043757,0.004361035144670268,Lower middle income
+28,Myanmar,East Asia and Southeast Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Lower middle income
+28,Myanmar,East Asia and Southeast Asia,2733,Pigmeat,0.7755103912294908,467.2847929586667,468.0603033498962,0.0016568599936358241,Lower middle income
+28,Myanmar,East Asia and Southeast Asia,2734,Poultry Meat,2.509134202661223,90.51157649861112,93.02071070127235,0.026973930684308377,Lower middle income
+29,Burundi,Sub-Saharan Africa,2731,Bovine Meat,0.0273288658558111,41.639790252,41.66711911785581,0.0006558856583895605,Low income
+29,Burundi,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+29,Burundi,Sub-Saharan Africa,2733,Pigmeat,0.01678419116090405,73.25118403866666,73.26796822982757,0.00022907952228530835,Low income
+29,Burundi,Sub-Saharan Africa,2734,Poultry Meat,0.14785575823890457,16.305843143055554,16.45369890129446,0.008986171384677055,Low income
+32,Cameroon,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,58.383438811999994,58.38537117914975,3.309676911754354e-05,Lower middle income
+32,Cameroon,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,174.9134406698113,174.9134406698113,0.0,Lower middle income
+32,Cameroon,Sub-Saharan Africa,2733,Pigmeat,0.01514662074171859,94.22445010133333,94.23959672207505,0.00016072459208827012,Lower middle income
+32,Cameroon,Sub-Saharan Africa,2734,Poultry Meat,0.03776975134050181,35.20608896388889,35.24385871522939,0.0010716690146127768,Lower middle income
+33,Canada,North America,2731,Bovine Meat,0.0101922991843026,91.664275856,91.6744681551843,0.00011117925622485558,High income
+33,Canada,North America,2732,Mutton & Goat Meat,0.0063955753171463,197.97741510377358,197.98381067909074,3.230352671367055e-05,High income
+33,Canada,North America,2733,Pigmeat,0.0007559400688345,160.62937467466668,160.63013061473552,4.70609135372983e-06,High income
+33,Canada,North America,2734,Poultry Meat,0.0065011920377389,37.47330648611111,37.47980767814885,0.00017345852181437869,High income
+35,Cabo Verde,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,40.50376496,40.505697327149754,4.770605809230674e-05,Lower middle income
+35,Cabo Verde,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+35,Cabo Verde,Sub-Saharan Africa,2733,Pigmeat,0.025517101004949295,72.97801690933333,73.00353401033829,0.00034953240758640164,Lower middle income
+35,Cabo Verde,Sub-Saharan Africa,2734,Poultry Meat,0.0,15.984877019444443,15.984877019444443,0.0,Lower middle income
+37,Central African Republic,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,42.581465022,42.58339738914976,4.5378416665523425e-05,Low income
+37,Central African Republic,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+37,Central African Republic,Sub-Saharan Africa,2733,Pigmeat,0.002864212438859249,73.47761790266667,73.48048211510553,3.897922763180193e-05,Low income
+37,Central African Republic,Sub-Saharan Africa,2734,Poultry Meat,0.0171242836711745,16.571898572222224,16.5890228558934,0.0010322659640613456,Low income
+38,Sri Lanka,South Asia,2731,Bovine Meat,0.0573722083722023,207.29726161399998,207.3546338223722,0.00027668640586710734,Lower middle income
+38,Sri Lanka,South Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Lower middle income
+38,Sri Lanka,South Asia,2733,Pigmeat,0.047991683527840764,484.45399209466666,484.50198377819453,9.905363679545098e-05,Lower middle income
+38,Sri Lanka,South Asia,2734,Poultry Meat,0.031420077128709506,85.36746890277777,85.39888897990649,0.0003679213805240761,Lower middle income
+39,Chad,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,43.221489391999995,43.22342175914975,4.470648252991093e-05,Low income
+39,Chad,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+39,Chad,Sub-Saharan Africa,2733,Pigmeat,0.010024130815250411,73.63151730533333,73.64154143614859,0.0001361206001362954,Low income
+39,Chad,Sub-Saharan Africa,2734,Poultry Meat,0.23464273007697287,16.752727419444444,16.987370149521418,0.013812775492125449,Low income
+40,Chile,Latin America and the Caribbean,2731,Bovine Meat,0.009996180270029801,442.512834754,442.52283093427,2.258907240768913e-05,High income
+40,Chile,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,1039.3845324113208,1039.3845324113208,0.0,High income
+40,Chile,Latin America and the Caribbean,2733,Pigmeat,0.0013102871927443578,189.36179205333332,189.36310234052607,6.919442998922288e-06,High income
+40,Chile,Latin America and the Caribbean,2734,Poultry Meat,0.006471162105989246,30.512092904166664,30.518564066272653,0.0002120401894380345,High income
+41,"China, mainland",East Asia and Southeast Asia,2731,Bovine Meat,0.0463324063112515,377.652105872,377.69843827831124,0.00012267036772100964,Upper middle income
+41,"China, mainland",East Asia and Southeast Asia,2732,Mutton & Goat Meat,0.0041160476795111,999.3039743283018,999.3080903759814,4.118897584390086e-06,Upper middle income
+41,"China, mainland",East Asia and Southeast Asia,2733,Pigmeat,0.0114553755982687,393.8704825093333,393.8819378849316,2.9083272159626845e-05,Upper middle income
+41,"China, mainland",East Asia and Southeast Asia,2734,Poultry Meat,0.1963517736257094,118.66218854861113,118.85854032223683,0.0016519786722382845,Upper middle income
+44,Colombia,Latin America and the Caribbean,2731,Bovine Meat,0.11003780834435059,101.91734676600001,102.02738457434435,0.0010785124876367804,Upper middle income
+44,Colombia,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Upper middle income
+44,Colombia,Latin America and the Caribbean,2733,Pigmeat,0.02295905485957875,359.3080664733333,359.3310255281929,6.38938839913154e-05,Upper middle income
+44,Colombia,Latin America and the Caribbean,2734,Poultry Meat,0.06624814438528467,48.90564520694445,48.97189335132973,0.0013527789074850183,Upper middle income
+45,Comoros,Sub-Saharan Africa,2731,Bovine Meat,0.7439408968977984,41.849157844000004,42.5930987408978,0.017466230889265355,Lower middle income
+45,Comoros,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+45,Comoros,Sub-Saharan Africa,2733,Pigmeat,0.0,73.30152828799999,73.30152828799999,0.0,Lower middle income
+45,Comoros,Sub-Saharan Africa,2734,Poultry Meat,1.3612024332078798,16.36499667361111,17.72619910681899,0.0767904289580188,Lower middle income
+46,Congo,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,40.817583298,40.81951566514976,4.7339296370147426e-05,Lower middle income
+46,Congo,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+46,Congo,Sub-Saharan Africa,2733,Pigmeat,0.14274499915733216,73.05347725333333,73.19622225249066,0.0019501689399342595,Lower middle income
+46,Congo,Sub-Saharan Africa,2734,Poultry Meat,0.2405160893767808,16.07354146666667,16.314057556043448,0.014742873656693887,Lower middle income
+47,Cook Islands,Oceania,2731,Bovine Meat,0.0019323671497584,222.11566369599998,222.11759606314973,8.699748169474215e-06,Unclassified
+47,Cook Islands,Oceania,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Unclassified
+48,Costa Rica,Latin America and the Caribbean,2731,Bovine Meat,0.0091809503299764,102.30851552600001,102.31769647632998,8.972983800608047e-05,Upper middle income
+48,Costa Rica,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Upper middle income
+48,Costa Rica,Latin America and the Caribbean,2733,Pigmeat,0.001366201781281407,374.4846463773333,374.48601257911463,3.6482051008321188e-06,Upper middle income
+48,Costa Rica,Latin America and the Caribbean,2734,Poultry Meat,0.01237658712364412,49.41523364583334,49.42761023295699,0.00025039825039713834,Upper middle income
+49,Cuba,Latin America and the Caribbean,2731,Bovine Meat,0.8330584137078862,102.517497052,103.35055546570788,0.008060512204835689,Upper middle income
+49,Cuba,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Upper middle income
+50,Cyprus,Near East and North Africa,2731,Bovine Meat,0.0,292.10688055,292.10688055,0.0,High income
+50,Cyprus,Near East and North Africa,2732,Mutton & Goat Meat,0.0,973.5877091207548,973.5877091207548,0.0,High income
+50,Cyprus,Near East and North Africa,2733,Pigmeat,0.0,477.5778149346666,477.5778149346666,0.0,High income
+50,Cyprus,Near East and North Africa,2734,Poultry Meat,0.0,141.56632471111112,141.56632471111112,0.0,High income
+52,Azerbaijan,Near East and North Africa,2731,Bovine Meat,0.0019323671497584,144.10758641799998,144.10951878514973,1.3409018127659779e-05,Upper middle income
+52,Azerbaijan,Near East and North Africa,2732,Mutton & Goat Meat,0.0,343.8313571943396,343.8313571943396,0.0,Upper middle income
+52,Azerbaijan,Near East and North Africa,2733,Pigmeat,0.0,216.816265688,216.816265688,0.0,Upper middle income
+52,Azerbaijan,Near East and North Africa,2734,Poultry Meat,0.029025926365438513,54.8261302625,54.85515618886544,0.0005291376122511201,Upper middle income
+53,Benin,Sub-Saharan Africa,2731,Bovine Meat,0.39650719873599904,42.560006238,42.956513436735996,0.009230432523811626,Lower middle income
+53,Benin,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+53,Benin,Sub-Saharan Africa,2733,Pigmeat,0.47670497352993624,73.47245795866667,73.9491629321966,0.0064463876888913975,Lower middle income
+53,Benin,Sub-Saharan Africa,2734,Poultry Meat,2.667307295169202,16.565835733333333,19.233143028502536,0.13868286068566063,Lower middle income
+54,Denmark,Western Europe,2731,Bovine Meat,0.0,28.959786718,28.959786718,0.0,High income
+54,Denmark,Western Europe,2732,Mutton & Goat Meat,0.0,2998.644080373585,2998.644080373585,0.0,High income
+54,Denmark,Western Europe,2733,Pigmeat,0.0,26.964401144,26.964401144,0.0,High income
+54,Denmark,Western Europe,2734,Poultry Meat,0.0,7.97197155,7.97197155,0.0,High income
+55,Dominica,Latin America and the Caribbean,2731,Bovine Meat,0.005206060954492201,103.128747462,103.1339535229545,5.047863265838528e-05,Upper middle income
+55,Dominica,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Upper middle income
+55,Dominica,Latin America and the Caribbean,2733,Pigmeat,0.0,406.30803489199997,406.30803489199997,0.0,Upper middle income
+55,Dominica,Latin America and the Caribbean,2734,Poultry Meat,0.0,50.48377683611111,50.48377683611111,0.0,Upper middle income
+56,Dominican Republic,Latin America and the Caribbean,2731,Bovine Meat,0.09941340123743789,102.666453974,102.76586737523745,0.0009673776301078798,Upper middle income
+56,Dominican Republic,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Upper middle income
+56,Dominican Republic,Latin America and the Caribbean,2733,Pigmeat,0.012588340691972386,388.3719554946667,388.38454383535867,3.241205370239643e-05,Upper middle income
+56,Dominican Republic,Latin America and the Caribbean,2734,Poultry Meat,0.04840017224658771,49.88153187222222,49.929932044468806,0.0009693618690183944,Upper middle income
+57,Belarus,Eastern Europe,2731,Bovine Meat,0.9841203002885127,131.75121965,132.7353399502885,0.0074141543665543885,Upper middle income
+57,Belarus,Eastern Europe,2732,Mutton & Goat Meat,0.3614391617667677,343.8313571943396,344.1927963561064,0.0010501067006434906,Upper middle income
+57,Belarus,Eastern Europe,2733,Pigmeat,0.19620540135406972,193.42887203733335,193.6250774386874,0.0010133263932002785,Upper middle income
+57,Belarus,Eastern Europe,2734,Poultry Meat,0.6637552200868257,51.59325017638889,52.25700539647572,0.012701746207056677,Upper middle income
+58,Ecuador,Latin America and the Caribbean,2731,Bovine Meat,0.0034715166119527073,102.13130602999999,102.13477754661194,3.3989564527796494e-05,Upper middle income
+58,Ecuador,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Upper middle income
+58,Ecuador,Latin America and the Caribbean,2733,Pigmeat,0.00014025912126596778,367.6092661053333,367.60940636445457,3.8154388554168924e-07,Upper middle income
+58,Ecuador,Latin America and the Caribbean,2734,Poultry Meat,0.002977740552514576,49.18437700277778,49.187354743330296,6.053874147233648e-05,Upper middle income
+59,Egypt,Near East and North Africa,2731,Bovine Meat,0.0019323671497584,35.329639226,35.331571593149754,5.4692363306393546e-05,Lower middle income
+59,Egypt,Near East and North Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+59,Egypt,Near East and North Africa,2733,Pigmeat,0.0,71.73385352133333,71.73385352133333,0.0,Lower middle income
+59,Egypt,Near East and North Africa,2734,Poultry Meat,0.048387239198450324,14.523008976388889,14.571396215587338,0.0033207002597794607,Lower middle income
+60,El Salvador,Latin America and the Caribbean,2731,Bovine Meat,0.010618916681944101,103.249841284,103.26046020068195,0.00010283623239046897,Lower middle income
+60,El Salvador,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Lower middle income
+60,El Salvador,Latin America and the Caribbean,2733,Pigmeat,0.005646820462331055,411.006237928,411.01188474846236,1.3738825255106398e-05,Lower middle income
+60,El Salvador,Latin America and the Caribbean,2734,Poultry Meat,0.0031184408593073827,50.6415297625,50.64464820335931,6.157493377751479e-05,Lower middle income
+61,Equatorial Guinea,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,39.218289086,39.220221453149755,4.926966442723165e-05,Upper middle income
+61,Equatorial Guinea,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Upper middle income
+61,Equatorial Guinea,Sub-Saharan Africa,2733,Pigmeat,0.0,72.66891308533333,72.66891308533333,0.0,Upper middle income
+61,Equatorial Guinea,Sub-Saharan Africa,2734,Poultry Meat,0.0,15.621685979166667,15.621685979166667,0.0,Upper middle income
+63,Estonia,Western Europe,2731,Bovine Meat,0.0,32.087723756,32.087723756,0.0,High income
+63,Estonia,Western Europe,2732,Mutton & Goat Meat,0.0,203.48058688113207,203.48058688113207,0.0,High income
+63,Estonia,Western Europe,2733,Pigmeat,0.0,54.249182016000006,54.249182016000006,0.0,High income
+63,Estonia,Western Europe,2734,Poultry Meat,0.0,13.284806629166667,13.284806629166667,0.0,High income
+64,Faroe Islands,Western Europe,2731,Bovine Meat,0.0019323671497584,135.226486834,135.22841920114976,1.4289652731087833e-05,High income
+64,Faroe Islands,Western Europe,2732,Mutton & Goat Meat,0.0,343.8313571943396,343.8313571943396,0.0,High income
+65,Falkland Islands (Malvinas),Latin America and the Caribbean,2731,Bovine Meat,0.0019323671497584,102.517497052,102.51942941914976,1.884878954854435e-05,Unclassified
+65,Falkland Islands (Malvinas),Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Unclassified
+66,Fiji,Oceania,2731,Bovine Meat,0.1012503324291822,211.08429734,211.18554767242918,0.00047943779082000457,Upper middle income
+66,Fiji,Oceania,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Upper middle income
+66,Fiji,Oceania,2733,Pigmeat,0.02633402178223747,481.12684484933334,481.1531788711156,5.473105642577797e-05,Upper middle income
+66,Fiji,Oceania,2734,Poultry Meat,0.0363749365053626,86.3643239875,86.40069892400537,0.0004210028038934796,Upper middle income
+67,Finland,Western Europe,2731,Bovine Meat,0.0,13.546838357999999,13.546838357999999,0.0,High income
+67,Finland,Western Europe,2732,Mutton & Goat Meat,0.0,26.392332307547164,26.392332307547164,0.0,High income
+67,Finland,Western Europe,2733,Pigmeat,0.0,16.596353808,16.596353808,0.0,High income
+67,Finland,Western Europe,2734,Poultry Meat,0.0,5.438831295833333,5.438831295833333,0.0,High income
+68,France,Western Europe,2731,Bovine Meat,0.0,26.356172216,26.356172216,0.0,High income
+68,France,Western Europe,2732,Mutton & Goat Meat,0.0,171.9399018207547,171.9399018207547,0.0,High income
+68,France,Western Europe,2733,Pigmeat,0.0,46.974064455999994,46.974064455999994,0.0,High income
+68,France,Western Europe,2734,Poultry Meat,0.0,36.840644223611115,36.840644223611115,0.0,High income
+69,French Guiana,Latin America and the Caribbean,2731,Bovine Meat,0.0019323671497584,102.517497052,102.51942941914976,1.884878954854435e-05,Unclassified
+69,French Guiana,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Unclassified
+70,French Polynesia,Oceania,2731,Bovine Meat,0.0019323671497584,222.11566369599998,222.11759606314973,8.699748169474215e-06,High income
+70,French Polynesia,Oceania,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,High income
+72,Djibouti,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,41.849157844000004,41.85109021114976,4.617244473224232e-05,Lower middle income
+72,Djibouti,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+72,Djibouti,Sub-Saharan Africa,2733,Pigmeat,0.0,73.30152828799999,73.30152828799999,0.0,Lower middle income
+72,Djibouti,Sub-Saharan Africa,2734,Poultry Meat,0.0,16.36499667361111,16.36499667361111,0.0,Lower middle income
+73,Georgia,Near East and North Africa,2731,Bovine Meat,0.0019323671497584,135.639320174,135.64125254114975,1.4246161205066828e-05,Upper middle income
+73,Georgia,Near East and North Africa,2732,Mutton & Goat Meat,0.0,343.8313571943396,343.8313571943396,0.0,Upper middle income
+73,Georgia,Near East and North Africa,2733,Pigmeat,0.32637533068356583,200.788036696,201.11441202668357,0.001622834124091827,Upper middle income
+73,Georgia,Near East and North Africa,2734,Poultry Meat,2.681674582347185,52.61052029722222,55.29219487956941,0.04850005662079567,Upper middle income
+74,Gabon,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,40.82594418,40.82787654714976,4.7329602055762585e-05,Upper middle income
+74,Gabon,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Upper middle income
+74,Gabon,Sub-Saharan Africa,2733,Pigmeat,0.010067014267596739,73.05548770133333,73.06555471560092,0.00013778057672704202,Upper middle income
+74,Gabon,Sub-Saharan Africa,2734,Poultry Meat,0.02812761796845299,16.075903705555557,16.104031323524012,0.001746619675743271,Upper middle income
+75,Gambia,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,40.982084142000005,40.98401650914976,4.714928682812226e-05,Low income
+75,Gambia,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+75,Gambia,Sub-Saharan Africa,2733,Pigmeat,0.9581657909514312,73.09303290933333,74.05119870028476,0.012939234040349797,Low income
+75,Gambia,Sub-Saharan Africa,2734,Poultry Meat,2.652403415603834,16.12001860277778,18.772422018381615,0.14129255207488137,Low income
+79,Germany,Western Europe,2731,Bovine Meat,0.0169039986766394,47.309112316,47.326016314676636,0.00035718194754112806,High income
+79,Germany,Western Europe,2732,Mutton & Goat Meat,0.0005633312211251,154.61473793962264,154.61530127084376,3.643437722494863e-06,High income
+79,Germany,Western Europe,2733,Pigmeat,0.0008585643713492,72.686465556,72.68732412037136,1.1811748220740715e-05,High income
+79,Germany,Western Europe,2734,Poultry Meat,0.0099244364718596,22.258407479166667,22.268331915638527,0.0004456748942604857,High income
+80,Bosnia and Herzegovina,Western Europe,2731,Bovine Meat,0.0059906842456034,135.171961944,135.1779526282456,4.4317021593591135e-05,Upper middle income
+80,Bosnia and Herzegovina,Western Europe,2732,Mutton & Goat Meat,0.006229504494670553,343.8313571943396,343.8375866988343,1.8117578576791684e-05,Upper middle income
+80,Bosnia and Herzegovina,Western Europe,2733,Pigmeat,0.002686281702364819,199.90344893999998,199.90613522170233,1.3437715152592223e-05,Upper middle income
+80,Bosnia and Herzegovina,Western Europe,2734,Poultry Meat,0.006518819186940799,52.48824219861112,52.49476101779806,0.00012418037648996306,Upper middle income
+81,Ghana,Sub-Saharan Africa,2731,Bovine Meat,0.1490332570049327,42.622448668000004,42.771481925004935,0.003484407139931369,Lower middle income
+81,Ghana,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+81,Ghana,Sub-Saharan Africa,2733,Pigmeat,0.046343841016628064,73.48747278266666,73.53381662368328,0.0006302384827078587,Lower middle income
+81,Ghana,Sub-Saharan Africa,2734,Poultry Meat,0.443923099840992,16.583477856944445,17.027400956785435,0.02607110157138152,Lower middle income
+83,Kiribati,Oceania,2731,Bovine Meat,0.0019323671497584,222.11566369599998,222.11759606314973,8.699748169474215e-06,Lower middle income
+83,Kiribati,Oceania,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Lower middle income
+83,Kiribati,Oceania,2733,Pigmeat,0.0,471.43510125066666,471.43510125066666,0.0,Lower middle income
+83,Kiribati,Oceania,2734,Poultry Meat,1.2194345219489506,89.26809207083335,90.4875265927823,0.013476272010801302,Lower middle income
+84,Greece,Western Europe,2731,Bovine Meat,0.0,148.81517169,148.81517169,0.0,High income
+84,Greece,Western Europe,2732,Mutton & Goat Meat,0.0,261.2499464264151,261.2499464264151,0.0,High income
+84,Greece,Western Europe,2733,Pigmeat,0.0,187.94362689866665,187.94362689866665,0.0,High income
+84,Greece,Western Europe,2734,Poultry Meat,0.0,57.47111814027778,57.47111814027778,0.0,High income
+85,Greenland,North America,2731,Bovine Meat,0.0019323671497584,135.226486834,135.22841920114976,1.4289652731087833e-05,High income
+85,Greenland,North America,2732,Mutton & Goat Meat,0.0,343.8313571943396,343.8313571943396,0.0,High income
+86,Grenada,Latin America and the Caribbean,2731,Bovine Meat,0.0019323671497584,103.449604406,103.45153677314977,1.867896031352078e-05,Upper middle income
+86,Grenada,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Upper middle income
+86,Grenada,Latin America and the Caribbean,2733,Pigmeat,0.0,418.756654868,418.756654868,0.0,Upper middle income
+86,Grenada,Latin America and the Caribbean,2734,Poultry Meat,0.016289634971174173,50.90176776944445,50.91805740441562,0.0003199186261524882,Upper middle income
+87,Guadeloupe,Latin America and the Caribbean,2731,Bovine Meat,0.0019323671497584,102.517497052,102.51942941914976,1.884878954854435e-05,Unclassified
+87,Guadeloupe,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Unclassified
+88,Guam,Oceania,2731,Bovine Meat,0.0019323671497584,222.11566369599998,222.11759606314973,8.699748169474215e-06,High income
+88,Guam,Oceania,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,High income
+89,Guatemala,Latin America and the Caribbean,2731,Bovine Meat,0.0079141087748806,102.17747976,102.18539386877488,7.744853227305454e-05,Upper middle income
+89,Guatemala,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Upper middle income
+89,Guatemala,Latin America and the Caribbean,2733,Pigmeat,0.007803724444203614,369.40071625999997,369.4085199844442,2.1124917326033056e-05,Upper middle income
+89,Guatemala,Latin America and the Caribbean,2734,Poultry Meat,0.007470033029264461,49.24452905416667,49.251999087195934,0.00015166964118633002,Upper middle income
+90,Guinea,Sub-Saharan Africa,2731,Bovine Meat,2.648121111113072,39.370116936,42.01823804711307,0.06302313552852593,Low income
+90,Guinea,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+90,Guinea,Sub-Saharan Africa,2733,Pigmeat,1.5813189037928126,72.70542142933334,74.28674033312615,0.021286691227824228,Low income
+90,Guinea,Sub-Saharan Africa,2734,Poultry Meat,19.634841009888788,15.664582558333333,35.299423568222124,0.5562368737251793,Low income
+91,Guyana,Latin America and the Caribbean,2731,Bovine Meat,1.6160558803658227,104.28871916,105.90477504036582,0.015259518560422415,Upper middle income
+91,Guyana,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Upper middle income
+91,Guyana,Latin America and the Caribbean,2733,Pigmeat,0.2272817921729982,451.31266029466667,451.5399420868397,0.0005033481448453737,Upper middle income
+91,Guyana,Latin America and the Caribbean,2734,Poultry Meat,2.693453170763135,51.99491024166667,54.68836341242981,0.0492509375431585,Upper middle income
+93,Haiti,Latin America and the Caribbean,2731,Bovine Meat,0.0315750892245566,102.33012098200001,102.36169607122457,0.00030846586600700966,Lower middle income
+93,Haiti,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Lower middle income
+93,Haiti,Latin America and the Caribbean,2733,Pigmeat,0.015445904391628516,375.322895656,375.33834156039165,4.115194927173003e-05,Lower middle income
+93,Haiti,Latin America and the Caribbean,2734,Poultry Meat,0.08474295344378015,49.44337978888889,49.52812274233267,0.0017110067725492181,Lower middle income
+94,Holy See,Western Europe,2731,Bovine Meat,0.0019323671497584,135.226486834,135.22841920114976,1.4289652731087833e-05,Unclassified
+94,Holy See,Western Europe,2732,Mutton & Goat Meat,0.0,343.8313571943396,343.8313571943396,0.0,Unclassified
+95,Honduras,Latin America and the Caribbean,2731,Bovine Meat,0.008347934877115598,102.904776958,102.91312489287712,8.111632880456223e-05,Lower middle income
+95,Honduras,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Lower middle income
+95,Honduras,Latin America and the Caribbean,2733,Pigmeat,0.0031739682502701315,397.6184195386666,397.6215935069169,7.982384010577932e-06,Lower middle income
+95,Honduras,Latin America and the Caribbean,2734,Poultry Meat,0.005583641873326107,50.192003086111114,50.197586727984444,0.00011123327309703726,Lower middle income
+96,"China, Hong Kong SAR",East Asia and Southeast Asia,2731,Bovine Meat,0.0,222.11566369599998,222.11566369599998,0.0,High income
+96,"China, Hong Kong SAR",East Asia and Southeast Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,High income
+96,"China, Hong Kong SAR",East Asia and Southeast Asia,2733,Pigmeat,0.0,471.43510125066666,471.43510125066666,0.0,High income
+96,"China, Hong Kong SAR",East Asia and Southeast Asia,2734,Poultry Meat,0.0636304321933405,89.26809207083335,89.33172250302668,0.0007122938012438371,High income
+97,Hungary,Eastern Europe,2731,Bovine Meat,0.0,98.772922304,98.772922304,0.0,High income
+97,Hungary,Eastern Europe,2732,Mutton & Goat Meat,0.0,350.6539133660377,350.6539133660377,0.0,High income
+97,Hungary,Eastern Europe,2733,Pigmeat,0.0,145.10086621066665,145.10086621066665,0.0,High income
+97,Hungary,Eastern Europe,2734,Poultry Meat,0.0,36.15139176527778,36.15139176527778,0.0,High income
+98,Croatia,Western Europe,2731,Bovine Meat,0.0,58.465561504,58.465561504,0.0,High income
+98,Croatia,Western Europe,2732,Mutton & Goat Meat,0.0,136.89095983396226,136.89095983396226,0.0,High income
+98,Croatia,Western Europe,2733,Pigmeat,0.0,76.04558718533333,76.04558718533333,0.0,High income
+98,Croatia,Western Europe,2734,Poultry Meat,0.0,23.40598240138889,23.40598240138889,0.0,High income
+99,Iceland,Western Europe,2731,Bovine Meat,0.0,7.839650994,7.839650994,0.0,High income
+99,Iceland,Western Europe,2732,Mutton & Goat Meat,0.0,18.178896494339618,18.178896494339618,0.0,High income
+99,Iceland,Western Europe,2733,Pigmeat,0.0,9.167175390666666,9.167175390666666,0.0,High income
+99,Iceland,Western Europe,2734,Poultry Meat,0.0,3.150198601388889,3.150198601388889,0.0,High income
+100,India,South Asia,2731,Bovine Meat,0.6395738398512668,227.072499896,227.71207373585128,0.002808695337749987,Lower middle income
+100,India,South Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Lower middle income
+100,India,South Asia,2733,Pigmeat,0.08305836577779761,467.0802113853333,467.1632697511111,0.00017779301403992724,Lower middle income
+100,India,South Asia,2734,Poultry Meat,0.30020312720806397,90.57287178194446,90.87307490915252,0.003303543183810854,Lower middle income
+101,Indonesia,East Asia and Southeast Asia,2731,Bovine Meat,0.0281110990892413,221.75834101,221.78645210908925,0.00012674849532925663,Lower middle income
+101,Indonesia,East Asia and Southeast Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Lower middle income
+101,Indonesia,East Asia and Southeast Asia,2733,Pigmeat,0.06645470879450581,471.7490314826666,471.8154861914611,0.0001408489351015891,Lower middle income
+101,Indonesia,East Asia and Southeast Asia,2734,Poultry Meat,0.4082944771525928,89.17403462638889,89.58232910354148,0.00455775688395728,Lower middle income
+102,Iran (Islamic Republic of),South Asia,2731,Bovine Meat,0.0599651586089911,222.11566369599998,222.175628854609,0.0002698998036739309,Lower middle income
+102,Iran (Islamic Republic of),South Asia,2732,Mutton & Goat Meat,0.05351005444099493,681.5694554056604,681.6229654601013,7.85038902039857e-05,Lower middle income
+102,Iran (Islamic Republic of),South Asia,2733,Pigmeat,0.0,471.43510125066666,471.43510125066666,0.0,Lower middle income
+102,Iran (Islamic Republic of),South Asia,2734,Poultry Meat,0.24472044945966967,89.26809207083335,89.51281252029301,0.0027339153197112457,Lower middle income
+103,Iraq,Near East and North Africa,2731,Bovine Meat,0.0019323671497584,103.57882426399999,103.58075663114975,1.865565779403933e-05,Upper middle income
+103,Iraq,Near East and North Africa,2732,Mutton & Goat Meat,0.0,209.73395230377355,209.73395230377355,0.0,Upper middle income
+103,Iraq,Near East and North Africa,2733,Pigmeat,0.0,155.64850775466667,155.64850775466667,0.0,Upper middle income
+103,Iraq,Near East and North Africa,2734,Poultry Meat,1.2690194976292295,37.68174212777778,38.95076162540701,0.032580094577700544,Upper middle income
+104,Ireland,Western Europe,2731,Bovine Meat,0.0,33.516043417999995,33.516043417999995,0.0,High income
+104,Ireland,Western Europe,2732,Mutton & Goat Meat,0.0,128.38707032641508,128.38707032641508,0.0,High income
+104,Ireland,Western Europe,2733,Pigmeat,0.0,42.99424146133333,42.99424146133333,0.0,High income
+104,Ireland,Western Europe,2734,Poultry Meat,0.0,13.960516052777779,13.960516052777779,0.0,High income
+105,Israel,Near East and North Africa,2731,Bovine Meat,0.004425960824422899,138.55455766,138.55898362082442,3.194279222294836e-05,High income
+105,Israel,Near East and North Africa,2732,Mutton & Goat Meat,0.0004801839103452201,343.8313571943396,343.83183737824993,1.3965661644560537e-06,High income
+105,Israel,Near East and North Africa,2733,Pigmeat,0.000488363005675159,206.30582422,206.30631258300568,2.367174322301312e-06,High income
+105,Israel,Near East and North Africa,2734,Poultry Meat,0.0014425723615263295,53.373253661111114,53.37469623347264,2.702727066054299e-05,High income
+106,Italy,Western Europe,2731,Bovine Meat,0.0,119.721314236,119.721314236,0.0,High income
+106,Italy,Western Europe,2732,Mutton & Goat Meat,0.0,351.72295837735845,351.72295837735845,0.0,High income
+106,Italy,Western Europe,2733,Pigmeat,0.0,166.43789552666667,166.43789552666667,0.0,High income
+106,Italy,Western Europe,2734,Poultry Meat,0.0,52.4186301875,52.4186301875,0.0,High income
+107,Côte d'Ivoire,Sub-Saharan Africa,2731,Bovine Meat,1.059582293349175,41.214835156,42.27441744934917,0.025064385443482617,Lower middle income
+107,Côte d'Ivoire,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+107,Côte d'Ivoire,Sub-Saharan Africa,2733,Pigmeat,0.8586868974808323,73.148999904,74.00768680148083,0.011602671757383595,Lower middle income
+107,Côte d'Ivoire,Sub-Saharan Africa,2734,Poultry Meat,5.4596381493039425,16.18577875,21.645416899303942,0.2522306765770591,Lower middle income
+108,Kazakhstan,Near East and North Africa,2731,Bovine Meat,0.0,132.40651569,132.40651569,0.0,Upper middle income
+108,Kazakhstan,Near East and North Africa,2732,Mutton & Goat Meat,0.0,343.8313571943396,343.8313571943396,0.0,Upper middle income
+108,Kazakhstan,Near East and North Africa,2733,Pigmeat,0.0,194.66917729466667,194.66917729466667,0.0,Upper middle income
+108,Kazakhstan,Near East and North Africa,2734,Poultry Meat,0.0,51.76469972777778,51.76469972777778,0.0,Upper middle income
+109,Jamaica,Latin America and the Caribbean,2731,Bovine Meat,0.0217340323645381,103.318291714,103.34002574636453,0.00021031572430494288,Upper middle income
+109,Jamaica,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Upper middle income
+109,Jamaica,Latin America and the Caribbean,2733,Pigmeat,0.014564985542157868,413.661980256,413.67654524154216,3.520863271001623e-05,Upper middle income
+109,Jamaica,Latin America and the Caribbean,2734,Poultry Meat,0.033212868561513176,50.730702397222224,50.76391526578374,0.0006542613663193855,Upper middle income
+110,Japan,East Asia and Southeast Asia,2731,Bovine Meat,0.13323971600986362,88.756725362,88.88996507800987,0.001498928657390431,High income
+110,Japan,East Asia and Southeast Asia,2732,Mutton & Goat Meat,0.0,97.86396544339622,97.86396544339622,0.0,High income
+110,Japan,East Asia and Southeast Asia,2733,Pigmeat,0.007660337846812954,321.6709711733333,321.67863151118013,2.3813636021846586e-05,High income
+110,Japan,East Asia and Southeast Asia,2734,Poultry Meat,0.06622656213816704,26.27476025277778,26.340986814915947,0.0025142020154182427,High income
+112,Jordan,Near East and North Africa,2731,Bovine Meat,0.0047276889768024,103.57882426399999,103.58355195297679,4.5641309722113034e-05,Upper middle income
+112,Jordan,Near East and North Africa,2732,Mutton & Goat Meat,0.0057986123112658645,209.73395230377355,209.7397509160848,2.764670161921687e-05,Upper middle income
+112,Jordan,Near East and North Africa,2733,Pigmeat,0.0,155.64850775466667,155.64850775466667,0.0,Upper middle income
+112,Jordan,Near East and North Africa,2734,Poultry Meat,0.013172254888901226,37.68174212777778,37.69491438266668,0.0003494438203302631,Upper middle income
+113,Kyrgyzstan,Near East and North Africa,2731,Bovine Meat,0.35660364119440247,135.346898592,135.7035022331944,0.0026278145760867014,Lower middle income
+113,Kyrgyzstan,Near East and North Africa,2732,Mutton & Goat Meat,0.0,343.8313571943396,343.8313571943396,0.0,Lower middle income
+113,Kyrgyzstan,Near East and North Africa,2733,Pigmeat,0.02926838732469719,200.23455857466666,200.26382696199136,0.00014614914619729164,Lower middle income
+113,Kyrgyzstan,Near East and North Africa,2734,Poultry Meat,2.642450398406929,52.53401206805556,55.17646246646249,0.04789089913136549,Lower middle income
+114,Kenya,Sub-Saharan Africa,2731,Bovine Meat,0.0045066881264942,43.168815832,43.1733225201265,0.00010438594630731225,Lower middle income
+114,Kenya,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+114,Kenya,Sub-Saharan Africa,2733,Pigmeat,0.0009300986167017128,73.6188515,73.61978159861671,1.2633813854171893e-05,Lower middle income
+114,Kenya,Sub-Saharan Africa,2734,Poultry Meat,0.0039496316744846985,16.737845331944445,16.74179496361893,0.0002359144693306494,Lower middle income
+115,Cambodia,East Asia and Southeast Asia,2731,Bovine Meat,1.1201943778779602,222.11566369599998,223.23585807387795,0.005017985853810465,Lower middle income
+115,Cambodia,East Asia and Southeast Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Lower middle income
+115,Cambodia,East Asia and Southeast Asia,2733,Pigmeat,0.33739619323621967,471.43510125066666,471.77249744390286,0.0007151671516764041,Lower middle income
+115,Cambodia,East Asia and Southeast Asia,2734,Poultry Meat,4.233440388434866,89.26809207083335,93.50153245926822,0.04527669522720461,Lower middle income
+116,Democratic People's Republic of Korea,East Asia and Southeast Asia,2731,Bovine Meat,0.388542977789294,222.11566369599998,222.50420667378927,0.0017462275594588292,Low income
+116,Democratic People's Republic of Korea,East Asia and Southeast Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Low income
+117,Republic of Korea,East Asia and Southeast Asia,2731,Bovine Meat,0.0020165880556388873,133.986382012,133.98839860005563,1.505046762785961e-05,High income
+117,Republic of Korea,East Asia and Southeast Asia,2732,Mutton & Goat Meat,0.00027767336695448116,99.70931435660377,99.70959202997072,2.7848210117138786e-06,High income
+117,Republic of Korea,East Asia and Southeast Asia,2733,Pigmeat,1.8212897442989752e-05,286.0696315,286.06964971289744,6.366595499127017e-08,High income
+117,Republic of Korea,East Asia and Southeast Asia,2734,Poultry Meat,0.00023530225048188448,113.28630543472224,113.28654073697273,2.077053893173473e-06,High income
+118,Kuwait,Near East and North Africa,2731,Bovine Meat,0.0148194473074411,103.57882426399999,103.59364371130744,0.00014305363511239762,High income
+118,Kuwait,Near East and North Africa,2732,Mutton & Goat Meat,0.00011677490760106863,209.73395230377355,209.73406907868116,5.567760550969945e-07,High income
+118,Kuwait,Near East and North Africa,2733,Pigmeat,0.0,155.64850775466667,155.64850775466667,0.0,High income
+119,Latvia,Western Europe,2731,Bovine Meat,0.0,25.946578536,25.946578536,0.0,High income
+119,Latvia,Western Europe,2732,Mutton & Goat Meat,0.0,142.4275557528302,142.4275557528302,0.0,High income
+119,Latvia,Western Europe,2733,Pigmeat,0.0,38.30037648533333,38.30037648533333,0.0,High income
+119,Latvia,Western Europe,2734,Poultry Meat,0.0,13.229129179166668,13.229129179166668,0.0,High income
+120,Lao People's Democratic Republic,East Asia and Southeast Asia,2731,Bovine Meat,0.8821506044015178,222.11566369599998,222.9978143004015,0.003955871079584521,Lower middle income
+120,Lao People's Democratic Republic,East Asia and Southeast Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Lower middle income
+120,Lao People's Democratic Republic,East Asia and Southeast Asia,2733,Pigmeat,0.5590059188742216,471.43510125066666,471.9941071695409,0.0011843493602631482,Lower middle income
+120,Lao People's Democratic Republic,East Asia and Southeast Asia,2734,Poultry Meat,4.095757769412788,89.26809207083335,93.36384984024613,0.043868775510232216,Lower middle income
+121,Lebanon,Near East and North Africa,2731,Bovine Meat,0.0026095580084804573,93.088781326,93.09139088400849,2.8032216338156945e-05,Upper middle income
+121,Lebanon,Near East and North Africa,2732,Mutton & Goat Meat,0.006642579049132143,209.73395230377355,209.74059488282268,3.167045012360722e-05,Upper middle income
+121,Lebanon,Near East and North Africa,2733,Pigmeat,0.0,149.210792448,149.210792448,0.0,Upper middle income
+121,Lebanon,Near East and North Africa,2734,Poultry Meat,0.0534345434933636,34.09098996111111,34.14442450460448,0.0015649566296294668,Upper middle income
+122,Lesotho,Sub-Saharan Africa,2731,Bovine Meat,0.12482531255732099,41.477377794,41.60220310655732,0.0030004495732497897,Lower middle income
+122,Lesotho,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+122,Lesotho,Sub-Saharan Africa,2733,Pigmeat,0.02178751107143469,73.21213056,73.23391807107144,0.0002975057411279092,Lower middle income
+122,Lesotho,Sub-Saharan Africa,2734,Poultry Meat,0.03922647413364756,16.259956052777778,16.299182526911427,0.002406652853226295,Lower middle income
+123,Liberia,Sub-Saharan Africa,2731,Bovine Meat,0.2107312236016351,39.65124585,39.861977073601636,0.005286522121382449,Low income
+123,Liberia,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+123,Liberia,Sub-Saharan Africa,2733,Pigmeat,0.1634664945393538,72.773021304,72.93648779853935,0.00224121697484078,Low income
+123,Liberia,Sub-Saharan Africa,2734,Poultry Meat,0.8546115962950012,15.744011125,16.598622721295,0.05148689807851272,Low income
+124,Libya,Near East and North Africa,2731,Bovine Meat,0.0019323671497584,41.849157844000004,41.85109021114976,4.617244473224232e-05,Upper middle income
+124,Libya,Near East and North Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Upper middle income
+124,Libya,Near East and North Africa,2733,Pigmeat,0.0,73.30152828799999,73.30152828799999,0.0,Upper middle income
+124,Libya,Near East and North Africa,2734,Poultry Meat,1.7155896563350062,16.36499667361111,18.080586329946115,0.09488573130471699,Upper middle income
+125,Liechtenstein,Western Europe,2731,Bovine Meat,0.0,135.226486834,135.226486834,0.0,High income
+125,Liechtenstein,Western Europe,2732,Mutton & Goat Meat,0.0,343.8313571943396,343.8313571943396,0.0,High income
+126,Lithuania,Western Europe,2731,Bovine Meat,0.0,15.119202372,15.119202372,0.0,High income
+126,Lithuania,Western Europe,2732,Mutton & Goat Meat,0.0,57.801770143396226,57.801770143396226,0.0,High income
+126,Lithuania,Western Europe,2733,Pigmeat,0.0,23.217805648,23.217805648,0.0,High income
+126,Lithuania,Western Europe,2734,Poultry Meat,0.0,6.767048305555556,6.767048305555556,0.0,High income
+127,Marshall Islands,Oceania,2731,Bovine Meat,0.0019323671497584,222.11566369599998,222.11759606314973,8.699748169474215e-06,Upper middle income
+127,Marshall Islands,Oceania,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Upper middle income
+127,Marshall Islands,Oceania,2733,Pigmeat,0.0,471.43510125066666,471.43510125066666,0.0,Upper middle income
+127,Marshall Islands,Oceania,2734,Poultry Meat,0.0,89.26809207083335,89.26809207083335,0.0,Upper middle income
+128,"China, Macao SAR",East Asia and Southeast Asia,2731,Bovine Meat,0.0,222.11566369599998,222.11566369599998,0.0,High income
+128,"China, Macao SAR",East Asia and Southeast Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,High income
+128,"China, Macao SAR",East Asia and Southeast Asia,2733,Pigmeat,0.0,471.43510125066666,471.43510125066666,0.0,High income
+128,"China, Macao SAR",East Asia and Southeast Asia,2734,Poultry Meat,0.0,89.26809207083335,89.26809207083335,0.0,High income
+129,Madagascar,Sub-Saharan Africa,2731,Bovine Meat,0.9330533679259058,43.325788942,44.25884230992591,0.02108173913343979,Low income
+129,Madagascar,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+129,Madagascar,Sub-Saharan Africa,2733,Pigmeat,0.28589709055297546,73.65659704266666,73.94249413321964,0.003866478861774456,Low income
+129,Madagascar,Sub-Saharan Africa,2734,Poultry Meat,1.0576954354871417,16.782195620833335,17.839891056320475,0.05928822278947785,Low income
+130,Malawi,Sub-Saharan Africa,2731,Bovine Meat,0.0219597666234566,42.44338394,42.46534370662345,0.0005171220743005895,Low income
+130,Malawi,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+130,Malawi,Sub-Saharan Africa,2733,Pigmeat,0.005367050713607122,73.444415104,73.4497821547136,7.307102289700521e-05,Low income
+130,Malawi,Sub-Saharan Africa,2734,Poultry Meat,0.02562865557316306,16.532885934722223,16.558514590295385,0.0015477629610679876,Low income
+131,Malaysia,East Asia and Southeast Asia,2731,Bovine Meat,0.0019405648285908794,222.17505230799998,222.17699287282858,8.734319442795029e-06,Upper middle income
+131,Malaysia,East Asia and Southeast Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Upper middle income
+131,Malaysia,East Asia and Southeast Asia,2733,Pigmeat,4.0132642168328544e-06,471.382924544,471.3829285572642,8.513808994135683e-09,Upper middle income
+131,Malaysia,East Asia and Southeast Asia,2734,Poultry Meat,2.5508190605695104e-05,89.28372484305555,89.28375035124616,2.856980190162798e-07,Upper middle income
+132,Maldives,South Asia,2731,Bovine Meat,0.0019323671497584,222.11566369599998,222.11759606314973,8.699748169474215e-06,Upper middle income
+132,Maldives,South Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Upper middle income
+132,Maldives,South Asia,2733,Pigmeat,0.0,471.43510125066666,471.43510125066666,0.0,Upper middle income
+132,Maldives,South Asia,2734,Poultry Meat,0.0,89.26809207083335,89.26809207083335,0.0,Upper middle income
+133,Mali,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,41.242269113999996,41.24420148114975,4.685185020836369e-05,Low income
+133,Mali,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+133,Mali,Sub-Saharan Africa,2733,Pigmeat,0.009006431489802886,73.15559663733333,73.16460306882314,0.00012309820749428356,Low income
+133,Mali,Sub-Saharan Africa,2734,Poultry Meat,0.04941595829845359,16.193529781944445,16.2429457402429,0.003042302737983204,Low income
+134,Malta,Western Europe,2731,Bovine Meat,0.0,93.03960304,93.03960304,0.0,High income
+134,Malta,Western Europe,2732,Mutton & Goat Meat,0.0,262.1986048169811,262.1986048169811,0.0,High income
+134,Malta,Western Europe,2733,Pigmeat,0.0,134.59641393466669,134.59641393466669,0.0,High income
+134,Malta,Western Europe,2734,Poultry Meat,0.0,39.53347687083334,39.53347687083334,0.0,High income
+135,Martinique,Latin America and the Caribbean,2731,Bovine Meat,0.0019323671497584,102.517497052,102.51942941914976,1.884878954854435e-05,Unclassified
+135,Martinique,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Unclassified
+136,Mauritania,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,41.849157844000004,41.85109021114976,4.617244473224232e-05,Lower middle income
+136,Mauritania,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+136,Mauritania,Sub-Saharan Africa,2733,Pigmeat,0.0,73.30152828799999,73.30152828799999,0.0,Lower middle income
+136,Mauritania,Sub-Saharan Africa,2734,Poultry Meat,0.005142716022659873,16.36499667361111,16.37013938963377,0.00031415224392752867,Lower middle income
+137,Mauritius,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,35.354275302,35.356207669149754,5.4654253867970607e-05,Upper middle income
+137,Mauritius,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Upper middle income
+137,Mauritius,Sub-Saharan Africa,2733,Pigmeat,3.455605573731451,71.739777472,75.19538304573145,0.04595502321771353,Upper middle income
+137,Mauritius,Sub-Saharan Africa,2734,Poultry Meat,0.0,14.529969512500001,14.529969512500001,0.0,Upper middle income
+138,Mexico,Latin America and the Caribbean,2731,Bovine Meat,0.009199433389326,101.589888572,101.59908800538933,9.054641699970786e-05,Upper middle income
+138,Mexico,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Upper middle income
+138,Mexico,Latin America and the Caribbean,2733,Pigmeat,0.001006019961266541,346.60333098533334,346.6043370052946,2.9025025190356267e-06,Upper middle income
+138,Mexico,Latin America and the Caribbean,2734,Poultry Meat,0.006592310107895662,48.47905461527778,48.48564692538568,0.00013596415693989882,Upper middle income
+140,Monaco,Western Europe,2731,Bovine Meat,0.0019323671497584,135.226486834,135.22841920114976,1.4289652731087833e-05,High income
+140,Monaco,Western Europe,2732,Mutton & Goat Meat,0.0,343.8313571943396,343.8313571943396,0.0,High income
+141,Mongolia,East Asia and Southeast Asia,2731,Bovine Meat,0.0019776281722730673,224.92419407199998,224.92617170017226,8.792343537991016e-06,Lower middle income
+141,Mongolia,East Asia and Southeast Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Lower middle income
+141,Mongolia,East Asia and Southeast Asia,2733,Pigmeat,0.00020789064937628898,468.9676320653333,468.9678399559827,4.4329404207290973e-07,Lower middle income
+141,Mongolia,East Asia and Southeast Asia,2734,Poultry Meat,0.0,90.00737683611112,90.00737683611112,0.0,Lower middle income
+142,Montserrat,Latin America and the Caribbean,2731,Bovine Meat,0.0019323671497584,102.517497052,102.51942941914976,1.884878954854435e-05,Unclassified
+142,Montserrat,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Unclassified
+143,Morocco,Near East and North Africa,2731,Bovine Meat,0.03146343263956368,34.084115696,34.11557912863956,0.0009222599599122901,Lower middle income
+143,Morocco,Near East and North Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+143,Morocco,Near East and North Africa,2733,Pigmeat,0.07144663881628205,71.43435658666667,71.50580322548295,0.0009991725929011058,Lower middle income
+143,Morocco,Near East and North Africa,2734,Poultry Meat,0.1448440215226598,14.171105845833335,14.315949867355995,0.010117667557144844,Lower middle income
+144,Mozambique,Sub-Saharan Africa,2731,Bovine Meat,0.10036475404344919,42.057355556,42.157720310043445,0.0023806968997690035,Low income
+144,Mozambique,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+144,Mozambique,Sub-Saharan Africa,2733,Pigmeat,0.007279049314996811,73.35159124933332,73.35887029864833,9.922521005794348e-05,Low income
+144,Mozambique,Sub-Saharan Africa,2734,Poultry Meat,0.04355521905315878,16.423819666666667,16.467374885719824,0.0026449400317550913,Low income
+145,Micronesia (Federated States of),Oceania,2731,Bovine Meat,0.0019323671497584,222.11566369599998,222.11759606314973,8.699748169474215e-06,Lower middle income
+145,Micronesia (Federated States of),Oceania,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Lower middle income
+145,Micronesia (Federated States of),Oceania,2733,Pigmeat,0.0,471.43510125066666,471.43510125066666,0.0,Lower middle income
+145,Micronesia (Federated States of),Oceania,2734,Poultry Meat,0.0,89.26809207083335,89.26809207083335,0.0,Lower middle income
+146,Republic of Moldova,Eastern Europe,2731,Bovine Meat,0.2550105460860141,165.400539392,165.65554993808604,0.0015394023694426451,Upper middle income
+146,Republic of Moldova,Eastern Europe,2732,Mutton & Goat Meat,0.1939730825980395,343.8313571943396,344.02533027693767,0.0005638337224816925,Upper middle income
+146,Republic of Moldova,Eastern Europe,2733,Pigmeat,0.014375920563908,257.1182965173333,257.1326724378972,5.590857212974395e-05,Upper middle income
+146,Republic of Moldova,Eastern Europe,2734,Poultry Meat,0.6605052864643952,60.39715005138889,61.057655337853284,0.010817730926770595,Upper middle income
+147,Namibia,Sub-Saharan Africa,2731,Bovine Meat,0.0022969250403526,42.447960615999996,42.45025754104035,5.410862438542247e-05,Upper middle income
+147,Namibia,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Upper middle income
+147,Namibia,Sub-Saharan Africa,2733,Pigmeat,3.191687230799139e-05,73.445515608,73.4455475248723,4.345651082141195e-07,Upper middle income
+147,Namibia,Sub-Saharan Africa,2734,Poultry Meat,0.0005808764357989005,16.53417899722222,16.534759873658018,3.513062422662156e-05,Upper middle income
+148,Nauru,Oceania,2731,Bovine Meat,0.0019323671497584,222.11566369599998,222.11759606314973,8.699748169474215e-06,High income
+148,Nauru,Oceania,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,High income
+148,Nauru,Oceania,2733,Pigmeat,0.0,471.43510125066666,471.43510125066666,0.0,High income
+148,Nauru,Oceania,2734,Poultry Meat,0.0,89.26809207083335,89.26809207083335,0.0,High income
+149,Nepal,South Asia,2731,Bovine Meat,0.0019323671497584,226.32565053000002,226.32758289714977,8.537921560521977e-06,Lower middle income
+149,Nepal,South Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Lower middle income
+149,Nepal,South Asia,2733,Pigmeat,4.543087102907705,467.73636506133334,472.27945216424104,0.009619489228440518,Lower middle income
+149,Nepal,South Asia,2734,Poultry Meat,10.787623335190036,90.37627985555555,101.16390319074559,0.10663510397428874,Lower middle income
+150,Netherlands,Western Europe,2731,Bovine Meat,0.0,81.62783522199999,81.62783522199999,0.0,High income
+150,Netherlands,Western Europe,2732,Mutton & Goat Meat,0.0,81.34385771320754,81.34385771320754,0.0,High income
+150,Netherlands,Western Europe,2733,Pigmeat,0.0,28.168828480000002,28.168828480000002,0.0,High income
+150,Netherlands,Western Europe,2734,Poultry Meat,0.0,8.413694854166668,8.413694854166668,0.0,High income
+151,Netherlands Antilles (former),Latin America and the Caribbean,2731,Bovine Meat,0.0019323671497584,102.517497052,102.51942941914976,1.884878954854435e-05,Unclassified
+151,Netherlands Antilles (former),Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Unclassified
+153,New Caledonia,Oceania,2731,Bovine Meat,0.0019323671497584,222.11566369599998,222.11759606314973,8.699748169474215e-06,High income
+153,New Caledonia,Oceania,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,High income
+154,North Macedonia,Western Europe,2731,Bovine Meat,0.2196939986536294,136.981653434,137.20134743265365,0.0016012524859602265,Upper middle income
+154,North Macedonia,Western Europe,2732,Mutton & Goat Meat,0.08085100672997732,343.8313571943396,343.9122082010696,0.00023509199383439004,Upper middle income
+154,North Macedonia,Western Europe,2733,Pigmeat,0.017499681636040678,203.32872495733332,203.34622463896937,8.60585519456309e-05,Upper middle income
+154,North Macedonia,Western Europe,2734,Poultry Meat,0.6932723925851713,52.96172406111111,53.654996453696285,0.01292092886789133,Upper middle income
+155,Vanuatu,Oceania,2731,Bovine Meat,0.0027664563339008,222.11566369599998,222.11843015233387,1.2454870728212427e-05,Lower middle income
+155,Vanuatu,Oceania,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Lower middle income
+155,Vanuatu,Oceania,2733,Pigmeat,5.9456232826084904e-05,471.43510125066666,471.43516070689947,1.2611751897531888e-07,Lower middle income
+155,Vanuatu,Oceania,2734,Poultry Meat,0.0010638162729440677,89.26809207083335,89.2691558871063,1.191695230421375e-05,Lower middle income
+156,New Zealand,Oceania,2731,Bovine Meat,0.0017056548157502,10.302688976,10.30439463081575,0.00016552693067959214,High income
+156,New Zealand,Oceania,2732,Mutton & Goat Meat,4.4643594129501015e-05,38.71406435660377,38.7141090001979,1.1531608316046432e-06,High income
+156,New Zealand,Oceania,2733,Pigmeat,0.0001752862307398,25.412072436,25.412247722230738,6.897706674976999e-06,High income
+156,New Zealand,Oceania,2734,Poultry Meat,0.0004612773090611,4.008650077777777,4.009111355086839,0.00011505724541071236,High income
+157,Nicaragua,Latin America and the Caribbean,2731,Bovine Meat,0.0060904642963961,102.75641236,102.76250282429639,5.9267379919790316e-05,Lower middle income
+157,Nicaragua,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Lower middle income
+157,Nicaragua,Latin America and the Caribbean,2733,Pigmeat,0.0025638775412880803,391.86216449200003,391.8647283695413,6.5427617125832765e-06,Lower middle income
+157,Nicaragua,Latin America and the Caribbean,2734,Poultry Meat,0.0035260808828604076,49.99872363888889,50.002249719771754,7.051844472242084e-05,Lower middle income
+158,Niger,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,42.919028096,42.920960463149754,4.5021526287079585e-05,Low income
+158,Niger,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+158,Niger,Sub-Saharan Africa,2733,Pigmeat,0.0035213171476967784,73.55878786400001,73.56230918114771,4.7868496610479013e-05,Low income
+158,Niger,Sub-Saharan Africa,2734,Poultry Meat,0.03384260597990785,16.667271723611112,16.701114329591018,0.002026368139995638,Low income
+159,Nigeria,Sub-Saharan Africa,2731,Bovine Meat,0.0038252434144059,43.787184556,43.791009799414404,8.735225407971874e-05,Lower middle income
+159,Nigeria,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+159,Nigeria,Sub-Saharan Africa,2733,Pigmeat,0.0008615889969009503,73.76754360666668,73.76840519566358,1.1679647873851531e-05,Lower middle income
+159,Nigeria,Sub-Saharan Africa,2734,Poultry Meat,0.009015173872064955,16.912555708333336,16.9215708822054,0.0005327622319949766,Lower middle income
+160,Niue,Oceania,2731,Bovine Meat,0.0019323671497584,222.11566369599998,222.11759606314973,8.699748169474215e-06,Unclassified
+160,Niue,Oceania,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Unclassified
+162,Norway,Western Europe,2731,Bovine Meat,0.0,7.39803249,7.39803249,0.0,High income
+162,Norway,Western Europe,2732,Mutton & Goat Meat,0.0,14.863181894339622,14.863181894339622,0.0,High income
+162,Norway,Western Europe,2733,Pigmeat,0.0,8.758062855999999,8.758062855999999,0.0,High income
+162,Norway,Western Europe,2734,Poultry Meat,0.0,3.1404803805555557,3.1404803805555557,0.0,High income
+163,Northern Mariana Islands,Oceania,2731,Bovine Meat,0.0019323671497584,222.11566369599998,222.11759606314973,8.699748169474215e-06,High income
+163,Northern Mariana Islands,Oceania,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,High income
+165,Pakistan,South Asia,2731,Bovine Meat,0.007757034300597899,222.11566369599998,222.12342073030058,3.492218098881338e-05,Lower middle income
+165,Pakistan,South Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Lower middle income
+165,Pakistan,South Asia,2733,Pigmeat,0.0,471.43510125066666,471.43510125066666,0.0,Lower middle income
+165,Pakistan,South Asia,2734,Poultry Meat,0.007914369026829368,89.26809207083335,89.27600643986018,8.865057188866078e-05,Lower middle income
+166,Panama,Latin America and the Caribbean,2731,Bovine Meat,0.0359331095595729,102.517497052,102.55343016155958,0.000350384277765892,Upper middle income
+166,Panama,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Upper middle income
+166,Panama,Latin America and the Caribbean,2733,Pigmeat,0.004434261212394905,382.5927196933333,382.5971539545457,1.1589895969068591e-05,Upper middle income
+166,Panama,Latin America and the Caribbean,2734,Poultry Meat,0.02678425127255701,49.68748078888889,49.71426504016145,0.0005387638990724186,Upper middle income
+167,Czechia,Eastern Europe,2731,Bovine Meat,0.0,42.120160388,42.120160388,0.0,High income
+167,Czechia,Eastern Europe,2732,Mutton & Goat Meat,0.0,163.587049045283,163.587049045283,0.0,High income
+167,Czechia,Eastern Europe,2733,Pigmeat,0.0,59.28076836133333,59.28076836133333,0.0,High income
+167,Czechia,Eastern Europe,2734,Poultry Meat,0.0,17.97884127638889,17.97884127638889,0.0,High income
+168,Papua New Guinea,Oceania,2731,Bovine Meat,0.002027538769991099,217.48921228,217.49123981877,9.32239280846712e-06,Lower middle income
+168,Papua New Guinea,Oceania,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Lower middle income
+168,Papua New Guinea,Oceania,2733,Pigmeat,9.474379055334444e-06,475.49972736133327,475.4997368357123,1.9925098420418037e-08,Lower middle income
+168,Papua New Guinea,Oceania,2734,Poultry Meat,0.0001100121472655,88.05027902500001,88.05038903714727,1.2494226143519633e-06,Lower middle income
+169,Paraguay,Latin America and the Caribbean,2731,Bovine Meat,0.0141501214455148,101.860943864,101.87509398544552,0.0001388967694845648,Upper middle income
+169,Paraguay,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Upper middle income
+169,Paraguay,Latin America and the Caribbean,2733,Pigmeat,0.005730951681677539,357.1197444373333,357.125475389015,1.604744572040077e-05,Upper middle income
+169,Paraguay,Latin America and the Caribbean,2734,Poultry Meat,0.02504148918176513,48.832167283333334,48.8572087725151,0.0005125444087148172,Upper middle income
+170,Peru,Latin America and the Caribbean,2731,Bovine Meat,0.0070966785271059,102.57208067799999,102.5791773565271,6.918244725672232e-05,Upper middle income
+170,Peru,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Upper middle income
+170,Peru,Latin America and the Caribbean,2733,Pigmeat,0.0011539816498764453,384.710456752,384.7116107336499,2.999601825574715e-06,Upper middle income
+170,Peru,Latin America and the Caribbean,2734,Poultry Meat,0.003065398016117373,49.7585886625,49.76165406051612,6.160161019546261e-05,Upper middle income
+171,Philippines,East Asia and Southeast Asia,2731,Bovine Meat,0.0743216386404103,227.39521709000002,227.46953872864043,0.00032673226954169115,Lower middle income
+171,Philippines,East Asia and Southeast Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Lower middle income
+171,Philippines,East Asia and Southeast Asia,2733,Pigmeat,0.05127538141246876,466.7966841573333,466.8479595387458,0.00010983314881172399,Lower middle income
+171,Philippines,East Asia and Southeast Asia,2734,Poultry Meat,0.2449411289749853,90.65782007777777,90.90276120675276,0.002694540030724498,Lower middle income
+173,Poland,Eastern Europe,2731,Bovine Meat,0.0,122.46384162,122.46384162,0.0,High income
+173,Poland,Eastern Europe,2732,Mutton & Goat Meat,0.0,2049.5390438886793,2049.5390438886793,0.0,High income
+173,Poland,Eastern Europe,2733,Pigmeat,0.0,178.518059048,178.518059048,0.0,High income
+173,Poland,Eastern Europe,2734,Poultry Meat,0.0,48.328795886111116,48.328795886111116,0.0,High income
+174,Portugal,Western Europe,2731,Bovine Meat,0.0,124.286428574,124.286428574,0.0,High income
+174,Portugal,Western Europe,2732,Mutton & Goat Meat,0.0,610.6591974471698,610.6591974471698,0.0,High income
+174,Portugal,Western Europe,2733,Pigmeat,0.0,198.18965178000002,198.18965178000002,0.0,High income
+174,Portugal,Western Europe,2734,Poultry Meat,0.0,53.911652698611114,53.911652698611114,0.0,High income
+175,Guinea-Bissau,Sub-Saharan Africa,2731,Bovine Meat,1.0489509077766919,41.829867958,42.878818865776694,0.02446314836843376,Low income
+175,Guinea-Bissau,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+175,Guinea-Bissau,Sub-Saharan Africa,2733,Pigmeat,0.15731115352288363,73.29688987866666,73.45420103218954,0.002141622280445822,Low income
+175,Guinea-Bissau,Sub-Saharan Africa,2734,Poultry Meat,1.3210991875563463,16.35954661527778,17.680645802834125,0.07472007540270843,Low income
+176,Timor-Leste,East Asia and Southeast Asia,2731,Bovine Meat,0.3823487200725842,2.033434732,2.415783452072584,0.15827110652014525,Lower middle income
+176,Timor-Leste,East Asia and Southeast Asia,2732,Mutton & Goat Meat,0.0,3.516108732075472,3.516108732075472,0.0,Lower middle income
+176,Timor-Leste,East Asia and Southeast Asia,2733,Pigmeat,0.1716540147117222,2.51464798,2.686301994711722,0.06389974584005886,Lower middle income
+176,Timor-Leste,East Asia and Southeast Asia,2734,Poultry Meat,1.3737430370265313,0.7629933666666666,2.136736403693198,0.6429164751684454,Lower middle income
+177,Puerto Rico,Latin America and the Caribbean,2731,Bovine Meat,0.0019323671497584,102.517497052,102.51942941914976,1.884878954854435e-05,High income
+177,Puerto Rico,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,High income
+177,Puerto Rico,Latin America and the Caribbean,2733,Pigmeat,0.0,382.5927196933333,382.5927196933333,0.0,High income
+177,Puerto Rico,Latin America and the Caribbean,2734,Poultry Meat,0.0,49.68748078888889,49.68748078888889,0.0,High income
+178,Eritrea,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,41.849157844000004,41.85109021114976,4.617244473224232e-05,Low income
+178,Eritrea,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+179,Qatar,Near East and North Africa,2731,Bovine Meat,0.0019323671497584,103.57882426399999,103.58075663114975,1.865565779403933e-05,High income
+179,Qatar,Near East and North Africa,2732,Mutton & Goat Meat,0.0,209.73395230377355,209.73395230377355,0.0,High income
+179,Qatar,Near East and North Africa,2733,Pigmeat,0.0,155.64850775466667,155.64850775466667,0.0,High income
+179,Qatar,Near East and North Africa,2734,Poultry Meat,0.0,37.68174212777778,37.68174212777778,0.0,High income
+180,Palau,Oceania,2731,Bovine Meat,0.0019323671497584,222.11566369599998,222.11759606314973,8.699748169474215e-06,High income
+180,Palau,Oceania,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,High income
+180,Palau,Oceania,2733,Pigmeat,0.0,471.43510125066666,471.43510125066666,0.0,High income
+180,Palau,Oceania,2734,Poultry Meat,0.0,89.26809207083335,89.26809207083335,0.0,High income
+181,Zimbabwe,Sub-Saharan Africa,2731,Bovine Meat,0.0020401178246712,43.090949836,43.09298995382467,4.734222032068888e-05,Lower middle income
+181,Zimbabwe,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+181,Zimbabwe,Sub-Saharan Africa,2733,Pigmeat,8.53038896303585e-05,73.60012793866667,73.60021324255631,1.1590168815032049e-06,Lower middle income
+181,Zimbabwe,Sub-Saharan Africa,2734,Poultry Meat,0.00013708464377049892,16.71584551388889,16.715982598532662,8.200812782763503e-06,Lower middle income
+182,Réunion,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,41.849157844000004,41.85109021114976,4.617244473224232e-05,Unclassified
+182,Réunion,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Unclassified
+183,Romania,Eastern Europe,2731,Bovine Meat,0.0,99.30187462800001,99.30187462800001,0.0,Upper middle income
+183,Romania,Eastern Europe,2732,Mutton & Goat Meat,0.0,274.74415128679243,274.74415128679243,0.0,Upper middle income
+183,Romania,Eastern Europe,2733,Pigmeat,0.0,127.85494848266667,127.85494848266667,0.0,Upper middle income
+183,Romania,Eastern Europe,2734,Poultry Meat,0.0,37.84734303194445,37.84734303194445,0.0,Upper middle income
+184,Rwanda,Sub-Saharan Africa,2731,Bovine Meat,0.0,41.946941278,41.946941278,0.0,Low income
+184,Rwanda,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+184,Rwanda,Sub-Saharan Africa,2733,Pigmeat,0.0,73.32504116533333,73.32504116533333,0.0,Low income
+184,Rwanda,Sub-Saharan Africa,2734,Poultry Meat,0.0,16.392623847222225,16.392623847222225,0.0,Low income
+185,Russian Federation,Russian Federation,2731,Bovine Meat,0.013244487895422846,129.589478692,129.60272317989543,0.00010219297535159655,Upper middle income
+185,Russian Federation,Russian Federation,2732,Mutton & Goat Meat,0.0009105972590590308,343.8313571943396,343.83226779159867,2.64837638685778e-06,Upper middle income
+185,Russian Federation,Russian Federation,2733,Pigmeat,0.0013256801028427255,189.337257732,189.33858341210285,7.001637378670626e-06,Upper middle income
+185,Russian Federation,Russian Federation,2734,Poultry Meat,0.012252309438925222,51.027659222222226,51.039911531661154,0.0002400535007064981,Upper middle income
+187,"Saint Helena, Ascension and Tristan da Cunha",Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,41.849157844000004,41.85109021114976,4.617244473224232e-05,Unclassified
+187,"Saint Helena, Ascension and Tristan da Cunha",Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Unclassified
+188,Saint Kitts and Nevis,Latin America and the Caribbean,2731,Bovine Meat,0.0019323671497584,103.997731756,103.99966412314976,1.8580513370410644e-05,High income
+188,Saint Kitts and Nevis,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,High income
+188,Saint Kitts and Nevis,Latin America and the Caribbean,2733,Pigmeat,0.0,440.02292006666664,440.02292006666664,0.0,High income
+188,Saint Kitts and Nevis,Latin America and the Caribbean,2734,Poultry Meat,0.0,51.615831347222226,51.615831347222226,0.0,High income
+189,Saint Lucia,Latin America and the Caribbean,2731,Bovine Meat,0.0019323671497584,103.102061804,103.10399417114976,1.8741923291067894e-05,Upper middle income
+189,Saint Lucia,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Upper middle income
+189,Saint Lucia,Latin America and the Caribbean,2733,Pigmeat,0.0,405.27268428,405.27268428,0.0,Upper middle income
+189,Saint Lucia,Latin America and the Caribbean,2734,Poultry Meat,0.0016341546405297196,50.4490125625,50.45064671714053,3.239115347107172e-05,Upper middle income
+190,Saint Pierre and Miquelon,Oceania,2731,Bovine Meat,0.0019323671497584,102.517497052,102.51942941914976,1.884878954854435e-05,Unclassified
+190,Saint Pierre and Miquelon,Oceania,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Unclassified
+191,Saint Vincent and the Grenadines,Latin America and the Caribbean,2731,Bovine Meat,0.0019323671497584,103.318125912,103.32005827914976,1.870272996301974e-05,Upper middle income
+191,Saint Vincent and the Grenadines,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Upper middle income
+191,Saint Vincent and the Grenadines,Latin America and the Caribbean,2733,Pigmeat,0.0,413.6555473253333,413.6555473253333,0.0,Upper middle income
+191,Saint Vincent and the Grenadines,Latin America and the Caribbean,2734,Poultry Meat,0.0,50.73048639861111,50.73048639861111,0.0,Upper middle income
+192,San Marino,Western Europe,2731,Bovine Meat,0.0019323671497584,135.226486834,135.22841920114976,1.4289652731087833e-05,High income
+192,San Marino,Western Europe,2732,Mutton & Goat Meat,0.0,343.8313571943396,343.8313571943396,0.0,High income
+193,Sao Tome and Principe,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,39.306501122,39.308433489149756,4.91590983978486e-05,Lower middle income
+193,Sao Tome and Principe,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+193,Sao Tome and Principe,Sub-Saharan Africa,2733,Pigmeat,0.0,72.69012443733334,72.69012443733334,0.0,Lower middle income
+193,Sao Tome and Principe,Sub-Saharan Africa,2734,Poultry Meat,0.0007149426552316899,15.646608911111112,15.647323853766345,4.569104991455786e-05,Lower middle income
+194,Saudi Arabia,Near East and North Africa,2731,Bovine Meat,0.0624417556487672,103.57882426399999,103.64126601964875,0.0006024796690242014,High income
+194,Saudi Arabia,Near East and North Africa,2732,Mutton & Goat Meat,0.007345295239554699,209.73395230377355,209.7412975990131,3.502073899436608e-05,High income
+194,Saudi Arabia,Near East and North Africa,2733,Pigmeat,0.0,155.64850775466667,155.64850775466667,0.0,High income
+194,Saudi Arabia,Near East and North Africa,2734,Poultry Meat,0.04560768713820331,37.68174212777778,37.72734981491598,0.001208875984185132,High income
+195,Senegal,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,41.42647415,41.42840651714975,4.6643530664363716e-05,Lower middle income
+195,Senegal,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+195,Senegal,Sub-Saharan Africa,2733,Pigmeat,0.0659775586888984,73.19989034533333,73.26586790402223,0.0009005224475785715,Lower middle income
+195,Senegal,Sub-Saharan Africa,2734,Poultry Meat,0.42594415587602236,16.245574027777778,16.6715181836538,0.025549212206339728,Lower middle income
+196,Seychelles,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,41.849157844000004,41.85109021114976,4.617244473224232e-05,High income
+196,Seychelles,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,High income
+196,Seychelles,Sub-Saharan Africa,2733,Pigmeat,0.0,73.30152828799999,73.30152828799999,0.0,High income
+196,Seychelles,Sub-Saharan Africa,2734,Poultry Meat,0.0,16.36499667361111,16.36499667361111,0.0,High income
+197,Sierra Leone,Sub-Saharan Africa,2731,Bovine Meat,1.682236055600736,40.220718944,41.90295499960074,0.04014600057720905,Low income
+197,Sierra Leone,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+197,Sierra Leone,Sub-Saharan Africa,2733,Pigmeat,0.7144372685429029,72.90995604133333,73.62439330987624,0.009703811962645616,Low income
+197,Sierra Leone,Sub-Saharan Africa,2734,Poultry Meat,3.9138572889532814,15.904906806944446,19.818764095897727,0.1974824096000723,Low income
+198,Slovenia,Western Europe,2731,Bovine Meat,0.0,25.97282869,25.97282869,0.0,High income
+198,Slovenia,Western Europe,2732,Mutton & Goat Meat,0.0,156.89669328113206,156.89669328113206,0.0,High income
+198,Slovenia,Western Europe,2733,Pigmeat,0.0,30.734926981333334,30.734926981333334,0.0,High income
+198,Slovenia,Western Europe,2734,Poultry Meat,0.0,9.589766138888889,9.589766138888889,0.0,High income
+199,Slovakia,Eastern Europe,2731,Bovine Meat,0.0,32.727720598,32.727720598,0.0,High income
+199,Slovakia,Eastern Europe,2732,Mutton & Goat Meat,0.0,175.51765696037737,175.51765696037737,0.0,High income
+199,Slovakia,Eastern Europe,2733,Pigmeat,0.0,57.37731877866667,57.37731877866667,0.0,High income
+199,Slovakia,Eastern Europe,2734,Poultry Meat,0.0,13.064804279166667,13.064804279166667,0.0,High income
+200,Singapore,East Asia and Southeast Asia,2731,Bovine Meat,0.0019323671497584,222.11566369599998,222.11759606314973,8.699748169474215e-06,High income
+200,Singapore,East Asia and Southeast Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,High income
+200,Singapore,East Asia and Southeast Asia,2733,Pigmeat,0.0,471.43510125066666,471.43510125066666,0.0,High income
+200,Singapore,East Asia and Southeast Asia,2734,Poultry Meat,0.0,89.26809207083335,89.26809207083335,0.0,High income
+201,Somalia,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,41.849157844000004,41.85109021114976,4.617244473224232e-05,Low income
+201,Somalia,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+201,Somalia,Sub-Saharan Africa,2733,Pigmeat,0.0,73.30152828799999,73.30152828799999,0.0,Low income
+201,Somalia,Sub-Saharan Africa,2734,Poultry Meat,0.0,16.36499667361111,16.36499667361111,0.0,Low income
+202,South Africa,Sub-Saharan Africa,2731,Bovine Meat,0.0024696469491553,42.908099778,42.91056942494916,5.755334833005951e-05,Upper middle income
+202,South Africa,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Upper middle income
+202,South Africa,Sub-Saharan Africa,2733,Pigmeat,0.00011852270025091142,73.556160068,73.55627859070024,1.6113199650899183e-06,Upper middle income
+202,South Africa,Sub-Saharan Africa,2734,Poultry Meat,0.0007413058416089603,16.66418409722222,16.664925403063826,4.448299789404831e-05,Upper middle income
+203,Spain,Western Europe,2731,Bovine Meat,0.0,105.34573045,105.34573045,0.0,High income
+203,Spain,Western Europe,2732,Mutton & Goat Meat,0.0,563.7194295018867,563.7194295018867,0.0,High income
+203,Spain,Western Europe,2733,Pigmeat,0.0,129.122963672,129.122963672,0.0,High income
+203,Spain,Western Europe,2734,Poultry Meat,0.0,41.483538045833335,41.483538045833335,0.0,High income
+205,Western Sahara,Near East and North Africa,2731,Bovine Meat,0.0019323671497584,41.849157844000004,41.85109021114976,4.617244473224232e-05,Unclassified
+205,Western Sahara,Near East and North Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Unclassified
+207,Suriname,Latin America and the Caribbean,2731,Bovine Meat,0.1292036719300676,103.301244368,103.43044803993007,0.0012491841075675085,Upper middle income
+207,Suriname,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Upper middle income
+207,Suriname,Latin America and the Caribbean,2733,Pigmeat,0.03277909990346485,413.00057682799996,413.0333559279034,7.936187097970501e-05,Upper middle income
+207,Suriname,Latin America and the Caribbean,2734,Poultry Meat,0.7704333407524122,50.70849425972222,51.478927600474634,0.01496599437213818,Upper middle income
+208,Tajikistan,Near East and North Africa,2731,Bovine Meat,0.0019323671497584,151.361824458,151.36375682514975,1.2766379417964663e-05,Lower middle income
+208,Tajikistan,Near East and North Africa,2732,Mutton & Goat Meat,0.0,343.8313571943396,343.8313571943396,0.0,Lower middle income
+208,Tajikistan,Near East and North Africa,2733,Pigmeat,0.0,230.54665461066665,230.54665461066665,0.0,Lower middle income
+208,Tajikistan,Near East and North Africa,2734,Poultry Meat,40.296232059277884,56.724105791666666,97.02033785094454,0.4153379894552241,Lower middle income
+209,Eswatini,Sub-Saharan Africa,2731,Bovine Meat,0.0083980354517098,40.448403102,40.45680113745171,0.00020758031321303753,Lower middle income
+209,Eswatini,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+209,Eswatini,Sub-Saharan Africa,2733,Pigmeat,0.001818915499822484,72.96470467066666,72.96652358616649,2.492808222766045e-05,Lower middle income
+209,Eswatini,Sub-Saharan Africa,2734,Poultry Meat,0.0256234017597701,15.969235397222223,15.994858798981992,0.0016019773654645157,Lower middle income
+210,Sweden,Western Europe,2731,Bovine Meat,0.0,9.341836795999999,9.341836795999999,0.0,High income
+210,Sweden,Western Europe,2732,Mutton & Goat Meat,0.0,19.79320541698113,19.79320541698113,0.0,High income
+210,Sweden,Western Europe,2733,Pigmeat,0.0,12.078044309333333,12.078044309333333,0.0,High income
+210,Sweden,Western Europe,2734,Poultry Meat,0.0,4.120575941666667,4.120575941666667,0.0,High income
+211,Switzerland,Western Europe,2731,Bovine Meat,0.2244149166854148,34.009604394,34.23401931068541,0.006555318983984113,High income
+211,Switzerland,Western Europe,2732,Mutton & Goat Meat,0.0349107636346024,78.3504421245283,78.3853528881629,0.00044537355957830144,High income
+211,Switzerland,Western Europe,2733,Pigmeat,0.0272666918106744,40.25122037733333,40.278487069144006,0.0006769542203476281,High income
+211,Switzerland,Western Europe,2734,Poultry Meat,0.2268027720805906,15.352776198611112,15.579578970691703,0.014557695847060558,High income
+212,Syrian Arab Republic,Near East and North Africa,2731,Bovine Meat,0.0019323671497584,103.57882426399999,103.58075663114975,1.865565779403933e-05,Low income
+212,Syrian Arab Republic,Near East and North Africa,2732,Mutton & Goat Meat,0.0,209.73395230377355,209.73395230377355,0.0,Low income
+212,Syrian Arab Republic,Near East and North Africa,2733,Pigmeat,0.0,155.64850775466667,155.64850775466667,0.0,Low income
+212,Syrian Arab Republic,Near East and North Africa,2734,Poultry Meat,0.031078887201385838,37.68174212777778,37.71282101497917,0.0008240934081553221,Low income
+213,Turkmenistan,Near East and North Africa,2731,Bovine Meat,0.0019323671497584,141.66742295,141.66935531714975,1.36399798349649e-05,Upper middle income
+213,Turkmenistan,Near East and North Africa,2732,Mutton & Goat Meat,0.0,343.8313571943396,343.8313571943396,0.0,Upper middle income
+214,"China, Taiwan Province of",East Asia and Southeast Asia,2731,Bovine Meat,0.5778279836682729,222.11566369599998,222.69349167966826,0.0025947232642947876,High income
+214,"China, Taiwan Province of",East Asia and Southeast Asia,2732,Mutton & Goat Meat,0.13240866534628365,681.5694554056604,681.7018640710066,0.0001942325117839077,High income
+215,United Republic of Tanzania,Sub-Saharan Africa,2731,Bovine Meat,0.0332394995707001,41.988063202,42.0213027015707,0.0007910154477304591,Lower middle income
+215,United Republic of Tanzania,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+215,United Republic of Tanzania,Sub-Saharan Africa,2733,Pigmeat,0.012149608288126328,73.334929296,73.34707890428813,0.00016564542814282438,Lower middle income
+215,United Republic of Tanzania,Sub-Saharan Africa,2734,Poultry Meat,0.052576638028637206,16.40424220277778,16.456818840806417,0.0031948238925902186,Lower middle income
+216,Thailand,East Asia and Southeast Asia,2731,Bovine Meat,0.42545328946691924,582.594986004,583.0204392934669,0.0007297399212667478,Upper middle income
+216,Thailand,East Asia and Southeast Asia,2732,Mutton & Goat Meat,0.0,4746.565935339622,4746.565935339622,0.0,Upper middle income
+216,Thailand,East Asia and Southeast Asia,2733,Pigmeat,0.1447638991895332,1224.8537638213334,1224.9985277205228,0.00011817475361289606,Upper middle income
+216,Thailand,East Asia and Southeast Asia,2734,Poultry Meat,0.9226920679393529,277.0205409236111,277.9432329915505,0.0033197140941632597,Upper middle income
+217,Togo,Sub-Saharan Africa,2731,Bovine Meat,0.4480085476493155,40.242030794,40.69003934164932,0.011010275607935946,Low income
+217,Togo,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+217,Togo,Sub-Saharan Africa,2733,Pigmeat,0.2205079639963587,72.91508065733333,73.13558862132969,0.00301505693948908,Low income
+217,Togo,Sub-Saharan Africa,2734,Poultry Meat,1.389377831636919,15.91092813611111,17.30030596774803,0.08030943696759216,Low income
+218,Tokelau,Oceania,2731,Bovine Meat,0.0019323671497584,222.11566369599998,222.11759606314973,8.699748169474215e-06,Unclassified
+218,Tokelau,Oceania,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Unclassified
+219,Tonga,Oceania,2731,Bovine Meat,0.0019323671497584,222.11566369599998,222.11759606314973,8.699748169474215e-06,Upper middle income
+219,Tonga,Oceania,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Upper middle income
+219,Tonga,Oceania,2733,Pigmeat,0.0,471.43510125066666,471.43510125066666,0.0,Upper middle income
+219,Tonga,Oceania,2734,Poultry Meat,0.0,89.26809207083335,89.26809207083335,0.0,Upper middle income
+220,Trinidad and Tobago,Latin America and the Caribbean,2731,Bovine Meat,0.0065612056629174,104.053873432,104.06043463766292,6.305187640012684e-05,High income
+220,Trinidad and Tobago,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,High income
+220,Trinidad and Tobago,Latin America and the Caribbean,2733,Pigmeat,0.0026384558078011494,442.2011071306666,442.20374558647444,5.966606647127982e-06,High income
+220,Trinidad and Tobago,Latin America and the Caribbean,2734,Poultry Meat,0.027795181860605138,51.68896896805556,51.716764149916166,0.0005374501347383738,High income
+221,Oman,Near East and North Africa,2731,Bovine Meat,0.0019323671497584,103.57882426399999,103.58075663114975,1.865565779403933e-05,High income
+221,Oman,Near East and North Africa,2732,Mutton & Goat Meat,0.0,209.73395230377355,209.73395230377355,0.0,High income
+221,Oman,Near East and North Africa,2733,Pigmeat,0.0,155.64850775466667,155.64850775466667,0.0,High income
+221,Oman,Near East and North Africa,2734,Poultry Meat,2.0685943947634584,37.68174212777778,39.75033652254124,0.052039669993496025,High income
+222,Tunisia,Near East and North Africa,2731,Bovine Meat,0.0019323671497584,33.409485148,33.41141751514976,5.7835533283860394e-05,Lower middle income
+222,Tunisia,Near East and North Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+222,Tunisia,Near East and North Africa,2733,Pigmeat,0.0,71.27213582,71.27213582,0.0,Lower middle income
+222,Tunisia,Near East and North Africa,2734,Poultry Meat,0.48844667927083507,13.980499568055556,14.468946247326391,0.03375827589110655,Lower middle income
+223,Turkey,Near East and North Africa,2731,Bovine Meat,0.0078359403088566,135.226486834,135.23432277430888,5.794342847365692e-05,Upper middle income
+223,Turkey,Near East and North Africa,2732,Mutton & Goat Meat,0.0025313332997282494,343.8313571943396,343.8338885276393,7.362082052376773e-06,Upper middle income
+223,Turkey,Near East and North Africa,2733,Pigmeat,0.0,200.00665038933334,200.00665038933334,0.0,Upper middle income
+223,Turkey,Near East and North Africa,2734,Poultry Meat,0.008207879849262982,52.50250791250001,52.510715792349274,0.0001563086643442567,Upper middle income
+224,Turks and Caicos Islands,Latin America and the Caribbean,2731,Bovine Meat,0.0019323671497584,102.517497052,102.51942941914976,1.884878954854435e-05,High income
+224,Turks and Caicos Islands,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,High income
+224,Turks and Caicos Islands,Latin America and the Caribbean,2733,Pigmeat,0.0,382.5927196933333,382.5927196933333,0.0,High income
+224,Turks and Caicos Islands,Latin America and the Caribbean,2734,Poultry Meat,0.0,49.68748078888889,49.68748078888889,0.0,High income
+225,United Arab Emirates,Near East and North Africa,2731,Bovine Meat,0.0019323671497584,103.57882426399999,103.58075663114975,1.865565779403933e-05,High income
+225,United Arab Emirates,Near East and North Africa,2732,Mutton & Goat Meat,0.0,209.73395230377355,209.73395230377355,0.0,High income
+225,United Arab Emirates,Near East and North Africa,2733,Pigmeat,0.0,155.64850775466667,155.64850775466667,0.0,High income
+225,United Arab Emirates,Near East and North Africa,2734,Poultry Meat,11.001731078332321,37.68174212777778,48.6834732061101,0.22598492576227144,High income
+226,Uganda,Sub-Saharan Africa,2731,Bovine Meat,0.00514376092983,43.613285268,43.61842902892983,0.00011792632252799411,Low income
+226,Uganda,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+226,Uganda,Sub-Saharan Africa,2733,Pigmeat,0.00042914664672687186,73.725728024,73.72615717064673,5.8208194105867754e-06,Low income
+226,Uganda,Sub-Saharan Africa,2734,Poultry Meat,0.0037511338408387804,16.863423194444444,16.867174328285284,0.00022239254589005725,Low income
+227,Tuvalu,Oceania,2731,Bovine Meat,0.0019323671497584,222.11566369599998,222.11759606314973,8.699748169474215e-06,Upper middle income
+227,Tuvalu,Oceania,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Upper middle income
+227,Tuvalu,Oceania,2733,Pigmeat,0.0,471.43510125066666,471.43510125066666,0.0,Upper middle income
+227,Tuvalu,Oceania,2734,Poultry Meat,0.0,89.26809207083335,89.26809207083335,0.0,Upper middle income
+229,United Kingdom of Great Britain and Northern Ireland,Western Europe,2731,Bovine Meat,0.006978695548003899,41.121202668,41.12818136354801,0.00016968159827726131,High income
+229,United Kingdom of Great Britain and Northern Ireland,Western Europe,2732,Mutton & Goat Meat,0.0007634951617332658,82.77298592264151,82.77374941780324,9.223880361870509e-06,High income
+229,United Kingdom of Great Britain and Northern Ireland,Western Europe,2733,Pigmeat,0.0009955749726398718,8.044897925333334,8.045893500305974,0.00012373703089681854,High income
+229,United Kingdom of Great Britain and Northern Ireland,Western Europe,2734,Poultry Meat,0.008666155238417062,0.6624148916666664,0.6710810469050835,0.012913723727385773,High income
+230,Ukraine,Eastern Europe,2731,Bovine Meat,0.2998278258784725,132.41404939,132.71387721587848,0.002259204780753702,Lower middle income
+230,Ukraine,Eastern Europe,2732,Mutton & Goat Meat,0.1430288678275582,343.8313571943396,343.9743860621672,0.0004158125535594627,Lower middle income
+230,Ukraine,Eastern Europe,2733,Pigmeat,0.057848959810414186,194.68343657866666,194.7412855384771,0.0002970554479521722,Lower middle income
+230,Ukraine,Eastern Europe,2734,Poultry Meat,0.2845942242524053,51.7666708125,52.05126503675241,0.005467575553667307,Lower middle income
+231,United States of America,North America,2731,Bovine Meat,0.0037403363439044,89.14543492,89.14917525634391,4.19559276140161e-05,High income
+231,United States of America,North America,2732,Mutton & Goat Meat,0.0029778855606931807,206.97398198490566,206.97695987046635,1.4387521985813537e-05,High income
+231,United States of America,North America,2733,Pigmeat,0.00011948236113507743,130.4283186733333,130.42843815569444,9.160759940439484e-07,High income
+231,United States of America,North America,2734,Poultry Meat,0.0010883444555938788,4.413445780555556,4.41453412501115,0.0002465366502498449,High income
+233,Burkina Faso,Sub-Saharan Africa,2731,Bovine Meat,0.036121496370094396,42.890630554,42.92675205037009,0.0008414681904587043,Low income
+233,Burkina Faso,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+233,Burkina Faso,Sub-Saharan Africa,2733,Pigmeat,0.015198253691062568,73.551959436,73.56715768969107,0.00020659019823994495,Low income
+233,Burkina Faso,Sub-Saharan Africa,2734,Poultry Meat,0.0686786098149966,16.659248444444444,16.72792705425944,0.0041056258550283995,Low income
+234,Uruguay,Latin America and the Caribbean,2731,Bovine Meat,0.0034865419995460997,102.205372274,102.20885881599955,3.4111935500842555e-05,High income
+234,Uruguay,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,High income
+234,Uruguay,Latin America and the Caribbean,2733,Pigmeat,0.0005562060188571489,370.48289075733334,370.4834469633522,1.501297894456721e-06,High income
+234,Uruguay,Latin America and the Caribbean,2734,Poultry Meat,0.006060978755288914,49.280865536111115,49.2869265148664,0.0001229733558951123,High income
+235,Uzbekistan,Near East and North Africa,2731,Bovine Meat,0.0019323671497584,137.882820528,137.88475289514975,1.4014364236688372e-05,Lower middle income
+235,Uzbekistan,Near East and North Africa,2732,Mutton & Goat Meat,0.0,343.8313571943396,343.8313571943396,0.0,Lower middle income
+235,Uzbekistan,Near East and North Africa,2733,Pigmeat,0.1476179901477751,205.03440028266667,205.18201827281445,0.0007194489623915241,Lower middle income
+235,Uzbekistan,Near East and North Africa,2734,Poultry Meat,7.1483914648488085,53.19750252777778,60.345893992626586,0.11845696520333664,Lower middle income
+236,Venezuela (Bolivarian Republic of),Latin America and the Caribbean,2731,Bovine Meat,0.0020545523850093,102.01966605000001,102.02172060238502,2.0138382031573672e-05,Unclassified
+236,Venezuela (Bolivarian Republic of),Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Unclassified
+237,Viet Nam,East Asia and Southeast Asia,2731,Bovine Meat,0.0967325345012935,222.11566369599998,222.21239623050127,0.00043531565359185764,Lower middle income
+237,Viet Nam,East Asia and Southeast Asia,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Lower middle income
+237,Viet Nam,East Asia and Southeast Asia,2733,Pigmeat,0.1497447612428225,471.43510125066666,471.58484601190946,0.0003175351424227928,Lower middle income
+237,Viet Nam,East Asia and Southeast Asia,2734,Poultry Meat,0.6160286499986078,89.26809207083335,89.88412072083196,0.006853587097012501,Lower middle income
+238,Ethiopia,Sub-Saharan Africa,2731,Bovine Meat,0.0052619331623898,39.463219026000004,39.46848095916239,0.00013331988043406752,Low income
+238,Ethiopia,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+238,Ethiopia,Sub-Saharan Africa,2733,Pigmeat,0.0002035964541938865,72.72780862799999,72.72801222445419,2.799422780393672e-06,Low income
+238,Ethiopia,Sub-Saharan Africa,2734,Poultry Meat,0.002296827640731954,15.690887095833332,15.693183923474065,0.00014635829490893367,Low income
+239,British Virgin Islands,Latin America and the Caribbean,2731,Bovine Meat,0.0019323671497584,102.517497052,102.51942941914976,1.884878954854435e-05,High income
+239,British Virgin Islands,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,High income
+240,United States Virgin Islands,Latin America and the Caribbean,2731,Bovine Meat,0.0019323671497584,102.517497052,102.51942941914976,1.884878954854435e-05,High income
+240,United States Virgin Islands,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,High income
+243,Wallis and Futuna Islands,Oceania,2731,Bovine Meat,0.0019323671497584,222.11566369599998,222.11759606314973,8.699748169474215e-06,Unclassified
+243,Wallis and Futuna Islands,Oceania,2732,Mutton & Goat Meat,0.0,681.5694554056604,681.5694554056604,0.0,Unclassified
+244,Samoa,Oceania,2731,Bovine Meat,0.0019323671497584,102.517497052,102.51942941914976,1.884878954854435e-05,Lower middle income
+244,Samoa,Oceania,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Lower middle income
+244,Samoa,Oceania,2733,Pigmeat,0.0006355045824281909,382.5927196933333,382.59335519791574,1.6610444844224857e-06,Lower middle income
+244,Samoa,Oceania,2734,Poultry Meat,0.0,49.68748078888889,49.68748078888889,0.0,Lower middle income
+249,Yemen,Near East and North Africa,2731,Bovine Meat,0.0019323671497584,103.57882426399999,103.58075663114975,1.865565779403933e-05,Low income
+249,Yemen,Near East and North Africa,2732,Mutton & Goat Meat,0.0,209.73395230377355,209.73395230377355,0.0,Low income
+249,Yemen,Near East and North Africa,2733,Pigmeat,0.0,155.64850775466667,155.64850775466667,0.0,Low income
+249,Yemen,Near East and North Africa,2734,Poultry Meat,0.0007121071200231435,37.68174212777778,37.682454234897804,1.8897578050095778e-05,Low income
+250,Democratic Republic of the Congo,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,41.818787744,41.820720111149754,4.620597504353386e-05,Low income
+250,Democratic Republic of the Congo,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+250,Democratic Republic of the Congo,Sub-Saharan Africa,2733,Pigmeat,0.1272370931441072,73.29422553866667,73.42146263181077,0.0017329686522613637,Low income
+250,Democratic Republic of the Congo,Sub-Saharan Africa,2734,Poultry Meat,1.3130064619892345,16.356416075,17.669422536989234,0.07430952874892102,Low income
+251,Zambia,Sub-Saharan Africa,2731,Bovine Meat,0.0052077014900537,42.123426134,42.12863383549005,0.00012361429782863317,Lower middle income
+251,Zambia,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Lower middle income
+251,Zambia,Sub-Saharan Africa,2733,Pigmeat,0.0028233674192237,73.36747848666667,73.3703018540859,3.848106587919769e-05,Lower middle income
+251,Zambia,Sub-Saharan Africa,2734,Poultry Meat,0.0206945008649238,16.442486872222222,16.463181373087146,0.0012570171217790092,Lower middle income
+255,Belgium,Western Europe,2731,Bovine Meat,0.0,59.946644972,59.946644972,0.0,High income
+255,Belgium,Western Europe,2732,Mutton & Goat Meat,0.0,151.16451916037735,151.16451916037735,0.0,High income
+255,Belgium,Western Europe,2733,Pigmeat,0.0,80.90197012133333,80.90197012133333,0.0,High income
+255,Belgium,Western Europe,2734,Poultry Meat,0.0,26.518179572222223,26.518179572222223,0.0,High income
+256,Luxembourg,Western Europe,2731,Bovine Meat,0.0,21.587681644,21.587681644,0.0,High income
+256,Luxembourg,Western Europe,2732,Mutton & Goat Meat,0.0,92.08701345471698,92.08701345471698,0.0,High income
+256,Luxembourg,Western Europe,2733,Pigmeat,0.0,27.201016165333336,27.201016165333336,0.0,High income
+256,Luxembourg,Western Europe,2734,Poultry Meat,0.0,8.849616852777778,8.849616852777778,0.0,High income
+258,Anguilla,Latin America and the Caribbean,2731,Bovine Meat,0.0019323671497584,102.517497052,102.51942941914976,1.884878954854435e-05,Unclassified
+258,Anguilla,Latin America and the Caribbean,2732,Mutton & Goat Meat,0.0,777.3906488,777.3906488,0.0,Unclassified
+270,Mayotte,Sub-Saharan Africa,2731,Bovine Meat,0.0019323671497584,41.849157844000004,41.85109021114976,4.617244473224232e-05,Unclassified
+270,Mayotte,Sub-Saharan Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Unclassified
+270,Mayotte,Sub-Saharan Africa,2733,Pigmeat,0.0,73.30152828799999,73.30152828799999,0.0,Unclassified
+272,Serbia,Western Europe,2731,Bovine Meat,0.0081321599632958,81.736400848,81.7445330079633,9.948261570597743e-05,Upper middle income
+272,Serbia,Western Europe,2732,Mutton & Goat Meat,0.00047928236453013897,173.6264139716981,173.62689325406262,2.7604154837282067e-06,Upper middle income
+272,Serbia,Western Europe,2733,Pigmeat,0.0004882073393892658,100.43108194266665,100.43157015000604,4.861094361664089e-06,Upper middle income
+272,Serbia,Western Europe,2734,Poultry Meat,0.007009304986740446,27.781535006944445,27.788544311931187,0.0002522372135819636,Upper middle income
+273,Montenegro,Western Europe,2731,Bovine Meat,0.8398628830553204,136.493129374,137.33299225705534,0.006115521618310718,Upper middle income
+273,Montenegro,Western Europe,2732,Mutton & Goat Meat,0.32958189347666167,343.8313571943396,344.16093908781625,0.0009576388719481191,Upper middle income
+273,Montenegro,Western Europe,2733,Pigmeat,0.0,202.40407582,202.40407582,0.0,Upper middle income
+273,Montenegro,Western Europe,2734,Poultry Meat,0.2570525032754986,52.83390819444444,53.090960697719936,0.004841737649824409,Upper middle income
+276,Sudan,Near East and North Africa,2731,Bovine Meat,0.0051529676923622,41.849157844000004,41.854310811692365,0.0001231167732171252,Low income
+276,Sudan,Near East and North Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+276,Sudan,Near East and North Africa,2733,Pigmeat,0.0,73.30152828799999,73.30152828799999,0.0,Low income
+276,Sudan,Near East and North Africa,2734,Poultry Meat,0.0024447747070242,16.36499667361111,16.367441448318132,0.00014936816574195947,Low income
+277,South Sudan,Near East and North Africa,2731,Bovine Meat,0.0019323671497584,41.849157844000004,41.85109021114976,4.617244473224232e-05,Low income
+277,South Sudan,Near East and North Africa,2732,Mutton & Goat Meat,0.0,97.87473400377357,97.87473400377357,0.0,Low income
+299,Occupied Palestinian Territory,Near East and North Africa,2731,Bovine Meat,0.0019323671497584,103.57882426399999,103.58075663114975,1.865565779403933e-05,Lower middle income
+299,Occupied Palestinian Territory,Near East and North Africa,2732,Mutton & Goat Meat,0.0,209.73395230377355,209.73395230377355,0.0,Lower middle income
+299,Occupied Palestinian Territory,Near East and North Africa,2733,Pigmeat,0.0,155.64850775466667,155.64850775466667,0.0,Lower middle income
+299,Occupied Palestinian Territory,Near East and North Africa,2734,Poultry Meat,0.0,37.68174212777778,37.68174212777778,0.0,Lower middle income

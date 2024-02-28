@@ -1,0 +1,1738 @@
+﻿FishstatJ commodity metadata for trade matrix,,
+FAO. 2021. Fishery and Aquaculture Statistics. Global fish trade - By partner country. 2019 (FishstatJ). In: FAO Fisheries and Aquaculture Division [online]. Rome. Updated 2021. www.fao.org/fishery/statistics/software/fishstatj/en,,
+FAO_CODE,NAME.EN,EBXID
+034.1.5.1.50,"Flounder, fresh or chilled",1
+034.1.5.2.45,"Alaska pollock, fresh or chilled",2
+034.4.1.5.3.80,"Atka mackerel fillets, frozen",3
+034.1.2.1.30,Trouts and chars live,4
+034.1.2.1.90,"Fish live, nei",5
+034.1.1.2.90,"Fish for culture incl. ova, fingerlings etc.",6
+034.1.3.1.10,"Carps, fresh or chilled",7
+034.1.3.2.20,"Tilapias, fresh or chilled",8
+034.1.3.9.30,"Catfish, fresh or chilled",9
+034.1.3.9.90,"Freshwater fish, nei, fresh or chilled",10
+034.1.4.1.10,"Sturgeons, fresh or chilled",11
+034.1.4.2.10,"Eels, fresh or chilled",12
+034.1.4.2.11,"Elvers, fresh or chilled",13
+034.1.4.3.10,"Whitefishes, fresh or chilled",14
+034.1.4.3.20,"Atlantic and Danube salmons, fresh or chilled",15
+034.1.4.3.30,"Pacific salmons, fresh or chilled",16
+034.1.4.3.39,"Salmons, fresh or chilled, nei",17
+034.1.4.3.50,"Trouts and chars, fresh or chilled",18
+034.1.4.3.90,"Salmonoids, fresh or chilled, nei",19
+034.1.5.1.11,"Atlantic halibut, fresh or chilled",20
+034.1.5.1.12,"Pacific halibut, fresh or chilled",21
+034.1.5.1.13,"Greenland halibut, fresh or chilled",22
+034.1.5.1.19,"Halibuts, fresh or chilled, nei",23
+034.1.5.1.39,"Plaices, fresh or chilled, nei",24
+034.1.5.1.49,"Soles (Solea spp), fresh or chilled, nei",25
+034.1.5.1.90,"Flatfish, fresh or chilled, nei",26
+034.1.1.1,Fish for ornamental purposes,27
+034.1.2.1,Miscellaneous fish live for human food,28
+034.1.3.1,"Carps, barbels and other cyprinids, fresh or chilled",29
+034.1.3.2,"Tilapias and other cichlids, fresh or chilled",30
+034.1.3.9,"Miscellaneous freshwater fish, fresh or chilled",31
+034.1.4.1,"Sturgeons, paddlefishes, fresh or chilled",32
+034.1.4.2,"River eels, fresh or chilled",33
+034.1.4.3,"Salmons, trouts, smelts, fresh or chilled",34
+034.1.5.1,"Flounders, halibuts, soles, fresh or chilled",35
+34,"Fish fresh (live or dead), chilled or frozen",36
+34.1,"Fish, fresh (live or dead) or chilled (excluding fillets)",37
+034.1.1,"Fish live, not for human consumption",38
+034.1.2,"Fish live, for human consumption",39
+034.1.3,"Freshwater fish, fresh or chilled",40
+034.1.4,"Diadromous fish, fresh or chilled",41
+034.1.5,"Marine fishes, fresh or chilled",42
+034.1.5.2.11,"Atlantic cod, fresh or chilled",43
+034.1.5.2.12,"Pacific cod, fresh or chilled",44
+035.03.5.1.90,"Flatfish nei, smoked",45
+034.1.5.2.30,"Haddock, fresh or chilled",46
+034.1.5.2.40,"Saithe (=Pollock), fresh or chilled",47
+034.1.5.2.53,"Whiting (Merlangius merlangus), fresh or chilled",48
+034.1.5.2.90,"Gadiformes, fresh or chilled, nei",50
+034.1.5.3.36,"Croakers, fresh or chilled",51
+034.1.5.3.461,"Seabreams nei, fresh or chilled",52
+034.1.5.4.41,"Atlantic redfishes, fresh or chilled",53
+034.1.5.3.90,"Miscellaneous coastal fishes,nei, fresh or chilled",54
+034.1.5.7.02,"Saury, fresh or chilled",55
+034.1.5.7.70,"Jack and horse mackerels, fresh or chilled",56
+035.03.4.3.50,"Trouts and chars, smoked",57
+034.1.5.4.90,"Miscellaneous demersal fish,nei, fresh or chilled",58
+034.1.5.5.11,"Atlantic herring, fresh or chilled",59
+034.1.5.5.12,"Pacific herring, fresh or chilled",60
+034.1.5.5.19,"Herrings, fresh or chilled, nei",61
+034.1.5.5.40,"European sardine , fresh or chilled",62
+034.1.5.5.29,"Pilchards(Sardinops spp.) and Sardinellas, fresh or chilled",63
+034.1.5.5.50,"Brisling or sprats, fresh or chilled",64
+034.1.5.5.60,"Anchovies (Engraulis spp), fresh or chilled",65
+034.1.5.5.90,"Clupeoids, fresh or chilled, nei",66
+034.1.5.2,"Cods, hakes, haddocks, fresh or chilled",67
+034.1.5.3,"Miscellaneous coastal fish, fresh or chilled",68
+034.1.5.4,"Miscellaneous demersal fish, fresh or chilled",69
+034.1.5.5,"Herrings, sardines, anchovies, fresh or chilled",70
+034.1.1.1.19,Ornamental fish nei,71
+034.1.2.1.20,Eels and elvers live,72
+034.1.5.2.19,"Cods, fresh or chilled, nei",73
+034.1.5.7.75,"Amberjacks, fresh or chilled",74
+034.4.4.1.4.2.39,"Salmon steaks, frozen",75
+034.4.4.1.5.1.19,"Halibut steaks, frozen",76
+034.4.4.1.5.1.90,"Flatfish steaks, frozen, nei",77
+034.4.4.2.5.2.68,"Hake minced, frozen",78
+034.2.5.7.62,"Atlantic mackerel, frozen",79
+034.4.4.1.5.9.90,"Fish steaks, frozen, nei",80
+034.4.4.2.5.9.91,"Fish minced (=surimi), frozen",81
+35.02,"Fish, dried, salted or in brine",82
+035.02.1,"Fish dried, whether or not salted, but not smoked",83
+037.1.1.5.7.02,"Pacific sauries prepared or preserved, not minced",85
+037.1.1.5.5.601,"Anchovies fillets, prepared or preserved",86
+037.1.1.6.93,"Fish products (not minced), semi-preserved",87
+035.02.1.5,"Marine fishes, dried, whether or not salted",88
+034.1.5.2.70,"Ling, fresh or chilled",89
+034.1.5.2.80,"Tusk, fresh or chilled",90
+034.1.5.4.12,"Snoek, fresh or chilled",91
+034.2.5.1.50,"Flounder, frozen",92
+034.2.5.2.80,"Tusk, frozen",93
+034.2.5.2.70,"Ling, frozen",94
+034.2.5.7.08,"Pomfrets, ocean breams, frozen",95
+034.2.5.6.10,"Bonito, frozen",96
+034.2.5.4.12,"Snoek, frozen",97
+034.2.9.1.21,"Cod roes, frozen",98
+034.2.9.1.22,"Alaska pollock, roes, frozen",99
+034.2.9.1.23,"Capelin roes, frozen",100
+034.2.9.1.24,"Herring roes, frozen",101
+034.2.9.1.26,"Salmon roes, frozen",102
+034.3.1.5.4,"Miscellaneous demersal fish, fillets, fresh or chilled",103
+034.3.1.5.4.90,"Miscellaneous demersal fish, fillets, fresh or chilled, nei,",104
+034.3.1.4.2,"River eel fillets, fresh or chilled",105
+034.3.1.4.2.10,"River eel fillets, fresh or chilled, nei",106
+034.4.1.4.2,"River eel fillets, frozen",107
+034.4.1.4.2.10,"River eel fillets, frozen, nei",108
+034.4.1.4.3.391,"Salmon fillets, frozen",109
+034.1.5.6.20,"Skipjack tuna, fresh or chilled",112
+034.1.5.6.30,"Atlantic(Thunnus thynnus)and Pacific(Thunnus orientalis)bluefin tuna, fresh or chilled",113
+034.1.5.6.40,"Albacore (=Longfin tuna), fresh or chilled",114
+034.1.5.6.50,"Yellowfin tuna, fresh or chilled",115
+034.1.5.6.60,"Bigeye tuna, fresh or chilled",116
+034.1.5.6.80,"Swordfish, fresh or chilled",117
+034.1.5.6.90,"Tunas, fresh or chilled, nei",118
+034.1.5.4.13,"Hairtails, fresh or chilled",119
+034.1.5.7.61,"Chub mackerel, fresh or chilled",120
+034.1.5.7.69,"Mackerels, nei, fresh or chilled",121
+034.1.5.8.70,"Sharks nei, fresh or chilled",122
+034.1.5.8.90,"Sharks, rays, skates, fresh or chilled, nei",123
+034.1.5.9.90,"Marine fish, fresh or chilled, nei",124
+034.1.9.1.10,"Fish livers, fresh or chilled",125
+034.1.9.1.20,"Fish roes, fresh or chilled",126
+034.1.9.1.90,"Livers, roes, milt, fresh or chilled, nei",127
+034.2.3.1.10,"Carps, frozen",128
+034.2.3.9.30,"Catfish, frozen",129
+034.4.4.1.3.9.30,"Catfish steaks, frozen",130
+034.2.3.9.90,"Freshwater fish nei, frozen",131
+034.2.4.2.10,"Eels, frozen",132
+034.2.4.3.10,"Whitefishes, frozen",133
+034.2.4.3.20,"Atlantic salmon and Danube salmon, frozen",134
+034.2.4.3.39,"Salmons nei, frozen",136
+034.1.5.6,"Tunas, bonitos, billfishes, fresh or chilled",137
+034.1.5.7,"Miscellaneous pelagic fish, fresh or chilled",138
+034.1.5.8,"Sharks, rays, chimaeras, fresh or chilled",139
+034.1.5.9,"Miscellaneous marine fish, fresh or chilled",140
+034.1.9.1,"Fish livers, roes, etc., fresh or chilled",141
+034.2.3.1,"Carps, barbels and other cyprinids, frozen",142
+034.2.3.9,"Miscellaneous freshwater fish, frozen",143
+034.2.4.2,"River eels, frozen",144
+034.2.4.3,"Salmons, trouts, smelts, frozen",145
+034.1.9,"Miscellaneous fish products, fresh or chilled",146
+34.2,"Fish, frozen (excluding fillets)",147
+034.2.3,"Freshwater fish, frozen",148
+034.2.4,"Diadromous fish, frozen",149
+034.2.4.3.50,"Trouts and chars, frozen",150
+034.2.4.3.60,"Smelts, frozen",151
+034.2.4.3.90,"Salmonoids, frozen",152
+034.2.5.1.11,"Atlantic halibut, frozen",153
+034.2.5.1.12,"Pacific halibut, frozen",154
+034.2.5.1.13,"Greenland halibut, frozen",155
+034.2.5.1.19,"Halibuts nei, frozen",156
+034.2.5.1.39,"Plaices, frozen, nei",157
+034.2.5.1.49,"Soles (Solea spp), frozen, nei",158
+034.2.5.1.90,"Flatfish nei, frozen",159
+035.03.4.3.90,"Salmonoids nei, smoked",160
+034.2.5.2.11,"Atlantic cod, frozen",161
+034.2.5.2.12,"Pacific cod, frozen",162
+034.2.5.2.19,"Cods nei, frozen",163
+034.2.5.2.30,"Haddock, frozen",164
+034.2.5.2.40,"Saithe (=Pollock), frozen",165
+034.2.5.2.45,"Alaska pollock, frozen",166
+034.2.5.2.53,"Whiting, frozen",167
+034.2.5.2.90,"Gadiformes nei, frozen",169
+034.2.5.3.22,"Seabass, frozen",170
+034.2.5.3.24,"Snappers, frozen",171
+034.2.5.3.36,"Croakers, frozen",172
+034.2.5.3.46,"Seabreams, frozen",173
+034.2.5.4.09,"Wolffishes (=Catfishes), frozen",174
+034.2.5.4.11,"Cusk-eel (=kingklip), frozen",175
+034.2.5.1,"Flounders, halibuts, soles, frozen",176
+034.2.5.2,"Cods, hakes, haddocks, frozen",177
+034.2.5.3,"Miscellaneous coastal fish, frozen",178
+034.2.5,"Marine fishes, frozen",179
+034.2.5.4.41,"Atlantic redfishes, frozen",180
+034.2.5.3.74,"Puffers, frozen",181
+034.2.5.3.90,"Miscellaneous coastal fish, nei, frozen",182
+034.2.5.7.01,"Capelin, frozen",183
+034.2.5.7.02,"Saury, frozen",184
+034.2.5.7.03,"Bluefish, frozen",185
+034.2.5.7.70,"Jack and horse mackerel, frozen",186
+034.2.5.7.75,"Amberjacks, frozen",187
+034.2.5.4.90,"Miscellaneous demersal fish, nei, frozen",188
+034.2.5.5.11,"Atlantic herring, frozen",189
+034.2.5.5.12,"Pacific herring, frozen",190
+034.2.5.5.19,"Herrings nei, frozen",191
+034.2.5.5.29,"Pilchards(Sardinops spp.) and Sardinellas, frozen",192
+034.2.5.5.40,"European sardine, frozen",193
+034.2.5.5.50,"Brisling or sprats, frozen",194
+034.2.5.5.60,"Anchovies, frozen",195
+034.2.5.5.90,"Clupeoids nei, frozen",196
+034.2.5.6.29,"Skipjack tuna, frozen",197
+034.2.5.6.30,"Atlantic(Thunnus thynnus)and Pacific(Thunnus orientalis)bluefin tuna, frozen",198
+034.2.5.6.49,"Albacore (=Longfin tuna), frozen, nei",199
+034.2.5.6.41,"Albacore (=Longfin tuna), gilled, gutted, frozen",200
+034.2.5.6.42,"Albacore (=Longfin tuna), heads-off, etc., frozen",201
+034.2.5.6.59,"Yellowfin tuna, frozen, nei",202
+034.2.5.6.51,"Yellowfin tuna, gilled, gutted, frozen",203
+034.2.5.6.52,"Yellowfin tuna, heads-off, etc., frozen",204
+034.2.5.6.69,"Bigeye tuna, frozen, nei",205
+034.2.5.6.71,"Marlins, frozen",206
+034.2.5.6.80,"Swordfish, frozen",207
+034.2.5.6.909,"Tunas nei, frozen",208
+034.2.5.6.901,"Tunas, gilled, gutted, frozen, nei",209
+034.2.5.6.902,"Tunas, heads-off, etc., frozen, nei",210
+034.2.5.4,"Miscellaneous demersal fish, frozen",211
+034.2.5.5,"Herrings, sardines, anchovies, frozen",212
+034.2.5.6,"Tunas, bonitos, billfishes, frozen",213
+034.2.5.4.13,"Hairtails, frozen",214
+034.2.5.7.61,"Chub mackerel, frozen",215
+034.2.5.7.69,"Mackerels nei, frozen",216
+034.2.5.8.70,"Dogfish and other sharks nei (excl. Squalus acanthias, Scyliorhinus spp., Lamna nasus, Prionace glauca), frozen",217
+034.2.5.8.80,"Rays and skates (Rajidae), frozen",218
+034.2.5.8.90,"Sharks, rays, chimaeras nei, frozen",219
+034.2.5.9.90,"Marine fish, frozen, nei",220
+034.2.9.1.10,"Fish livers, frozen",221
+034.2.9.1.29,"Fish roes, frozen, nei",222
+034.2.9.1.90,"Livers, roes, milt, frozen",223
+034.3.1.3.1.10,"Carp fillets, fresh or chilled",224
+034.3.1.3.9.40,"Perch fillets, fresh or chilled",225
+034.3.1.3.9.90,"Freshwater fish fillets, fresh or chilled, nei",226
+034.3.1.5.1.31,"European plaice fillets, fresh or chilled",227
+034.3.1.5.1.50,"Flounder fillets, fresh or chilled",228
+034.3.1.5.1.45,"Common sole fillets, fresh or chilled",229
+034.3.1.5.1.90,"Flatfish nei, fillets, fresh or chilled",230
+034.3.1.5.2.11,"Atlantic cod, fillets, fresh or chilled",231
+034.3.1.5.2.12,"Pacific cod fillets, fresh or chilled",232
+034.3.1.5.2.19,"Cods nei, fillets, fresh or chilled",233
+034.3.1.5.2.30,"Haddock fillets, fresh or chilled",234
+034.3.1.5.2.40,"Saithe (=Pollock) fillets, fresh or chilled",235
+034.3.1.5.2.53,"Whiting fillets, fresh or chilled",236
+034.3.1.5.2.90,"Gadiformes fillets, fresh or chilled, nei",238
+034.2.5.7,"Miscellaneous pelagic fish, frozen",239
+034.2.5.8,"Sharks, rays, chimaeras, frozen",240
+034.2.5.9,"Miscellaneous marine fish, frozen",241
+034.2.9.1,"Fish livers, roes, milt, frozen",242
+034.3.1.3.1,"Carps, barbels and other cyprinids fillets, fresh or chilled",243
+034.3.1.3.9,"Miscellaneous freshwater fish fillets, fresh or chilled",244
+034.3.1.5.1,"Flounders, halibuts, soles fillets, fresh or chilled",245
+034.3.1.5.2,"Cods, hakes, haddocks, etc. fillets, fresh or chilled",246
+034.2.9,"Miscellaneous fish products, frozen",247
+34.3,"Fish fillets and meat, fresh or chilled",248
+034.3.1.3,"Freshwater fish fillets, fresh or chilled",249
+034.3.1.5,"Marine fish fillets, fresh or chilled",250
+034.3.1.5.4.49,"Redfish fillets, fresh or chilled",251
+034.3.1.5.3.90,"Miscellaneous coastal fish, fillets, fresh or chilled, nei",252
+034.3.1.5.5.11,"Atlantic herring fillets, fresh or chilled",253
+034.3.1.5.5.12,"Pacific herring fillets, fresh or chilled",254
+034.3.1.5.5.19,"Herring nei, fillets, fresh or chilled",255
+034.3.1.5.5.90,"Clupeoids, fillets, fresh or chilled, nei",256
+034.3.1.5.6.90,"Tuna loins and fillets, fresh or chilled",257
+034.3.1.5.8.70,"Dogfish (Squalidae) and other sharks, fillets, fresh or chilled",258
+034.4.1.3.9.30,"Catfish fillets, frozen",260
+034.4.1.3.9.90,"Freshwater fish fillets, nei, frozen",261
+034.4.1.4.3.90,"Salmonoids fillets, frozen, nei",263
+034.4.1.5.1.13,"Greenland halibut fillets, frozen",264
+034.4.1.5.1.19,"Halibut nei, fillets, frozen",265
+034.4.1.5.1.31,"European plaice fillets, frozen",266
+034.4.1.5.1.50,"Flounder fillets, frozen",267
+034.4.1.5.1.45,"Common sole fillets, frozen",268
+034.4.1.5.1.70,"Turbot fillets, frozen",269
+034.4.1.5.1.90,"Flatfish nei, fillets, frozen",270
+034.4.1.5.2.11,"Atlantic cod fillets, frozen",271
+034.4.1.5.2.12,"Pacific cod fillets, frozen",272
+034.4.1.5.2.19,"Cod nei, fillets, frozen",273
+034.4.1.5.2.25,"Ling fillets, frozen",274
+034.4.1.5.2.30,"Haddock fillets, frozen",275
+034.3.1.5.3,"Miscellaneous coastal fish, fillets, fresh or chilled",276
+034.3.1.5.5,"Herrings, sardines, anchovies, etc. fillets, fresh or chilled",277
+034.3.1.5.6,"Tunas, bonitos, billfishes fillets, fresh or chilled",278
+034.3.1.5.8,"Sharks, rays, chimaeras, etc. fillets, fresh or chilled",279
+034.3.1.5.9.90,"Miscellaneous marine fish fillets, fresh or chilled, nei",280
+034.4.1.3.9,"Miscellaneous freshwater fish fillets, frozen",281
+034.4.1.4.3,"Salmons, trouts, smelts, etc. fillets, frozen",282
+034.4.1.5.1,"Flounders, halibuts, soles, etc. fillets, frozen",283
+034.4.1.5.2,"Cods, hakes, haddocks, etc. fillets, frozen",284
+34.4,"Fish fillets and meat, frozen",285
+034.4.1,"Fish fillets, frozen (excluding blocks and sticks)",286
+034.4.1.3,"Freshwater fish fillets, frozen",287
+034.4.1.4,"Diadromous fish fillets, frozen",288
+034.4.1.5,"Marine fish fillets, frozen",289
+034.4.1.5.2.40,"Saithe (=Pollock) fillets, frozen",290
+034.4.1.5.2.45,"Alaska pollock fillets, frozen",291
+034.4.1.5.2.53,"Whiting fillets, frozen",292
+034.4.1.5.2.90,"Gadiformes fillets, frozen, nei",294
+034.4.1.5.4.09,"Wolffish (=Catfish) fillets, frozen",295
+034.4.1.5.4.41,"Atlantic redfishes, fillets, frozen",296
+034.4.1.5.3.90,"Miscellaneous coastal fishes fillets, frozen,  nei",297
+034.4.1.5.7.75,"Amberjack fillets, frozen",298
+034.4.1.5.4.90,"Miscellaneous demersal fish, fillets, frozen, nei",299
+034.4.1.5.5.11,"Atlantic herring fillets, frozen",300
+034.4.1.5.5.12,"Pacific herring fillets, frozen",301
+034.4.1.5.5.19,"Herring nei, fillets, frozen",302
+034.4.1.5.5.20,"Pilchard fillets, frozen",303
+034.4.1.5.5.90,"Clupeoids nei, fillets, frozen",304
+034.4.1.5.6.90,"Tuna loins and fillets, frozen",305
+034.4.1.5.7.69,"Mackerel fillets, frozen",306
+034.4.1.5.8.70,"Shark fillets nei, frozen",307
+034.4.1.5.9.90,"Marine fish fillets, frozen, nei",308
+034.4.2.3.9.90,"Freshwater fish fillets in blocks, frozen nei",309
+034.4.2.4.3.90,"Salmonoids fillets in blocks, frozen",310
+034.4.2.5.1.90,"Flatfish fillets in blocks, frozen, nei",311
+034.4.1.5.3,"Miscellaneous coastal fish, fillets, frozen",312
+034.4.1.5.4,"Miscellaneous demersal fish, fillets, frozen",313
+034.4.1.5.5,"Herrings, sardines, anchovies, etc. fillets, frozen",314
+034.4.1.5.6,"Tunas, bonitos, billfishes, etc. fillets, frozen",315
+034.4.1.5.7,"Miscellaneous pelagic fish, etc. fillets, frozen",316
+034.4.1.5.8,"Sharks, rays, chimaeras, etc. fillets, frozen",317
+034.4.1.5.9,"Miscellaneous marine fish fillets, frozen",318
+034.4.2.3.9,"Miscellaneous freshwater fish fillets in blocks, frozen",319
+034.4.2.4.3,"Salmons, trouts, smelts, etc. fillets in blocks, frozen",320
+034.4.2.5.1,"Flounders, halibuts, soles, etc. fillets in blocks, frozen",321
+034.4.2,"Fish fillets in blocks, frozen",322
+034.4.2.3,"Freshwater fish fillets in blocks, frozen",323
+034.4.2.4,"Diadromous fish fillets in blocks, frozen",324
+034.4.2.5,"Marine fish fillets in blocks, frozen",325
+034.4.2.5.2.11,"Atlantic cod, fillets in blocks, frozen",326
+034.4.2.5.2.12,"Pacific cod fillets in blocks, frozen",327
+034.4.2.5.2.19,"Cod fillets in blocks, frozen, nei",328
+034.4.2.5.2.30,"Haddock fillets in blocks, frozen",329
+034.4.2.5.2.40,"Saithe (=Pollock) fillets in blocks, frozen",330
+034.4.2.5.2.45,"Alaska pollock fillets in blocks, frozen",331
+034.4.2.5.2.60,"Hake fillets in blocks, frozen",332
+034.4.2.5.4.41,"Atlantic redfishes fillets in blocks, frozen",333
+034.4.2.5.9.90,"Marine fish fillets in blocks, nei, frozen",334
+034.4.3.5.1.90,"Flatfish portions and sticks, frozen",335
+034.4.3.5.2.19,"Cod portions and sticks, frozen",336
+034.4.3.5.2.30,"Haddock portions and sticks, frozen",337
+034.4.3.5.2.45,"Alaska pollock, portions and sticks, frozen",338
+034.4.3.5.2.60,"Hake portions and sticks, frozen",339
+034.4.3.5.9.90,"Fish portions and sticks, nei, frozen",340
+034.1.4.4,"Shads, fresh or chilled",341
+034.1.4.4.10,"Shads, nei, fresh or chilled",342
+034.4.2.5.2,"Cods, hakes, haddocks, etc. fillets in blocks, frozen",343
+034.4.2.5.3,"Miscellaneous coastal fish, fillets in blocks, frozen",344
+034.4.2.5.9,"Miscellaneous marine fish fillets in blocks, frozen",345
+034.4.3.5.1,"Flounders, halibuts, soles, etc. portions and sticks, frozen",346
+034.4.3.5.2,"Cods, hakes, haddocks, etc. portions and sticks, frozen",347
+034.4.3.5.9,"Miscellaneous marine fish, portions and sticks, frozen",348
+037.2.2.1.9.95,"Molluscs and other aq. invertebrates, prep. or pres., nei",349
+034.4.3,"Fish portions and sticks, frozen",351
+034.4.3.5,"Marine fish portions and sticks, frozen",352
+035.02.3.5.3,"Miscellaneous coastal fish, fillets, dried, salted or in brine",354
+035.02.3.5.3.90,"Miscellaneous coastal fish nei, fillets, dried, salted or in brine",356
+035.02.1.5.2.12,"Cod, salted and dried (klipfish)",357
+411.12.4.4.10,Shad oil,358
+035.02.2.5.3.49,"Mullet, salted",362
+035.02.3.9.1.21,"Cod roes, salted or sugar salted",363
+035.02.3.9.1.22,"Alaska pollock, roes, pickled",364
+035.02.3.9.1.24,"Herring roes, dried",365
+035.02.3.9.1.25,"Herring roes, cured",366
+035.02.2.5.1.90,"Flatfish, salted or in brine, nei",368
+035.02.2.5.2.11,"Atlantic cod, salted or in brine",369
+035.02.2.4.5.90,"Miscellaneous diadromous fish, salted or in brine, nei",370
+035.02.3.5.2.60,"Hakes, fillets, dried, salted or in brine",372
+035.02.3.9.1.26,"Salmon roes, cured",373
+035.02.3.9.1.27,"Lumpfish roes, salted",374
+036.0.1.4.3.31,"Norway lobsters (Nephrops spp.), whole, frozen",375
+035.02.3.5.8.90,"Sharks, rays, etc., fillets, dried, salted or in brine, nei",378
+035.02.1.5.2.90,"Gadiformes nei, dried, unsalted",379
+035.01.1,Fishmeal fit for human consumption,382
+035.02.1.5.2,"Cods, hakes, haddocks, etc., dried, whether or not salted",384
+035.02.3.3.9,"Miscellaneous freshwater fish, fillets, dried, salted or in brine",386
+035.02.3.4.3,"Salmons, trouts, smelts, etc., fillets, dried, salted or in brine",387
+035.02.3.4.5,"Miscellaneous diadromous fish, fillets, dried, salted or in brine",388
+035.02.3.5.1,"Flounders, halibuts, soles, etc., fillets, dried, salted or in brine",389
+035.02.3.5.2,"Cods, hakes, haddocks, etc., fillets, dried, salted or in brine",390
+035.02.3.5.4,"Miscellaneous demersal fish, fillets, dried, salted or in brine",391
+035.02.3.5.5,"Herrings, sardines, anchovies, etc., fillets, dried, salted or in brine",392
+035.01.1.90,"Fishmeal fit for human consumption, nei",393
+035.02.1.5.2.11,"Cod, dried, unsalted (stockfish)",394
+035.02.1.5.2.19,"Cods nei, dried,  whether or not salted",395
+035.02.1.5.2.60,"Hakes, dried, unsalted",396
+035.02.1.5.4.90,"Groundfish, dried, unsalted, nei",397
+035.02.3.9.2.31,"Shark fins, dried, unsalted",399
+035.02.3.3.9.90,"Freshwater fish nei, fillets, dried, salted, or in brine",400
+035.02.2.4.3.39,"Salmons, salted or in brine",401
+035.02.2.4.3.391,"Salmon sides, salted or in brine",402
+035.02.1.4.3.50,"Trouts, dried, salted",403
+035.02.3.5.5.90,"Clupeoids nei, fillets, dried, salted or in brine",405
+035.02.3.5.1.13,"Greenland halibut fillets, dried, salted or in brine",406
+035.03.3,"Freshwater fish, smoked",407
+035.02.3.5.2.11,"Cod nei fillets, dried, salted or in brine",408
+035.03.3.9,"Miscellaneous freshwater fish, smoked",409
+035.03.3.9.90,"Miscellaneous freshwater fish, smoked",410
+035.02.1.5.2.95,"Gadiformes nei, dried and salted",411
+035.02.2.5.2.90,"Gadiformes, salted or in brine, nei",412
+035.02.3.5.4.90,"Miscellaneous demersal fish nei, fillets, dried, salted or in brine",414
+035.02.1.5.3.90,"Miscellaneous coastal fish, nei, dried, unsalted",415
+035.02.3.5.5.191,"Herring fillets, dried, salted or in brine",416
+035.03.5.4.12,"Snoeks, smoked",418
+035.02.3.9,"Miscellaneous fish products, dried, salted or in brine",420
+35.03,Fish smoked,421
+035.03.4,"Diadromous fish, smoked",422
+035.03.5,"Marine fishes, smoked",423
+035.03.9,"Miscellaneous fish products, smoked",424
+035.02.3.5.6,"Tunas, bonitos, billfishes, etc., fillets, dried, salted or in brine",425
+035.02.3.5.7,"Miscellaneous pelagic fish, fillets, dried, salted or in brine",426
+035.02.3.5.8,"Sharks, rays, chimaeras, etc., fillets, dried, salted or in brine",427
+035.02.3.5.9,"Miscellaneous marine fish, fillets, dried, salted or in brine",428
+035.02.3.9.1,"Fish livers, roes, milt etc., dried, salted or in brine",429
+035.03.4.2,"River eels, smoked",430
+035.03.4.3,"Salmons, trouts, smelts, etc., smoked",431
+035.03.4.5,"Miscellaneous diadromous fish, smoked",432
+035.03.5.1,"Flounders, halibuts, soles, etc., smoked",433
+035.03.5.2,"Cods, hakes, haddocks, etc., smoked",434
+035.03.5.5,"Herrings, sardines, anchovies, etc., smoked",435
+035.03.5.6,"Tunas, bonitos, billfishes, etc., smoked",436
+035.03.5.7,"Miscellaneous pelagic fish, smoked",437
+035.03.5.9,"Miscellaneous marine fish, smoked",438
+035.03.9.1,"Fish livers, roes, etc., smoked",439
+035.02.2.5.6.90,"Tunas nei, salted or in brine",440
+035.02.2.5.7.69,"Mackerels nei, salted or in brine",442
+035.02.3.5.8.70,"Sharks, fillets, dried, salted or in brine",443
+035.02.2.5.4.91,"Groundfish nei, salted or in brine",444
+035.02.2.6.90,"Fish nei, salted or in brine",445
+035.02.3.5.9.99,"Marine fish, fillets, dried, salted or in brine, nei",448
+035.02.3.9.1.10,"Fish livers, dried, salted or in brine",449
+035.02.3.9.1.29,"Fish roes, dried, salted or in brine, nei",450
+035.02.3.9.2.32,"Shark fins, smoked, dried, whether or not salted, etc.",451
+035.02.3.9.1.90,"Livers, roes, milt, dried, salted or in brine, nei",452
+035.03.4.2.10,"Eels, smoked",453
+035.03.4.3.39,"Salmons, smoked",454
+035.03.4.5.90,"Diadromous fish, nei, smoked",455
+035.03.5.1.11,"Atlantic halibut, smoked",456
+035.03.5.1.13,"Greenland halibut, smoked",457
+035.03.5.2.19,"Cods, smoked",458
+035.03.5.2.30,"Haddock, smoked",459
+035.03.5.5.11,"Atlantic herring, smoked",460
+035.03.5.5.19,"Herrings nei, smoked",461
+035.03.5.5.50,"Sardines and sprats, smoked",462
+035.03.5.6.20,"Skipjack tuna, smoked",463
+035.03.5.6.90,"Tunas nei, smoked",464
+035.03.5.7.69,"Mackerels, smoked",465
+035.03.5.9.90,"Marine fish fillets, smoked",466
+035.03.5.9.95,"Marine fish nei, smoked",467
+035.03.9.1.90,"Livers and roes, smoked",468
+36,"Crustaceans, molluscs, aq. inver, live,fresh,chilled,frozen, salted, in brine or dried, smoked",469
+036.0.1,"Crustaceans, live, fresh, chilled, frozen, salted, in brine or dried, smoked",470
+036.0.1.1,"Crustaceans live, not for human consumption",471
+036.0.1.3,"Crustaceans live, fresh, chilled or boiled in water",473
+036.0.1.1.1,"Miscellaneous crustaceans live, not for human consumption",474
+036.0.1.3.1,"Freshwater crustaceans, live, fresh or chilled",476
+036.0.1.3.2,"Crabs, live, fresh or chilled",477
+036.0.1.3.3,"Lobsters, spiny-rock lobsters, etc., live, fresh or chilled",478
+036.0.1.3.4,"Squat-lobsters, etc., fresh or chilled",479
+036.0.1.3.5,"Shrimps, prawns, etc., live, fresh or chilled",480
+036.0.1.3.9,"Miscellaneous marine crustaceans, live, fresh or chilled",481
+036.0.1.3.1.10,"Crayfish (freshwater), live, fresh or chilled",485
+036.0.1.3.1.90,"Freshwater crustaceans nei, live, fresh or chilled",486
+036.0.1.3.2.90,"Crabs, peeled or not, live, fresh or chilled, nei",487
+036.0.1.3.3.11,"Spiny lobsters (Panulirus spp.), whole, fresh or chilled",488
+036.0.1.3.3.12,"Spiny lobsters (Panulirus spp.), meat or tails, fresh or chilled",489
+036.0.1.3.3.21,"Rock lobsters (Jasus spp.), whole, fresh or chilled",490
+036.0.1.3.3.22,"Rock lobsters (Jasus spp.), meat or tails, fresh or chilled",491
+036.0.1.3.3.91,"Lobsters nei, whole, fresh or chilled",492
+036.0.1.3.3.31,"Norway lobsters (Nephrops spp.), whole, fresh or chilled",493
+036.0.1.3.5.20,"Cold-water shrimps and prawns Pandalus spp, in shell or not, live, fresh or chilled",494
+036.0.1.3.5.30,"Shrimps Crangon crangon, in shell or not, live, fresh or chilled",495
+036.0.1.3.5.99,"Shrimps and prawns, live, fresh or chilled, nei",496
+036.0.1.3.5.91,"Shrimp tails, fresh or chilled",497
+036.0.1.3.9.90,"Crustaceans, live, fresh, chilled or boiled in water, nei",498
+036.0.1.4,"Crustaceans, frozen",499
+036.0.1.4.2,"Crabs and crab meat, frozen",500
+036.0.1.4.3,"Lobsters and lobster meat, frozen",501
+036.0.1.4.5,"Shrimps, prawns etc., frozen",502
+036.0.1.4.2.19,"King crab, nei, frozen",503
+036.0.1.4.2.11,"King crab meat, frozen",504
+036.0.1.4.2.29,"Tanner crab, nei, frozen",505
+036.0.1.4.2.21,"Tanner crab meat, frozen",506
+036.0.1.4.2.22,"Tanner crab sections, frozen",507
+036.0.1.4.2.99,"Crabs nei, frozen",508
+036.0.1.4.2.91,"Crab meat, frozen",509
+036.0.1.4.3.11,"Spiny lobsters (Panulirus spp.), whole, frozen",510
+036.0.1.4.3.12,"Spiny lobsters (Panulirus spp.), meat or tails, frozen",511
+036.0.1.4.3.21,"Rock lobsters (Jasus spp.), whole, frozen",512
+036.0.1.4.3.22,"Rock lobsters (Jasus spp.), meat or tails, frozen",513
+036.0.1.4.3.91,"Lobsters nei, whole, frozen",514
+036.0.1.4.5.99,"Shrimps and prawns, frozen, nei",515
+036.0.1.4.5.91,"Shrimps and prawns, not cooked, frozen",516
+036.0.1.4.5.92,"Shrimps and prawns, cooked, frozen",517
+036.0.1.4.5.93,"Shrimps and prawns, tails, shell on, frozen",518
+036.0.1.4.5.94,"Shrimps and prawns, peeled, frozen",519
+036.0.1.4.5.95,"Shrimps and prawns peeled, deveined, breaded, frozen",520
+036.0.1.4.5.96,"Shrimps and prawns, fan tails, frozen",521
+036.0.1.5,"Crustaceans, dried, salted or in brine, smoked",522
+036.0.2.1,"Molluscs live, not for human consumption",523
+036.0.2.3,"Molluscs, live, fresh or chilled",525
+036.0.1.4.6,"Krill, frozen",526
+036.0.1.4.9,"Miscellaneous marine crustaceans, frozen",527
+036.0.1.5.2,"Crabs, dried, salted or in brine, smoked",528
+036.0.1.5.5,"Shrimps, prawns, etc., dried, salted or in brine, smoked",529
+036.0.1.5.9,"Miscellaneous crustaceans, dried, salted or in brine, smoked",530
+036.0.2.1.9,"Miscellaneous molluscs live, not for human consumption",531
+036.0.2.3.2,"Univalves, live, fresh or chilled",533
+036.0.2.3.3,"Oysters, live, fresh or chilled",534
+036.0.2.3.4,"Mussels, live, fresh or chilled",535
+036.0.2.3.5,"Scallops, pectens, etc., live, fresh or chilled",536
+036.0.2.3.6,"Clams, cockles, arkshells, etc., live, fresh or chilled",537
+036.0.2.3.7,"Cephalopods live, fresh or chilled",538
+036.0.1.4.6.10,"Krill, etc. frozen",539
+036.0.1.4.9.90,"Crustaceans nei, even smoked, frozen",540
+036.0.1.5.2.90,"Crabs, dried, salted or in brine, smoked, nei",541
+036.0.1.5.5.90,"Shrimps and prawns, dried, salted or in brine, smoked nei",542
+036.0.1.5.9.90,"Crustaceans nei, dried, salted or in brine, smoked",543
+036.0.2.1.9.90,"Molluscs live, spat, for breeding and other purposes, nei",544
+036.0.2,"Molluscs & oth. aq.inv., live, fresh, chilled, frozen, salted, in brine or dried",545
+036.0.2.3.2.10,"Abalones, shucked or not, live,fresh or chilled",546
+036.0.2.3.2.90,"Univalves, live, fresh or chilled, nei",547
+036.0.2.3.3.10,"Flat oysters, shucked or not, live, fresh or chilled",548
+036.0.2.3.3.21,"Oysters, in shell, live fresh or chilled",549
+036.0.2.3.3.22,"Oysters, shucked, fresh or chilled",550
+036.0.2.3.3.29,"Oysters, live fresh or chilled, nei",551
+036.0.2.3.4.90,"Mussels, live, fresh or chilled, nei",552
+036.0.2.3.5.90,"Scallops, shucked, fresh or chilled, nei",553
+036.0.2.3.6.10,"Clams, shucked or not, live, fresh or chilled",554
+036.0.2.3.6.90,"Bivalves, live, fresh or chilled, nei",555
+036.0.2.3.7.10,"Cuttlefishes (Sepia off., Rossia macrosoma, Sepiola rondeleti), live, fresh or chilled",556
+036.0.2.3.7.19,"Cuttlefishes, live, fresh or chilled, nei",557
+036.0.2.3.7.30,"Squids (Ommastrephes sagittatus, Loligo spp.), live, fresh or chilled",558
+036.0.2.3.7.35,"Squids (Illex spp.), live, fresh or chilled",559
+036.0.2.3.7.39,"Squids, live,fresh or chilled, nei",560
+036.0.2.3.7.50,"Octopus, live, fresh or chilled",561
+036.0.2.3.7.90,"Cephalopods, live, fresh or chilled, nei",562
+036.0.2.4,"Molluscs, frozen",563
+036.0.2.5,"Molluscs, dried, salted or in brine, smoked",564
+036.0.2.3.9,"Miscellaneous molluscs and invertebrates, live, fresh or chilled",565
+036.0.2.4.2,"Univalves, frozen",566
+036.0.2.4.3,"Oysters, frozen",567
+036.0.2.4.4,"Mussels, frozen",568
+036.0.2.4.5,"Scallops, pectens, etc., frozen",569
+036.0.2.4.6,"Clams, cockles, arkshells, etc., frozen",570
+036.0.2.4.7,"Cephalopods, frozen",571
+036.0.2.4.9,"Miscellaneous molluscs and aq. invertebrates, frozen",572
+036.0.2.5.3.21,"Oysters, dried, salted or in brine, smoked",573
+036.0.2.5.7,"Cephalopods, dried, salted, in brine or smoked",574
+036.0.2.5.9,"Miscellaneous molluscs & aq.invertebrates, dried, salted or in brine, smoked",575
+036.0.3.1,"Crustaceans and molluscs, live, for breeding and other purposes",576
+036.0.3.2,"Crustaceans and molluscs, live, for human food",577
+036.0.3.3,"Crustaceans and molluscs, fresh or chilled",578
+036.0.2.3.9.91,"Molluscs nei, live, fresh or chilled",579
+036.0.2.4.2.10,"Abalone (Haliotis spp.), frozen",580
+036.0.2.4.2.90,"Univalves nei, frozen",581
+036.0.2.4.3.10,"Flat oysters, frozen",582
+036.0.2.4.3.20,"Oysters, frozen",583
+036.0.2.4.4.90,"Mussels nei, frozen",584
+036.0.2.4.5.10,"Scallops, including queen scallop, frozen",585
+036.0.2.4.6.10,"Clam meat, frozen",586
+036.0.2.4.6.90,"Bivalves nei, frozen",587
+036.0.2.4.7.10,"Cuttlefishes (Sepia off., Rossia macrosoma, Sepiola rondeleti), frozen",588
+036.0.2.4.7.19,"Cuttlefishes, frozen",589
+036.0.2.4.7.321,"Squids (Ommastrephes sagittatus, Loligo spp.), frozen",590
+036.0.2.4.7.35,"Squids (Illex spp.), frozen",591
+036.0.2.4.7.391,"Squid rings, frozen",592
+036.0.2.4.7.39,"Squids nei, frozen",593
+036.0.2.4.7.50,"Octopus, frozen",594
+036.0.2.4.7.90,"Cephalopods nei, frozen",595
+036.0.2.4.9.91,"Molluscs nei, frozen",596
+036.0.2.5.3.22,"Oysters, dried",597
+036.0.2.5.7.30,"Squids, dried, salted or in brine, smoked",599
+036.0.2.5.7.35,"Squids, salted or pickled",600
+036.0.2.5.7.90,"Cephalopods nei, dried, salted or in brine, smoked",601
+036.0.2.5.9.91,"Molluscs nei, dried, salted, pickled, smoked etc.",602
+036.0.3.1.90,"Crustaceans and molluscs, live, for breeding and other purposes, nei",603
+036.0.3.2.90,"Crustaceans and molluscs, live, for human food nei",604
+036.0.3.3.90,"Crustaceans and molluscs, nei, fresh or chilled",605
+037.1.1.3,"Freshwater fish prepared or preserved, not minced",606
+036.0.3.4,"Crustaceans and molluscs, frozen",607
+036.0.3.5,"Crustaceans and molluscs, dried, salted or in brine",608
+036.0.3.4.90,"Crustaceans and molluscs, nei, frozen",609
+036.0.3.5.90,"Crustaceans and molluscs, dried, salted or in brine, nei",610
+37.1,Fish prepared or preserved,611
+037.1.1,"Fish prepared or preserved, whole or in pieces, not minced",612
+037.1.1.3.9,"Miscellaneous freshwater fish, prepared or preserved, not minced",613
+037.1.1.4.3,"Salmons, trouts, smelts, prepared or preserved, not minced",614
+037.1.1.5.2,"Cods, hakes, haddocks, etc., prep. or pres.,  not minced",615
+037.1.1.5.5,"Herrings, sardines, anchovies, etc., prep. or pres., not minced",616
+037.1.1.3.9.90,"Miscellaneous freshwater fish, prepared or preserved, not minced, nei",617
+037.1.1.4.3.20,"Atlantic salmon, not minced, prepared or preserved",618
+037.1.1.4.3.259,"Pink salmon, not minced, prepared or preserved, nei",619
+037.1.1.4.3.26,"Chum salmon, not minced, prepared or preserved",620
+037.1.1.4.3.279,"Sockeye salmon, not minced, prepared or preserved, nei",621
+037.1.1.4.3.28,"Chinook salmon, not minced, prepared or preserved",622
+037.1.1.4.3.29,"Coho salmon, not minced, prepared or preserved",623
+037.1.1.4.3.30,"Pacific salmons nei, not minced, prepared or preserved",624
+037.1.1.4.3.399,"Salmon nei, not minced, prepared or preserved",625
+037.1.1.5.2.40,"Saithe (=Pollock), not minced, prepared or preserved",626
+037.1.1.5.2.69,"Hake, not minced, prepared or preserved",627
+037.1.1.5.5.119,"Atlantic herring, not minced, prep. or pres., nei",628
+037.1.1.5.5.111,"Atlantic herring, not minced, in oil, prep. or pres.",629
+037.1.1.5.5.112,"Atlantic herring, not minced, marinated, prep. or pres.",630
+037.1.1.5.5.113,"Atlantic herring, not minced, smoked in oil, prep. or pres.",631
+037.1.1.5.5.114,"Atlantic herring, not minced, smoked in tomato sauce, prep. or pres.",632
+037.1.1.5.5.194,"Herring kippers, prepared or preserved",633
+037.1.1.5.5.199,"Herrings prepared or preserved, not minced, nei",634
+037.1.1.5.5.25,"South African pilchard, prep. or pres., not minced",635
+037.1.1.5.5.201,"Pilchards (Sardinops spp.), prep. or pres., not minced, nei",636
+037.1.1.5.5.409,"European sardine, prepared or preserved, not minced, nei",637
+037.1.1.5.5.401,"European sardine, prepared or preserved, not minced, in oil",638
+037.1.1.5.5.402,"European sardine, prepared or preserved, not minced, in tomato sauce",639
+037.1.1.5.5.403,"European sardine, prepared or preserved, not minced, smoked",640
+037.1.1.5.5.50,"Sprat, prepared or preserved, not minced",641
+037.1.1.5.5.609,"Anchovies, prepared or preserved, not minced",642
+037.1.1.5.5.909,"Clupeoids, prepared or preserved, not minced, nei",643
+037.1.2,Fish products prepared or preserved,644
+037.1.1.5.6,"Tunas, bonitos, billfishes, etc., prepared or preserved, not minced",645
+037.1.1.5.7,"Miscellaneous pelagic fish, prepared or preserved, not minced",646
+037.1.1.5.9,"Miscellaneous marine fish prepared or preserved, whole or in pieces, not minced",647
+037.1.2.1,"Caviar and caviar substitutes, roes, etc.",648
+037.1.1.5.6.101,"Bonito (Sarda spp.), prepared or preserved, not minced, in oil",649
+037.1.1.5.6.109,"Bonito (Sarda spp.), not minced, prepared or preserved, nei",652
+037.1.1.5.6.201,"Skipjack, prepared or preserved, whole or in pieces, not minced, in oil",653
+037.1.1.5.6.209,"Skipjack prepared or preserved, not minced, nei",655
+037.1.1.5.6.401,"Albacore (=Longfin tuna), prepared or preserved, not minced, in oil",656
+037.1.1.5.6.409,"Albacore (=Longfin tuna), prep. or pres., not minced, nei",658
+037.1.1.5.6.911,"Tunas prepared or preserved, not minced, nei",659
+037.1.1.5.6.902,"Tuna loins, prepared or preserved",661
+037.1.1.5.6.903,"Tunas prepared or preserved, not minced, in airtight containers",662
+037.1.1.5.6.905,"Tunas prepared or preserved, not minced, not in airtight containers",664
+037.1.1.5.6.909,"Tunas, flakes and grated, prepared or preserved",668
+037.1.1.5.7.612,"Chub mackerel prepared or preserved, not minced, in oil",669
+037.1.1.5.7.613,"Chub mackerel prepared or preserved, not minced, in tomato sauce",670
+037.1.1.5.7.611,"Chub mackerel prepared or preserved, not minced",671
+037.1.1.5.7.62,"Atlantic mackerel prepared or preserved, not minced",672
+037.1.1.5.7.691,"Mackerel prepared or preserved, not minced, nei",673
+037.1.1.5.7.692,"Mackerels, fillets, prepared or preserved",674
+037.1.1.5.7.693,"Mackerels nei, prep. or pres., not minced, in oil or in brine",675
+037.1.1.5.9.90,"Marine fish nei, prepared or preserved, not minced",676
+037.1.2.1.10,Caviar,678
+037.1.2.1.20,Caviar substitutes,679
+037.1.2.1.29,Caviar and caviar substitutes,680
+037.1.3.5.5.19,"Herrings minced, prepared or preserved",681
+037.1.2.1.30,"Cod roe, prepared",682
+037.1.2.1.40,"Herring roe, prepared",683
+037.1.2.1.90,"Fish roes, prepared, nei",684
+037.1.3,"Fish minced, products and preparations",685
+037.1.3.4.3.39,"Salmon minced, prepared or preserved",690
+037.1.3.4.3.90,"Salmonoids nei, minced, prepared or preserved",691
+037.1.1.5.5.198,"Herrings, not minced, prep. or pres., not in airtight containers",692
+037.1.1.5.5.193,"Herrings, not minced, smoked, in oil or in tomato sauce, prep. or pres.",693
+037.1.1.5.5.195,"Herring fillets, incl. coated in batter, cooked or not",694
+037.1.1.5.5.602,"Anchovies, semi-preserved",695
+037.1.1.6.91,"Fish fillets, prep. or pres, incl. raw, coated in batter or breadcrum, cooked or not, frozen",698
+037.1.1.6.92,"Fish spiced, marinated, etc., not minced, prep. or pres.",699
+037.1.3.5.9.98,"Fish, sauce",700
+037.1.3.5.9.911,"Balls, cakes, sausages, etc.prepared from minced fish",701
+037.1.3.5.9.99,"Marine fish nei, minced, prepared or preserved",703
+37.2,"Crustaceans, molluscs, other aq. inv., prepared or preserved",704
+037.2.1,"Crustaceans, prepared or preserved",705
+037.2.1.1,"Crustaceans, prep. or pres., whether or not in airtight containers",706
+037.2.2,"Molluscs and other aq. inv., prepared or preserved",708
+037.2.2.1,"Molluscs, prep. or pres., whether or not in airtight containers",709
+037.2.1.1.2,"Crabs, prepared or preserved",710
+037.2.1.1.5,"Shrimps, prawns, etc., prepared or preserved",712
+037.2.1.1.9,"Miscellaneous marine crustaceans, prepared or preserved",713
+037.2.2.1.2,"Univalves meat, prepared or preserved",716
+037.2.2.1.3,"Oyster meat, prepared or preserved",717
+037.2.2.1.4,"Mussels, prepared or preserved",718
+037.2.2.1.5,"Scallops, pectens, etc., prepared or preserved",719
+037.2.1.1.2.10,"King crab meat, prepared or preserved",720
+037.2.1.1.2.909,"Crab meat nei, prepared or preserved",721
+037.2.1.1.3.20,"Lobster tails or meat, prep. or pres.",722
+037.2.1.1.5.901,"Shrimps, peeled, cooked, prep. or pres.",723
+037.2.1.1.5.902,"Shrimps, breaded, raw and cooked, prep. or pres.",724
+037.2.1.1.5.909,"Shrimps, prawns, prepared or preserved, nei",725
+037.2.1.1.9.99,"Crustaceans nei, prepared or preserved",726
+037.2.1.1.5.904,"Shrimps and prawns, prep. or pres., not in airtight containers",727
+037.2.1.1.9.91,Crustacean preparations incl. paste,728
+037.2.2.1.2.10,"Abalone meat, prepared or preserved",729
+037.2.2.1.2.90,"Univalves meat, prepared or preserved, nei",730
+037.2.2.1.3.20,"Oyster meat, prepared or preserved, nei",731
+037.2.2.1.4.99,"Mussel meat, prepared or preserved, nei",733
+037.2.2.1.5.90,"Scallop meat, prepared or preserved",734
+037.2.3,"Crustaceans and molluscs, canned or preparations",737
+037.2.2.1.6,"Clams, cockles, arkshells, etc., prep. or pres.",738
+037.2.2.1.7,"Cephalopods, prepared or preserved",739
+037.2.2.1.9,"Miscellaneous molluscs and aq. invertebrates, prep. or pres.",740
+037.2.3.9,"Crustaceans and molluscs, prepared or preserved",743
+037.2.2.1.6.109,"Clams, prep. or pres., whether or not in airtight containers",745
+037.2.2.1.6.102,"Clam chowder, canned",747
+037.2.2.1.6.90,"Clams, cockles, arkshells, etc., prep. or pres., nei",748
+037.2.2.1.7.99,"Cephalopods, prepared or preserved, nei",749
+037.2.2.1.9.91,"Molluscs nei, prepared or preserved",750
+037.2.2.1.7.91,"Cephalopods, preparations, not in airtight containers",751
+037.2.2.1.9.94,"Mollusc preparations, not in airtight containers",752
+037.2.3.9.99,"Crustaceans and molluscs, prepared or preserved, nei",753
+037.2.3.9.91,"Crustacean and mollusc preparations, not in airtight containers",754
+411,"Aquatic animals, oils and fats",755
+411.11,Fish liver oils,756
+411.12,Fish oils and fats (other than fish liver oil),757
+411.13,Oils and fats of marine mammals,758
+411.14,"Oils and fats, crude or refined, of aquatic animal origin",759
+411.11.5.2,"Cods, hakes, haddocks, liver oils",760
+411.11.5.9,Miscellaneous fish liver oils,761
+411.12.5.3,"Miscellaneous coastal fish, oils",762
+411.12.5.4,"Miscellaneous demersal fish, oils",763
+411.12.5.5,"Herrings, sardines, anchovies, body oils",764
+411.12.5.9,Miscellaneous fish body oils,765
+411.13.1,Oils and fats etc. of marine mammals,766
+411.14.1,Oils and fats of aquatic animals,767
+411.11.5.2.19,Cod liver oil,768
+411.11.5.2.45,"Alaska pollock, liver oil",769
+411.11.5.2.60,Hake liver oil,770
+411.11.5.8.70,Shark liver oil,771
+411.11.5.9.90,"Fish liver oils, nei",772
+411.12.5.3.67,Sandeel oil,773
+411.12.5.4.49,Redfish oil,774
+411.12.5.7.01,Capelin oil,775
+411.12.5.7.70,Jack mackerel oil,776
+411.12.5.5.19,Herring oil,777
+411.12.5.5.20,Pilchard oil,778
+411.12.5.5.30,Menhaden oil,779
+411.12.5.5.40,Sardine oil,780
+411.12.5.5.60,Anchovy oil,781
+411.12.5.5.65,Anchoveta oil,782
+411.12.5.5.90,"Clupeoid oils, nei",783
+411.12.5.9.90,"Fish body oils, nei",784
+411.13.1.10,Whale oil,785
+411.13.1.20,Sperm oil,786
+411.13.1.30,Seal oil,787
+411.13.1.90,"Marine mammal oils, nei",788
+411.14.1.70,Squid oil,789
+411.14.1.90,"Oils and fats of aquatic animals, nei",790
+081.42.1,Fishmeal,791
+081.42.1.3,Freshwater fish meal,792
+081.42.1.5.2,"Cods, hakes, haddocks, fish meal",793
+081.42.2,Crustacean meals,796
+081.42.3,Marine mammals meal,797
+81.99,"Fish solubles, silages, etc.",798
+081.99.1,Solubles from fish and marine mammals,799
+081.99.2,Fish solubles and silages,800
+081.42.1.3.9,Miscellaneous freshwater fish meal,801
+081.42.1.5.3,Meal from miscellaneous coastal fishes,804
+081.42.1.5.4,Meal from miscellaneous demersal fishes,805
+081.42.1.5.5,"Herrings, sardines, anchovies, meal",806
+081.42.1.5.6,"Meal from tunas, bonitos, billfishes, etc.",807
+081.42.1.5.7,Meal from miscellaneous pelagic fishes,808
+081.42.1.5.9,Miscellaneous marine fish meal,809
+081.42.2.2,"Crabs, etc. meal",811
+081.42.2.3,"Meal from lobsters, spiny-rock lobsters, etc.",812
+081.42.2.5,"Meal from shrimps, prawns, etc.",813
+081.42.2.9,Miscellaneous crustaceans meal,814
+081.42.3.1,"Meat meals, liver meals from marine mammals",815
+081.99.1.1,Solubles from fish and marine mammals etc.,816
+081.99.2.1,"Fish silages, etc",817
+081.42.1.3.9.90,"Freshwater fish meal, nei",818
+081.42.1.5.2.19,Cod meal,819
+081.42.1.5.2.51,Blue whiting meal,820
+081.42.1.5.2.60,Hake meal,821
+081.42.1.5.4.49,Redfish meal,822
+081.42.1.5.2.96,"White-fish meal, nei",823
+081.42.1.5.4.19,Lanternfish meal,824
+081.42.1.5.3.67,Sandeel meal,825
+081.42.1.5.7.01,Capelin meal,826
+081.42.1.5.7.70,Jack mackerel meal,827
+081.42.1.5.5.19,Herring meal,828
+081.42.1.5.5.20,Pilchard meal,829
+081.42.1.5.5.30,Menhaden meal,830
+081.42.1.5.5.40,Sardine meal,831
+081.42.1.5.5.60,Anchovy meal,832
+081.42.1.5.5.65,Anchoveta meal,833
+081.42.1.5.5.90,"Clupeoid fish meal, nei",834
+081.42.1.5.6.90,Tuna meal,835
+081.42.1.5.7.69,Mackerel meal,836
+081.42.1.5.9.90,"Fishmeals, nei",837
+081.42.2.2.90,Crab meal,839
+081.42.2.3.90,Lobster meal,840
+081.42.2.5.90,Shrimp meal,841
+081.42.2.9.90,"Crustacean meal, nei",842
+081.42.3.1.10,Meat meal from whales,843
+081.42.3.1.30,Seal meat meal,844
+081.42.3.1.90,Liver meal from aquatic mammals,845
+081.99.1.1.80,Solubles from fish,846
+081.99.1.1.90,Solubles from marine mammals,847
+081.99.2.1.90,"Fish silages, nei",848
+036.0.1.4.5.30,"Common shrimp (Crangon crangon), even smoked, frozen",849
+036.0.2.3.2.20,"Top shell, live, fresh or chilled",850
+037.1.1.4.3.90,"Salmonoids, not minced, prepared or preserved",852
+034.1.5.7.62,"Atlantic mackerel, fresh or chilled",853
+037.1.1.5.2.90,"Gadiformes, not minced, prepared or preserved",854
+35.01,Fishmeal fit for human consumption,855
+036.0.2.5.7.50,"Octopus, dried, salted or in brine, smoked",857
+035.02.1.5.9,"Miscellaneous marine fish, dried, whether or not salted",859
+035.02.3,"Fish fillets, dried, salted or in brine",860
+035.02.3.3,"Freshwater fish, fillets, dried, salted or in brine",861
+035.02.3.4,"Diadromous fish, fillets, dried, salted or in brine",862
+035.02.3.5,"Marine fishes, fillets, dried, salted or in brine",863
+81.42,"Flours and meals of fish, crustaceans or molluscs, unfit for human consumption",871
+037.1.1.5.4,"Miscellaneous demersal fish, prepared or preserved, not minced",872
+037.1.1.5.4.90,"Miscellaneous demersal fish, not minced, prep. or pres., nei",873
+037.1.1.5.7.70,"Jack and horse mackerel prepared or preserved, not minced",874
+3,"Fish, crustaceans, molluscs and preparations",875
+037.2.1.1.5.903,Shrimp paste,877
+037.1.3.5.9.94,Fish paste,881
+037.1.3.5.9.95,Preparations of surimi,882
+037.1.2.1.50,"Lumpfish roes, prepared",883
+034.2.9.2.10,"Fish heads, tails, maws, tongues, nei frozen",884
+035.02.3.9.2.10,"Fish heads, tail, maws etc., smoked, dried, salted, or in brine",885
+034.4.4.2.5.2.18,"Cod, minced, frozen",886
+034.4.4.2.5.2.30,"Haddock, minced, frozen",887
+034.4.4.2.5.2.40,"Saithe (=Pollock), minced, frozen",888
+034.4.4.2.5.2.70,"Ling meat, whether or not minced, frozen",889
+034.4.4.2.5.4.41,"Atlantic redfish, minced, frozen",890
+034.4.4.2.5.3.01,"Sea catfish, minced, frozen",892
+036.0.2.5.4.90,"Mussels, dried, salted or in brine, smoked",893
+036.0.2.3.6.30,"Arkshell, fresh or chilled",894
+036.0.2.4.6.30,"Arkshells, frozen",895
+411.12.5.2,"Cods, hakes, haddocks, oils",896
+411.12.5.2.45,"Alaska pollock, oil, nei",897
+411.12.5.8.70,Shark oil,898
+034.3.1.3.9.30,"Catfish fillets, fresh or chilled",899
+034.1.4.5.10,"Milkfish, fresh or chilled",900
+034.2.5.1.902,"Flatfish, dressed, frozen, nei",901
+037.1.2.1.95,"Fish livers, roes, etc., prepared or preserved, nei",902
+035.03.5.2.90,"Gadiformes, smoked",904
+81,"Meals, solubles and similar animal feedingstuffs, of aquatic animal origin",905
+036.0.2.5.7.80,"Cephalopods, smoked",909
+037.1.1.5,"Marine fish, prepared or preserved, not minced,",910
+34.5,"Fish, fresh, chilled or frozen",911
+35.05,"Fish, dried, salted or smoked",912
+036.0.4,"Crustaceans and molluscs, fresh, frozen, dried, salted, etc.",913
+037.1.3.6.90,"Fish minced nei, prepared or preserved",914
+037.1.1.4,"Diadromous fish prepared or preserved, not minced",915
+411.15,"Aquatic animals, oils and fats, nei",918
+035.03.5.5.90,"Clupeoids nei, smoked",919
+036.0.1.3.5.92,"Shrimps and prawns, peeled, fresh or chilled",920
+036.0.2.3.9.92,"Molluscs nei, shucked, fresh or chilled",921
+036.0.2.3.9.95,"Molluscs and other aqu. invertebrates, live, fresh or chilled, nei",922
+036.0.2.4.9.95,"Molluscs and other aq.invertebrates, frozen",923
+036.0.2.5.9.95,"Molluscs and other aq. invertebrates, dried, salted, smoked etc.",924
+291.1.5,Corals and shells,925
+291.1.5.10,Coral and the like,926
+291.1.5.21,Mother of pearl shells,928
+291.1.5.22,Abalone shells,929
+291.1.5.23,Oyster shells,930
+291.1.5.24,Sea snail shells,931
+291.1.5.25,Trochus shells,932
+291.1.5.29,Shells nei,933
+291.1.5.30,Powder and waste of shells,934
+291.9.6.10,"Fish waste, nei",935
+291.9.7,Natural sponges,936
+291.9.7.10,Natural sponges raw,937
+291.9.7.20,Natural sponges other than raw,938
+291.9.9,"Fish crustacean and mollusc products, unfit for human consumption",939
+291.9.9.10,Fish unfit for human consumption,940
+291.9.9.20,Crustaceans & molluscs unfit for human consumption,941
+291.9.9.30,Cuttlefish bones,942
+291.9.9.90,"Fish, crustacean and mollusc products, unfit for human consumption nei",943
+292.9.1,Seaweeds and aquatic plants and products thereof,944
+292.9.1.11,Agar agar in strips,946
+292.9.1.12,Agar agar in blocks,947
+292.9.1.13,Agar agar in powder,948
+037.1.1.5.5.901,"Clupeoids, prep. or pres., not minced, not in airtight containers",949
+037.1.1.5.7.614,"Chub mackerel prepared or preserved, not minced, in brine",950
+036.0.2.5.7.801,"Cuttlefish and squids, smoked",951
+037.1.1.4.2,"River eels, prepared or preserved, not minced",952
+037.1.1.4.2.10,"River eels, prepared or preserved, not minced, nei",953
+037.1.1.5.2.19,"Cods, not minced, prepared or preserved",954
+037.1.1.5.3,"Miscellaneous coastal fish, prepared or preserved, not minced",955
+037.1.1.5.3.90,"Miscellaneous coastal fish, not minced, prep. or pres., nei",956
+037.2.1.1.3.10,"Spiny-rock lobster, prepared or preserved",957
+037.2.2.1.7.31,"Squids, seasoned",958
+35,"Fish, dried, salted or in brine; smoked fish",960
+035.02.1.5.2.45,"Alaska pollock, dried, unsalted",961
+035.02.2.5.5.61,"Anchovies, boiled in saltwater",962
+034.3.2.1.4.2.39,"Salmon steaks, fresh or chilled",963
+034.3.2.1.5.90,"Fish steaks, fresh or chilled, nei",964
+034.3.1.4,"Diadromous fish fillets, fresh or chilled",965
+034.3.1.4.3,"Salmons, trouts, smelts fillets, fresh or chilled",966
+034.3.1.4.3.39,"Salmon fillets, fresh or chilled",967
+034.3.1.4.3.90,"Salmonoids fillets, fresh or chilled, nei",968
+035.02.3.4.3.90,"Salmonoids fillets, dried, salted or in brine, but not smoked",969
+035.02.2.5.5.11,"Herring, salted or in brine",970
+035.02.2.5.5.65,"European anchovy, salted",971
+035.02.1.5.5.90,"Clupeoids nei, dried, unsalted",972
+035.02.1.5.5.191,"Herrings, dried, unsalted",973
+035.02.1.5.5.20,"Pilchards, dried, unsalted",974
+035.02.1.5.5,"Herrings, sardines, anchovies, etc., dried, whether or not salted",975
+035.02.1.5.3.67,"Sandeels, dried, unsalted",976
+037.1.3.5.9.92,Kamaboko,977
+037.1.3.5.9.93,Tsukudani,978
+037.1.3.5.9.912,Fish cakes,979
+035.02.1.5.6.90,"Tunas nei, dried, unsalted",981
+035.02.1.5.3,"Miscellaneous coastal fish, dried, whether or not salted",982
+035.02.1.5.6,"Tunas, bonitos, billfishes, etc., dried, whether or not salted",983
+292.9.1.19,Agar agar nei,984
+292.9.1.21,Rock laver,986
+292.9.1.22,Green laver,987
+292.9.1.23,"Laver, smoked",988
+292.9.1.24,"Laver, dry",989
+292.9.1.29,"Laver, nei",990
+292.9.1.30,Hizikia fusiforme (brown algae),991
+292.9.1.40,Undaria pinnafitida (brown algae),992
+292.9.1.50,Kelp,993
+292.9.1.51,Kelp meal,994
+292.9.1.60,Carrageen (Chondrus crispus),995
+292.9.1.71,"Other green algae (ulva, enteromorpha)",997
+292.9.1.72,"Other brown algae (laminaria, eisenia/ecklonia)",998
+292.9.1.73,Other red algae,999
+292.9.1.78,"Seaweeds and other algae, fit for human consumption, nei",1000
+292.9.1.79,"Seaweeds and other algae, unfit for human consumption, nei",1001
+034.1.4.5.20,"Barramundi, fresh or chilled",1002
+034.1.3.9.50,"Nile perch, fresh or chilled",1003
+291.9.6,Fish waste,1004
+034.1.5.1.25,"Bastard halibut, fresh or chilled",1005
+034.1.5.1.31,"European plaice (Pleuronectes platessa), fresh or chilled",1006
+034.1.5.1.32,"Alaska plaice, fresh or chilled",1007
+034.1.5.1.33,"American plaice, fresh or chilled",1008
+034.1.5.1.41,"Yellowfin sole, fresh or chilled",1009
+034.1.5.1.42,"Yellowtail flounder, fresh or chilled",1010
+034.1.5.1.43,"Common dab, fresh or chilled",1011
+034.1.5.1.44,"Lemon sole, fresh or chilled",1012
+034.1.5.1.45,"Common sole (Solea Solea), fresh or chilled",1013
+034.1.5.1.60,"Megrim, fresh or chilled",1014
+034.1.5.1.70,"Turbot, fresh or chilled",1015
+034.1.5.2.51,"Blue whiting (Micromesistius poutassou), fresh or chilled",1016
+034.1.5.2.52,"Southern blue whiting (Micromesistius australis), fresh or chilled",1017
+034.1.5.2.61,"European hake, fresh or chilled",1018
+034.1.5.2.62,"Chilean hake, fresh or chilled",1019
+034.1.5.2.63,"Argentine hake, fresh or chilled",1020
+034.1.5.2.64,"North Pacific hake, fresh or chilled",1021
+034.1.5.2.65,"Cape hake, fresh or chilled",1022
+034.1.5.2.69,"Hake nei, fresh or chilled",1023
+034.1.5.2.85,"Grenadiers, fresh or chilled",1024
+034.1.5.3.02,"Sea catfish, fresh or chilled",1025
+034.1.5.3.04,"Lizardfish, fresh or chilled",1026
+034.1.5.4.01,"Pike-conger, fresh or chilled",1027
+034.1.5.4.02,"Conger, fresh or chilled",1028
+034.1.5.4.03,"Snipefish, fresh or chilled",1029
+034.1.5.4.05,"Orange roughy, fresh or chilled",1030
+034.1.5.4.06,"John dory, fresh or chilled",1031
+034.1.5.4.07,"Oreo dories, fresh or chilled",1032
+034.1.5.3.18,"Snook, fresh or chilled",1033
+034.1.5.3.20,"Grouper, fresh or chilled",1034
+034.1.5.3.22,"Seabass, fresh or chilled",1035
+034.1.5.3.24,"Snapper, fresh or chilled",1036
+034.1.5.3.26,"Fusiliers, fresh or chilled",1037
+034.1.5.3.28,"Pony fishes, fresh or chilled",1038
+034.1.5.3.30,"Grunt, fresh or chilled",1039
+034.1.5.3.32,"Drum, fresh or chilled",1040
+034.1.5.3.34,"Weakfish, fresh or chilled",1041
+034.1.5.3.38,"Corb, fresh or chilled",1042
+034.1.5.3.42,"Pandora, fresh or chilled",1043
+034.1.5.3.44,"Dentex, fresh or chilled",1044
+034.1.5.3.48,"Red mullet, fresh or chilled",1045
+034.1.5.4.08,"Icefish, fresh or chilled",1046
+034.1.5.4.09,"Wolffish (=catfish), fresh or chilled",1047
+034.1.5.4.11,"Cusk-eel (=kingklip), fresh or chilled",1048
+034.1.5.3.58,"Sandlance, fresh or chilled",1049
+034.1.5.3.60,"Spinefeet (=rabbitfish), fresh or chilled",1050
+034.1.5.4.49,"Redfishes, fresh or chilled, nei",1051
+034.1.5.4.42,"Pacific redfishes (=ocean perch), fresh or chilled",1052
+034.1.5.4.14,"Gurnard, fresh or chilled",1053
+034.1.5.3.66,"Atka mackerel, fresh or chilled",1054
+034.1.5.4.15,"Sablefish, fresh or chilled",1055
+034.1.5.3.72,"Trigger fish, fresh or chilled",1056
+034.1.5.3.74,"Puffer, fresh or chilled",1057
+034.1.5.4.16,"Angler (=monk), fresh or chilled",1058
+034.2.4.5,"Miscellaneous diadromous fish, frozen",1059
+034.2.4.5.10,"Milkfish, frozen",1060
+034.2.4.5.20,"Barramundi, frozen",1061
+034.2.3.9.50,"Nile perch, frozen",1062
+034.2.5.1.31,"European plaice, frozen",1063
+034.2.5.1.32,"Alaska plaice, frozen",1064
+034.2.5.1.33,"American plaice, frozen",1065
+034.2.5.1.41,"Yellowfin sole, frozen",1066
+034.2.5.1.42,"Yellowtail flounder, frozen",1067
+034.2.5.1.43,"Common dab, frozen",1068
+034.2.5.1.44,"Lemon sole, frozen",1069
+034.2.5.1.45,"Common sole (Solea Solea), frozen",1070
+034.2.5.1.60,"Megrim, frozen",1071
+034.2.5.1.70,"Turbots, frozen",1072
+034.2.5.2.51,"Blue whiting (Micromesistius poutassou), frozen",1073
+034.2.5.2.52,"Southern blue whiting (Micromesistius australis), frozen",1074
+034.2.5.2.62,"South Pacific hake, frozen",1075
+034.2.5.2.63,"Argentinian hake, frozen",1076
+034.2.5.2.64,"North Pacific hake, frozen",1077
+034.2.5.2.65,"Cape hake, frozen",1078
+034.2.5.2.69,"Hakes nei, frozen",1079
+034.2.5.2.85,"Grenadiers, frozen",1080
+034.2.5.3.02,"Sea catfish, frozen",1081
+034.2.5.3.04,"Lizardfish, frozen",1082
+034.2.5.4.01,"Pike-conger, frozen",1083
+034.2.5.4.02,"Conger, frozen",1084
+034.2.5.4.03,"Snipefish, frozen",1085
+034.2.5.4.05,"Orange roughy, frozen",1086
+034.2.5.4.06,"John dory, frozen",1087
+034.2.5.4.07,"Oreo dories, frozen",1088
+034.2.5.3.18,"Snook, frozen",1089
+034.2.5.3.26,"Fusiliers, frozen",1090
+034.2.5.3.28,"Pony fishes, frozen",1091
+034.2.5.3.32,"Drum, frozen",1092
+034.2.5.3.34,"Weakfish, frozen",1093
+034.2.5.3.38,"Corb, frozen",1094
+034.2.5.3.42,"Pandora, frozen",1095
+034.2.5.3.44,"Dentex, frozen",1096
+034.2.5.3.48,"Red mullet, frozen",1097
+034.2.5.4.08,"Icefish, frozen",1098
+034.2.5.3.58,"Sandlance, frozen",1099
+034.2.5.4.49,"Redfish, frozen, nei",1100
+034.2.5.4.42,"Pacific redfishes (=ocean perch), frozen",1101
+034.2.5.4.14,"Gurnard, frozen",1102
+034.2.5.3.66,"Atka mackerel, frozen",1103
+034.2.5.4.15,"Sablefish, frozen",1104
+034.2.5.3.72,"Trigger fish, frozen",1105
+034.2.5.4.16,"Angler (=monk), frozen",1107
+034.3.1.4.5.90,"Diadromous fish fillets, fresh or chilled, nei",1108
+034.3.1.3.9.50,"Nile perch fillets, fresh or chilled",1109
+034.3.1.5.1.25,"Bastard halibut fillets, fresh or chilled",1110
+034.3.1.5.1.32,"Alaska plaice fillets, fresh or chilled",1111
+034.3.1.5.1.33,"American plaice fillets, fresh or chilled",1112
+034.3.1.5.1.41,"Yellowfin sole fillets, fresh or chilled",1113
+034.3.1.5.1.42,"Yellowtail flounder fillets, fresh or chilled",1114
+034.3.1.5.1.43,"Common dab fillets, fresh or chilled",1115
+034.3.1.5.1.44,"Lemon sole fillets, fresh or chilled",1116
+034.3.1.5.1.60,"Megrim fillets, fresh or chilled",1117
+034.3.1.5.1.70,"Turbot fillets, fresh or chilled",1118
+034.3.1.5.2.51,"Blue whiting fillets, fresh or chilled",1119
+034.3.1.5.2.52,"Southern blue whiting fillets, fresh or chilled",1120
+034.3.1.5.2.61,"European hake fillets, fresh or chilled",1121
+034.3.1.5.2.62,"Chilean hake fillets, fresh or chilled",1122
+034.3.1.5.2.63,"Argentinian hake fillets, fresh or chilled",1123
+034.3.1.5.2.64,"North Pacific hake fillets, fresh or chilled",1124
+034.3.1.5.2.65,"Cape hake fillets, fresh or chilled",1125
+034.3.1.5.2.69,"Hake nei fillets, fresh or chilled",1126
+034.3.1.5.2.85,"Grenadiers fillets, fresh or chilled",1127
+034.4.1.4.5,"Miscellaneous diadromous fish fillets, frozen",1128
+034.4.1.3.9.50,"Nile perch fillets, frozen",1129
+034.4.1.5.1.25,"Bastard halibut fillets, frozen",1130
+034.4.1.5.1.32,"Alaska plaice fillets, frozen",1131
+034.4.1.5.1.33,"American plaice fillets, frozen",1132
+034.4.1.5.1.41,"Yellowfin sole fillets, frozen",1133
+034.4.1.5.1.42,"Yellowtail flounder fillets, frozen",1134
+034.4.1.5.1.43,"Common dab fillets, frozen",1135
+034.4.1.5.1.44,"Lemon sole fillets, frozen",1136
+034.4.1.5.1.60,"Megrim fillets, frozen",1137
+034.4.1.5.2.51,"Blue whiting fillets, frozen",1138
+034.4.1.5.2.52,"Southern blue whiting fillets, frozen",1139
+034.4.1.5.2.61,"European hake fillets, frozen",1140
+034.4.1.5.2.62,"South Pacific hake fillets, frozen",1141
+034.4.1.5.2.63,"Argentinian hake fillets, frozen",1142
+034.4.1.5.2.64,"North Pacific hake fillets, frozen",1143
+034.4.1.5.2.65,"Cape hake fillets, frozen",1144
+034.4.1.5.2.69,"Hake nei fillets, frozen",1145
+034.4.1.5.2.85,"Grenadiers fillets, frozen",1146
+034.2.5.2.61,"European hake, frozen",1147
+034.1.4.5,"Miscellaneous diadromous fish, fresh or chilled",1148
+034.1.5.3.40,"Emperors, fresh or chilled",1149
+034.1.5.3.50,"Rockcod, fresh or chilled",1150
+034.1.5.3.70,"Filefish, fresh or chilled",1151
+034.2.5.1.25,"Bastard halibut, frozen",1152
+034.2.5.3.20,"Grouper, frozen",1153
+034.2.5.3.30,"Grunt, frozen",1154
+034.2.5.3.40,"Emperors, frozen",1155
+034.2.5.3.50,"Rockcod, frozen",1156
+034.2.5.3.60,"Spinefeet(=rabbitfish), frozen",1157
+034.2.5.3.70,"Filefish, frozen",1158
+034.1.3.9.20,"Pike, fresh or chilled",1159
+034.1.3.9.40,"Perch, fresh or chilled",1160
+034.1.4.3.60,"Smelt, fresh or chilled",1161
+034.1.5.2.66,"Silver hake, fresh or chilled",1162
+034.1.5.7.01,"Capelin, fresh or chilled",1163
+034.1.5.8.80,"Rays and skates (Rajidae), fresh or chilled",1164
+034.2.5.2.66,"Silver hake, frozen",1165
+036.0.1.4.4,"Squat-lobsters, frozen",1166
+036.0.1.3.4.10,"Squat-lobsters, fresh or chilled",1167
+036.0.1.4.4.10,"Squat-lobsters nei, frozen",1168
+034.3.1.5.6.80,"Swordfish fillets, fresh or chilled",1169
+036.0.1.3.3.19,"Spiny lobsters (Panulirus spp.), nei, fresh or chilled",1170
+034.4.1.5.6.80,"Swordfish fillets, frozen",1171
+036.0.1.3.3.29,"Rock lobsters (Jasus spp.), nei, fresh or chilled",1172
+036.0.1.3.3.32,"Norway lobsters (Nephrops spp.), meat or tails, fresh or chilled",1174
+036.0.1.3.3.39,"Norway lobsters (Nephrops spp.), nei, live, fresh or chilled",1175
+036.0.1.3.3.41,"American/European lobsters (Homarus spp.), whole, fresh or chilled",1178
+036.0.1.3.3.42,"American/European lobsters (Homarus spp.), meat or tails, fresh or chilled",1179
+036.0.1.3.3.49,"American/European lobsters (Homarus spp.), live, fresh or chilled, nei",1180
+036.0.1.3.3.92,"Lobsters nei, meat or tails, fresh or chilled",1182
+036.0.1.3.3.99,"Lobsters nei, fresh or chilled",1183
+036.0.1.4.1,"Freshwater crustaceans, frozen",1184
+036.0.1.4.1.10,"Crayfish (freshwater), even smoked, frozen",1185
+036.0.1.4.1.90,"Freshwater crustaceans nei, frozen",1186
+036.0.1.4.3.19,"Spiny lobsters (Panulirus spp.), nei, frozen",1188
+036.0.1.4.3.29,"Rock lobsters (Jasus spp.), nei, frozen",1190
+036.0.1.4.3.32,"Norway lobsters (Nephrops spp.), meat or tails, frozen",1192
+036.0.1.4.3.39,"Norway lobsters (Nephrops spp.), nei, even smoked, frozen",1193
+036.0.1.4.3.41,"American/European lobsters (Homarus spp.), whole, even smoked, frozen",1194
+036.0.1.4.3.42,"American/European lobsters (Homarus spp.), meat or tails, even smoked, frozen",1196
+036.0.1.4.3.49,"American/European lobsters (Homarus spp.), nei, even smoked, frozen",1197
+036.0.1.4.3.92,"Lobsters nei, meat or tails, frozen",1199
+036.0.1.4.3.99,"Lobsters nei, frozen",1200
+034.1.2.1.10,Carps live,1201
+034.1.5.8.60,"Dogfish (Squalidae), fresh or chilled",1202
+034.2.5.8.60,"Dogfish (Squalidae), frozen",1203
+034.3.1.5.8.60,"Dogfish (Squalidae) and catshark fillets, fresh or chilled",1204
+034.4.1.5.8.60,"Dogfish (Squalidae) and catshark fillets, frozen",1205
+034.4.4,"Fish meat, frozen",1206
+034.1.5.4.17,"Toothfish (Dissostichus spp.), fresh or chilled",1207
+034.2.5.4.17,"Toothfish (Dissostichus spp.), frozen",1208
+034.4.1.5.4.17,"Toothfish (Dissostichus spp.), fillets, frozen",1209
+034.2.3.2.20,"Tilapias, frozen",1210
+034.3.1.3.2.20,"Tilapia fillets, fresh or chilled",1211
+034.4.1.3.2.20,"Tilapia fillets, frozen",1212
+034.1.5.5.70,"Sardines, sardinellas, brisling or sprats, fresh or chilled",1213
+034.2.5.5.70,"Sardines, sardinellas, brisling or sprats, frozen",1214
+037.1.1.5.5.709,"Sardines, sardinellas, brisling or sprats, prep. or pres., not minced, nei",1215
+034.1.5.7.90,"Miscellaneous pelagic fish, nei, fresh or chilled",1216
+034.2.5.7.90,"Miscellaneous pelagic fish, nei, frozen",1217
+034.4.1.5.7.90,"Miscellaneous pelagic fish fillets, frozen, nei",1218
+035.02.3.5.7.90,"Miscellaneous pelagic fish nei, fillets, dried, salted or in brine",1219
+035.03.5.7.90,"Miscellaneous pelagic fish, nei, smoked",1220
+037.1.1.5.7.90,"Miscellaneous pelagic fish nei, prep. or pres., not minced",1221
+081.42.1.5.7.90,Meal from miscellaneous pelagic fishes nei,1222
+034.1.5.6.35,"Southern bluefin tuna(Thunnus maccoyii), fresh or chilled",1223
+034.2.5.6.35,"Southern bluefin tuna(Thunnus maccoyii), frozen",1224
+034.2.4.3.31,"Sockeye salmon (red salmon)(Oncorhynchus nerka), frozen",1225
+034.2.4.3.35,"Pacific salmons, frozen, nei",1226
+034.3.2.2,"Fish meat, whether or not minced, fresh, chilled",1227
+034.3.2.2.5.5.01,"Flaps of herring, fresh or chilled",1228
+034.3.2.2.5.9.90,"Marine fish meat,whether or not minced nei, fresh or chilled",1229
+034.4.4.2.5.5.18,"Herring, minced, frozen",1230
+034.4.4.2.6.90,"Fish meat, whether or not minced, frozen, nei",1231
+037.1.1.5.5.202,"Pilchards (Sardinops spp.), prep. or pres., not minced, in oil",1232
+037.1.1.5.5.203,"Pilchards (Sardinops spp.), prep. or pres., not minced, in tomato sauce",1233
+037.2.1.1.1,"Freshwater crustaceans, prepared or preserved",1234
+037.2.1.1.1.10,"Crayfish (freshwater), prepared or preserved",1235
+037.2.1.1.1.90,"Freshwater crustaceans nei, prepared or preserved",1236
+034.3.1.5.8.90,"Sharks,rays,chimaeras, nei fillets fresh or chilled",1237
+034.4.1.5.8.90,"Sharks,rays,chimaeras, skates, fillets,  frozen,  nei",1238
+081.42.1.5.2.90,"Gadiformes, meals, nei",1239
+081.42.1.5.3.90,"Coastal fish meals, nei",1240
+081.42.1.5.4.90,"Demersal fish meals, nei",1241
+411.11.5.2.90,"Gadiformes, liver oils, nei",1242
+411.12.5.3.90,"Coastal fishes oils, nei",1243
+411.12.5.4.90,"Demersal fish oils, nei",1244
+034.1.5.6.75,"Spanish mackerel, fresh or chilled",1245
+034.2.5.6.75,"Spanish mackerel, frozen",1246
+034.2.4.5.90,"Miscellaneous diadromous fish, nei, frozen",1247
+034.4.4.2,"Fish meat, whether or not minced, frozen",1248
+034.4.5.90,"Fish meat,whether or not minced, fresh,chilled,frozen, nei",1249
+035.02.3.4.5.90,"Miscellaneous diadromous fish, fillets, dried, salted or in brine, nei",1250
+037.1.1.4.5.90,"Miscellaneous diadromous fish not minced, prep. or pres., nei",1251
+081.99.1.1.901,"Solubles from fish and marine mammals, nei",1252
+081.99.2.1.901,"Fish solubles, silages, nei",1253
+291.1.5.90,Miscellaneous corals and shells,1254
+291.9.7.90,Natural sponges nei,1255
+292.9.1.90,Other seaweeds and aquatic plants and products thereof,1256
+034.4.2.5.2.90,"Cods, hakes, haddocks, etc.  fillets in blocks, frozen, nei",1257
+034.4.4.2.5.2.45,"Alaska pollock, meat, whether or not minced, frozen",1258
+034.3.1.4.3.50,"Trout fillets, fresh and chilled",1259
+034.4.1.4.3.50,"Trout fillets, frozen",1260
+035.02.2.5.5.62,"Anchovies, salted or in brine",1261
+035.02.2.5.2.12,"Cods nei, salted or in brine",1262
+034.1.1.1.11,Ornamental freshwater fish,1263
+034.1.1.1.12,Ornamental saltwater fish,1264
+034.2.9.2.30,"Shark fins, frozen",1265
+037.1.1.5.6.910,"Tunas prepared or preserved, not minced, in oil",1266
+036.0.2.5.2.10,"Abalones, dried, salted or in brine, smoked",1268
+034.4.4.2.5.4.49,"Redfish meat, frozen, whether or not minced, nei",1269
+034.4.4.2.5.2.32,"Haddock meat, frozen",1270
+034.4.4.2.5.2.69,"Hake meat, frozen",1271
+034.4.4.2.5.5.19,"Herring meat, frozen",1272
+034.4.4.2.5.3.02,"Sea catfish meat, frozen",1273
+034.4.4.2.5.4.16,"Angler (=monk), meat, frozen",1274
+036.0.1.6.3.50,"Rock lobster and other sea crawfish, not frozen",1275
+036.0.1.6.3.40,"American/European lobsters (Homarus spp.), not frozen",1276
+036.0.1.6.5.90,"Shrimps and prawns, not frozen, nei",1277
+036.0.1.6.2.90,"Crabs, not frozen",1278
+036.0.1.6.9.90,"Miscellaneous crustaceans, not frozen, nei",1279
+036.0.2.6.5.20,"Scallops, other than live, fresh or chilled",1281
+036.0.2.6.4.90,"Mussels nei, other than live, fresh or chilled",1283
+036.0.2.6.7.50,"Cuttlefish and squid, other than live, fresh or chilled",1285
+036.0.2.6.9.91,"Miscellaneous molluscs, other than live, fresh or chilled, nei",1287
+035.02.2,"Fish, salted, but not dried or smoked and fish in brine",1288
+035.02.3.9.2.35,"Shark fins, salted and in brine but not dried or smoked",1290
+034.1.1.2,Fish for culture,1291
+034.1.4.5.90,"Diadromous fish, fresh or chilled, nei",1292
+034.1.5.6.95,"Tunas, bonitos, billfishes, fresh or chilled, nei",1293
+034.1.6,"Fish, fresh or chilled",1294
+034.1.6.90,"Fish, fresh or chilled, nei",1295
+034.2.3.2,"Tilapias and other cichlids, frozen",1296
+034.2.5.6.95,"Tunas, bonitos, billfishes, frozen, nei",1297
+034.2.6,"Fish, frozen",1298
+034.2.6.90,"Fish, frozen, nei",1299
+034.2.9.2,"Fish heads, tails, fins, maws, tongues, frozen",1300
+034.3.1,"Fish fillets, fresh or chilled",1301
+034.3.1.3.2,"Tilapias and other cichlids, fillets, fresh or chilled",1302
+034.3.1.4.5,"Diadromous fish nei, fillets, fresh or chilled, nei",1303
+034.3.1.5.1.39,"Plaices fillets, fresh or chilled, nei",1304
+034.3.1.5.1.49,"Sole fillets, fresh or chilled, nei",1305
+034.3.1.5.9,"Miscellaneous marine fish fillets, fresh or chilled",1306
+034.3.1.6,"Fish fillets, fresh or chilled",1307
+034.3.1.6.90,"Fish fillets, fresh or chilled, nei",1308
+034.3.2,"Fish meat, fresh, chilled",1309
+034.3.2.1,"Fish steaks, fresh or chilled",1310
+034.3.2.1.4,"Diadromous fish steaks, fresh or chilled",1311
+034.3.2.1.4.2,"Salmons, trouts, smelts, steaks, fresh or chilled",1312
+034.3.2.1.5,"Marine fish steaks, fresh or chilled",1313
+034.3.2.2.3,"Freshwater fish meat, whether or not minced, fresh or chilled",1314
+034.3.2.2.3.90,"Freshwater fish meat, whether or not minced, fresh or chilled, nei",1315
+034.3.2.2.5,"Marine fish meat, whether or not minced, fresh or chilled",1316
+034.3.2.2.5.5,"Herrings, sardines, anchovies, etc. meat, fresh or chilled",1317
+034.3.2.2.5.9,"Miscellaneous marine fish meat, whether or not minced, fresh or chilled",1318
+034.4.1.4.5.90,"Diadromous fish fillets, frozen, nei",1319
+034.4.1.5.1.39,"Plaice fillets, frozen, nei",1320
+034.4.1.5.1.49,"Sole fillets, frozen, nei",1321
+034.4.1.6,"Fish fillets, frozen",1322
+034.4.1.6.90,"Fish fillets, frozen, nei",1323
+034.4.2.4.5,"Miscellaneours diadromous fish fillets in blocks, frozen",1324
+034.4.2.4.5.90,"Diadromous fish fillets in blocks, frozen, nei",1325
+034.4.2.5.3.90,"Miscellaneous coastal fish, fillets in blocks, frozen, nei",1326
+034.4.2.5.4,"Miscellaneous demersal fish, fillets in blocks, frozen",1327
+034.4.2.5.4.90,"Miscellaneous demersal fish, fillets in blocks, frozen, nei",1328
+034.4.2.6,"Fish fillets in blocks, frozen",1329
+034.4.2.6.90,"Fish fillets in blocks, frozen, nei",1330
+034.4.4.1,"Fish steaks, frozen",1331
+034.4.4.1.3,"Freshwater fish, steaks, frozen",1332
+034.4.4.1.3.9,"Miscellaneous freshwater fish, steaks, frozen",1333
+034.4.4.1.4,"Diadromous fish steaks, frozen",1334
+034.4.4.1.4.2,"Salmons, trouts, smelts, steaks, frozen",1335
+034.4.4.1.5,"Marine fish steaks, frozen",1336
+034.4.4.1.5.1,"Flounders, halibuts, soles, etc. steaks, frozen",1337
+034.4.4.1.5.9,"Miscellaneous marine fish steaks, frozen",1338
+034.4.4.2.3,"Freshwater fish meat, whether or not minced, frozen",1339
+034.4.4.2.3.9,"Miscellaneous freshwater fish meat, whether or not minced, frozen",1340
+034.4.4.2.3.9.90,"Freshwater fish meat, whether or not minced, frozen, nei",1341
+034.4.4.2.5,"Marine fish meat, whether or not minced, frozen",1342
+034.4.4.2.5.2,"Cods, hakes, haddocks meat, whether or not minced, frozen",1343
+034.4.4.2.5.2.19,"Cod, meat, frozen",1344
+034.4.4.2.5.2.42,"Saithe (=Pollock), meat, frozen",1345
+034.4.4.2.5.2.51,"Blue whiting meat, frozen",1346
+034.4.4.2.5.3,"Miscellaneous coastal fish meat, whether or not minced, frozen",1347
+034.4.4.2.5.3.90,"Coastal fish meat, whether or not minced, frozen, nei",1348
+034.4.4.2.5.4,"Miscellaneous demersal fish meat, whether or not minced, frozen",1349
+034.4.4.2.5.4.90,"Demersal fish meat, whether or not minced, frozen, nei",1350
+034.4.4.2.5.5,"Herrings, sardines, anchovies meat, whether or not minced, frozen",1351
+034.4.4.2.5.6,"Tunas, bonitos, billfishes, meat, whether or not minced, frozen",1352
+034.4.4.2.5.6.80,"Swordfish meat, frozen",1353
+034.4.4.2.5.6.95,"Tunas, bonitos, billfishes, meat, whether or not minced, frozen, nei",1354
+034.4.4.2.5.9,"Miscellaneous marine fish meat, whether or not minced, frozen",1355
+034.4.5,"Fish meat,whether or not minced, fresh,chilled,frozen",1356
+035.02.1.3,"Freshwater fish, dried, whether or not salted, not smoked",1357
+035.02.1.3.9,"Miscellaneous freshwater fish, dried, whether or not salted, not smoked",1358
+035.02.1.3.9.90,"Miscellaneous freshwater fish, dried, whether or not salted, not smoked, nei",1359
+035.02.1.4,"Diadromous fish, dried, whether or not salted, not smoked",1360
+035.02.1.4.3,"Salmons, trouts, smelts, etc., dried, whether or not salted",1361
+035.02.1.4.3.90,"Salmonoids nei, dried, whether or not salted, not smoked",1362
+035.02.1.5.3.95,"Miscellaneous coastal fish, dried, whether or not salted",1363
+035.02.1.5.4,"Miscellaneous demersal fish, dried, whether or not salted",1364
+035.02.1.5.4.95,"Miscellaneous demersal fish, dried, whether or not salted, nei",1365
+035.02.1.5.5.95,"Clupeoids nei, dried, whether or not salted, but not smoked",1366
+035.02.2.4,"Diadromous fish, salted or in brine",1367
+035.02.2.4.3,"Salmons, trouts, smelts, etc., salted or in brine",1368
+035.02.2.4.3.95,"Salmonoids nei, salted or in brine",1369
+035.02.2.4.5,"Miscellaneous diadromous fish, salted or in brine",1370
+035.02.2.5,"Marine fishes, salted or in brine",1371
+035.02.2.5.1,"Flounders, halibuts, soles, salted or in brine",1372
+035.02.2.5.2,"Cods, hakes, haddocks, salted or in brine",1373
+035.02.2.5.3,"Miscellaneous coastal fish, salted or in brine",1374
+035.02.2.5.3.90,"Miscellaneous coastal fish, salted or in brine, nei",1375
+035.02.2.5.4,"Miscellaneous demersal fish, salted or in brine",1376
+035.02.2.5.4.95,"Miscellaneous demersal fish, salted or in brine, nei",1377
+035.02.2.5.5,"Herrings, sardines, anchovies, salted or in brine",1378
+035.02.2.5.5.90,"Clupeoids, salted or in brine, nei",1379
+035.02.2.5.6,"Tunas, bonitos, billfishes, salted or in brine",1380
+035.02.2.5.7,"Miscellaneous pelagic fish, salted or in brine",1381
+035.02.2.5.7.90,"Miscellaneous pelagic fish, salted or in brine, nei",1382
+035.02.2.5.9,"Miscellaneous marine fish, salted or in brine",1383
+035.02.2.5.9.95,"Miscellaneous marine fish, salted or in brine, nei",1384
+035.02.3.5.2.90,"Gadiformes, fillets, dried, salted or in brine, not smoked",1385
+035.02.3.5.6.90,"Tunas fillets, dried salted or in brine",1386
+035.02.3.9.2,"Fish heads, tail, fins, maws etc., smoked, dried, salted or in brine",1387
+035.03.5.4,"Miscellaneous demersal fish, smoked",1388
+035.03.5.4.90,"Miscellaneous demersal fish, smoked, nei",1389
+036.0.1.3.5.40,"Shrimps and prawns (Penaeus spp.), live, fresh or chilled",1390
+036.0.1.4.5.20,"Shrimps and prawns (Pandalus spp.), frozen",1391
+036.0.1.4.5.40,"Shrimps and prawns (Penaeus spp.), frozen",1392
+036.0.1.6,"Miscellaneous crustaceans, not frozen",1393
+036.0.2.3.7.40,"Cuttlefishes and squids, live, fresh or chilled, nei",1395
+036.0.2.4.7.40,"Cuttlefishes and squids, frozen, nei",1397
+036.0.2.5.7.40,"Cuttlefishes and squids, dried, salted or in brine, smoked nei",1398
+036.0.2.6,"Molluscs & aq. invert., other than live, fresh or chilled",1399
+036.0.2.6.7.60,"Octopus, other than live, fresh or chilled",1400
+037.1.1.4.5,"Miscellaneous diadromous fish,  prepared or preserved, not minced,",1401
+037.1.1.5.5.191,"Herrings, not minced, in oil, prepared or preserved",1402
+036.0.2.5.5.10,"Scallops, including queen scallops, dried, salted or in brine; smoked",1404
+034.1.2.1.19,"Freshwater fish nei, live",1407
+034.1.2.1.25,"Salmons, live",1408
+034.1.2.1.61,"Atlantic(Thunnus thynnus), Pacific(T.orientalis) bluefin tuna, live",1409
+034.1.2.1.62,"Southern bluefin tuna (Thunnus maccoyii), live",1410
+034.1.2.1.89,"Saltwater fish nei, live",1411
+034.1.5.2.13,"Greenland cod, fresh or chilled",1412
+034.1.5.2.18,"Polar cod (Boreogadus saida), fresh or chilled",1413
+034.1.5.2.67,"Southern hake, fresh or chilled",1414
+034.1.5.2.68,"Hake of the genus Urophycis, fresh or chilled",1415
+034.1.5.3.462,"Gilt-head seabream, fresh or chilled",1416
+034.1.5.6.15,"Plain bonito, fresh or chilled",1417
+034.1.5.6.71,"Marlins, fresh or chilled",1418
+034.1.5.6.96,"Euthynnus excl. skipjack or stripe-bellied bonitos, fresh or chilled",1419
+034.1.5.7.08,"Pomfrets, ocean breams, fresh or chilled",1420
+034.1.5.7.15,"Scads, fresh or chilled",1421
+034.1.5.7.40,"Flyingfishes, fresh or chilled",1422
+034.1.5.7.45,"Dolphinfishes, fresh or chilled",1423
+034.1.5.7.50,"Cobia, fresh or chilled",1424
+034.1.5.7.63,"Blue mackerel, fresh or chilled",1425
+034.1.5.8.65,"Catsharks, nursehounds, fresh or chilled",1426
+034.2.5.2.13,"Greenland cod, frozen",1427
+034.2.5.2.18,"Polar cod, frozen",1428
+034.2.5.2.67,"Southern hake, frozen",1429
+034.2.5.2.68,"Hake of the genus Urophycis, frozen",1430
+034.2.5.6.15,"Plain bonito, frozen",1431
+034.2.5.6.96,"Euthynnus excl. skipjack or stripe-bellied bonitos, frozen",1432
+034.2.5.7.15,"Scads, frozen",1433
+034.2.5.7.40,"Flyingfishes, frozen",1434
+034.2.5.7.45,"Dolphinfishes, frozen",1435
+034.2.5.7.50,"Cobia, frozen",1436
+034.2.5.7.63,"Blue mackerel, frozen",1437
+034.2.5.8.65,"Catsharks, nursehounds, frozen",1438
+034.3.1.5.4.17,"Toothfish (Dissostichus spp.), fillets, fresh or chilled",1439
+034.3.1.5.7,"Miscellaneous pelagic fish, fillets, fresh or chilled",1440
+034.3.1.5.7.40,"Flying fish, fillets, fresh or chilled",1441
+034.3.1.5.7.90,"Miscellaneous pelagic fish, fillets, fresh or chilled, nei",1442
+034.3.2.2.6,"Miscellaneous fish meat, whether or not minced, fresh or chilled",1443
+034.3.2.2.6.90,"Fish meat, whether or not minced nei, fresh or chilled",1444
+034.4.1.3.2,"Tilapia and other cichlids, fillets, frozen",1445
+034.4.1.5.2.68,"Hake of the genus Urophycis, fillets, frozen",1446
+034.4.1.5.4.16,"Angler (=Monk) fillets, frozen",1447
+034.4.1.5.4.49,"Redfish nei, fillets, frozen",1448
+034.4.4.2.5.1,"Flounders, halibuts, soles, meat, minced or not, frozen",1449
+034.4.4.2.5.1.60,"Megrim, meat, whether or not minced, frozen",1450
+034.4.4.2.5.1.90,"Flatfish, meat, whether or not minced, frozen",1451
+034.4.4.2.5.2.11,"Atlantic cod, meat, frozen",1452
+034.4.4.2.5.2.12,"Pacific cod, meat, frozen",1453
+034.4.4.2.5.7,"Miscellaneous pelagic fish meat, frozen",1454
+034.4.4.2.5.7.10,"Pomfrets, ocean breams, meat, frozen",1455
+034.4.4.2.5.7.90,"Miscellaneous pelagic fish meat, nei, frozen",1456
+034.4.4.2.5.9.95,"Miscellaneous marine fish meat, minced or not, frozen, nei",1457
+034.4.4.2.6,"Fish meat, whether or not minced, frozen",1458
+035.02.1.5.9.90,"Miscellaneous marine fish nei, dried, whether or not salted",1459
+035.02.2.3,"Freshwater fish, salted and in brine",1460
+035.02.2.3.9,"Miscellaneous freshwater fish, salted and in brine",1461
+035.02.2.3.9.90,"Miscellaneous freshwater fish nei, salted and in brine",1462
+035.02.1.5.1.11,"Atlantic halibut, dried, whether or not salted",1463
+035.02.3.5.1.19,"Halibut fillets nei, dried, salted or in brine",1464
+035.03.5.3,"Miscellaneous coastal fish, smoked",1465
+035.03.5.3.90,"Miscellaneous coastal fish, nei, smoked",1466
+035.03.6,"Fish, smoked",1467
+035.03.6.90,"Fish fillets, smoked",1468
+035.03.6.95,"Fish nei, smoked",1469
+036.0.1.1.1.50,"Shrimps, prawns live, for breeding and other purposes",1470
+036.0.1.3.1.50,"Freshwater shrimps and prawns, live, fresh or chilled",1472
+036.0.1.3.2.10,"King crabs, fresh or chilled",1473
+036.0.1.3.2.20,"Tanner crabs, fresh or chilled",1474
+036.0.1.3.3.51,"Rock lobster & other sea crawfish (Palinurus,Panulirus,Jasus), whole, fresh or chilled",1475
+036.0.1.3.3.52,"Rock lobster & other sea crawfish (Palinurus,Panulirus,Jasus), meat or tails, fh or chld",1476
+036.0.1.3.3.59,"Rock lobster & other sea crawfish (Palinurus,Panulirus,Jasus), live, fresh or chilled, nei",1477
+036.0.1.4.1.50,"Freshwater shrimps and prawns, frozen",1478
+036.0.1.4.3.51,"Rock lobster and other sea crawfish (Palinurus, Panulirus, Jasus), whole, frozen",1479
+036.0.1.4.3.52,"Rock lobster & other sea crawfish (Palinurus, Panulirus, Jasus), meat or tails, frozen",1480
+036.0.1.4.3.59,"Rock lobster and other sea crawfish (Palinurus, Panulirus, Jasus), even smoked, frozen, nei",1481
+036.0.1.4.5.50,"Deepwater rose shrimps (Parapenaeus longirostris), frozen",1482
+036.0.1.6.1,"Freshwater crustaceans, not frozen",1483
+036.0.1.6.1.10,"Crayfish (freshwater), not frozen",1484
+036.0.1.6.1.90,"Freshwater crustaceans, not frozen, nei",1485
+036.0.1.6.2,"Crabs, not frozen",1486
+036.0.1.6.3,"Lobsters, spiny-rock lobsters, etc., not frozen",1487
+036.0.1.6.3.30,"Norway lobsters (Nephrops spp.), nei, not frozen",1488
+036.0.1.6.5,"Shrimps and prawns, not frozen",1489
+036.0.1.6.5.20,"Shrimps and prawns (Pandalus spp.), not frozen",1490
+036.0.1.6.5.30,"Common (=Crangon) shrimp, not frozen",1491
+036.0.1.6.9,"Miscellaneous crustaceans, not frozen",1492
+036.0.2.3.4.20,"Mussels of the genus Mytilus spp., live, fresh or chilled",1493
+036.0.2.3.4.30,"Mussels of the genus Perna spp. live, fresh or chilled",1494
+036.0.2.3.5.95,"Scallops, live, fresh or chilled, nei",1495
+036.0.2.5.2,"Univalves, dried, salted or in brine, smoked",1498
+036.0.2.5.3,"Oysters, dried, salted, in brine, smoked",1499
+036.0.2.5.4,"Mussels, dried, salted or in brine,smoked",1500
+036.0.2.5.5,"Scallops, dried, salted or in brine, smoked",1501
+036.0.2.6.4,"Mussels, other than live, fresh or chilled",1503
+036.0.2.6.5,"Scallops, pectens etc.  other than live, fresh or chilled",1504
+036.0.2.6.7,"Cephalopods, other than live, fresh or chilled",1505
+036.0.2.6.9,"Miscellaneous molluscs & aq. inv., other than live, fresh or chilled",1506
+036.0.2.6.9.95,"Miscellaneous molluscs & aq. inver., other than live, fresh or chilled, nei",1507
+037.1.1.3.2,"Tilapias and other cichlids prep. or pres., not minced",1509
+037.1.1.3.2.20,"Tilapias prepared or preserved, not minced",1510
+037.1.1.4.3.251,"Pink salmon, not minced, in oil, prepared or preserved",1511
+037.1.1.4.3.271,"Sockeye salmon prepared or preserved, not minced, in oil",1512
+037.1.1.4.3.391,"Salmon nei, not minced, in oil, prepared or preserved",1513
+037.1.1.4.3.392,"Salmon nei, not minced, prep.or pres, in airtight containers",1514
+037.1.1.4.3.393,"Salmon nei prep. or pres., not minced, not in airtight containers",1515
+037.1.1.4.3.50,"Trouts, not minced, prepared or preserved",1516
+037.1.1.5.2.29,"Alaska pollock, not minced, prepared or preserved",1517
+037.1.1.5.5.192,"Herrings, not minced, marinated, prepared or preserved",1518
+037.1.1.5.5.196,"Herrings, not minced, pickled, incl. fillets, prep. or pres.",1519
+037.1.1.5.5.197,"Herrings, not minced, prep. or pres. in airtight containers, nei",1520
+037.1.1.5.5.701,"Sardines, sardinellas, brisling or sprats, prep. or pres., not minced, in oil",1521
+037.1.1.5.6.15,"Plain bonito prep. or pres., not minced",1522
+037.1.1.5.6.961,"Loins of Euthynnus other than skipjack, prep. or pres.",1523
+037.1.1.5.6.969,"Euthynnus other than skipjack prep. or pres. not minced, nei",1524
+037.1.1.5.8,"Sharks, rays, chimaeras, prepared or preserved, not minced",1525
+037.1.1.5.8.30,"Shark fins, prepared or preserved",1526
+037.1.1.6,"Fish, prepared or preserved, not minced",1527
+037.1.1.6.94,"Fish not minced, prep. or pres., in airtight containers",1528
+037.1.1.6.95,"Fish not minced, prep. or pres., not in airtight containers",1529
+037.1.1.6.96,"Fish not minced, in oil, prepared or preserved",1530
+037.1.1.6.99,"Fish nei, prepared or preserved, not minced",1531
+037.1.3.4,"Diadromous fish minced, products and preparations",1532
+037.1.3.4.3,"Salmons, trouts, smelts, minced, prepared or preserved",1533
+037.1.3.5,"Marine fish minced, prepared or preserved",1534
+037.1.3.5.5,"Herrings, sardines, anchovies, etc. minced, prepared or preserved",1535
+037.1.3.5.5.60,"Anchovies minced, prepared or preserved",1536
+037.1.3.5.5.70,"Sardines, sardinellas, sprats minced, prepared or preserved",1537
+037.1.3.5.6,"Tunas, bonitos, billfishes, minced, prepared or preserved",1538
+037.1.3.5.6.99,"Tunas, bonitos, billfishes, nei, minced, prepared or preserved",1539
+037.1.3.5.7,"Miscellaneous pelagic fish, minced, prepared or preserved",1540
+037.1.3.5.7.69,"Mackerel, minced, prepared or preserved",1541
+037.1.3.5.7.90,"Miscellaneous pelagic fish nei, minced, prepared or preserved",1542
+037.1.3.5.9,"Miscellaneous marine fish, minced, prepared or preserved",1543
+037.1.3.5.9.96,"Fingers, sticks, prepared with minced fish",1544
+037.1.3.5.9.97,Fish crackers,1545
+037.1.3.6,"Fish minced, prepared or preserved",1546
+037.2.1.1.2.20,"Tanner crab meat, prepared or preserved",1547
+037.2.1.1.2.901,"Crab meat frozen, prepared or preserved",1548
+037.2.1.1.2.902,"Crab meat, in airtight containers, prep.or pres.",1549
+037.2.2.1.7.10,"Cuttlefishes, prepared or preserved",1550
+037.2.2.1.7.39,"Squids, prepared or preserved, nei",1551
+037.2.2.1.7.60,"Octopus, prepared or preserved",1552
+081.42.1.5,Fishmeal from marine fish,1553
+411.11.5,"Marine fishes, liver oils",1554
+411.11.5.8,"Sharks, rays, chimaeras, liver oil",1555
+411.12.4,"Diadromous fish, oil",1556
+411.12.4.4,"Shads, oil",1557
+411.12.5,Marine fish oil,1558
+411.12.5.7,"Miscellaneous pelagic fish, oil",1559
+411.12.5.8,"Sharks, rays, chimaeras, oil",1560
+034.4.4.2.5.4.17,"Toothfish (Dissostichus spp.), meat, frozen",1561
+035.02.2.6,"Fish, salted or in brine",1562
+036.0.1.6.5.40,"Shrimps and prawns (Penaeus spp.), not frozen",1563
+037.1.3.3,"Freshwater fish prepared or preserved, minced",1564
+037.1.3.3.9,"Miscellaneous freshwater fish, prep. or pres., minced",1565
+037.1.3.3.9.90,"Freshwater fish nei prepared or preserved, minced",1566
+034.2.5.6.21,"Skipjack tuna, gilled, gutted, frozen",1567
+034.2.5.6.22,"Skipjack tuna, heads-off, etc., frozen",1568
+034.2.5.6.61,"Bigeye tuna, gilled, gutted, frozen",1569
+034.2.5.6.62,"Bigeye tuna, heads-off, etc., frozen",1570
+034.3.2.2.5.6,"Tunas, bonitos, billfishes, meat, fresh or chilled",1571
+034.3.2.2.5.6.80,"Swordfish, meat, fresh or chilled",1572
+034.3.2.2.5.4,"Miscellaneous demersal fish meat, fresh or chilled",1573
+034.3.2.2.5.4.17,"Toothfish (Dissostichus spp.), meat, fresh or chilled",1574
+034.3.2.2.5.4.90,"Miscellaneous demersal fish meat, fresh or chilled, nei",1575
+034.4.1.5.7.10,"Pomfrets, ocean breams, fillets, frozen",1576
+035.02.3.4.3.39,"Salmon fillets, dried, salted or in brine",1577
+035.02.1.5.5.193,"Herrings, dried, whether or not salted",1578
+035.02.1.5.1,"Flounders, halibuts, soles, dried, whether or not salted",1579
+035.02.1.5.1.19,"Halibuts nei, dried, whether or not salted",1580
+035.02.1.5.1.90,"Flatfish nei, dried, whether or not salted",1581
+035.02.1.5.1.13,"Greenland halibut, dried, whether or not salted",1582
+036.0.2.6.4.20,"Mussels of the genus Mytilus spp., other than live, fresh or chilled",1583
+036.0.2.6.4.30,"Mussels of the genus Perna spp., other than live, fresh or chilled",1584
+036.0.2.6.7.19,"Cuttlefishes, other than live, fresh or chilled",1585
+036.0.2.6.7.39,"Squids, other than live, fresh or chilled",1586
+411.11.5.1,"Flounders, halibuts, soles, liver oils",1587
+411.11.5.1.19,"Halibuts, liver oils",1588
+037.2.1.1.5.905,"Shrimps and prawns, prep. or pres., in airtight containers",1589
+037.2.2.1.4.91,"Mussel meat, prep. or pres., not in airtight containers",1590
+037.2.2.1.4.92,"Mussel meat, prep. or pres., in airtight containers",1591
+036.0.1.6.2.10,"King crabs, not frozen",1592
+036.0.1.6.2.30,"Edible crab (Cancer pagurus), not frozen",1593
+036.0.1.4.2.30,"Crab (Cancer pagurus), frozen",1594
+036.0.1.5.3,"Lobsters, dried, salted or in brine, smoked",1596
+036.0.1.5.3.90,"Lobsters, dried, salted or in brine, smoked nei",1597
+036.0.2.5.6,"Clams, cockles, arkshells, etc., dried, salted or in brine, smoked",1598
+036.0.2.5.6.10,"Clams, cockles, arkshells nei, dried, salted or in brine, smoked",1599
+037.2.1.1.3,"Lobsters, spiny-rock lobsters, etc., prepared or preserved",1600
+037.2.2.1.3.30,Oyster sauce,1601
+081.42.1.5.9.99,Fishmeal obtained from fish waste/offals,1602
+034.4.1.5.8.66,"Porbeagle shark (Lamna nasus), fillets, frozen",1603
+034.2.5.8.66,"Porbeagle shark (Lamna nasus), frozen",1604
+034.1.5.8.66,"Porbeagle shark (Lamna nasus), fresh or chilled",1605
+036.0.2.3.2.30,"Stromboid conchs, live, fresh or chilled",1606
+036.0.2.4.2.30,"Stromboid conchs (Strombus spp), frozen",1607
+036.0.2.5.2.30,"Stromboid conchs, dried, salted or in brine, smoked",1608
+037.2.2.1.2.30,"Stromboid conchs meat, prepared or preserved",1609
+037.1.3.5.6.91,"Tunas nei, minced, prepared or preserved",1610
+036.0.2.6.6,"Clams, cockles, arkshells, etc., other than live, fresh or chilled",1611
+036.0.2.6.6.10,"Clams, shucked or not, other than live, fresh or chilled",1612
+037.1.3.6.91,"Fish minced nei, in airtight containers prepared or preserved",1616
+037.1.3.6.92,"Fish minced nei, not in airtight containers prepared or preserved",1617
+036.0.2.6.2,"Univalves, other than live, fresh or chilled",1618
+036.0.2.6.2.10,"Abalones, shucked or not, other than live,fresh or chilled",1619
+034.1.3.9.55,"Nile perch and snakeheads (Channa spp.),  fresh or chilled",1620
+034.1.5.2.50,"Blue whitings (Micromesistius poutassou, Micromesistius australis), fresh or chilled",1621
+034.1.9.2,"Fish heads, tails, fins, maws, tongues, fresh or chilled",1622
+034.1.9.2.10,"Fish heads, tails, maws, tongues, fresh or chilled",1623
+034.1.9.2.30,"Shark fins, fresh or chilled",1624
+034.2.3.9.55,"Nile perch (Lates niloticus) and snakeheads (Channa spp.), frozen",1625
+034.2.5.2.50,"Blue whitings (Micromesistius poutassou, Micromesistius australis), frozen",1626
+034.3.1.3.9.85,"Carps, eels and snakeheads, fillets, fresh or chilled",1627
+034.3.1.5.6.95,"Tunas, bonitos, billfishes fillets, fresh or chilled, nei",1628
+034.3.2.1.4.5,"Miscellaneous diadromous fish steaks, fresh or chilled",1629
+034.3.2.1.4.5.90,"Diadromous fish steaks, fresh or chilled, nei",1630
+034.3.2.2.3.87,"Meat of tilapias, catfish, carp, eels, nile perch and snakeheads, fresh or chilled",1631
+034.3.2.2.4,"Diadromous fish meat, wheter or not minced, fresh or chilled",1632
+034.3.2.2.4.3,"Salmons, trouts, smelts meat, fresh or chilled",1633
+034.3.2.2.4.3.90,"Salmonoids meat, fresh or chilled, nei",1634
+034.3.2.2.4.5,"Miscellaneous diadromous fish meat, wheter or not minced, fresh or chilled",1635
+034.3.2.2.4.5.90,"Diadromous fish meat, wheter or not minced, fresh or chilled, nei",1636
+034.3.2.2.5.1,"Flounders, halibuts, soles meat, fresh or chilled",1637
+034.3.2.2.5.1.90,"Flatfish meat, fresh or chilled, nei",1638
+034.3.2.2.5.2,"Cods, hakes, haddocks, etc. meat, fresh or chilled",1639
+034.3.2.2.5.2.90,"Gadiformes, meat, fresh or chilled, nei",1640
+034.3.2.2.5.3,"Miscellaneous coastal fish meat, whether or not minced, fresh or chilled",1641
+034.3.2.2.5.3.90,"Coastal fish meat, whether or not minced, fresh or chilled, nei",1642
+034.3.2.2.5.5.90,"Clupeoids, meat, fresh or chilled, nei",1643
+034.3.2.2.5.6.95,"Tunas, bonitos, billfishes, meat, fresh or chilled, nei",1644
+034.3.2.2.5.7,"Miscellaneous pelagic fish meat, whether or not minced, fresh or chilled",1645
+034.3.2.2.5.7.90,"Pelagic fish meat, whether or not minced, fresh or chilled, nei",1646
+034.3.2.2.5.8,"Sharks, rays, chimeras etc. meat, whether or not minced, fresh or chilled",1647
+034.3.2.2.5.8.90,"Sharks, rays, chimeras etc. meat, whether or not minced, fresh or chilled, nei",1648
+034.4.1.3.9.85,"Carps, eels and snakeheads, fillets, frozen",1649
+034.4.1.5.6.95,"Tunas, bonitos, billfishes etc, fillets, frozen, nei",1650
+034.4.3.5.2.90,"Gadiformes, portions and sticks, frozen, nei",1651
+034.4.4.1.3.9.90,"Freshwater fish, steaks, frozen, nei",1652
+034.4.4.2.3.9.30,"Catfish  meat, frozen",1653
+034.4.4.2.3.9.87,"Tilapias, catfish, carp, eels, Nile perch and snakeheads  meat, frozen",1654
+034.4.4.2.4,"Diadromous fish meat, whether or not minced, frozen",1655
+034.4.4.2.4.5.90,"Diadromous fish meat, whether or not minced, frozen, nei",1656
+034.4.4.2.5.2.95,"Gadiformes, meat, whether or not minced, frozen, nei",1657
+034.4.4.2.5.5.90,"Clupeoids, meat, whether or not minced, frozen, nei",1658
+034.4.4.2.5.6.90,"Tuna meat, whether or not minced, frozen",1659
+034.4.4.2.5.8,"Sharks, rays, chimaeras meat, frozen",1660
+034.4.4.2.5.8.70,"Dogfish (Squalidae) and other sharks, meat, frozen",1661
+034.4.4.2.5.8.90,"Sharks, rays, chimaeras meat, frozen, nei",1663
+035.02.1.4.5,"Miscellaneous diadromous fish, dried, whether or not salted",1664
+035.02.1.4.5.90,"Diadromous fish, dried, whether or not salted, nei",1665
+035.02.1.5.6.95,"Tunas, bonitos, billfishes, etc., dried, whether or not salted, nei",1666
+035.02.1.5.7,"Miscellaneous pelagic fish, dried, whether or not salted",1667
+035.02.1.5.7.90,"Miscellaneous pelagic fish nei, dried, whether or not salted",1668
+035.02.1.5.8,"Sharks, rays, chimeras, dried, whether or not salted",1669
+035.02.1.5.8.90,"Sharks, rays, chimeras, dried, whether or not salted, nei",1670
+035.02.2.3.9.87,"Tilapias, catfish, carp, eels, Nile perch and snakeheads, salted or in brine",1671
+035.02.2.5.6.95,"Tunas, bonitos, billfishes, salted or in brine, nei",1672
+035.02.2.5.8,"Sharks, rays, chimeras, salted or in brine",1673
+035.02.2.5.8.90,"Sharks, rays, chimeras, salted or in brine, nei",1674
+035.02.3.3.9.87,"Tilapia, catfish, carp, eel, Nile perch and snakeheads, fillets, dried/salted/brine, not smoked",1675
+035.02.3.5.1.90,"Flatfish, fillets, dried, salted or in brine, nei",1676
+035.02.3.5.6.99,"Tunas, bonitos, billfishes, fillets, dried, salted or in brine, nei",1677
+035.02.3.9.2.90,"Other  edible fish offal, smoked, dried, salted or in brine",1678
+035.03.3.9.87,"Tilapias, catfish, carp, eels, Nile perch and snakeheads, including fillets, smoked",1679
+035.03.5.6.95,"Tunas, bonitos, billfishes, smoked, nei",1680
+035.03.5.8,"Sharks, rays, chimaeras, smoked",1681
+035.03.5.8.90,"Sharks, rays, chimaeras, smoked, nei",1682
+036.0.1.4.5.10,"Cold-water shrimps and prawns (Pandalus spp., Crangon crangon), frozen, even smoked, whether in shell or not",1683
+036.0.1.4.5.60,"Shrimps and prawns, other than coldwater, even smoked, frozen",1684
+036.0.1.6.5.10,"Cold-water shrimps and prawns (Pandalus spp., Crangon crangon), not frozen",1685
+036.0.2.3.6.80,"Clams, cockles, arkshells, live, fresh or chilled",1687
+036.0.2.5.2.90,"Univalves, dried, salted or in brine, smoked nei",1688
+036.0.2.6.2.90,"Univalves, other than live, fresh or chilled, nei",1689
+036.0.2.6.3,"Oysters, other than live, fresh or chilled",1690
+036.0.2.6.3.10,"Oysters, other than live, fresh or chilled, nei",1691
+036.0.2.6.6.80,"Clams, cockles, arkshells, other than live, fresh or chilled",1692
+036.0.2.6.6.90,"Bivalves nei, other than live, fresh or chilled",1693
+036.0.2.6.7.90,"Cephalopods nei, other than live, fresh or chilled",1694
+036.0.2.6.8,"Miscellaneous aquatic invertebrates, other than live, fresh or chilled",1695
+037.1.1.5.1,"Flounders, halibuts, soles, etc., prepared or preserved, not minced",1696
+037.1.1.5.1.90,"Flatfish nei, prepared or preserved, not minced",1697
+037.1.1.5.6.99,"Tunas, bonitos, billfishes etc., prepared or preserved, not minced, nei",1698
+037.1.1.5.8.90,"Sharks, rays, chimaeras, prepared or preserved, not minced, nei",1699
+037.1.3.4.5,"Miscellaneous diadromous fish minced, prepared or preserved",1700
+037.1.3.4.5.90,"Diadromous fish minced, prepared or preserved, nei",1701
+037.1.3.5.1,"Flounders, halibuts, soles etc., minced, prepared or preserved",1702
+037.1.3.5.1.90,"Flatfish nei, minced, prepared or preserved",1703
+037.1.3.5.2,"Cods, hakes, haddocks, etc, minced, prep. or pres.",1704
+037.1.3.5.2.90,"Gadiformes, minced, prepared or preserved, nei",1705
+037.1.3.5.3,"Coastal fishes, minced, prepared or preserved",1706
+037.1.3.5.3.90,"Miscellaneous coastal fish nei, minced, prepared or preserved",1707
+037.1.3.5.4,"Demersal fishes, minced, prepared or preserved",1708
+037.1.3.5.4.90,"Miscellaneous demersal fish nei, minced, prepared or preserved",1709
+037.1.3.5.5.90,"Clupeoids nei, minced, prepared or preserved",1710
+037.2.2.1.7.50,"Cuttlefish and squid, prepared or preserved",1711
+411.11.5.1.90,"Flatfish nei, liver oils",1712
+411.12.4.5,"Miscellaneous diadromous fish, oil",1713
+411.12.4.5.90,"Diadromous fish nei, oil",1714
+411.12.5.2.90,"Gadiformes, oil, nei",1715
+411.12.5.7.90,"Pelagic fish oils, nei",1716
+034.3.2.2.5.6.90,"Tunas, meat, fresh or chilled",1717
+034.4.4.2.4.3,"Salmons, trouts, smelts, meat. frozen",1718
+034.4.4.2.4.3.39,"Salmons, meat. frozen",1719
+034.4.4.2.4.3.50,"Trouts, meat, frozen",1720
+034.4.4.2.4.3.90,"Salmonoids, meat, frozen",1721
+034.4.4.2.4.5,"Miscellaneous diadromous fish meat, whether or not minced, frozen",1722
+035.02.1.4.2,"River eels, dried, whether or not salted, not smoked",1723
+035.02.1.4.2.10,"River eels, dried, whether or not salted, not smoked, nei",1724
+035.02.1.4.3.39,"Salmons, dried, whether or not salted, not smoked, nei",1725
+035.02.1.4.5.15,"Alewife, dried, whether or not salted",1726
+035.02.1.5.2.40,"Saithe, dried, whether or not salted, but not smoked",1727
+035.02.1.5.2.61,"Hakes, dried, whether or not salted, but not smoked",1728
+035.02.1.5.2.70,"Ling, dried, whether or not salted, but not smoked",1729
+035.02.1.5.2.80,"Tusk, dried, whether or not salted, but not smoked",1730
+035.02.1.5.2.99,"Gadiformes, dried, whether or not salted, but not smoked",1731
+035.02.1.5.5.55,"European anchovy, dried, whether or not salted, but not smoked",1732
+035.02.1.5.5.21,"Pilchards, dried, whether or not salted, but not smoked",1733
+035.02.1.5.5.60,"Anchovies nei, dried, whether or not salted, but not smoked",1734
+035.02.1.5.5.70,"Bonga shad, dried, whether or not salted, but not smoked",1735
+035.02.1.5.6.10,"Bonito, dried, whether or not salted, but not smoked",1736
+035.02.1.5.6.91,"Tunas, nei, dried, whether or not salted, but not smoked",1737
+035.02.1.5.7.02,"Saury, dried, whether or not salted, but not smoked",1738
+035.02.1.5.7.69,"Mackerel, dried, whether or not salted, but not smoked",1739
+035.02.1.5.8.70,"Sharks, dried, whether or not salted, but not smoked",1740
+035.02.1.6,"Miscellaneous fishes, dried, whether or not salted",1741
+035.02.1.6.91,"Fish nei, dried, unsalted",1742
+035.02.1.6.92,"Fish nei, dried and salted",1743
+035.02.1.6.99,"Fish dried, whether or not salted, nei",1744
+035.02.2.4.3.50,"Trouts, salted or in brine",1745
+035.02.2.5.2.30,"Haddock, salted or in brine",1746
+035.02.3.6,"Fish fillets, dried, salted or in brine",1747
+035.02.3.6.99,"Fish fillets, dried, salted or in brine, nei",1748
+036.0.2.3.8,"Miscellaneous aquatic invertebrates, live, fresh or chilled",1749
+036.0.2.3.8.10,"Sea-cucumber, live, fresh or chilled",1750
+036.0.2.3.8.20,"Sea-urchin, live, fresh or chilled",1751
+036.0.2.3.8.30,"Jellyfish, live, fresh or chilled",1752
+036.0.2.3.8.90,"Other aquatic invertebrates, live, fresh or chilled",1753
+036.0.2.4.8,"Miscellaneous aquatic invertebrates, frozen",1754
+036.0.2.4.8.10,"Sea-cucumber, frozen",1755
+036.0.2.4.8.20,"Sea-urchin, frozen",1756
+036.0.2.4.8.30,"Jellyfish, frozen",1757
+036.0.2.4.8.90,"Other aquatic invertebrates, frozen",1758
+036.0.2.5.8,"Miscellaneous aquatic invertebrates, dried, salted or in brine, smoked",1759
+036.0.2.5.8.10,"Sea-cucumber, dried, salted or in brine, smoked",1760
+036.0.2.5.8.20,"Sea-urchin, dried, salted or in brine; fermented, smoked",1761
+036.0.2.5.8.30,"Jellyfish, dried, salted or in brine, smoked",1762
+036.0.2.5.8.90,"Miscellaneous aq. invert., dried, salted or in brine, smoked nei",1763
+036.0.2.6.8.10,"Sea-cucumber, other than live, fresh or chilled",1764
+036.0.2.6.8.20,"Sea-urchin, other than live, fresh or chilled",1765
+036.0.2.6.8.30,"Jellyfish, other than live, fresh or chilled",1766
+036.0.2.6.8.35,"Jellyfish, other than prepared or preserved",1767
+036.0.2.6.8.90,"Aquatic invertebrates, other than live, fresh or chilled, nei",1768
+036.0.2.6.8.95,"Aquatic invertebrates, other than prepared or preserved",1769
+037.1.3.4.3.50,"Trouts, minced, prepared or preserved",1770
+037.2.2.1.8,"Miscellaneous aquatic invertebrates, prep. Or pres.",1771
+037.2.2.1.8.10,"Sea-cucumber, prepared or preserved",1772
+037.2.2.1.8.20,"Sea-urchin, prepared or preserved",1773
+037.2.2.1.8.30,Jellyfish preparations,1774
+037.2.2.1.8.90,"Other aquatic invertebrates, prepared or preserved, nei",1775
+034.4.4.2.5.2.91,"Gadiformes excl. Alaska pollock, meat, whether or not minced, frozen",1776
+37,"Fish, crustaceans, molluscs and other aquatic invertebrates, prepared or preserved, n.e.s.",1777
+036.0.3,Crustaceans and molluscs,1778
+034.1.5.2.86,Fresh or chilled pollack (Pollachius pollachius),1779
+035.02.2.5.2.40,"Saithe (= Pollock), salted or in brine",1780
+035.02.2.5.2.60,"Hakes, salted or in brine",1781
+035.02.1.5.2.30,"Haddock dried, whether or not salted, but not smoked",1782
+035.02.2.5.5.20,"Pilchards, salted or in brine",1783
+034.3.1.5.1.19,"Halibuts nei, fillets, fresh or chilled",1784
+034.2.5.2.86,Frozen pollack (Pollachius pollachius),1785
+034.2.5.3.462,"Gilt-head seabream, frozen",1786
+036.0.2.5.7.55,"Octopus, smoked",1787
+034.1.2.1.22,"Sturgeon, live",1788
+037.1.2.1.23,"Salmon roes, prepared and preserved",1789
+034.1.5.7.85,"Indian mackerels, seerfishes, jacks, crevalles, silver pomfrets, Pacific saury, scads, capelin, Kawakawa, bonitos, marlins, sailfishes, spearfish, fresh or chilled",1790
+034.2.5.7.85,"Anchovies, Indian mackerels, seerfishes, jacks, crevalles, silver pomfrets, Pacific saury, scads, capelin, Kawakawa, bonitos, marlins, sailfishes, spearfish, frozen",1791
+034.3.1.5.8.80,"Rays and skates (Rajidae) fillets, fresh or chilled",1792
+034.3.2.2.5.8.70,"Dogfish and other sharks, meat, whether or not minced, fresh or chilled",1793
+034.3.2.2.5.8.80,"Rays and skates (Rajidae), meat, whether or not minced, fresh or chilled",1794
+034.4.4.2.5.8.80,"Rays and skates (Rajidae) meat, frozen",1795
+035.02.1.3.9.87,"Tilapias, catfish, carp, eels, Nile perch, snakeheads, dried, whether or not salted, not smoked, nei",1796
+035.02.1.5.7.85,"Herring,achovy,sardine,sardinella,brisling/sprat,mackerel,Indian mackerel,seerfish,jack&horse mackerel,jack,crevalle,cobia,silver pomfret,Pacif.saury,scad,capelin,etc,dried,salted or not,not smoked",1797
+036.0.1.1.1.90,"Crustaceans live, for breeding and other purposes, nei",1798
+036.0.1.3.2.05,"Crabs, live",1799
+036.0.1.3.3.05,"Lobsters, live",1800
+036.0.1.3.5.05,"Shrimps and prawns, live",1801
+036.0.1.3.5.10,"Cold-water shrimps and prawns (Pandalus spp., Crangon crangon), live, fresh or chilled",1802
+036.0.1.3.9.05,"Crustaceans live, for human consumption, nei",1803
+036.0.1.5.3.30,"Norway lobsters (Nephrops norvegicus), dried, salted or in brine, smoked",1804
+036.0.1.5.3.50,"Rock lobster & other sea crawfish (Palinurus,Panulirus,Jasus), dried, salted or in brine, smoked",1805
+036.0.1.5.3.40,"Lobsters (Homarus spp.), dried, salted or in brine, smoked",1806
+036.0.2.3.3.05,"Oysters, live",1807
+036.0.2.3.9.90,"Molluscs live, for human consumption, nei",1808
+036.0.2.4.6.80,"Clams, cockles, arkshells, frozen",1809
+034.4.1.5.8.80,"Rays and skates ""Rajidae"", fillets, frozen",1810
+034.1.5.6.97,"Kawakawa ""Euthynnus affinis"" for ind. processing or preservation, fresh or chilled",1811
+034.1.5.6.98,"Kawakawa ""Euthynnus affinis"" (excl. for ind. processing or preservation), fresh or chilled",1812
+034.1.5.8.61,"Picked dogfish ""Squalus acanthias"" and catsharks ""Scyliorhinus spp."", fresh or chilled",1814
+034.1.5.8.62,"Blue shark ""Prionace glauca"", fresh or chilled",1815
+034.1.5.8.69,"Other dogfish and other sharks (excl. Squalus acanthias, Scyliorhinus spp., Lamna nasus, Prionace glauca), fresh or chilled",1816
+034.2.5.6.97,"Kawakawa ""Euthynnus affinis"" for ind. processing or preservation, frozen",1818
+034.2.5.6.98,"Kawakawa ""Euthynnus affinis"" (excl. for ind. processing or preservation), frozen",1819
+034.2.5.8.61,"Picked dogfish ""Squalus acanthias""and catsharks ""Scyliorhinus spp."", frozen",1820
+034.2.5.8.62,"Blue shark ""Prionace glauca"", frozen",1821
+034.3.1.5.8.61,"Picked dogfish ""Squalus acanthias"" and catsharks ""Scyliorhinus spp."", fillets, fresh or chilled",1822
+034.3.1.5.8.66,"Porbeagle shark ""Lamna nasus"", fillets, fresh or chilled",1823
+034.3.1.5.8.62,"Blue shark ""Prionace glauca"", fillets, fresh or chilled",1824
+034.3.2.2.5.8.61,"Picked dogfish ""Squalus acanthias""and catsharks ""Scyliohinus spp.""(excl. fillets), meat, whether or not minced, fresh or chilled",1825
+034.3.2.2.5.8.66,"Porbeagle shark ""Lamna nasus"" (excl. fillets), meat, whether or not minced, fresh or chilled",1826
+034.3.2.2.5.8.62,"Blue shark ""Prionace glauca"" (excl. fillets), meat, whether or not minced, fresh or chilled",1827
+034.4.1.5.8.62,"Blue shark ""Prionace glauca"", fillets, frozen",1829
+034.4.4.2.5.8.61,"Picked dogfish ""Squalus acanthias""and catsharks ""Scyliorhinus spp."", meat, whether or not minced, frozen",1830
+034.4.4.2.5.8.66,"Porbeagle shark ""Lamna nasus"", meat, whether or not minced, frozen",1831
+034.4.4.2.5.8.62,"Blue shark ""Prionace glauca"", meat, whether or not minced, frozen",1832
+034.4.4.2.5.8.85,"Rays, chimaeras meat, frozen",1833
+035.02.1.5.2.18,"Polar cod ""Boreogadus saida"", dried, whether or not salted but not smoked (excl. fillets and offal)",1834
+035.02.1.5.2.98,"Gadiforms, dried, whether or not salted, not smoked (excl. fillets offal and cod)",1835
+036.0.1.3.2.30,"Edible Crab (Cancer pagurus), in shell or not, live, fresh or chilled",1838
+036.0.1.3.5.06,"Shrimps Crangon crangon, live",1839
+036.0.1.3.5.29,"Shrimps Pandalidae nei (excl. Pandalus spp), in shell or not, live, fresh or chilled",1840
+036.0.1.3.5.39,"Shrimps Crangon nei (excl. Crangon crangon), in shell or not, live, fresh or chilled",1841
+036.0.1.3.5.90,"Shrimps and prawns, in shell or not, live, fresh or chilled (excl. Pandalidae, Crangon)",1842
+036.0.1.5.2.30,"Edible Crabs (Cancer pagurus),  in shell or not, dried, salted/in brine, smoked,  cooked by steaming/boiling in water",1843
+036.0.1.5.3.41,"Whole lobsters Homarus spp,  in shell or not, dried, salted/in brine, smoked,  cooked by steaming/boiling in water",1844
+036.0.1.5.3.42,"Parts of lobsters Homarus spp, in shell or not, dried, salted/in brine, smoked,  cooked by steaming/boiling in water",1845
+036.0.1.5.5.31,"Shrimps Crangon crangon, in shell or not, dried, salted/in brine, smoked,  cooked by steaming/boiling in water",1846
+036.0.1.5.5.32,"Shrimps Crangon crangon, in shell or not, dried, salted/in brine, smoked,  (excl. cooked by steaming/boiling in water)",1847
+036.0.1.5.5.20,"Shrimps and prawns Pandalus spp, in shell or not, dried, salted/in brine, smoked,  cooked by steaming/boiling in water",1848
+036.0.1.5.5.29,"Shrimps Pandalidae nei (excl. Pandalus spp), in shell or not, dried, salted/in brine, smoked,  cooked by steaming/boiling in water",1849
+036.0.1.5.5.39,"Shrimps Crangon nei (excl. Crangon crangon), in shell or not, dried, salted/in brine, smoked,  cooked by steaming/boiling in water",1850
+036.0.1.5.9.10,"Freshwater crayfish, in shell or not, dried, salted/in brine, smoked,  cooked by steaming/boiling in water",1851
+036.0.2.3.7.33,"European flying squid ""Todarodes sagittatus"", live, fresh or chilled",1854
+036.0.2.4.4.10,"Mussels ""Mytilus spp., Perna spp."", frozen, with or without shell",1855
+036.0.2.4.4.20,"Mussels ""Mytilus spp."", frozen, with or without shell",1856
+036.0.2.4.4.30,"Mussels ""Perna spp."", frozen, with or without shell",1857
+036.0.2.4.5.05,"Coquilles St. Jacques ""Pecten maximus"", with or without shell, frozen",1858
+036.0.2.4.6.40,"Striped venus or other species of the family Veneridae, frozen",1859
+036.0.2.4.7.11,"Lesser cuttle fish (Sepiola rondeleti), frozen",1860
+036.0.2.4.7.12,"Cuttle fish ""Sepiola"", with or without shell (excl. ""Sepiola rondeleti""), frozen",1861
+036.0.2.4.7.15,"Cuttle fish ""Sepia officinalis"" and ""Rossia macrosoma"", with or without shell, frozen",1862
+036.0.2.4.7.31,"Squid ""Ommastrephes spp."", ""Nototodarus spp."" and ""Sepioteuthis spp."" (excl Ommastrephes sagittatus), frozen",1867
+036.0.2.4.7.33,"European flying squid ""Todarodes sagittatus, Ommastrephes sagittatus"", frozen",1868
+036.0.2.5.4.20,"Mussels ""Mytilus spp."", smoked, dried, salted or in brine, with or without shell",1869
+036.0.2.5.4.30,"Mussels ""Perna spp."", smoked, dried, salted or in brine, with or without shell",1870
+036.0.2.5.7.32,"Squid ""Loligo spp."", smoked, dried, salted/in brine, with or without shell",1871
+036.0.2.5.7.31,"Squid ""Ommastrephes spp."", ""Nototodarus spp."" and ""Sepioteuthis spp."" (excl Ommastrephes sagittatus), smoked, dried, salted/in brine",1872
+036.0.2.5.7.33,"European flying squid ""Todarodes sagittatus, Ommastrephes sagittatus"",  smoked, dried, salted/in brine",1873
+036.0.2.5.7.10,"Cuttle fish ""Sepia officinalis, Rossia macrosoma, Sepiola spp."", smoked, dried, salted/in brine, with or without shell",1875
+036.0.2.5.7.19,"Cuttlefishes nei, dried, salted or in brine, smoked",1876
+036.0.1.4.5.29,"Shrimps of the family Pandalidae nei (excl Pandalus spp), frozen",1877
+036.0.1.4.5.39,"Shrimps of the genus Crangon nei (excl. Crangon crangon), frozen",1878
+036.0.1.6.5.29,"Shrimps Pandalidae nei (excl. Pandalus spp), not frozen",1879
+034.4.1.5.8.85,"Dogfish, other sharks, rays and skates (Rajidae), fillets, frozen",1880

@@ -1,0 +1,236 @@
+country_code,country,country_iso_code,oecd,fishstat_country,gleam_country,region,gleam_region,food_loss_region,wf_country_crops,wf_country_animals,notes,income_class
+0,World,,no,World,World,World,World,,Global Average,World Average,GLEAM - manually added category,Unclassified
+1,Armenia,ARM,no,Armenia,Armenia,Near East and North Africa,Near East and North Africa,europe_incl_russia,Armenia,Armenia,,Upper middle income
+2,Afghanistan,AFG,no,Afghanistan,Afghanistan,South Asia,South Asia,s_and_se_asia,Afghanistan,Afghanistan,,Low income
+3,Albania,ALB,no,Albania,Albania,Europe,Western Europe,europe_incl_russia,Albania,Albania,,Upper middle income
+4,Algeria,DZA,no,Algeria,Algeria,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Algeria,Algeria,,Lower middle income
+5,American Samoa,ASM,no,American Samoa,American Samoa,Oceania,Oceania,n_america_and_oceania,American Samoa,,SE of Samoa,Upper middle income
+6,Andorra,AND,no,Andorra,Andorra,Europe,Western Europe,europe_incl_russia,,,Microstate between France and Spain,High income
+7,Angola,AGO,no,Angola,Angola,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Angola,Angola,,Lower middle income
+8,Antigua and Barbuda,ATG,no,Antigua and Barbuda,Antigua and Barbuda,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Antigua and Barbuda,Antigua and Barbuda,,High income
+9,Argentina,ARG,no,Argentina,Argentina,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Argentina,Argentina,,Upper middle income
+10,Australia,AUS,yes,Australia,Australia,Oceania,Oceania,n_america_and_oceania,Australia,Australia,,High income
+11,Austria,AUT,yes,Austria,Austria,Europe,Western Europe,europe_incl_russia,Austria,Austria,,High income
+12,Bahamas,BHS,no,Bahamas,Bahamas,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Bahamas,Bahamas,,High income
+13,Bahrain,BHR,no,Bahrain,Bahrain,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Bahrain,Bahrain,,High income
+14,Barbados,BRB,no,Barbados,Barbados,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Barbados,Barbados,,High income
+15,Belgium-Luxembourg,,no,Belgium-Luxembourg,,Europe,Western Europe,europe_incl_russia,,,Economic union between Belgium and Luxembourg,Unclassified
+16,Bangladesh,BGD,no,Bangladesh,Bangladesh,South Asia,South Asia,s_and_se_asia,Bangladesh,Bangladesh,,Lower middle income
+17,Bermuda,BMU,no,Bermuda,Bermuda,North America,North America,n_america_and_oceania,Bermuda,Bermuda,,High income
+18,Bhutan,BTN,no,Bhutan,Bhutan,South Asia,South Asia,s_and_se_asia,Bhutan,Bhutan,,Lower middle income
+19,Bolivia (Plurinational State of),BOL,no,Bolivia (Plurinat.State),Bolivia,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Bolivia,Bolivia,,Lower middle income
+20,Botswana,BWA,no,Botswana,Botswana,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Botswana,Botswana,,Upper middle income
+21,Brazil,BRA,no,Brazil,Brazil,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Brazil,Brazil,,Upper middle income
+22,Aruba,ABW,no,Aruba,Aruba,Latin America and the Caribbean,Latin America and the Caribbean,n_america_and_oceania,,,,High income
+23,Belize,BLZ,no,Belize,Belize,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Belize,Belize,,Lower middle income
+25,Solomon Islands,SLB,no,Solomon Islands,Solomon Islands,Oceania,Oceania,n_america_and_oceania,Solomon Islands,Solomon Islands,,Lower middle income
+26,Brunei Darussalam,BRN,no,Brunei Darussalam,Brunei Darussalam,East Asia and Southeast Asia,East Asia and Southeast Asia,s_and_se_asia,Brunei Darussalam,Brunei Darussalam,,High income
+27,Bulgaria,BGR,no,Bulgaria,Bulgaria ,Europe,Eastern Europe,europe_incl_russia,Bulgaria,Bulgaria,,Upper middle income
+28,Myanmar,MMR,no,Myanmar,Myanmar,East Asia and Southeast Asia,East Asia and Southeast Asia,s_and_se_asia,Myanmar,Myanmar,,Lower middle income
+29,Burundi,BDI,no,Burundi,Burundi,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Burundi,Burundi,,Low income
+32,Cameroon,CMR,no,Cameroon,Cameroon,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Cameroon,Cameroon,,Lower middle income
+33,Canada,CAN,yes,Canada,Canada,North America,North America,n_america_and_oceania,Canada,Canada,,High income
+35,Cabo Verde,CPV,no,Cabo Verde,Cabo Verde,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Cape Verde,Cape Verde,,Lower middle income
+36,Cayman Islands,CYM,no,Cayman Islands,Cayman Islands,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Cayman Islands,,,High income
+37,Central African Republic,CAF,no,Central African Republic,Central African Republic,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Central African Republic,Central African Republic,,Low income
+38,Sri Lanka,LKA,no,Sri Lanka,Sri Lanka,South Asia,South Asia,s_and_se_asia,Sri Lanka,Sri Lanka,,Lower middle income
+39,Chad,TCD,no,Chad,Chad,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Chad,Chad,,Low income
+40,Chile,CHL,yes,Chile,Chile,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Chile,Chile,,High income
+41,"China, mainland",CHN,no,China,"China, mainland",East Asia and Southeast Asia,East Asia and Southeast Asia,industrialized_asia,China,China,,Upper middle income
+44,Colombia,COL,no,Colombia,Colombia,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Colombia,Colombia,,Upper middle income
+45,Comoros,COM,no,Comoros,Comoros,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Comoros,Comoros,,Lower middle income
+46,Congo,COG,no,Congo,Congo,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Congo,"Congo, Republic of",,Lower middle income
+47,Cook Islands,COK,no,Cook Islands,Cook Islands,Oceania,Oceania,n_america_and_oceania,Cook Islands,Cook Islands,,Unclassified
+48,Costa Rica,CRI,no,Costa Rica,Costa Rica,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Costa Rica,Costa Rica,,Upper middle income
+49,Cuba,CUB,no,Cuba,Cuba,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Cuba,Cuba,,Upper middle income
+50,Cyprus,CYP,no,Cyprus,Cyprus,Near East and North Africa,Near East and North Africa,europe_incl_russia,Cyprus,Cyprus,,High income
+52,Azerbaijan,AZE,no,Azerbaijan,Azerbaijan,Near East and North Africa,Near East and North Africa,europe_incl_russia,Azerbaijan,"Azerbaijan, Republic of",,Upper middle income
+53,Benin,BEN,no,Benin,Benin,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Benin,Benin,,Lower middle income
+54,Denmark,DNK,yes,Denmark,Denmark,Europe,Western Europe,europe_incl_russia,Denmark,Denmark,,High income
+55,Dominica,DMA,no,Dominica,Dominica,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Dominica,Dominica,,Upper middle income
+56,Dominican Republic,DOM,no,Dominican Republic,Dominican Republic,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Dominican Republic,Dominican Republic,,Upper middle income
+57,Belarus,BLR,no,Belarus,Belarus ,Europe,Eastern Europe,europe_incl_russia,Belarus,Belarus,,Upper middle income
+58,Ecuador,ECU,no,Ecuador,Ecuador,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Ecuador,Ecuador,,Upper middle income
+59,Egypt,EGY,no,Egypt,Egypt,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Egypt,Egypt,,Lower middle income
+60,El Salvador,SLV,no,El Salvador,El Salvador,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,El Salvador,El Salvador,,Lower middle income
+61,Equatorial Guinea,GNQ,no,Equatorial Guinea,Equatorial Guinea,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Equatorial Guinea,Equatorial Guinea,,Upper middle income
+63,Estonia,EST,yes,Estonia,Estonia,Europe,Western Europe,europe_incl_russia,Estonia,Estonia,,High income
+64,Faroe Islands,FRO,no,Faroe Islands,Faroe Islands,Europe,Western Europe,europe_incl_russia,,Faeroe Islands,,High income
+65,Falkland Islands (Malvinas),FLK,no,Falkland Is.(Malvinas),Falkland Islands (Malvinas),Latin America and the Caribbean,Latin America and the Caribbean,latin_america,,Falkland Isl,,Unclassified
+66,Fiji,FJI,no,Fiji,Fiji,Oceania,Oceania,n_america_and_oceania,Fiji,Fiji Islands,,Upper middle income
+67,Finland,FIN,yes,Finland,Finland,Europe,Western Europe,europe_incl_russia,Finland,Finland,,High income
+68,France,FRA,yes,France,France,Europe,Western Europe,europe_incl_russia,France,France,,High income
+69,French Guiana,GUF,no,French Guiana,French Guiana,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,French Guiana,French Guiana,,Unclassified
+70,French Polynesia,PYF,no,French Polynesia,French Polynesia,Oceania,Oceania,n_america_and_oceania,French Polynesia,French Polynesia,,High income
+72,Djibouti,DJI,no,Djibouti,Djibouti,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Djibouti,Djibouti,,Lower middle income
+73,Georgia,GEO,no,Georgia,Georgia,Near East and North Africa,Near East and North Africa,europe_incl_russia,Georgia,Georgia,,Upper middle income
+74,Gabon,GAB,no,Gabon,Gabon,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Gabon,Gabon,,Upper middle income
+75,Gambia,GMB,no,Gambia,Gambia,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Gambia,Gambia,,Low income
+79,Germany,DEU,yes,Germany,Germany,Europe,Western Europe,europe_incl_russia,Germany,Germany,,High income
+80,Bosnia and Herzegovina,BIH,no,Bosnia and Herzegovina,Bosnia and Herzegovina,Europe,Western Europe,europe_incl_russia,Bosnia and Herzegovina,Bosnia and Herzegovina,,Upper middle income
+81,Ghana,GHA,no,Ghana,Ghana,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Ghana,Ghana,,Lower middle income
+82,Gibraltar,GIB,no,Gibraltar,,Europe,Western Europe,europe_incl_russia,,,Disputed w/Spain,High income
+83,Kiribati,KIR,no,Kiribati,Kiribati,Oceania,Oceania,n_america_and_oceania,Kiribati,Kiribati,,Lower middle income
+84,Greece,GRC,yes,Greece,Greece,Europe,Western Europe,europe_incl_russia,Greece,Greece,,High income
+85,Greenland,GRL,no,Greenland,Greenland,North America,North America,n_america_and_oceania,,Greenland,,High income
+86,Grenada,GRD,no,Grenada,Grenada,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Grenada,Grenada,,Upper middle income
+87,Guadeloupe,GLP,no,Guadeloupe,Guadeloupe,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Guadeloupe,Guadeloupe,,Unclassified
+88,Guam,GUM,no,Guam,Guam,Oceania,Oceania,n_america_and_oceania,Guam,,,High income
+89,Guatemala,GTM,no,Guatemala,Guatemala,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Guatemala,Guatemala,,Upper middle income
+90,Guinea,GIN,no,Guinea,Guinea,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Guinea,Guinea,,Low income
+91,Guyana,GUY,no,Guyana,Guyana,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Guyana,Guyana,,Upper middle income
+93,Haiti,HTI,no,Haiti,Haiti,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Haiti,Haiti,,Lower middle income
+94,Holy See,VAT,no,Holy See,,Europe,Western Europe,europe_incl_russia,,,Nested in Italy,Unclassified
+95,Honduras,HND,no,Honduras,Honduras,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Honduras,Honduras,,Lower middle income
+96,"China, Hong Kong SAR",HKG,no,"China, Hong Kong SAR","China, Hong Kong SAR",East Asia and Southeast Asia,East Asia and Southeast Asia,industrialized_asia,China,China,,High income
+97,Hungary,HUN,yes,Hungary,Hungary,Europe,Eastern Europe,europe_incl_russia,Hungary,Hungary,,High income
+98,Croatia,HRV,no,Croatia,Croatia,Europe,Western Europe,europe_incl_russia,Croatia,Croatia,,High income
+99,Iceland,ISL,yes,Iceland,Iceland,Europe,Western Europe,europe_incl_russia,Iceland,Iceland,,High income
+100,India,IND,no,India,India,South Asia,South Asia,s_and_se_asia,India,India,,Lower middle income
+101,Indonesia,IDN,no,Indonesia,Indonesia,East Asia and Southeast Asia,East Asia and Southeast Asia,s_and_se_asia,Indonesia,Indonesia,,Lower middle income
+102,Iran (Islamic Republic of),IRN,no,Iran (Islamic Rep. of),Iran,South Asia,South Asia,s_and_se_asia,"Iran, Islamic Republic of","Iran, Islamic Rep of",,Lower middle income
+103,Iraq,IRQ,no,Iraq,Iraq,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Iraq,Iraq,,Upper middle income
+104,Ireland,IRL,yes,Ireland,Ireland,Europe,Western Europe,europe_incl_russia,Ireland,Ireland,,High income
+105,Israel,ISR,yes,Israel,Israel,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Israel,Israel,,High income
+106,Italy,ITA,yes,Italy,Italy,Europe,Western Europe,europe_incl_russia,Italy,Italy,,High income
+107,Côte d'Ivoire,CIV,no,CÃ´te d'Ivoire,Côte d'Ivoire,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Côte d'Ivoire,Côte d'Ivoire,country name is intentionally spelled with broken characters to maintain consistency with prior results - look into this further,Lower middle income
+108,Kazakhstan,KAZ,no,Kazakhstan,Kazakhstan,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Kazakhstan,Kazakhstan,,Upper middle income
+109,Jamaica,JAM,no,Jamaica,Jamaica,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Jamaica,Jamaica,,Upper middle income
+110,Japan,JPN,yes,Japan,Japan,East Asia and Southeast Asia,East Asia and Southeast Asia,industrialized_asia,Japan,Japan,,High income
+112,Jordan,JOR,no,Jordan,Jordan,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Jordan,Jordan,,Upper middle income
+113,Kyrgyzstan,KGZ,no,Kyrgyzstan,Kyrgyzstan,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Kyrgyzstan,Kyrgyzstan,,Lower middle income
+114,Kenya,KEN,no,Kenya,Kenya,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Kenya,Kenya,,Lower middle income
+115,Cambodia,KHM,no,Cambodia,Cambodia,East Asia and Southeast Asia,East Asia and Southeast Asia,s_and_se_asia,Cambodia,Cambodia,,Lower middle income
+116,Democratic People's Republic of Korea,PRK,no,"Korea, Dem. People's Rep",Democratic People's Republic of Korea,East Asia and Southeast Asia,East Asia and Southeast Asia,s_and_se_asia,"Korea, Democratic People's Republic of","Korea, Dem People's Rep",,Low income
+117,Republic of Korea,KOR,yes,"Korea, Republic of",Republic of Korea,East Asia and Southeast Asia,East Asia and Southeast Asia,industrialized_asia,"Korea, Republic of","Korea, Republic of",,High income
+118,Kuwait,KWT,no,Kuwait,Kuwait,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Kuwait,Kuwait,,High income
+119,Latvia,LVA,yes,Latvia,Latvia,Europe,Western Europe,europe_incl_russia,Latvia,Latvia,,High income
+120,Lao People's Democratic Republic,LAO,no,Lao People's Dem. Rep.,Lao People's Democratic Republic,East Asia and Southeast Asia,East Asia and Southeast Asia,s_and_se_asia,Lao People's Democratic Republic,Laos,,Lower middle income
+121,Lebanon,LBN,no,Lebanon,Lebanon,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Lebanon,Lebanon,,Upper middle income
+122,Lesotho,LSO,no,Lesotho,Lesotho,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Lesotho,Lesotho,,Lower middle income
+123,Liberia,LBR,no,Liberia,Liberia,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Liberia,Liberia,,Low income
+124,Libya,LBY,no,Libya,Libya,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Libyan Arab Jamahiriya,Libyan Arab Jamahiriya,,Upper middle income
+125,Liechtenstein,LIE,no,Liechtenstein,Liechtenstein,Europe,Western Europe,europe_incl_russia,,,"Alpine microstate, adjacent to Switzerland",High income
+126,Lithuania,LTU,no,Lithuania,Lithuania,Europe,Western Europe,europe_incl_russia,Lithuania,Lithuania,,High income
+127,Marshall Islands,MHL,no,Marshall Islands,Marshall Islands,Oceania,Oceania,n_america_and_oceania,Marshall Islands,,,Upper middle income
+128,"China, Macao SAR",MAC,no,"China, Macao SAR","China, Macau SAR",East Asia and Southeast Asia,East Asia and Southeast Asia,industrialized_asia,China,China,,High income
+129,Madagascar,MDG,no,Madagascar,Madagascar,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Madagascar,Madagascar,,Low income
+130,Malawi,MWI,no,Malawi,Malawi,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Malawi,Malawi,,Low income
+131,Malaysia,MYS,no,Malaysia,Malaysia,East Asia and Southeast Asia,East Asia and Southeast Asia,s_and_se_asia,Malaysia,Malaysia,,Upper middle income
+132,Maldives,MDV,no,Maldives,Maldives,South Asia,South Asia,s_and_se_asia,Maldives,,,Upper middle income
+133,Mali,MLI,no,Mali,Mali,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Mali,Mali,,Low income
+134,Malta,MLT,no,Malta,Malta,Europe,Western Europe,europe_incl_russia,Malta,Malta,,High income
+135,Martinique,MTQ,no,Martinique,Martinique,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Martinique,Martinique,,Unclassified
+136,Mauritania,MRT,no,Mauritania,Mauritania,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Mauritania,Mauritania,,Lower middle income
+137,Mauritius,MUS,no,Mauritius,Mauritius,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Mauritius,Mauritius,,Upper middle income
+138,Mexico,MEX,yes,Mexico,Mexico,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Mexico,Mexico,,Upper middle income
+140,Monaco,MCO,no,Monaco,Monaco,Europe,Western Europe,europe_incl_russia,,,,High income
+141,Mongolia,MNG,no,Mongolia,Mongolia,East Asia and Southeast Asia,East Asia and Southeast Asia,n_africa_w_and_central_asia,Mongolia,Mongolia,,Lower middle income
+142,Montserrat,MSR,no,Montserrat,Montserrat,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Montserrat,Montserrat,,Unclassified
+143,Morocco,MAR,no,Morocco,Morocco,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Morocco,Morocco,,Lower middle income
+144,Mozambique,MOZ,no,Mozambique,Mozambique ,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Mozambique,Mozambique,,Low income
+145,Micronesia (Federated States of),FSM,no,"Micronesia, Fed.States of",Federated States of Micronesia,Oceania,Oceania,n_america_and_oceania,"Micronesia, Federated States of","Micronesia,Fed States of",,Lower middle income
+146,Republic of Moldova,MDA,no,"Moldova, Republic of",Republic of Moldova,Europe,Eastern Europe,europe_incl_russia,Moldova,"Moldova, Republic of",,Upper middle income
+147,Namibia,NAM,no,Namibia,Namibia,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Namibia,Namibia,,Upper middle income
+148,Nauru,NRU,no,Nauru,Nauru,Oceania,Oceania,n_america_and_oceania,Nauru,Nauru,,High income
+149,Nepal,NPL,no,Nepal,Nepal,South Asia,South Asia,s_and_se_asia,Nepal,Nepal,,Lower middle income
+150,Netherlands,NLD,yes,Netherlands,Netherlands,Europe,Western Europe,europe_incl_russia,Netherlands,Netherlands,,High income
+151,Netherlands Antilles (former),ANT,no,Netherlands Antilles (former),Netherlands Antilles,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,,Netherlands Antiles,,Unclassified
+153,New Caledonia,NCL,no,New Caledonia,New Caledonia,Oceania,Oceania,n_america_and_oceania,New Caledonia,New Caledonia,,High income
+154,North Macedonia,MKD,no,North Macedonia,The former Yugoslav Republic of Macedonia,Europe,Western Europe,europe_incl_russia,"Macedonia , The Former Yugoslav Republic of","Macedonia,The Fmr Yug Rp",,Upper middle income
+155,Vanuatu,VUT,no,Vanuatu,Vanuatu,Oceania,Oceania,n_america_and_oceania,Vanuatu,Vanuatu,,Lower middle income
+156,New Zealand,NZL,yes,New Zealand,New Zealand,Oceania,Oceania,n_america_and_oceania,New Zealand,New Zealand,,High income
+157,Nicaragua,NIC,no,Nicaragua,Nicaragua,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Nicaragua,Nicaragua,,Lower middle income
+158,Niger,NER,no,Niger,Niger,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Niger,Niger,,Low income
+159,Nigeria,NGA,no,Nigeria,Nigeria,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Nigeria,Nigeria,,Lower middle income
+160,Niue,NIU,no,Niue,Niue,Oceania,Oceania,n_america_and_oceania,Niue,Niue,,Unclassified
+162,Norway,NOR,yes,Norway,Norway ,Europe,Western Europe,europe_incl_russia,Norway,Norway,,High income
+163,Northern Mariana Islands,MNP,no,Northern Mariana Is.,Northern Mariana Islands,Oceania,Oceania,n_america_and_oceania,,,,High income
+165,Pakistan,PAK,no,Pakistan,Pakistan,South Asia,South Asia,s_and_se_asia,Pakistan,Pakistan,,Lower middle income
+166,Panama,PAN,no,Panama,Panama,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Panama,Panama,,Upper middle income
+167,Czechia,CZE,yes,Czechia,Czechia,Europe,Eastern Europe,europe_incl_russia,Czech Republic,Czech Republic,,High income
+168,Papua New Guinea,PNG,no,Papua New Guinea,Papua New Guinea,Oceania,Oceania,n_america_and_oceania,Papua New Guinea,Papua New Guinea,,Lower middle income
+169,Paraguay,PRY,no,Paraguay,Paraguay,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Paraguay,Paraguay,,Upper middle income
+170,Peru,PER,no,Peru,Peru,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Peru,Peru,,Upper middle income
+171,Philippines,PHL,no,Philippines,Philippines,East Asia and Southeast Asia,East Asia and Southeast Asia,s_and_se_asia,Philippines,Philippines,,Lower middle income
+173,Poland,POL,yes,Poland,Poland,Europe,Eastern Europe,europe_incl_russia,Poland,Poland,,High income
+174,Portugal,PRT,yes,Portugal,Portugal,Europe,Western Europe,europe_incl_russia,Portugal,Portugal,,High income
+175,Guinea-Bissau,GNB,no,Guinea-Bissau,Guinea-Bissau,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Guinea-Bissau,Guinea-Bissau,,Low income
+176,Timor-Leste,TLS,no,Timor-Leste,Timor-Leste,East Asia and Southeast Asia,East Asia and Southeast Asia,s_and_se_asia,East Timor,East Timor   ,,Lower middle income
+177,Puerto Rico,PRI,no,Puerto Rico,Puerto Rico,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Puerto Rico,,,High income
+178,Eritrea,ERI,no,Eritrea,Eritrea,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Eritrea,Eritrea,,Low income
+179,Qatar,QAT,no,Qatar,Qatar,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Qatar,Qatar,,High income
+180,Palau,PLW,no,Palau,Palau,Oceania,Oceania,n_america_and_oceania,,Palau,,High income
+181,Zimbabwe,ZWE,no,Zimbabwe,Zimbabwe,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Zimbabwe,Zimbabwe,,Lower middle income
+182,Réunion,REU,no,Réunion,Réunion,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Réunion,Réunion,,Unclassified
+183,Romania,ROU,no,Romania,Romania,Europe,Eastern Europe,europe_incl_russia,Romania,Romania,,Upper middle income
+184,Rwanda,RWA,no,Rwanda,Rwanda,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Rwanda,Rwanda,,Low income
+185,Russian Federation,RUS,no,Russian Federation,Russian Federation,Russian Federation,Russian Federation,europe_incl_russia,Russian Federation,Russian Federation,,Upper middle income
+187,"Saint Helena, Ascension and Tristan da Cunha",SHN,no,Saint Helena,Saint Helena,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,,,,Unclassified
+188,Saint Kitts and Nevis,KNA,no,Saint Kitts and Nevis,Saint Kitts and Nevis,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Saint Kitts and Nevis,Saint Kitts and Nevis,,High income
+189,Saint Lucia,LCA,no,Saint Lucia,Saint Lucia,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Saint Lucia,Saint Lucia,,Upper middle income
+190,Saint Pierre and Miquelon,SPM,no,St. Pierre and Miquelon,Saint Pierre et Miquelon,Oceania,Oceania,n_america_and_oceania,Saint Pierre and Miquelon,,,Unclassified
+191,Saint Vincent and the Grenadines,VCT,no,Saint Vincent/Grenadines,Saint Vincent and the Grenadines,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Saint Vincent and Grenadines,Saint Vincent/Grenadines,,Upper middle income
+192,San Marino,SMR,no,San Marino,San Marino,Europe,Western Europe,europe_incl_russia,,,,High income
+193,Sao Tome and Principe,STP,no,Sao Tome and Principe,Sao Tome and Principe,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Sao Tome and Principe,Sao Tome and Principe,,Lower middle income
+194,Saudi Arabia,SAU,no,Saudi Arabia,Saudi Arabia,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Saudi Arabia,Saudi Arabia,,High income
+195,Senegal,SEN,no,Senegal,Senegal,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Senegal,Senegal,,Lower middle income
+196,Seychelles,SYC,no,Seychelles,Seychelles,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Seychelles,Seychelles,,High income
+197,Sierra Leone,SLE,no,Sierra Leone,Sierra Leone,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Sierra Leone,Sierra Leone,,Low income
+198,Slovenia,SVN,yes,Slovenia,Slovenia,Europe,Western Europe,europe_incl_russia,Slovenia,Slovenia,,High income
+199,Slovakia,SVK,yes,Slovakia,Slovakia,Europe,Eastern Europe,europe_incl_russia,Slovakia,Slovakia,,High income
+200,Singapore,SGP,no,Singapore,Singapore,East Asia and Southeast Asia,East Asia and Southeast Asia,s_and_se_asia,Singapore,Singapore,,High income
+201,Somalia,SOM,no,Somalia,Somalia ,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Somalia,Somalia,,Low income
+202,South Africa,ZAF,no,South Africa,South Africa,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,South Africa,South Africa,,Upper middle income
+203,Spain,ESP,yes,Spain,Spain,Europe,Western Europe,europe_incl_russia,Spain,Spain,,High income
+205,Western Sahara,ESH,no,Western Sahara,Western Sahara,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Western Sahara,,Disputed w/Morocco,Unclassified
+206,Sudan (former),,no,Sudan (former),Sudan,Near East and North Africa,Near East and North Africa,sub_saharan_africa,Sudan,Sudan,,Unclassified
+207,Suriname,SUR,no,Suriname,Suriname,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Suriname,Suriname,,Upper middle income
+208,Tajikistan,TJK,no,Tajikistan,Tajikistan,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Tajikistan,Tajikistan,,Lower middle income
+209,Eswatini,SWZ,no,Eswatini,Swaziland,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Swaziland,Swaziland,,Lower middle income
+210,Sweden,SWE,yes,Sweden,Sweden,Europe,Western Europe,europe_incl_russia,Sweden,Sweden,,High income
+211,Switzerland,CHE,yes,Switzerland,Switzerland ,Europe,Western Europe,europe_incl_russia,Switzerland,Switzerland,,High income
+212,Syrian Arab Republic,SYR,no,Syrian Arab Republic,Syrian Arab Republic,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Syrian Arab Republic,Syrian Arab Republic,,Low income
+213,Turkmenistan,TKM,no,Turkmenistan,Turkmenistan,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Turkmenistan,Turkmenistan,,Upper middle income
+214,"China, Taiwan Province of",TWN,no,Taiwan Province of China,"China, mainland",East Asia and Southeast Asia,East Asia and Southeast Asia,industrialized_asia,China,China,,High income
+215,United Republic of Tanzania,TZA,no,"Tanzania, United Rep. of",United Republic of Tanzania,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,"Tanzania, United Republic of","Tanzania, United Rep of",,Lower middle income
+216,Thailand,THA,no,Thailand,Thailand,East Asia and Southeast Asia,East Asia and Southeast Asia,s_and_se_asia,Thailand,Thailand,,Upper middle income
+217,Togo,TGO,no,Togo,Togo,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Togo,Togo,,Low income
+218,Tokelau,TKL,no,Tokelau,Tokelau,Oceania,Oceania,n_america_and_oceania,Tokelau,Tokelau,,Unclassified
+219,Tonga,TON,no,Tonga,Tonga,Oceania,Oceania,n_america_and_oceania,Tonga,Tonga,,Upper middle income
+220,Trinidad and Tobago,TTO,no,Trinidad and Tobago,Trinidad and Tobago,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Trinidad and Tobago,Trinidad and Tobago,,High income
+221,Oman,OMN,no,Oman,Oman,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Oman,Oman,,High income
+222,Tunisia,TUN,no,Tunisia,Tunisia,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Tunisia,Tunisia,,Lower middle income
+223,Turkey,TUR,yes,Turkey,Turkey,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Turkey,Turkey,,Upper middle income
+224,Turks and Caicos Islands,TCA,no,Turks and Caicos Is.,Turks and Caicos islands,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,,,,High income
+225,United Arab Emirates,ARE,no,United Arab Emirates,United Arab Emirates,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,United Arab Emirates,United Arab Emirates,,High income
+226,Uganda,UGA,no,Uganda,Uganda,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Uganda,Uganda,,Low income
+227,Tuvalu,TUV,no,Tuvalu,Tuvalu,Oceania,Oceania,n_america_and_oceania,Tuvalu,Tuvalu,,Upper middle income
+229,United Kingdom of Great Britain and Northern Ireland,GBR,yes,United Kingdom,United Kingdom,Europe,Western Europe,europe_incl_russia,United Kingdom,United Kingdom,,High income
+230,Ukraine,UKR,no,Ukraine,Ukraine,Europe,Eastern Europe,europe_incl_russia,Ukraine,Ukraine,,Lower middle income
+231,United States of America,USA,yes,United States of America,United States of America,North America,North America,n_america_and_oceania,United States of America,United States of America,,High income
+233,Burkina Faso,BFA,no,Burkina Faso,Burkina Faso,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Burkina Faso,Burkina Faso,,Low income
+234,Uruguay,URY,no,Uruguay,Uruguay,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,Uruguay,Uruguay,,High income
+235,Uzbekistan,UZB,no,Uzbekistan,Uzbekistan,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Uzbekistan,Uzbekistan,,Lower middle income
+236,Venezuela (Bolivarian Republic of),VEN,no,"Venezuela, Boliv Rep of",Venezuela,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,"Venezuela, Bolivarian Republic of","Venezuela, Boliv Rep of",,Unclassified
+237,Viet Nam,VNM,no,Viet Nam,Viet Nam,East Asia and Southeast Asia,East Asia and Southeast Asia,s_and_se_asia,Viet Nam,Viet Nam,,Lower middle income
+238,Ethiopia,ETH,no,Ethiopia,Ethiopia,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Ethiopia,Ethiopia,,Low income
+239,British Virgin Islands,VGB,no,British Virgin Islands,British Virgin Islands,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,,British Virgin Islands,,High income
+240,United States Virgin Islands,VIR,no,United States Virgin Islands,United States Virgin Islands,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,,,,High income
+243,Wallis and Futuna Islands,WLF,no,Wallis and Futuna Islands,Wallis and Futuna,Oceania,Oceania,n_america_and_oceania,Wallis and Futuna Islands,Wallis and Futuna Is,,Unclassified
+244,Samoa,WSM,no,Samoa,Samoa,Oceania,Oceania,n_america_and_oceania,Samoa,Samoa,,Lower middle income
+249,Yemen,YEM,no,Yemen,Yemen,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Yemen,Yemen,,Low income
+250,Democratic Republic of the Congo,COD,no,"Congo, Dem. Rep. of the",Democratic Republic of the Congo,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,"Congo, Democratic Republic of","Congo, Dem Republic of",,Low income
+251,Zambia,ZMB,no,Zambia,Zambia,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,Zambia,Zambia,,Lower middle income
+252,Unspecified Area,,no,Unspecified Area,World,World,World,,Global Average,World Average,,Unclassified
+255,Belgium,BEL,yes,Belgium,Belgium,Europe,Western Europe,europe_incl_russia,Belgium,Belgium,,High income
+256,Luxembourg,LUX,yes,Luxembourg,Luxembourg,Europe,Western Europe,europe_incl_russia,Luxembourg,Luxembourg,,High income
+258,Anguilla,AIA,no,Anguilla,Anguilla,Latin America and the Caribbean,Latin America and the Caribbean,latin_america,,,,Unclassified
+259,Channel Islands,,no,Channel Islands,Jersey,Europe,Western Europe,europe_incl_russia,,," Islands off France in the English Channel; includes Jersey, Guernsey",Unclassified
+264,Isle of Man,IMN,no,Isle of Man,Isle of Man,Europe,Western Europe,europe_incl_russia,,,Off the coast of England,High income
+270,Mayotte,MYT,no,Mayotte,Mayotte,Sub-Saharan Africa,Sub-Saharan Africa,sub_saharan_africa,,,,Unclassified
+272,Serbia,SRB,no,Serbia,Serbia,Europe,Western Europe,europe_incl_russia,Serbia and Montenegro,Serbia and Montenegro,,Upper middle income
+273,Montenegro,MNE,no,Montenegro,Montenegro ,Europe,Western Europe,europe_incl_russia,Serbia and Montenegro,Serbia and Montenegro,,Upper middle income
+276,Sudan,SDN,no,Sudan,Sudan,Near East and North Africa,Near East and North Africa,sub_saharan_africa,Sudan,Sudan,,Low income
+277,South Sudan,SSD,no,South Sudan,South Sudan,Near East and North Africa,Near East and North Africa,sub_saharan_africa,,,iso-3 not included in full list (probably outdated); retrieved code from wikipedia,Low income
+299,Occupied Palestinian Territory,PSE,no,Palestine,West Bank,Near East and North Africa,Near East and North Africa,n_africa_w_and_central_asia,Occupied Palestinian Territory,,Also includes Gaza Strip,Lower middle income

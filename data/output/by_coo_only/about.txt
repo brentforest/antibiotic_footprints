@@ -1,0 +1,7 @@
+Includes results derived using footprint data that is specific to country of origin (COO), e.g., 
+- Terrestrial meat GHGe
+- All abx footprints
+
+Results in this folder do NOT include results derived from non-COO-specific footprint data, i.e., results derived from the bootstrapping method, e.g.,
+- Crop GHGe
+- Seafood GHGe

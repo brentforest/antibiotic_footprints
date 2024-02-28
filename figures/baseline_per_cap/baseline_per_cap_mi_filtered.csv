@@ -1,0 +1,127 @@
+country,mi,income_class,diet_footprint,diet_footprint_whole_pop
+Argentina,"Critically
+important",Upper middle income,4.961743044138968,0.21904482973384198
+Argentina,"Highly
+important",Upper middle income,5.635114821333481,0.24877200523870382
+Argentina,Important,Upper middle income,0.39002625337101243,0.017218391501006743
+Argentina,Others,Upper middle income,2.0208220279708575,0.08921272486332246
+Australia,"Critically
+important",High income,7.766805181221963,0.19212940146918303
+Australia,"Highly
+important",High income,13.177077692781745,0.3259646651557652
+Australia,Important,High income,1.0083024757655497,0.024942630418631345
+Australia,Others,High income,5.057649282263668,0.1251123347076769
+Belarus,"Critically
+important",Upper middle income,4.798942903136146,0.045351210170362366
+Belarus,"Highly
+important",Upper middle income,5.100990966814744,0.04820563988414104
+Belarus,Important,Upper middle income,0.2016497953228745,0.0019056409782499948
+Belarus,Others,Upper middle income,0.06421620063166167,0.0006068591500193607
+Bolivia,"Critically
+important",Lower middle income,4.222226929819489,0.04759610862312264
+Bolivia,"Highly
+important",Lower middle income,3.1133282173825365,0.035095770662498985
+Bolivia,Important,Lower middle income,0.5501514564328936,0.006201719830503902
+Bolivia,Others,Lower middle income,1.7101800731587582,0.01927843241970039
+Brazil,"Critically
+important",Upper middle income,3.8673305087939034,0.8068372967191634
+Brazil,"Highly
+important",Upper middle income,4.499463682578113,0.938718608632589
+Brazil,Important,Upper middle income,0.27715101434041334,0.0578217389708261
+Brazil,Others,Upper middle income,1.508886466751212,0.3147974746718386
+Chile,"Critically
+important",High income,2.6481559879090466,0.049229219815229174
+Chile,"Highly
+important",High income,8.066059496167414,0.14994804603375222
+Chile,Important,High income,0.6934004697044084,0.012890314731804953
+Chile,Others,High income,0.7819609307756765,0.014536653703119828
+"China, mainland","Critically
+important",Upper middle income,9.150886791219927,13.03201351471117
+"China, mainland","Highly
+important",Upper middle income,12.9129090609828,18.389606301153925
+"China, mainland",Important,Upper middle income,1.2286310623898153,1.7497251331991925
+"China, mainland",Others,Upper middle income,0.06779992781141032,0.09655562304437058
+Cyprus,"Critically
+important",High income,8.068386626499976,0.009557003959089223
+Cyprus,"Highly
+important",High income,15.784529714782844,0.018696775447160276
+Cyprus,Important,High income,1.2056564069779987,0.0014281000140654396
+Cyprus,Others,High income,0.0889413298508425,0.00010535100520832295
+Hong Kong,"Critically
+important",High income,7.44638825707894,0.05465276661283088
+Hong Kong,"Highly
+important",High income,9.664361009022151,0.07093157762571808
+Hong Kong,Important,High income,0.72471818643956,0.00531906912937315
+Hong Kong,Others,High income,2.1729001162088384,0.015948000402914768
+Israel,"Critically
+important",High income,4.754737837326579,0.03952851301061452
+Israel,"Highly
+important",High income,4.508245947326649,0.037479302683100096
+Israel,Important,High income,0.16819680242641868,0.0013983041169720318
+Israel,Others,High income,0.11344110014563577,0.000943092586060743
+Macao,"Critically
+important",High income,8.615004852274723,0.005401608042376251
+Macao,"Highly
+important",High income,11.8241297354263,0.007413729344112291
+Macao,Important,High income,0.796091921597124,0.0004991496348413968
+Macao,Others,High income,5.4720122714754424,0.0034309516942151027
+Malaysia,"Critically
+important",Upper middle income,3.5188274880573123,0.11019912044349084
+Malaysia,"Highly
+important",Upper middle income,4.664684812083554,0.14608393426002064
+Malaysia,Important,Upper middle income,0.18624082669035585,0.005832503969461874
+Malaysia,Others,Upper middle income,1.4327841173639433,0.04487050020348662
+Mongolia,"Critically
+important",Lower middle income,14.456843008115879,0.045412558099244
+Mongolia,"Highly
+important",Lower middle income,13.379326234282349,0.042027808533439424
+Mongolia,Important,Lower middle income,4.360228480965869,0.013696567715834034
+Mongolia,Others,Lower middle income,13.386959557729922,0.04205178671071912
+Portugal,"Critically
+important",High income,6.122544090497878,0.06290454862179783
+Portugal,"Highly
+important",High income,5.479052868656067,0.056293158935789595
+Portugal,Important,High income,0.7383996144715232,0.007586502238984047
+Portugal,Others,High income,0.05843242067016136,0.0006003492980704054
+Samoa,"Critically
+important",Lower middle income,4.37241960201388,0.000855901137094217
+Samoa,"Highly
+important",Lower middle income,4.547601284618739,0.000890192951464118
+Samoa,Important,Lower middle income,0.503845381702888,9.862773346834032e-05
+Samoa,Others,Lower middle income,0.9991787963447407,0.000195589249384483
+South Korea,"Critically
+important",High income,6.562283633122569,0.3354573770415926
+South Korea,"Highly
+important",High income,6.7581806751504905,0.34547143793301793
+South Korea,Important,High income,0.49820396114421245,0.025467688289730995
+South Korea,Others,High income,0.6166179270311539,0.03152089181190556
+Spain,"Critically
+important",High income,5.910162698953151,0.27587309692106043
+Spain,"Highly
+important",High income,4.868499144914213,0.2272505859615194
+Spain,Important,High income,0.22082614092013794,0.010307667399334969
+Spain,Others,High income,0.10846774341339438,0.0050630302101145695
+Taiwan,"Critically
+important",High income,6.9570023051130665,0.16486877987714574
+Taiwan,"Highly
+important",High income,9.142535732485285,0.21666209742236936
+Taiwan,Important,High income,0.6616672018836944,0.01568035476704026
+Taiwan,Others,High income,0.5849647790884448,0.013862641576032737
+Thailand,"Critically
+important",Upper middle income,10.172412402253672,0.7050371880846992
+Thailand,"Highly
+important",Upper middle income,3.9648098470362325,0.2747960144857725
+Thailand,Important,Upper middle income,2.9825605418874592,0.20671754295754244
+Thailand,Others,Upper middle income,1.5131455560781568,0.10487422705983196
+Turkmenistan,"Critically
+important",Upper middle income,6.9447422598500905,0.04030207551947504
+Turkmenistan,"Highly
+important",Upper middle income,4.793209207651508,0.027816191334303613
+Turkmenistan,Important,Upper middle income,1.0829374780169794,0.006284556919302036
+Turkmenistan,Others,Upper middle income,0.07839542998005893,0.000454948279031777
+Viet Nam,"Critically
+important",Lower middle income,3.0438035929288842,0.28935081810190383
+Viet Nam,"Highly
+important",Lower middle income,4.723567173244243,0.44903292351473756
+Viet Nam,Important,Lower middle income,0.2829355868578225,0.026896493491775038
+Viet Nam,Others,Lower middle income,2.396593577590353,0.2278255778212885

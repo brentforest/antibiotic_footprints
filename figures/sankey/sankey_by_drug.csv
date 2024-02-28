@@ -1,0 +1,63 @@
+drug,mi,food_group,global_total,demand_side_total
+Tetracyclines,Highly important,Sheep & goat,19.73859545804205,1.155046467116686
+Tetracyclines,Highly important,Poultry meat,19.73859545804205,2.075977395954176
+Tetracyclines,Highly important,Plant foods,19.73859545804205,0.24658402916402872
+Tetracyclines,Highly important,Pig meat,19.73859545804205,10.88128876364987
+Tetracyclines,Highly important,Bovine meat,19.73859545804205,4.2441294707828785
+Tetracyclines,Highly important,Aquatic animals,19.73859545804205,1.1355693313744104
+Penicillins,Critically important,Bovine meat,7.777294349612591,1.3924673498500217
+Penicillins,Critically important,Sheep & goat,7.777294349612591,1.147575717914191
+Penicillins,Critically important,Poultry meat,7.777294349612591,1.0642121620638634
+Penicillins,Critically important,Pig meat,7.777294349612591,4.017868155248882
+Penicillins,Critically important,Aquatic animals,7.777294349612591,0.1551709645356337
+Macrolides,Critically important,Poultry meat,5.817805823933165,1.1871363431937791
+Macrolides,Critically important,Aquatic animals,5.817805823933165,0.521938698892586
+Macrolides,Critically important,Bovine meat,5.817805823933165,0.5758347959849875
+Macrolides,Critically important,Pig meat,5.817805823933165,2.938122146341616
+Macrolides,Critically important,Sheep & goat,5.817805823933165,0.5947738395201964
+Amphenicols,Highly important,Bovine meat,5.622127678282957,1.146414694455496
+Amphenicols,Highly important,Pig meat,5.622127678282957,0.8676312445898355
+Amphenicols,Highly important,Poultry meat,5.622127678282957,0.030931430849417765
+Amphenicols,Highly important,Sheep & goat,5.622127678282957,1.136734229782332
+Amphenicols,Highly important,Aquatic animals,5.622127678282957,2.440416078605875
+"Sulfonamides, Trimethoprim",Highly important,Aquatic animals,5.371066982313788,0.4090870883212161
+"Sulfonamides, Trimethoprim",Highly important,Sheep & goat,5.371066982313788,0.6412446581802624
+"Sulfonamides, Trimethoprim",Highly important,Poultry meat,5.371066982313788,0.7812965181956136
+"Sulfonamides, Trimethoprim",Highly important,Pig meat,5.371066982313788,2.9488174471411797
+"Sulfonamides, Trimethoprim",Highly important,Bovine meat,5.371066982313788,0.5906212704755164
+Aminoglycosides,Critically important,Bovine meat,4.302513387888899,0.4864652267139592
+Aminoglycosides,Critically important,Aquatic animals,4.302513387888899,0.7123757917317727
+Aminoglycosides,Critically important,Sheep & goat,4.302513387888899,0.334317698210902
+Aminoglycosides,Critically important,Poultry meat,4.302513387888899,0.14760174539605062
+Aminoglycosides,Critically important,Plant foods,4.302513387888899,0.7202874138599957
+Aminoglycosides,Critically important,Pig meat,4.302513387888899,1.9014655119762192
+Polymixins,Critically important,Sheep & goat,3.141019333124414,0.7304854846619251
+Polymixins,Critically important,Poultry meat,3.141019333124414,0.3541558359826678
+Polymixins,Critically important,Pig meat,3.141019333124414,2.028840437042522
+Polymixins,Critically important,Bovine meat,3.141019333124414,0.027537575437298904
+Pleuromutilins,Important,Poultry meat,2.6969691267191807,0.0029528318323731027
+Pleuromutilins,Important,Sheep & goat,2.6969691267191807,1.117926255764711
+Pleuromutilins,Important,Aquatic animals,2.6969691267191807,0.2821290264284249
+Pleuromutilins,Important,Pig meat,2.6969691267191807,1.2932879103287351
+Pleuromutilins,Important,Bovine meat,2.6969691267191807,0.0006731023649365325
+Other drugs,Others,Aquatic animals,2.6575893862472135,0.007053225660710617
+Other drugs,Others,Sheep & goat,2.6575893862472135,0.8985568442950143
+Other drugs,Others,Poultry meat,2.6575893862472135,0.003453797784566222
+Other drugs,Others,Pig meat,2.6575893862472135,1.4573551747576434
+Other drugs,Others,Bovine meat,2.6575893862472135,0.2911703437492789
+Quinolones,Critically important,Pig meat,2.6241924907307395,0.5510680189300436
+Quinolones,Critically important,Poultry meat,2.6241924907307395,0.3063080168033753
+Quinolones,Critically important,Sheep & goat,2.6241924907307395,0.3852904158331385
+Quinolones,Critically important,Bovine meat,2.6241924907307395,0.19658412816479687
+Quinolones,Critically important,Aquatic animals,2.6241924907307395,1.1849419109993848
+Lincosamides,Highly important,Sheep & goat,1.292597027099306,0.1729347671359281
+Lincosamides,Highly important,Poultry meat,1.292597027099306,0.16085943799560343
+Lincosamides,Highly important,Pig meat,1.292597027099306,0.8608152922445855
+Lincosamides,Highly important,Bovine meat,1.292597027099306,0.05566817575892518
+Lincosamides,Highly important,Aquatic animals,1.292597027099306,0.04231935396426373
+Cephalosporins,Critically important,Bovine meat,0.28045585624064717,0.055062409460214526
+Cephalosporins,Critically important,Sheep & goat,0.28045585624064717,0.21092113779413255
+Cephalosporins,Critically important,Poultry meat,0.28045585624064717,0.0
+Cephalosporins,Critically important,Pig meat,0.28045585624064717,0.007419083325589478
+Cephalosporins,Critically important,Aquatic animals,0.28045585624064717,0.007053225660710617
+Polypeptides,Important,Aquatic animals,0.10579838491065933,0.10579838491065933

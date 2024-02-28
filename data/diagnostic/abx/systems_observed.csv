@@ -1,0 +1,399 @@
+country_iso_code,fbs_item,system,proportion_obs
+AFG,Pigmeat,extensive,0.0
+ASM,Pigmeat,extensive,0.14
+ARG,Pigmeat,extensive,0.22
+AUT,Pigmeat,extensive,0.018000000000000002
+BHR,Pigmeat,extensive,0.0
+BGD,Pigmeat,extensive,0.99
+BEL,Pigmeat,extensive,0.0
+BEN,Pigmeat,extensive,0.8
+BTN,Pigmeat,extensive,0.51
+BOL,Pigmeat,extensive,0.2
+BWA,Pigmeat,extensive,0.99
+BRA,Pigmeat,extensive,0.35000000000000003
+BGR,Pigmeat,extensive,0.203
+BFA,Pigmeat,extensive,0.93
+BDI,Pigmeat,extensive,0.9
+KHM,Pigmeat,extensive,0.8
+CMR,Pigmeat,extensive,0.6
+CAN,Pigmeat,extensive,0.0
+CPV,Pigmeat,extensive,0.99
+TCD,Pigmeat,extensive,1.0
+CHL,Pigmeat,extensive,0.05
+COL,Pigmeat,extensive,0.5
+COM,Pigmeat,extensive,0.0
+CRI,Pigmeat,extensive,0.1
+HRV,Pigmeat,extensive,0.245
+CYP,Pigmeat,extensive,0.004
+CZE,Pigmeat,extensive,0.003
+CIV,Pigmeat,extensive,0.55
+COD,Pigmeat,extensive,0.65
+DNK,Pigmeat,extensive,0.0
+DJI,Pigmeat,extensive,0.0
+SLV,Pigmeat,extensive,0.53
+EST,Pigmeat,extensive,0.009000000000000001
+FIN,Pigmeat,extensive,0.0
+FRA,Pigmeat,extensive,0.002
+GMB,Pigmeat,extensive,0.9
+DEU,Pigmeat,extensive,0.002
+GHA,Pigmeat,extensive,0.6
+GRC,Pigmeat,extensive,0.038
+GTM,Pigmeat,extensive,0.48
+GIN,Pigmeat,extensive,0.88
+HND,Pigmeat,extensive,0.26
+HUN,Pigmeat,extensive,0.13699999999999998
+ISL,Pigmeat,extensive,0.0
+IND,Pigmeat,extensive,0.77
+IRN,Pigmeat,extensive,0.0
+IRQ,Pigmeat,extensive,0.0
+IRL,Pigmeat,extensive,0.001
+ITA,Pigmeat,extensive,0.006
+JAM,Pigmeat,extensive,0.56
+JOR,Pigmeat,extensive,0.0
+KEN,Pigmeat,extensive,0.56
+KWT,Pigmeat,extensive,0.0
+LAO,Pigmeat,extensive,0.85
+LVA,Pigmeat,extensive,0.11
+LSO,Pigmeat,extensive,0.78
+LBY,Pigmeat,extensive,0.0
+LTU,Pigmeat,extensive,0.195
+LUX,Pigmeat,extensive,0.0
+MDG,Pigmeat,extensive,0.55
+MWI,Pigmeat,extensive,0.87
+MYS,Pigmeat,extensive,0.0
+MDV,Pigmeat,extensive,0.0
+MLI,Pigmeat,extensive,0.6
+MLT,Pigmeat,extensive,0.0
+MRT,Pigmeat,extensive,0.0
+MUS,Pigmeat,extensive,1.0
+MYT,Pigmeat,extensive,0.0
+MEX,Pigmeat,extensive,0.5
+MMR,Pigmeat,extensive,0.9500000000000001
+NAM,Pigmeat,extensive,0.65
+NPL,Pigmeat,extensive,0.58
+NLD,Pigmeat,extensive,0.0
+NER,Pigmeat,extensive,0.65
+NGA,Pigmeat,extensive,0.91
+NOR,Pigmeat,extensive,0.001
+OMN,Pigmeat,extensive,0.0
+PAK,Pigmeat,extensive,0.0
+PAN,Pigmeat,extensive,0.38
+PNG,Pigmeat,extensive,0.98
+PRY,Pigmeat,extensive,0.7000000000000001
+PER,Pigmeat,extensive,0.99
+PHL,Pigmeat,extensive,0.71
+POL,Pigmeat,extensive,0.044000000000000004
+PRT,Pigmeat,extensive,0.048
+QAT,Pigmeat,extensive,0.0
+KOR,Pigmeat,extensive,0.0
+ROU,Pigmeat,extensive,0.556
+RUS,Pigmeat,extensive,0.38
+WSM,Pigmeat,extensive,0.8
+STP,Pigmeat,extensive,0.9
+SAU,Pigmeat,extensive,0.0
+SEN,Pigmeat,extensive,0.8
+SVK,Pigmeat,extensive,0.040999999999999995
+SVN,Pigmeat,extensive,0.187
+ESP,Pigmeat,extensive,0.005
+LKA,Pigmeat,extensive,0.6
+SWZ,Pigmeat,extensive,0.78
+SWE,Pigmeat,extensive,0.001
+CHE,Pigmeat,extensive,0.004
+SYR,Pigmeat,extensive,0.0
+THA,Pigmeat,extensive,0.2
+UKR,Pigmeat,extensive,0.64
+ARE,Pigmeat,extensive,0.0
+GBR,Pigmeat,extensive,0.004
+TZA,Pigmeat,extensive,0.09
+USA,Pigmeat,extensive,0.01
+URY,Pigmeat,extensive,0.25
+VNM,Pigmeat,extensive,0.8
+YEM,Pigmeat,extensive,0.0
+ZWE,Pigmeat,extensive,0.5
+MNE,Pigmeat,extensive,0.7090000000000001
+SDN,Pigmeat,extensive,0.0
+AFG,Poultry Meat,extensive,0.98
+ALB,Poultry Meat,extensive,0.5
+AUT,Poultry Meat,extensive,0.01
+AZE,Poultry Meat,extensive,0.2
+BGD,Poultry Meat,extensive,0.81
+BEL,Poultry Meat,extensive,0.01
+BLZ,Poultry Meat,extensive,0.05
+BEN,Poultry Meat,extensive,0.8
+BRA,Poultry Meat,extensive,0.05
+BGR,Poultry Meat,extensive,0.28
+BFA,Poultry Meat,extensive,0.98
+BDI,Poultry Meat,extensive,0.9
+KHM,Poultry Meat,extensive,0.65
+CMR,Poultry Meat,extensive,0.7000000000000001
+CAN,Poultry Meat,extensive,0.01
+CAF,Poultry Meat,extensive,0.7000000000000001
+TCD,Poultry Meat,extensive,0.99
+COM,Poultry Meat,extensive,0.72
+CZE,Poultry Meat,extensive,0.01
+CIV,Poultry Meat,extensive,0.6
+COD,Poultry Meat,extensive,0.9
+DNK,Poultry Meat,extensive,0.01
+ETH,Poultry Meat,extensive,0.96
+FIN,Poultry Meat,extensive,0.01
+FRA,Poultry Meat,extensive,0.01
+GAB,Poultry Meat,extensive,0.7000000000000001
+GMB,Poultry Meat,extensive,0.8
+GEO,Poultry Meat,extensive,0.89
+DEU,Poultry Meat,extensive,0.01
+GHA,Poultry Meat,extensive,0.8
+GRC,Poultry Meat,extensive,0.13
+GTM,Poultry Meat,extensive,0.28
+HND,Poultry Meat,extensive,0.26
+IND,Poultry Meat,extensive,0.43
+IDN,Poultry Meat,extensive,0.24
+IRN,Poultry Meat,extensive,0.07
+IRQ,Poultry Meat,extensive,0.1
+IRL,Poultry Meat,extensive,0.02
+ITA,Poultry Meat,extensive,0.01
+JOR,Poultry Meat,extensive,0.05
+KEN,Poultry Meat,extensive,0.7000000000000001
+LAO,Poultry Meat,extensive,0.84
+LVA,Poultry Meat,extensive,0.1
+LBN,Poultry Meat,extensive,0.05
+LSO,Poultry Meat,extensive,0.99
+MDG,Poultry Meat,extensive,0.6
+MWI,Poultry Meat,extensive,0.85
+MYS,Poultry Meat,extensive,0.01
+MLI,Poultry Meat,extensive,0.9500000000000001
+MRT,Poultry Meat,extensive,0.63
+MEX,Poultry Meat,extensive,0.04
+MAR,Poultry Meat,extensive,0.2
+MOZ,Poultry Meat,extensive,0.9
+MMR,Poultry Meat,extensive,0.84
+NAM,Poultry Meat,extensive,0.62
+NLD,Poultry Meat,extensive,0.01
+NER,Poultry Meat,extensive,0.97
+NGA,Poultry Meat,extensive,0.7000000000000001
+NOR,Poultry Meat,extensive,0.01
+PAK,Poultry Meat,extensive,0.44
+PER,Poultry Meat,extensive,0.11
+PHL,Poultry Meat,extensive,0.75
+KOR,Poultry Meat,extensive,0.01
+RWA,Poultry Meat,extensive,0.9
+WSM,Poultry Meat,extensive,0.8
+SEN,Poultry Meat,extensive,0.7000000000000001
+SVK,Poultry Meat,extensive,0.1
+SVN,Poultry Meat,extensive,0.01
+ZAF,Poultry Meat,extensive,0.2
+ESP,Poultry Meat,extensive,0.01
+LKA,Poultry Meat,extensive,0.15
+SWE,Poultry Meat,extensive,0.01
+CHE,Poultry Meat,extensive,0.01
+SYR,Poultry Meat,extensive,0.1
+THA,Poultry Meat,extensive,0.33
+TGO,Poultry Meat,extensive,0.7000000000000001
+TUN,Poultry Meat,extensive,0.6
+UGA,Poultry Meat,extensive,0.9
+UKR,Poultry Meat,extensive,0.75
+GBR,Poultry Meat,extensive,0.01
+TZA,Poultry Meat,extensive,0.7000000000000001
+USA,Poultry Meat,extensive,0.01
+VNM,Poultry Meat,extensive,0.7000000000000001
+YEM,Poultry Meat,extensive,0.07
+ZWE,Poultry Meat,extensive,0.3
+EGY,Poultry Meat,extensive,0.34
+AFG,Pigmeat,intensive,1.0
+ASM,Pigmeat,intensive,0.86
+ARG,Pigmeat,intensive,0.78
+AUT,Pigmeat,intensive,0.982
+BHR,Pigmeat,intensive,1.0
+BGD,Pigmeat,intensive,0.010000000000000009
+BEL,Pigmeat,intensive,1.0
+BEN,Pigmeat,intensive,0.19999999999999996
+BTN,Pigmeat,intensive,0.49
+BOL,Pigmeat,intensive,0.8
+BWA,Pigmeat,intensive,0.010000000000000009
+BRA,Pigmeat,intensive,0.6499999999999999
+BGR,Pigmeat,intensive,0.7969999999999999
+BFA,Pigmeat,intensive,0.06999999999999995
+BDI,Pigmeat,intensive,0.09999999999999998
+KHM,Pigmeat,intensive,0.19999999999999996
+CMR,Pigmeat,intensive,0.4
+CAN,Pigmeat,intensive,1.0
+CPV,Pigmeat,intensive,0.010000000000000009
+TCD,Pigmeat,intensive,0.0
+CHL,Pigmeat,intensive,0.95
+COL,Pigmeat,intensive,0.5
+COM,Pigmeat,intensive,1.0
+CRI,Pigmeat,intensive,0.9
+HRV,Pigmeat,intensive,0.755
+CYP,Pigmeat,intensive,0.996
+CZE,Pigmeat,intensive,0.997
+CIV,Pigmeat,intensive,0.44999999999999996
+COD,Pigmeat,intensive,0.35
+DNK,Pigmeat,intensive,1.0
+DJI,Pigmeat,intensive,1.0
+SLV,Pigmeat,intensive,0.47
+EST,Pigmeat,intensive,0.991
+FIN,Pigmeat,intensive,1.0
+FRA,Pigmeat,intensive,0.998
+GMB,Pigmeat,intensive,0.09999999999999998
+DEU,Pigmeat,intensive,0.998
+GHA,Pigmeat,intensive,0.4
+GRC,Pigmeat,intensive,0.962
+GTM,Pigmeat,intensive,0.52
+GIN,Pigmeat,intensive,0.12
+HND,Pigmeat,intensive,0.74
+HUN,Pigmeat,intensive,0.863
+ISL,Pigmeat,intensive,1.0
+IND,Pigmeat,intensive,0.22999999999999998
+IRN,Pigmeat,intensive,1.0
+IRQ,Pigmeat,intensive,1.0
+IRL,Pigmeat,intensive,0.999
+ITA,Pigmeat,intensive,0.994
+JAM,Pigmeat,intensive,0.43999999999999995
+JOR,Pigmeat,intensive,1.0
+KEN,Pigmeat,intensive,0.43999999999999995
+KWT,Pigmeat,intensive,1.0
+LAO,Pigmeat,intensive,0.15000000000000002
+LVA,Pigmeat,intensive,0.89
+LSO,Pigmeat,intensive,0.21999999999999997
+LBY,Pigmeat,intensive,1.0
+LTU,Pigmeat,intensive,0.8049999999999999
+LUX,Pigmeat,intensive,1.0
+MDG,Pigmeat,intensive,0.44999999999999996
+MWI,Pigmeat,intensive,0.13
+MYS,Pigmeat,intensive,1.0
+MDV,Pigmeat,intensive,1.0
+MLI,Pigmeat,intensive,0.4
+MLT,Pigmeat,intensive,1.0
+MRT,Pigmeat,intensive,1.0
+MUS,Pigmeat,intensive,0.0
+MYT,Pigmeat,intensive,1.0
+MEX,Pigmeat,intensive,0.5
+MMR,Pigmeat,intensive,0.04999999999999993
+NAM,Pigmeat,intensive,0.35
+NPL,Pigmeat,intensive,0.42000000000000004
+NLD,Pigmeat,intensive,1.0
+NER,Pigmeat,intensive,0.35
+NGA,Pigmeat,intensive,0.08999999999999997
+NOR,Pigmeat,intensive,0.999
+OMN,Pigmeat,intensive,1.0
+PAK,Pigmeat,intensive,1.0
+PAN,Pigmeat,intensive,0.62
+PNG,Pigmeat,intensive,0.020000000000000018
+PRY,Pigmeat,intensive,0.29999999999999993
+PER,Pigmeat,intensive,0.010000000000000009
+PHL,Pigmeat,intensive,0.29000000000000004
+POL,Pigmeat,intensive,0.956
+PRT,Pigmeat,intensive,0.952
+QAT,Pigmeat,intensive,1.0
+KOR,Pigmeat,intensive,1.0
+ROU,Pigmeat,intensive,0.44399999999999995
+RUS,Pigmeat,intensive,0.62
+WSM,Pigmeat,intensive,0.19999999999999996
+STP,Pigmeat,intensive,0.09999999999999998
+SAU,Pigmeat,intensive,1.0
+SEN,Pigmeat,intensive,0.19999999999999996
+SVK,Pigmeat,intensive,0.959
+SVN,Pigmeat,intensive,0.813
+ESP,Pigmeat,intensive,0.995
+LKA,Pigmeat,intensive,0.4
+SWZ,Pigmeat,intensive,0.21999999999999997
+SWE,Pigmeat,intensive,0.999
+CHE,Pigmeat,intensive,0.996
+SYR,Pigmeat,intensive,1.0
+THA,Pigmeat,intensive,0.8
+UKR,Pigmeat,intensive,0.36
+ARE,Pigmeat,intensive,1.0
+GBR,Pigmeat,intensive,0.996
+TZA,Pigmeat,intensive,0.91
+USA,Pigmeat,intensive,0.99
+URY,Pigmeat,intensive,0.75
+VNM,Pigmeat,intensive,0.19999999999999996
+YEM,Pigmeat,intensive,1.0
+ZWE,Pigmeat,intensive,0.5
+MNE,Pigmeat,intensive,0.2909999999999999
+SDN,Pigmeat,intensive,1.0
+AFG,Poultry Meat,intensive,0.020000000000000018
+ALB,Poultry Meat,intensive,0.5
+AUT,Poultry Meat,intensive,0.99
+AZE,Poultry Meat,intensive,0.8
+BGD,Poultry Meat,intensive,0.18999999999999995
+BEL,Poultry Meat,intensive,0.99
+BLZ,Poultry Meat,intensive,0.95
+BEN,Poultry Meat,intensive,0.19999999999999996
+BRA,Poultry Meat,intensive,0.95
+BGR,Poultry Meat,intensive,0.72
+BFA,Poultry Meat,intensive,0.020000000000000018
+BDI,Poultry Meat,intensive,0.09999999999999998
+KHM,Poultry Meat,intensive,0.35
+CMR,Poultry Meat,intensive,0.29999999999999993
+CAN,Poultry Meat,intensive,0.99
+CAF,Poultry Meat,intensive,0.29999999999999993
+TCD,Poultry Meat,intensive,0.010000000000000009
+COM,Poultry Meat,intensive,0.28
+CZE,Poultry Meat,intensive,0.99
+CIV,Poultry Meat,intensive,0.4
+COD,Poultry Meat,intensive,0.09999999999999998
+DNK,Poultry Meat,intensive,0.99
+ETH,Poultry Meat,intensive,0.040000000000000036
+FIN,Poultry Meat,intensive,0.99
+FRA,Poultry Meat,intensive,0.99
+GAB,Poultry Meat,intensive,0.29999999999999993
+GMB,Poultry Meat,intensive,0.19999999999999996
+GEO,Poultry Meat,intensive,0.10999999999999999
+DEU,Poultry Meat,intensive,0.99
+GHA,Poultry Meat,intensive,0.19999999999999996
+GRC,Poultry Meat,intensive,0.87
+GTM,Poultry Meat,intensive,0.72
+HND,Poultry Meat,intensive,0.74
+IND,Poultry Meat,intensive,0.5700000000000001
+IDN,Poultry Meat,intensive,0.76
+IRN,Poultry Meat,intensive,0.9299999999999999
+IRQ,Poultry Meat,intensive,0.9
+IRL,Poultry Meat,intensive,0.98
+ITA,Poultry Meat,intensive,0.99
+JOR,Poultry Meat,intensive,0.95
+KEN,Poultry Meat,intensive,0.29999999999999993
+LAO,Poultry Meat,intensive,0.16000000000000003
+LVA,Poultry Meat,intensive,0.9
+LBN,Poultry Meat,intensive,0.95
+LSO,Poultry Meat,intensive,0.010000000000000009
+MDG,Poultry Meat,intensive,0.4
+MWI,Poultry Meat,intensive,0.15000000000000002
+MYS,Poultry Meat,intensive,0.99
+MLI,Poultry Meat,intensive,0.04999999999999993
+MRT,Poultry Meat,intensive,0.37
+MEX,Poultry Meat,intensive,0.96
+MAR,Poultry Meat,intensive,0.8
+MOZ,Poultry Meat,intensive,0.09999999999999998
+MMR,Poultry Meat,intensive,0.16000000000000003
+NAM,Poultry Meat,intensive,0.38
+NLD,Poultry Meat,intensive,0.99
+NER,Poultry Meat,intensive,0.030000000000000027
+NGA,Poultry Meat,intensive,0.29999999999999993
+NOR,Poultry Meat,intensive,0.99
+PAK,Poultry Meat,intensive,0.56
+PER,Poultry Meat,intensive,0.89
+PHL,Poultry Meat,intensive,0.25
+KOR,Poultry Meat,intensive,0.99
+RWA,Poultry Meat,intensive,0.09999999999999998
+WSM,Poultry Meat,intensive,0.19999999999999996
+SEN,Poultry Meat,intensive,0.29999999999999993
+SVK,Poultry Meat,intensive,0.9
+SVN,Poultry Meat,intensive,0.99
+ZAF,Poultry Meat,intensive,0.8
+ESP,Poultry Meat,intensive,0.99
+LKA,Poultry Meat,intensive,0.85
+SWE,Poultry Meat,intensive,0.99
+CHE,Poultry Meat,intensive,0.99
+SYR,Poultry Meat,intensive,0.9
+THA,Poultry Meat,intensive,0.6699999999999999
+TGO,Poultry Meat,intensive,0.29999999999999993
+TUN,Poultry Meat,intensive,0.4
+UGA,Poultry Meat,intensive,0.09999999999999998
+UKR,Poultry Meat,intensive,0.25
+GBR,Poultry Meat,intensive,0.99
+TZA,Poultry Meat,intensive,0.29999999999999993
+USA,Poultry Meat,intensive,0.99
+VNM,Poultry Meat,intensive,0.29999999999999993
+YEM,Poultry Meat,intensive,0.9299999999999999
+ZWE,Poultry Meat,intensive,0.7
+EGY,Poultry Meat,intensive,0.6599999999999999

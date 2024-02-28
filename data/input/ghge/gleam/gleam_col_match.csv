@@ -1,0 +1,41 @@
+gleam_variable,attribute
+EI: Emission intensity of egss,kg_co2e/kg_protein
+EI: Emission intensity of meat,kg_co2e/kg_protein
+EI: Emission intensity of milk,kg_co2e/kg_protein
+EMSS: Energy - CO2 direct energy use,
+EMSS: Energy - CO2 indirect energy use,
+EMSS: Enteric - CH4 from enteric fermentation,
+EMSS: Feed - CH4 rice,
+EMSS: Feed - CO2 feed production,
+EMSS: Feed - CO2 LUC palm kernel cake,system_kg_co2_luc_feed_palm
+EMSS: Feed - CO2 LUC pasture expansion,system_kg_co2_luc_pasture
+EMSS: Feed - CO2 LUC soy,system_kg_co2_luc_feed_soy
+EMSS: Feed - N2O fertilizer and crop residues,
+EMSS: Feed - N2O manure applied and deposited,
+EMSS: Manure - CH4 from manure management,
+EMSS: Manure - N2O from manure management,
+EMSS: Total CH4,
+EMSS: Total CO2,
+EMSS: Total GHG emissions,system_kg_co2e_total
+EMSS: Total N2O,
+HERD: adult females,
+HERD: adult males,
+HERD: fattening animals,
+HERD: fattening females,
+HERD: fattening males,
+HERD: replacement females,
+HERD: replacement males,
+HERD: total number of animals,
+INTAKE: Total intake,
+INTAKE: Total intake - Additives,
+INTAKE: Total intake - Agro-industrial by-products,
+INTAKE: Total intake - Grains,
+INTAKE: Total intake - Grains & Food crops,
+INTAKE: Total intake - Roughages,
+INTAKE: Total intake - Swill & Roughages,
+PROD: Eggs - protein amount,kg_protein/year
+PROD: Eggs - shell weight,kg_primary/year
+PROD: Meat - carcass weight,kg_primary/year
+PROD: Meat - protein amount,kg_protein/year
+PROD: Milk - fresh weight,kg_primary/year
+PROD: Milk - protein amount,kg_protein/year

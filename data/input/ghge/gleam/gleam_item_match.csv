@@ -1,0 +1,12 @@
+species,item,fbs_item_code,fbs_item
+Cattle,Cattle meat,2731,Bovine Meat
+Cattle,Cattle milk,2848,Milk - Excluding Butter
+Buffaloes,Buffalo meat,2731,Bovine Meat
+Buffaloes,Buffalo milk,2848,Milk - Excluding Butter
+Sheep,Sheep meat,2732,Mutton & Goat Meat
+Sheep,Sheep milk,2848,Milk - Excluding Butter
+Goats,Goat meat,2732,Mutton & Goat Meat
+Goats,Goat milk,2848,Milk - Excluding Butter
+Pigs,Pig meat,2733,Pigmeat
+Chickens,Chicken meat,2734,Poultry Meat
+Chickens,Eggs,2744,Eggs

@@ -1,0 +1,417 @@
+country_code,country,item_code,item,year,unit,value
+3,Albania,236,Soybeans,2011,hg/ha,18519
+3,Albania,236,Soybeans,2012,hg/ha,13333
+3,Albania,236,Soybeans,2013,hg/ha,10000
+7,Angola,254,Oil palm fruit,2011,hg/ha,121739
+7,Angola,254,Oil palm fruit,2012,hg/ha,121739
+7,Angola,254,Oil palm fruit,2013,hg/ha,121739
+7,Angola,236,Soybeans,2011,hg/ha,5294
+7,Angola,236,Soybeans,2012,hg/ha,1641
+7,Angola,236,Soybeans,2013,hg/ha,4405
+9,Argentina,236,Soybeans,2011,hg/ha,26053
+9,Argentina,236,Soybeans,2012,hg/ha,22814
+9,Argentina,236,Soybeans,2013,hg/ha,25391
+10,Australia,236,Soybeans,2011,hg/ha,17136
+10,Australia,236,Soybeans,2012,hg/ha,22598
+10,Australia,236,Soybeans,2013,hg/ha,22336
+11,Austria,236,Soybeans,2011,hg/ha,28691
+11,Austria,236,Soybeans,2012,hg/ha,28051
+11,Austria,236,Soybeans,2013,hg/ha,19697
+52,Azerbaijan,236,Soybeans,2011,hg/ha,6226
+52,Azerbaijan,236,Soybeans,2012,hg/ha,5952
+52,Azerbaijan,236,Soybeans,2013,hg/ha,5679
+16,Bangladesh,236,Soybeans,2011,hg/ha,15898
+16,Bangladesh,236,Soybeans,2012,hg/ha,15814
+16,Bangladesh,236,Soybeans,2013,hg/ha,14729
+23,Belize,236,Soybeans,2011,hg/ha,17478
+23,Belize,236,Soybeans,2012,hg/ha,17243
+23,Belize,236,Soybeans,2013,hg/ha,16054
+53,Benin,254,Oil palm fruit,2011,hg/ha,158621
+53,Benin,254,Oil palm fruit,2012,hg/ha,165625
+53,Benin,254,Oil palm fruit,2013,hg/ha,155556
+53,Benin,236,Soybeans,2011,hg/ha,8996
+53,Benin,236,Soybeans,2012,hg/ha,8938
+53,Benin,236,Soybeans,2013,hg/ha,10193
+18,Bhutan,236,Soybeans,2011,hg/ha,15678
+18,Bhutan,236,Soybeans,2012,hg/ha,12264
+18,Bhutan,236,Soybeans,2013,hg/ha,11691
+19,Bolivia (Plurinational State of),236,Soybeans,2011,hg/ha,15804
+19,Bolivia (Plurinational State of),236,Soybeans,2012,hg/ha,20590
+19,Bolivia (Plurinational State of),236,Soybeans,2013,hg/ha,23116
+80,Bosnia and Herzegovina,236,Soybeans,2011,hg/ha,17374
+80,Bosnia and Herzegovina,236,Soybeans,2012,hg/ha,12597
+80,Bosnia and Herzegovina,236,Soybeans,2013,hg/ha,17801
+21,Brazil,254,Oil palm fruit,2011,hg/ha,119288
+21,Brazil,254,Oil palm fruit,2012,hg/ha,109691
+21,Brazil,254,Oil palm fruit,2013,hg/ha,114773
+21,Brazil,236,Soybeans,2011,hg/ha,31214
+21,Brazil,236,Soybeans,2012,hg/ha,26366
+21,Brazil,236,Soybeans,2013,hg/ha,29285
+27,Bulgaria,236,Soybeans,2011,hg/ha,11565
+27,Bulgaria,236,Soybeans,2012,hg/ha,7903
+27,Bulgaria,236,Soybeans,2013,hg/ha,17976
+233,Burkina Faso,236,Soybeans,2011,hg/ha,8873
+233,Burkina Faso,236,Soybeans,2012,hg/ha,10949
+233,Burkina Faso,236,Soybeans,2013,hg/ha,13512
+29,Burundi,254,Oil palm fruit,2011,hg/ha,100000
+29,Burundi,254,Oil palm fruit,2012,hg/ha,100000
+29,Burundi,254,Oil palm fruit,2013,hg/ha,100000
+29,Burundi,236,Soybeans,2011,hg/ha,7765
+29,Burundi,236,Soybeans,2012,hg/ha,7283
+29,Burundi,236,Soybeans,2013,hg/ha,9554
+115,Cambodia,236,Soybeans,2011,hg/ha,16236
+115,Cambodia,236,Soybeans,2012,hg/ha,16931
+115,Cambodia,236,Soybeans,2013,hg/ha,15700
+32,Cameroon,254,Oil palm fruit,2011,hg/ha,197093
+32,Cameroon,254,Oil palm fruit,2012,hg/ha,203252
+32,Cameroon,254,Oil palm fruit,2013,hg/ha,181481
+32,Cameroon,236,Soybeans,2011,hg/ha,8276
+32,Cameroon,236,Soybeans,2012,hg/ha,13980
+32,Cameroon,236,Soybeans,2013,hg/ha,13228
+33,Canada,236,Soybeans,2011,hg/ha,27530
+33,Canada,236,Soybeans,2012,hg/ha,30294
+33,Canada,236,Soybeans,2013,hg/ha,28810
+37,Central African Republic,254,Oil palm fruit,2011,hg/ha,79365
+37,Central African Republic,254,Oil palm fruit,2012,hg/ha,87302
+37,Central African Republic,254,Oil palm fruit,2013,hg/ha,89231
+41,"China, mainland",254,Oil palm fruit,2011,hg/ha,135417
+41,"China, mainland",254,Oil palm fruit,2012,hg/ha,134694
+41,"China, mainland",254,Oil palm fruit,2013,hg/ha,134000
+41,"China, mainland",236,Soybeans,2011,hg/ha,18361
+41,"China, mainland",236,Soybeans,2012,hg/ha,18144
+41,"China, mainland",236,Soybeans,2013,hg/ha,17599
+214,"China, Taiwan Province of",236,Soybeans,2011,hg/ha,19091
+214,"China, Taiwan Province of",236,Soybeans,2012,hg/ha,19875
+214,"China, Taiwan Province of",236,Soybeans,2013,hg/ha,18742
+44,Colombia,254,Oil palm fruit,2011,hg/ha,200374
+44,Colombia,254,Oil palm fruit,2012,hg/ha,200336
+44,Colombia,254,Oil palm fruit,2013,hg/ha,201861
+44,Colombia,236,Soybeans,2011,hg/ha,21766
+44,Colombia,236,Soybeans,2012,hg/ha,26639
+44,Colombia,236,Soybeans,2013,hg/ha,27250
+46,Congo,254,Oil palm fruit,2011,hg/ha,125664
+46,Congo,254,Oil palm fruit,2012,hg/ha,124783
+46,Congo,254,Oil palm fruit,2013,hg/ha,124138
+48,Costa Rica,254,Oil palm fruit,2011,hg/ha,175000
+48,Costa Rica,254,Oil palm fruit,2012,hg/ha,175000
+48,Costa Rica,254,Oil palm fruit,2013,hg/ha,175000
+107,Côte d'Ivoire,254,Oil palm fruit,2011,hg/ha,61736
+107,Côte d'Ivoire,254,Oil palm fruit,2012,hg/ha,68859
+107,Côte d'Ivoire,254,Oil palm fruit,2013,hg/ha,64584
+107,Côte d'Ivoire,236,Soybeans,2011,hg/ha,9348
+107,Côte d'Ivoire,236,Soybeans,2012,hg/ha,9278
+107,Côte d'Ivoire,236,Soybeans,2013,hg/ha,9329
+98,Croatia,236,Soybeans,2011,hg/ha,25005
+98,Croatia,236,Soybeans,2012,hg/ha,17875
+98,Croatia,236,Soybeans,2013,hg/ha,23606
+167,Czechia,236,Soybeans,2011,hg/ha,23647
+167,Czechia,236,Soybeans,2012,hg/ha,22900
+167,Czechia,236,Soybeans,2013,hg/ha,20702
+116,Democratic People's Republic of Korea,236,Soybeans,2011,hg/ha,11667
+116,Democratic People's Republic of Korea,236,Soybeans,2012,hg/ha,11667
+116,Democratic People's Republic of Korea,236,Soybeans,2013,hg/ha,11667
+250,Democratic Republic of the Congo,254,Oil palm fruit,2011,hg/ha,67027
+250,Democratic Republic of the Congo,254,Oil palm fruit,2012,hg/ha,66666
+250,Democratic Republic of the Congo,254,Oil palm fruit,2013,hg/ha,66957
+250,Democratic Republic of the Congo,236,Soybeans,2011,hg/ha,4835
+250,Democratic Republic of the Congo,236,Soybeans,2012,hg/ha,4943
+250,Democratic Republic of the Congo,236,Soybeans,2013,hg/ha,5009
+56,Dominican Republic,254,Oil palm fruit,2011,hg/ha,152417
+56,Dominican Republic,254,Oil palm fruit,2012,hg/ha,154118
+56,Dominican Republic,254,Oil palm fruit,2013,hg/ha,154118
+58,Ecuador,254,Oil palm fruit,2011,hg/ha,103496
+58,Ecuador,254,Oil palm fruit,2012,hg/ha,133401
+58,Ecuador,254,Oil palm fruit,2013,hg/ha,105872
+58,Ecuador,236,Soybeans,2011,hg/ha,16250
+58,Ecuador,236,Soybeans,2012,hg/ha,16400
+58,Ecuador,236,Soybeans,2013,hg/ha,16415
+59,Egypt,236,Soybeans,2011,hg/ha,31195
+59,Egypt,236,Soybeans,2012,hg/ha,36186
+59,Egypt,236,Soybeans,2013,hg/ha,34767
+60,El Salvador,236,Soybeans,2011,hg/ha,19175
+60,El Salvador,236,Soybeans,2012,hg/ha,19231
+60,El Salvador,236,Soybeans,2013,hg/ha,19231
+61,Equatorial Guinea,254,Oil palm fruit,2011,hg/ha,100000
+61,Equatorial Guinea,254,Oil palm fruit,2012,hg/ha,102857
+61,Equatorial Guinea,254,Oil palm fruit,2013,hg/ha,102857
+238,Ethiopia,236,Soybeans,2011,hg/ha,18498
+238,Ethiopia,236,Soybeans,2012,hg/ha,19982
+238,Ethiopia,236,Soybeans,2013,hg/ha,19997
+68,France,236,Soybeans,2011,hg/ha,29473
+68,France,236,Soybeans,2012,hg/ha,27815
+68,France,236,Soybeans,2013,hg/ha,25599
+74,Gabon,254,Oil palm fruit,2011,hg/ha,47619
+74,Gabon,254,Oil palm fruit,2012,hg/ha,47619
+74,Gabon,254,Oil palm fruit,2013,hg/ha,50000
+74,Gabon,236,Soybeans,2011,hg/ha,8750
+74,Gabon,236,Soybeans,2012,hg/ha,8571
+74,Gabon,236,Soybeans,2013,hg/ha,8889
+75,Gambia,254,Oil palm fruit,2011,hg/ha,100000
+75,Gambia,254,Oil palm fruit,2012,hg/ha,100000
+75,Gambia,254,Oil palm fruit,2013,hg/ha,100000
+73,Georgia,236,Soybeans,2011,hg/ha,33607
+73,Georgia,236,Soybeans,2012,hg/ha,33585
+73,Georgia,236,Soybeans,2013,hg/ha,34812
+79,Germany,236,Soybeans,2011,hg/ha,15000
+79,Germany,236,Soybeans,2012,hg/ha,20000
+79,Germany,236,Soybeans,2013,hg/ha,20000
+81,Ghana,254,Oil palm fruit,2011,hg/ha,58642
+81,Ghana,254,Oil palm fruit,2012,hg/ha,56747
+81,Ghana,254,Oil palm fruit,2013,hg/ha,72999
+84,Greece,236,Soybeans,2011,hg/ha,20000
+84,Greece,236,Soybeans,2012,hg/ha,20000
+84,Greece,236,Soybeans,2013,hg/ha,33383
+89,Guatemala,254,Oil palm fruit,2011,hg/ha,180000
+89,Guatemala,254,Oil palm fruit,2012,hg/ha,160000
+89,Guatemala,254,Oil palm fruit,2013,hg/ha,148000
+89,Guatemala,236,Soybeans,2011,hg/ha,26429
+89,Guatemala,236,Soybeans,2012,hg/ha,26429
+89,Guatemala,236,Soybeans,2013,hg/ha,25333
+90,Guinea,254,Oil palm fruit,2011,hg/ha,26774
+90,Guinea,254,Oil palm fruit,2012,hg/ha,26774
+90,Guinea,254,Oil palm fruit,2013,hg/ha,26774
+175,Guinea-Bissau,254,Oil palm fruit,2011,hg/ha,84737
+175,Guinea-Bissau,254,Oil palm fruit,2012,hg/ha,84737
+175,Guinea-Bissau,254,Oil palm fruit,2013,hg/ha,84737
+95,Honduras,254,Oil palm fruit,2011,hg/ha,169719
+95,Honduras,254,Oil palm fruit,2012,hg/ha,169976
+95,Honduras,254,Oil palm fruit,2013,hg/ha,166976
+95,Honduras,236,Soybeans,2011,hg/ha,20714
+95,Honduras,236,Soybeans,2012,hg/ha,20755
+95,Honduras,236,Soybeans,2013,hg/ha,20797
+97,Hungary,236,Soybeans,2011,hg/ha,23155
+97,Hungary,236,Soybeans,2012,hg/ha,16556
+97,Hungary,236,Soybeans,2013,hg/ha,18597
+100,India,236,Soybeans,2011,hg/ha,11998
+100,India,236,Soybeans,2012,hg/ha,13530
+100,India,236,Soybeans,2013,hg/ha,10198
+101,Indonesia,254,Oil palm fruit,2011,hg/ha,170178
+101,Indonesia,254,Oil palm fruit,2012,hg/ha,169925
+101,Indonesia,254,Oil palm fruit,2013,hg/ha,169492
+101,Indonesia,236,Soybeans,2011,hg/ha,13681
+101,Indonesia,236,Soybeans,2012,hg/ha,14854
+101,Indonesia,236,Soybeans,2013,hg/ha,14161
+102,Iran (Islamic Republic of),236,Soybeans,2011,hg/ha,24286
+102,Iran (Islamic Republic of),236,Soybeans,2012,hg/ha,23514
+102,Iran (Islamic Republic of),236,Soybeans,2013,hg/ha,24474
+103,Iraq,236,Soybeans,2011,hg/ha,8213
+103,Iraq,236,Soybeans,2012,hg/ha,7999
+103,Iraq,236,Soybeans,2013,hg/ha,7785
+106,Italy,236,Soybeans,2011,hg/ha,34024
+106,Italy,236,Soybeans,2012,hg/ha,27591
+106,Italy,236,Soybeans,2013,hg/ha,33906
+110,Japan,236,Soybeans,2011,hg/ha,16006
+110,Japan,236,Soybeans,2012,hg/ha,17994
+110,Japan,236,Soybeans,2013,hg/ha,15520
+108,Kazakhstan,236,Soybeans,2011,hg/ha,18997
+108,Kazakhstan,236,Soybeans,2012,hg/ha,20138
+108,Kazakhstan,236,Soybeans,2013,hg/ha,19718
+114,Kenya,236,Soybeans,2011,hg/ha,12578
+114,Kenya,236,Soybeans,2012,hg/ha,14997
+114,Kenya,236,Soybeans,2013,hg/ha,16165
+113,Kyrgyzstan,236,Soybeans,2011,hg/ha,10294
+113,Kyrgyzstan,236,Soybeans,2012,hg/ha,17292
+113,Kyrgyzstan,236,Soybeans,2013,hg/ha,8010
+120,Lao People's Democratic Republic,236,Soybeans,2011,hg/ha,15112
+120,Lao People's Democratic Republic,236,Soybeans,2012,hg/ha,16371
+120,Lao People's Democratic Republic,236,Soybeans,2013,hg/ha,15624
+123,Liberia,254,Oil palm fruit,2011,hg/ha,101969
+123,Liberia,254,Oil palm fruit,2012,hg/ha,101290
+123,Liberia,254,Oil palm fruit,2013,hg/ha,100819
+123,Liberia,236,Soybeans,2011,hg/ha,4131
+123,Liberia,236,Soybeans,2012,hg/ha,4267
+123,Liberia,236,Soybeans,2013,hg/ha,4342
+129,Madagascar,254,Oil palm fruit,2011,hg/ha,116484
+129,Madagascar,254,Oil palm fruit,2012,hg/ha,118919
+129,Madagascar,254,Oil palm fruit,2013,hg/ha,114595
+129,Madagascar,236,Soybeans,2011,hg/ha,5964
+129,Madagascar,236,Soybeans,2012,hg/ha,6000
+129,Madagascar,236,Soybeans,2013,hg/ha,5867
+130,Malawi,236,Soybeans,2011,hg/ha,9977
+130,Malawi,236,Soybeans,2012,hg/ha,10433
+130,Malawi,236,Soybeans,2013,hg/ha,9791
+131,Malaysia,254,Oil palm fruit,2011,hg/ha,216864
+131,Malaysia,254,Oil palm fruit,2012,hg/ha,214261
+131,Malaysia,254,Oil palm fruit,2013,hg/ha,211504
+133,Mali,236,Soybeans,2011,hg/ha,7900
+133,Mali,236,Soybeans,2012,hg/ha,7915
+133,Mali,236,Soybeans,2013,hg/ha,7219
+138,Mexico,254,Oil palm fruit,2011,hg/ha,155044
+138,Mexico,254,Oil palm fruit,2012,hg/ha,135088
+138,Mexico,254,Oil palm fruit,2013,hg/ha,123130
+138,Mexico,236,Soybeans,2011,hg/ha,13197
+138,Mexico,236,Soybeans,2012,hg/ha,17389
+138,Mexico,236,Soybeans,2013,hg/ha,15198
+143,Morocco,236,Soybeans,2011,hg/ha,10000
+143,Morocco,236,Soybeans,2012,hg/ha,10000
+143,Morocco,236,Soybeans,2013,hg/ha,10000
+28,Myanmar,236,Soybeans,2011,hg/ha,15042
+28,Myanmar,236,Soybeans,2012,hg/ha,10450
+28,Myanmar,236,Soybeans,2013,hg/ha,10483
+149,Nepal,236,Soybeans,2011,hg/ha,9659
+149,Nepal,236,Soybeans,2012,hg/ha,9654
+149,Nepal,236,Soybeans,2013,hg/ha,11719
+157,Nicaragua,254,Oil palm fruit,2011,hg/ha,216750
+157,Nicaragua,254,Oil palm fruit,2012,hg/ha,200000
+157,Nicaragua,254,Oil palm fruit,2013,hg/ha,200000
+157,Nicaragua,236,Soybeans,2011,hg/ha,20144
+157,Nicaragua,236,Soybeans,2012,hg/ha,18285
+157,Nicaragua,236,Soybeans,2013,hg/ha,22165
+159,Nigeria,254,Oil palm fruit,2011,hg/ha,25000
+159,Nigeria,254,Oil palm fruit,2012,hg/ha,24923
+159,Nigeria,254,Oil palm fruit,2013,hg/ha,26667
+159,Nigeria,236,Soybeans,2011,hg/ha,8223
+159,Nigeria,236,Soybeans,2012,hg/ha,9726
+159,Nigeria,236,Soybeans,2013,hg/ha,7617
+165,Pakistan,236,Soybeans,2011,hg/ha,6953
+165,Pakistan,236,Soybeans,2012,hg/ha,2099
+165,Pakistan,236,Soybeans,2013,hg/ha,7222
+166,Panama,254,Oil palm fruit,2011,hg/ha,101165
+166,Panama,254,Oil palm fruit,2012,hg/ha,100755
+166,Panama,254,Oil palm fruit,2013,hg/ha,101019
+166,Panama,236,Soybeans,2011,hg/ha,4276
+166,Panama,236,Soybeans,2012,hg/ha,3684
+166,Panama,236,Soybeans,2013,hg/ha,3684
+168,Papua New Guinea,254,Oil palm fruit,2011,hg/ha,139860
+168,Papua New Guinea,254,Oil palm fruit,2012,hg/ha,140411
+168,Papua New Guinea,254,Oil palm fruit,2013,hg/ha,140000
+169,Paraguay,254,Oil palm fruit,2011,hg/ha,95000
+169,Paraguay,254,Oil palm fruit,2012,hg/ha,95000
+169,Paraguay,254,Oil palm fruit,2013,hg/ha,95000
+169,Paraguay,236,Soybeans,2011,hg/ha,29620
+169,Paraguay,236,Soybeans,2012,hg/ha,14880
+169,Paraguay,236,Soybeans,2013,hg/ha,29500
+170,Peru,254,Oil palm fruit,2011,hg/ha,107965
+170,Peru,254,Oil palm fruit,2012,hg/ha,136933
+170,Peru,254,Oil palm fruit,2013,hg/ha,119311
+170,Peru,236,Soybeans,2011,hg/ha,18091
+170,Peru,236,Soybeans,2012,hg/ha,18212
+170,Peru,236,Soybeans,2013,hg/ha,17893
+171,Philippines,254,Oil palm fruit,2011,hg/ha,109656
+171,Philippines,254,Oil palm fruit,2012,hg/ha,100216
+171,Philippines,254,Oil palm fruit,2013,hg/ha,87904
+171,Philippines,236,Soybeans,2011,hg/ha,13230
+171,Philippines,236,Soybeans,2012,hg/ha,13065
+171,Philippines,236,Soybeans,2013,hg/ha,14169
+173,Poland,236,Soybeans,2011,hg/ha,15913
+173,Poland,236,Soybeans,2012,hg/ha,17076
+117,Republic of Korea,236,Soybeans,2011,hg/ha,16621
+117,Republic of Korea,236,Soybeans,2012,hg/ha,15155
+117,Republic of Korea,236,Soybeans,2013,hg/ha,19251
+146,Republic of Moldova,236,Soybeans,2011,hg/ha,13652
+146,Republic of Moldova,236,Soybeans,2012,hg/ha,8477
+146,Republic of Moldova,236,Soybeans,2013,hg/ha,16620
+183,Romania,236,Soybeans,2011,hg/ha,19849
+183,Romania,236,Soybeans,2012,hg/ha,13388
+183,Romania,236,Soybeans,2013,hg/ha,22242
+185,Russian Federation,236,Soybeans,2011,hg/ha,14789
+185,Russian Federation,236,Soybeans,2012,hg/ha,13134
+185,Russian Federation,236,Soybeans,2013,hg/ha,12642
+184,Rwanda,236,Soybeans,2011,hg/ha,7800
+184,Rwanda,236,Soybeans,2012,hg/ha,5862
+184,Rwanda,236,Soybeans,2013,hg/ha,6755
+193,Sao Tome and Principe,254,Oil palm fruit,2011,hg/ha,96407
+193,Sao Tome and Principe,254,Oil palm fruit,2012,hg/ha,96407
+193,Sao Tome and Principe,254,Oil palm fruit,2013,hg/ha,95294
+195,Senegal,254,Oil palm fruit,2011,hg/ha,114286
+195,Senegal,254,Oil palm fruit,2012,hg/ha,110909
+195,Senegal,254,Oil palm fruit,2013,hg/ha,107143
+272,Serbia,236,Soybeans,2011,hg/ha,26677
+272,Serbia,236,Soybeans,2012,hg/ha,17247
+272,Serbia,236,Soybeans,2013,hg/ha,24117
+197,Sierra Leone,254,Oil palm fruit,2011,hg/ha,80000
+197,Sierra Leone,254,Oil palm fruit,2012,hg/ha,77778
+197,Sierra Leone,254,Oil palm fruit,2013,hg/ha,76364
+199,Slovakia,236,Soybeans,2011,hg/ha,18773
+199,Slovakia,236,Soybeans,2012,hg/ha,19111
+199,Slovakia,236,Soybeans,2013,hg/ha,13561
+198,Slovenia,236,Soybeans,2011,hg/ha,27290
+198,Slovenia,236,Soybeans,2012,hg/ha,24500
+198,Slovenia,236,Soybeans,2013,hg/ha,16655
+25,Solomon Islands,254,Oil palm fruit,2011,hg/ha,136429
+25,Solomon Islands,254,Oil palm fruit,2012,hg/ha,158000
+25,Solomon Islands,254,Oil palm fruit,2013,hg/ha,150000
+202,South Africa,236,Soybeans,2011,hg/ha,16986
+202,South Africa,236,Soybeans,2012,hg/ha,13771
+202,South Africa,236,Soybeans,2013,hg/ha,15198
+203,Spain,236,Soybeans,2011,hg/ha,24893
+203,Spain,236,Soybeans,2012,hg/ha,27713
+203,Spain,236,Soybeans,2013,hg/ha,27912
+38,Sri Lanka,236,Soybeans,2011,hg/ha,15673
+38,Sri Lanka,236,Soybeans,2012,hg/ha,10987
+38,Sri Lanka,236,Soybeans,2013,hg/ha,16955
+207,Suriname,254,Oil palm fruit,2011,hg/ha,20000
+207,Suriname,254,Oil palm fruit,2012,hg/ha,20000
+207,Suriname,254,Oil palm fruit,2013,hg/ha,20000
+207,Suriname,236,Soybeans,2011,hg/ha,8462
+207,Suriname,236,Soybeans,2012,hg/ha,10000
+207,Suriname,236,Soybeans,2013,hg/ha,10000
+211,Switzerland,236,Soybeans,2011,hg/ha,29386
+211,Switzerland,236,Soybeans,2012,hg/ha,28111
+211,Switzerland,236,Soybeans,2013,hg/ha,25252
+212,Syrian Arab Republic,236,Soybeans,2011,hg/ha,16985
+212,Syrian Arab Republic,236,Soybeans,2012,hg/ha,18851
+212,Syrian Arab Republic,236,Soybeans,2013,hg/ha,25000
+208,Tajikistan,236,Soybeans,2011,hg/ha,2688
+208,Tajikistan,236,Soybeans,2012,hg/ha,4000
+208,Tajikistan,236,Soybeans,2013,hg/ha,3345
+216,Thailand,254,Oil palm fruit,2011,hg/ha,188935
+216,Thailand,254,Oil palm fruit,2012,hg/ha,191146
+216,Thailand,254,Oil palm fruit,2013,hg/ha,204988
+216,Thailand,236,Soybeans,2011,hg/ha,19631
+216,Thailand,236,Soybeans,2012,hg/ha,62500
+216,Thailand,236,Soybeans,2013,hg/ha,10620
+154,The former Yugoslav Republic of Macedonia,236,Soybeans,2011,hg/ha,15909
+154,The former Yugoslav Republic of Macedonia,236,Soybeans,2012,hg/ha,21596
+154,The former Yugoslav Republic of Macedonia,236,Soybeans,2013,hg/ha,24433
+176,Timor-Leste,236,Soybeans,2011,hg/ha,16154
+176,Timor-Leste,236,Soybeans,2012,hg/ha,13280
+176,Timor-Leste,236,Soybeans,2013,hg/ha,12272
+217,Togo,254,Oil palm fruit,2011,hg/ha,85882
+217,Togo,254,Oil palm fruit,2012,hg/ha,85714
+217,Togo,254,Oil palm fruit,2013,hg/ha,86471
+217,Togo,236,Soybeans,2011,hg/ha,4074
+217,Togo,236,Soybeans,2012,hg/ha,4286
+217,Togo,236,Soybeans,2013,hg/ha,5000
+223,Turkey,236,Soybeans,2011,hg/ha,38704
+223,Turkey,236,Soybeans,2012,hg/ha,36394
+223,Turkey,236,Soybeans,2013,hg/ha,41609
+226,Uganda,236,Soybeans,2011,hg/ha,13586
+226,Uganda,236,Soybeans,2012,hg/ha,11420
+226,Uganda,236,Soybeans,2013,hg/ha,1450
+230,Ukraine,236,Soybeans,2011,hg/ha,20394
+230,Ukraine,236,Soybeans,2012,hg/ha,17065
+230,Ukraine,236,Soybeans,2013,hg/ha,20535
+215,United Republic of Tanzania,254,Oil palm fruit,2011,hg/ha,142000
+215,United Republic of Tanzania,254,Oil palm fruit,2012,hg/ha,139423
+215,United Republic of Tanzania,254,Oil palm fruit,2013,hg/ha,139423
+215,United Republic of Tanzania,236,Soybeans,2011,hg/ha,8684
+215,United Republic of Tanzania,236,Soybeans,2012,hg/ha,9604
+215,United Republic of Tanzania,236,Soybeans,2013,hg/ha,11054
+231,United States of America,236,Soybeans,2011,hg/ha,28199
+231,United States of America,236,Soybeans,2012,hg/ha,26867
+231,United States of America,236,Soybeans,2013,hg/ha,29615
+234,Uruguay,236,Soybeans,2011,hg/ha,17875
+234,Uruguay,236,Soybeans,2012,hg/ha,23902
+234,Uruguay,236,Soybeans,2013,hg/ha,26333
+236,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2011,hg/ha,126502
+236,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2012,hg/ha,109878
+236,Venezuela (Bolivarian Republic of),254,Oil palm fruit,2013,hg/ha,111711
+236,Venezuela (Bolivarian Republic of),236,Soybeans,2011,hg/ha,11791
+236,Venezuela (Bolivarian Republic of),236,Soybeans,2012,hg/ha,12387
+236,Venezuela (Bolivarian Republic of),236,Soybeans,2013,hg/ha,11310
+237,Viet Nam,236,Soybeans,2011,hg/ha,14694
+237,Viet Nam,236,Soybeans,2012,hg/ha,14520
+237,Viet Nam,236,Soybeans,2013,hg/ha,14360
+251,Zambia,236,Soybeans,2011,hg/ha,19427
+251,Zambia,236,Soybeans,2012,hg/ha,23941
+251,Zambia,236,Soybeans,2013,hg/ha,20909
+181,Zimbabwe,236,Soybeans,2011,hg/ha,12054
+181,Zimbabwe,236,Soybeans,2012,hg/ha,13260
+181,Zimbabwe,236,Soybeans,2013,hg/ha,13157
+351,China,254,Oil palm fruit,2011,hg/ha,135417
+351,China,254,Oil palm fruit,2012,hg/ha,134694
+351,China,254,Oil palm fruit,2013,hg/ha,134000
+351,China,236,Soybeans,2011,hg/ha,18361
+351,China,236,Soybeans,2012,hg/ha,18144
+351,China,236,Soybeans,2013,hg/ha,17599

@@ -1,0 +1,162 @@
+region,income_class,food_group,footprint_type,demand_side_total,demand_side_domestic,demand_side_imported
+East & Southeast Asia,High income,Aquatic animals,mg_abx_total,0.19058143595730156,0.06499346626196825,0.1255879696953333
+East & Southeast Asia,High income,Bovine meat,mg_abx_total,0.30519716995022883,0.07685216384728703,0.22834500610294178
+East & Southeast Asia,High income,Pig meat,mg_abx_total,1.4723984732391877,1.0875555177684115,0.3848429554707762
+East & Southeast Asia,High income,Plant foods,mg_abx_total,0.02493735593534378,0.020270940552981984,0.004666415382361793
+East & Southeast Asia,High income,Poultry meat,mg_abx_total,0.3559641163199126,0.1970674862678472,0.15889663005206536
+East & Southeast Asia,High income,Sheep & goat,mg_abx_total,0.03201318583538042,0.0020613975685953648,0.02995178826678505
+East & Southeast Asia,Low income / unclassified,Aquatic animals,mg_abx_total,0.0029670515733560107,0.0015934200244353345,0.0013736315489206764
+East & Southeast Asia,Low income / unclassified,Bovine meat,mg_abx_total,0.004827073831014375,0.004793225018756468,3.384881225790707e-05
+East & Southeast Asia,Low income / unclassified,Pig meat,mg_abx_total,0.04282130964932701,0.04282130964932701,0.0
+East & Southeast Asia,Low income / unclassified,Plant foods,mg_abx_total,0.0044209699207847,0.004057191660522371,0.0003637782602623288
+East & Southeast Asia,Low income / unclassified,Poultry meat,mg_abx_total,0.004114322600786248,0.003979109276864894,0.0001352133239213536
+East & Southeast Asia,Low income / unclassified,Sheep & goat,mg_abx_total,0.010361971774919968,0.01008707403722352,0.0002748977376964479
+East & Southeast Asia,Lower middle income,Aquatic animals,mg_abx_total,0.9768026471205886,0.9548649257266643,0.02193772139392437
+East & Southeast Asia,Lower middle income,Bovine meat,mg_abx_total,0.5140133583950175,0.43092554492990365,0.08308781346511389
+East & Southeast Asia,Lower middle income,Pig meat,mg_abx_total,1.2452856781803114,1.220767670704575,0.024518007475736403
+East & Southeast Asia,Lower middle income,Plant foods,mg_abx_total,0.09970708812454858,0.09293574710347126,0.006771341021077327
+East & Southeast Asia,Lower middle income,Poultry meat,mg_abx_total,0.2993637861871984,0.28509130265904337,0.014272483528155053
+East & Southeast Asia,Lower middle income,Sheep & goat,mg_abx_total,0.336161948976422,0.3333167314678063,0.00284521750861565
+East & Southeast Asia,Upper middle income,Aquatic animals,mg_abx_total,3.5960735308044507,3.489985507271119,0.1060880235333323
+East & Southeast Asia,Upper middle income,Bovine meat,mg_abx_total,2.657841425772036,2.46557916962439,0.19226225614764583
+East & Southeast Asia,Upper middle income,Pig meat,mg_abx_total,20.83133295855757,20.639034567767965,0.19229839078960811
+East & Southeast Asia,Upper middle income,Plant foods,mg_abx_total,0.26249186394697105,0.2534656366070622,0.009026227339908842
+East & Southeast Asia,Upper middle income,Poultry meat,mg_abx_total,2.555239984220501,2.511557142715448,0.04368284150505284
+East & Southeast Asia,Upper middle income,Sheep & goat,mg_abx_total,4.963331840271437,4.854088822851213,0.10924301742022449
+Europe,High income,Aquatic animals,mg_abx_total,0.2363892511377463,0.022816735312645674,0.21357251582510065
+Europe,High income,Bovine meat,mg_abx_total,0.45024237396604777,0.24168327846152607,0.20855909550452165
+Europe,High income,Pig meat,mg_abx_total,1.720124665213526,1.1494626902110237,0.5706619750025025
+Europe,High income,Plant foods,mg_abx_total,0.017584333916792233,0.0026695039033166655,0.014914830013475568
+Europe,High income,Poultry meat,mg_abx_total,0.3875196631369737,0.25351588410452597,0.13400377903244773
+Europe,High income,Sheep & goat,mg_abx_total,0.1960507363765102,0.13754365894141787,0.0585070774350923
+Europe,Lower middle income,Aquatic animals,mg_abx_total,0.008866055355937858,0.002823799729097189,0.00604225562684067
+Europe,Lower middle income,Bovine meat,mg_abx_total,0.04450169247505329,0.04423392944862267,0.0002677630264306157
+Europe,Lower middle income,Pig meat,mg_abx_total,0.07175031816969102,0.06839333958841133,0.0033569785812796933
+Europe,Lower middle income,Plant foods,mg_abx_total,0.004202205158858738,0.00325874139336966,0.0009434637654890783
+Europe,Lower middle income,Poultry meat,mg_abx_total,0.02507244487287565,0.020719605309652108,0.00435283956322354
+Europe,Lower middle income,Sheep & goat,mg_abx_total,0.004730251483402338,0.004730251483402338,0.0
+Europe,Upper middle income,Aquatic animals,mg_abx_total,0.012329253693175102,0.004633836558495909,0.0076954171346791935
+Europe,Upper middle income,Bovine meat,mg_abx_total,0.051609714577516445,0.04085060846216059,0.010759106115355854
+Europe,Upper middle income,Pig meat,mg_abx_total,0.20395998580015015,0.1372276985658839,0.06673228723426623
+Europe,Upper middle income,Plant foods,mg_abx_total,0.005021754541235116,0.0036770713791051666,0.0013446831621299496
+Europe,Upper middle income,Poultry meat,mg_abx_total,0.04787722121339093,0.03467347129157822,0.013203749921812719
+Europe,Upper middle income,Sheep & goat,mg_abx_total,0.03940621697454829,0.03863803064212597,0.0007681863324223263
+Latin America & Caribbean,High income,Aquatic animals,mg_abx_total,0.004390988567042923,0.0010454078252869255,0.0033455807417559977
+Latin America & Caribbean,High income,Bovine meat,mg_abx_total,0.1200043052539369,0.0934992442444104,0.026505061009526487
+Latin America & Caribbean,High income,Pig meat,mg_abx_total,0.09827516850413157,0.06608441635791057,0.032190752146221
+Latin America & Caribbean,High income,Plant foods,mg_abx_total,0.0028759710417485974,0.0025630764133384785,0.000312894628410119
+Latin America & Caribbean,High income,Poultry meat,mg_abx_total,0.02702231472455387,0.022523638687344097,0.004498676037209772
+Latin America & Caribbean,High income,Sheep & goat,mg_abx_total,0.015277922049064968,0.013530807557088733,0.001747114491976235
+Latin America & Caribbean,Low income / unclassified,Aquatic animals,mg_abx_total,0.001230291002890073,0.00109437840330242,0.0001359125995876531
+Latin America & Caribbean,Low income / unclassified,Bovine meat,mg_abx_total,0.045536533437723646,0.042654961378392614,0.002881572059331028
+Latin America & Caribbean,Low income / unclassified,Pig meat,mg_abx_total,0.035013557276349555,0.031708503453430514,0.003305053822919038
+Latin America & Caribbean,Low income / unclassified,Plant foods,mg_abx_total,0.0023403324658913477,0.0022017886310708706,0.00013854383482047735
+Latin America & Caribbean,Low income / unclassified,Poultry meat,mg_abx_total,0.0232128139486758,0.02170759278889399,0.001505221159781811
+Latin America & Caribbean,Low income / unclassified,Sheep & goat,mg_abx_total,0.006858225816684968,0.006858225816684968,0.0
+Latin America & Caribbean,Lower middle income,Aquatic animals,mg_abx_total,0.0030291701185603277,0.0014553684547123724,0.001573801663847955
+Latin America & Caribbean,Lower middle income,Bovine meat,mg_abx_total,0.04407016759615072,0.04096664727183721,0.0031035203243135094
+Latin America & Caribbean,Lower middle income,Pig meat,mg_abx_total,0.06030482266433268,0.044306875565656094,0.015997947098676586
+Latin America & Caribbean,Lower middle income,Plant foods,mg_abx_total,0.004942252416934278,0.0038074252605133922,0.001134827156420886
+Latin America & Caribbean,Lower middle income,Poultry meat,mg_abx_total,0.047865657087081855,0.04236529041400398,0.005500366673077874
+Latin America & Caribbean,Lower middle income,Sheep & goat,mg_abx_total,0.03043667686875869,0.03021346685133038,0.0002232100174283076
+Latin America & Caribbean,Upper middle income,Aquatic animals,mg_abx_total,0.16875311460913237,0.08331465979977555,0.0854384548093568
+Latin America & Caribbean,Upper middle income,Bovine meat,mg_abx_total,1.414998391010402,1.3847414097098785,0.030256981300523643
+Latin America & Caribbean,Upper middle income,Pig meat,mg_abx_total,1.6027382820100007,1.4269969220847365,0.17574135992526418
+Latin America & Caribbean,Upper middle income,Plant foods,mg_abx_total,0.05327621720184895,0.047226968715400164,0.006049248486448783
+Latin America & Caribbean,Upper middle income,Poultry meat,mg_abx_total,0.9349435441162939,0.9137366550152729,0.02120688910102107
+Latin America & Caribbean,Upper middle income,Sheep & goat,mg_abx_total,0.28705713596764393,0.2771697278670306,0.00988740810061332
+Near East and North Africa,High income,Aquatic animals,mg_abx_total,0.032470315771937444,0.003881530013813843,0.0285887857581236
+Near East and North Africa,High income,Bovine meat,mg_abx_total,0.07404355147503573,0.024458161037040595,0.04958539043799513
+Near East and North Africa,High income,Pig meat,mg_abx_total,0.022665211647142244,0.020790470192025918,0.0018747414551163267
+Near East and North Africa,High income,Plant foods,mg_abx_total,0.010764158310295383,0.005801517052525697,0.004962641257769684
+Near East and North Africa,High income,Poultry meat,mg_abx_total,0.11424013136554162,0.057673202480905954,0.05656692888463566
+Near East and North Africa,High income,Sheep & goat,mg_abx_total,0.10738803520039256,0.05541331300612569,0.051974722194266854
+Near East and North Africa,Low income / unclassified,Aquatic animals,mg_abx_total,0.0011916444671658168,0.0009049416820039381,0.0002867027851618787
+Near East and North Africa,Low income / unclassified,Bovine meat,mg_abx_total,0.028764690314286342,0.02873063469623887,3.405561804747303e-05
+Near East and North Africa,Low income / unclassified,Plant foods,mg_abx_total,0.010984792079373706,0.00995879756184527,0.0010259945175284352
+Near East and North Africa,Low income / unclassified,Poultry meat,mg_abx_total,0.016867580664234074,0.011070226340523313,0.005797354323710759
+Near East and North Africa,Low income / unclassified,Sheep & goat,mg_abx_total,0.0928548562316374,0.0928548562316374,0.0
+Near East and North Africa,Lower middle income,Aquatic animals,mg_abx_total,0.14503774527747004,0.13816435304482225,0.006873392232647781
+Near East and North Africa,Lower middle income,Bovine meat,mg_abx_total,0.248256002222059,0.20451355882070502,0.043742443401354004
+Near East and North Africa,Lower middle income,Pig meat,mg_abx_total,0.004977429735826067,0.0043697625926437285,0.0006076671431823387
+Near East and North Africa,Lower middle income,Plant foods,mg_abx_total,0.05560244949148109,0.05419475442305179,0.0014076950684292994
+Near East and North Africa,Lower middle income,Poultry meat,mg_abx_total,0.04053880106402267,0.03362489013015266,0.006913910933870013
+Near East and North Africa,Lower middle income,Sheep & goat,mg_abx_total,0.17392068170475386,0.17186968185666246,0.0020509998480913996
+Near East and North Africa,Upper middle income,Aquatic animals,mg_abx_total,0.02385412179738857,0.016156615664390642,0.0076975061329979284
+Near East and North Africa,Upper middle income,Bovine meat,mg_abx_total,0.2845833974439608,0.2561558562452001,0.02842754119876067
+Near East and North Africa,Upper middle income,Pig meat,mg_abx_total,0.03722420676540078,0.021594849217032773,0.015629357548368007
+Near East and North Africa,Upper middle income,Plant foods,mg_abx_total,0.03937827880423645,0.0324335973630898,0.006944681441146652
+Near East and North Africa,Upper middle income,Poultry meat,mg_abx_total,0.14333796848291955,0.11766934751653933,0.025668620966380215
+Near East and North Africa,Upper middle income,Sheep & goat,mg_abx_total,0.3200478524102641,0.3103668123302711,0.00968104007999306
+North America,High income,Aquatic animals,mg_abx_total,0.21618079299541249,0.01851081078981743,0.19766998220559506
+North America,High income,Bovine meat,mg_abx_total,1.1992157507738828,1.0143650110868618,0.1848507396870209
+North America,High income,Pig meat,mg_abx_total,1.379189122085963,1.2605773558614657,0.11861176622449715
+North America,High income,Plant foods,mg_abx_total,0.05570817064629247,0.031624679333593295,0.024083491312699178
+North America,High income,Poultry meat,mg_abx_total,0.13572022698009145,0.1281621034824662,0.007558123497625239
+North America,High income,Sheep & goat,mg_abx_total,0.08027714076704583,0.016455000792616553,0.06382213997442927
+Oceania,High income,Aquatic animals,mg_abx_total,0.016823452431295603,0.004918834031162458,0.011904618400133144
+Oceania,High income,Bovine meat,mg_abx_total,0.1696415386918386,0.16603924758469643,0.0036022911071421555
+Oceania,High income,Pig meat,mg_abx_total,0.20419993112681564,0.1667899643135973,0.037409966813218364
+Oceania,High income,Plant foods,mg_abx_total,0.0035020607895988112,0.0028505811746957132,0.000651479614903098
+Oceania,High income,Poultry meat,mg_abx_total,0.1125463468202859,0.11175142851112294,0.0007949183091629693
+Oceania,High income,Sheep & goat,mg_abx_total,0.18781319636913701,0.18584097089423043,0.0019722254749065574
+Oceania,Lower middle income,Aquatic animals,mg_abx_total,0.0003789454776051479,0.00010504557009082236,0.00027389990751432554
+Oceania,Lower middle income,Bovine meat,mg_abx_total,0.0026225175142693983,0.0017725306052503568,0.0008499869090190415
+Oceania,Lower middle income,Pig meat,mg_abx_total,0.013437282084191978,0.009721699701395603,0.003715582382796376
+Oceania,Lower middle income,Plant foods,mg_abx_total,0.00024874903492426903,2.7312719979608524e-05,0.00022143631494466053
+Oceania,Lower middle income,Poultry meat,mg_abx_total,0.003234110621928795,0.00025379328322109603,0.0029803173387076987
+Oceania,Lower middle income,Sheep & goat,mg_abx_total,0.01089260724045041,0.0,0.01089260724045041
+Oceania,Upper middle income,Aquatic animals,mg_abx_total,8.054012544527388e-05,7.247481273706371e-06,7.32926441715675e-05
+Oceania,Upper middle income,Bovine meat,mg_abx_total,0.0005764032402652706,0.0004443248361567589,0.00013207840410851167
+Oceania,Upper middle income,Pig meat,mg_abx_total,0.0015211608735052886,0.0015211608735052886,0.0
+Oceania,Upper middle income,Plant foods,mg_abx_total,5.7593827938280904e-05,9.125411148173492e-06,4.846841679010741e-05
+Oceania,Upper middle income,Poultry meat,mg_abx_total,0.0021630268517556493,0.002146880555968975,1.6146295786674065e-05
+Oceania,Upper middle income,Sheep & goat,mg_abx_total,0.0016180651990936182,0.00016701119846954427,0.001451054000624074
+Russia,Upper middle income,Aquatic animals,mg_abx_total,0.031063251408077655,0.010214064657441154,0.0208491867506365
+Russia,Upper middle income,Bovine meat,mg_abx_total,0.24686317604922586,0.20506523321628786,0.04179794283293798
+Russia,Upper middle income,Pig meat,mg_abx_total,0.5303504164749142,0.46694386534953164,0.0634065511253826
+Russia,Upper middle income,Plant foods,mg_abx_total,0.012149111274454609,0.005559879311006841,0.006589231963447768
+Russia,Upper middle income,Poultry meat,mg_abx_total,0.22931668271571573,0.21763247512100142,0.011684207594714289
+Russia,Upper middle income,Sheep & goat,mg_abx_total,0.07049106398447268,0.06929153002001681,0.0011995339644558622
+South Asia,Low income / unclassified,Aquatic animals,mg_abx_total,0.0004537684752475248,0.0004537684752475248,0.0
+South Asia,Low income / unclassified,Bovine meat,mg_abx_total,0.011206132506419046,0.010101017062623636,0.0011051154437954104
+South Asia,Low income / unclassified,Pig meat,mg_abx_total,4.569094224736512e-05,0.0,4.569094224736512e-05
+South Asia,Low income / unclassified,Plant foods,mg_abx_total,0.003684280058100644,0.002795952549223161,0.0008883275088774832
+South Asia,Low income / unclassified,Poultry meat,mg_abx_total,0.0013947856519984398,0.0002483519028307602,0.0011464337491676796
+South Asia,Low income / unclassified,Sheep & goat,mg_abx_total,0.032541424737644604,0.032541424737644604,0.0
+South Asia,Lower middle income,Aquatic animals,mg_abx_total,1.2273791016657785,1.2117320848530735,0.01564701681270512
+South Asia,Lower middle income,Bovine meat,mg_abx_total,0.9226367396015179,0.9080849480441818,0.014551791557336127
+South Asia,Lower middle income,Pig meat,mg_abx_total,0.07517253832074533,0.07503008453933063,0.00014245378141469745
+South Asia,Lower middle income,Plant foods,mg_abx_total,0.23789155490468686,0.22770140289511429,0.010190152009572554
+South Asia,Lower middle income,Poultry meat,mg_abx_total,0.5154327533202068,0.5151341358294771,0.0002986174907296915
+South Asia,Lower middle income,Sheep & goat,mg_abx_total,1.3234048802774343,1.3126149314940116,0.010789948783422806
+South Asia,Upper middle income,Aquatic animals,mg_abx_total,6.817473187983204e-05,0.0,6.817473187983204e-05
+South Asia,Upper middle income,Bovine meat,mg_abx_total,0.0005809838511858899,0.0,0.0005809838511858899
+South Asia,Upper middle income,Pig meat,mg_abx_total,6.137682663741271e-05,0.0,6.137682663741271e-05
+South Asia,Upper middle income,Plant foods,mg_abx_total,6.124695066118596e-05,6.529930750645839e-06,5.471701991054012e-05
+South Asia,Upper middle income,Poultry meat,mg_abx_total,0.00031016911165925325,0.0,0.00031016911165925325
+South Asia,Upper middle income,Sheep & goat,mg_abx_total,0.00028514811820672424,0.0,0.00028514811820672424
+Sub-Saharan Africa,High income,Aquatic animals,mg_abx_total,1.6683213587966106e-05,0.0,1.6683213587966106e-05
+Sub-Saharan Africa,High income,Bovine meat,mg_abx_total,0.00010170366224431319,0.0,0.00010170366224431319
+Sub-Saharan Africa,High income,Pig meat,mg_abx_total,0.00015816587724061396,1.973295028290492e-05,0.00013843292695770904
+Sub-Saharan Africa,High income,Plant foods,mg_abx_total,9.234168361519565e-06,3.2984197420925423e-09,9.230869941777472e-06
+Sub-Saharan Africa,High income,Poultry meat,mg_abx_total,9.370387487218168e-05,1.2112977738846287e-05,8.159089713333539e-05
+Sub-Saharan Africa,High income,Sheep & goat,mg_abx_total,0.00011714152126709729,0.0,0.00011714152126709729
+Sub-Saharan Africa,Low income / unclassified,Aquatic animals,mg_abx_total,0.017323105008720013,0.008272685967764225,0.00905041904095579
+Sub-Saharan Africa,Low income / unclassified,Bovine meat,mg_abx_total,0.08031621276693562,0.0783754865624403,0.0019407262044953254
+Sub-Saharan Africa,Low income / unclassified,Pig meat,mg_abx_total,0.02582951272640309,0.016605398584134012,0.009224114142269075
+Sub-Saharan Africa,Low income / unclassified,Plant foods,mg_abx_total,0.01638096680917216,0.012282093061792239,0.004098873747379922
+Sub-Saharan Africa,Low income / unclassified,Poultry meat,mg_abx_total,0.012630008427947311,0.0038397598196038916,0.008790248608343421
+Sub-Saharan Africa,Low income / unclassified,Sheep & goat,mg_abx_total,0.09186276916337487,0.09186276916337487,0.0
+Sub-Saharan Africa,Lower middle income,Aquatic animals,mg_abx_total,0.08518782926194822,0.055785717968011655,0.02940211129393657
+Sub-Saharan Africa,Lower middle income,Bovine meat,mg_abx_total,0.0929799973441297,0.08524596880527929,0.007734028538850415
+Sub-Saharan Africa,Lower middle income,Pig meat,mg_abx_total,0.05480383144115042,0.01750827607261395,0.037295555368536466
+Sub-Saharan Africa,Lower middle income,Plant foods,mg_abx_total,0.034776154246264186,0.02803507928271438,0.0067410749635498065
+Sub-Saharan Africa,Lower middle income,Poultry meat,mg_abx_total,0.03454725726496694,0.008469024608062066,0.026078232656904874
+Sub-Saharan Africa,Lower middle income,Sheep & goat,mg_abx_total,0.08676798910346681,0.08572991493766437,0.001038074165802437
+Sub-Saharan Africa,Upper middle income,Aquatic animals,mg_abx_total,0.004930819036506119,3.161958808950248e-06,0.004927657077697168
+Sub-Saharan Africa,Upper middle income,Bovine meat,mg_abx_total,0.0473975394759268,0.04394155171321163,0.0034559877627151733
+Sub-Saharan Africa,Upper middle income,Pig meat,mg_abx_total,0.020338089383962313,0.014652420185128795,0.00568566919883352
+Sub-Saharan Africa,Upper middle income,Plant foods,mg_abx_total,0.003872296957225424,0.002477952195068332,0.0013943447621570923
+Sub-Saharan Africa,Upper middle income,Poultry meat,mg_abx_total,0.044316094405096054,0.023468210132506353,0.020847884272589705
+Sub-Saharan Africa,Upper middle income,Sheep & goat,mg_abx_total,0.023838551786003654,0.018943889105274777,0.004894662680728879

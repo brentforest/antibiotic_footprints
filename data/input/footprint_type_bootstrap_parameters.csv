@@ -1,0 +1,13 @@
+footprint_type,footprint_type_sort_order,bootstrap_by_group
+l_blue_green_wf,1,
+l_blue_wf_excl_pond,2,
+l_blue_wf_total,3,
+l_blue_wf_brackish_pond,4,
+l_blue_wf_freshwater_pond,5,
+kg_co2e_excl_luc,6,yes
+kg_co2e_total,7,
+l_green_wf,8,
+kg_co2_luc_feed_palm,9,
+kg_co2_luc_feed_soy,10,
+kg_co2_luc_pasture,11,
+kg_co2_luc_human_palm_soy,12,

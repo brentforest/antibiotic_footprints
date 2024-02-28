@@ -1,0 +1,5 @@
+﻿income_class,color_abx,color_ghg,color_grayscale
+High income,#994f00,#662e2e,black
+Upper middle income,#cc7700,#994545,dimgray
+Lower middle income,#ffa500,indianred,darkgray
+Low income / unclassified,#ffd27f,#ff8b8b,lightgray

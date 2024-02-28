@@ -1,0 +1,25 @@
+TRADE MATRIX
+- downloaded 2022-02-19
+- last updated 2021-12-21
+- includes years up to and including 2020
+- filtered to imports only and 2011 and later; applied snake case
+
+FBS
+- downloaded 2022-02-19
+- last updated 2022-02-14
+- includes years up to and including 2019
+
+Includes new/different FBS items:
+- 2552 Groundnuts; previously 2556 Groundnuts (Shelled Eq)
+- 2605 Vegetables, other; previously 2605 Vegetables, Other
+- 2625 Fruits, other; previously 2625 Fruits, Other
+- 2807 Rice and products; previously 2805 Rice (Milled Equivalent)
+
+for compatibility with the model, we recode these items to use the old name
+
+
+PRODUCTION
+- downloaded 2022-02-19
+- last updated 2022-02-17
+- primary items includes years up to and including 2020
+- processed items includes years up to and including 2019

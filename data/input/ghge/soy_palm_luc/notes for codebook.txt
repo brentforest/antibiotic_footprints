@@ -1,0 +1,11 @@
+yield_per_hectare
+
+from FAOSTAT
+
+Note: When these data were first downloaded, there was a comma for "Oil, palm fruit." This was probably an FAOSTAT typo because item 254 reflects the root product "oil palm fruit" and not oil from palm fruit, which the comma implies.
+
+co2_per_hectare
+
+Source: GLEAM 2.0 Model Description, rev 4 June 2017, tables 6.7 and 6.8
+
+manually matched gleam items to associated fao item codes and items

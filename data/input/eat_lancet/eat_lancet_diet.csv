@@ -1,0 +1,15 @@
+diet,lancet_item,lancet_g/cap/day,lancet_kcal/cap/day,note
+eat_lancet,whole_grains,232,811,
+eat_lancet,tubers,50,39,
+eat_lancet,vegetables,300,78,"in the peer-revewed EAT Lancet paper, this is broken down by color of vegetables, but in the EAT Lancet report, these are grouped; since FBS items are not broken down by color we used the group"
+eat_lancet,fruits,200,126,
+eat_lancet,whole_milk,250,153,
+eat_lancet,beef_lamb_pork,14,30,"in the peer-revewed EAT Lancet paper, beef and lamb are presented separately from pork, but in the EAT Lancet report, these are grouped; we used the grouped version to better accommodate countries that do not eat pork"
+eat_lancet,poultry,29,62,
+eat_lancet,eggs,13,19,
+eat_lancet,fish,28,40,
+eat_lancet,legumes,75,284,"In the peer-revewed EAT Lancet paper, legumes are broken out by subcategory, but in the EAT Lancet report, these are grouped; we used the grouped version to allow greater flexibility; from the Eat Lancet table caption: ""Legumes, peanuts, tree nuts, seeds, and soy are interchangeable."""
+eat_lancet,nuts,50,291,"In the peer-revewed EAT Lancet paper, tree nuts are presented separately from peanuts, but in the EAT Lancet report, these are grouped; we used the grouped version to allow greater flexibility. From the Eat Lancet table caption: ""Legumes, peanuts, tree nuts, seeds, and soy are interchangeable."""
+eat_lancet,unsaturated_oils,40,354,
+eat_lancet,saturated_oils,11.8,96,"in the peer-revewed EAT Lancet paper, lard and tallow are presented separately from palm oil, but in the EAT Lancet report, these are grouped; since animal fats are excluded from the study model, we used the grouped version"
+eat_lancet,added_sugars,31,120,

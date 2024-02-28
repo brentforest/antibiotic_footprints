@@ -1,0 +1,279 @@
+﻿Dataset: Global fish trade - By partner country,,,,,,,,,,
+Concept: Reporting country (COUNTRY_REPORTER).1,,,,,,,,,,
+UN_CODE,ISO_2_CODE,NAME.EN,NAME.FR,NAME.ES,OFFICIAL_NAME.EN,OFFICIAL_NAME.FR,OFFICIAL_NAME.ES,ISO_3_CODE,ALPHA12_CODE,EBXID
+0,EU,European Union,Union Européenne,Unión Europea,The European Union (Member Organization),Union européenne (Organisation membre),Unión Europea (Organización Miembro),EUR,EU,380
+004,AF,Afghanistan,Afghanistan,Afganistán,The Islamic Republic of Afghanistan,la République islamique d'Afghanistan,la República Islámica del Afganistán,AFG,Afghanistan,2
+008,AL,Albania,Albanie,Albania,the Republic of Albania,la République d'Albanie,la República de Albania,ALB,Albania,3
+010,AQ,Antarctica others,Antarctique autres,Antartida otros,Antarctica,Antarctique,Antártida,ATA,Antarctica,30
+012,DZ,Algeria,Algérie,Argelia,the People's Democratic Republic of Algeria,la République algérienne démocratique et populaire,la República Argelina Democrática y Popular,DZA,Algeria,4
+016,AS,American Samoa,Samoa américaines,Samoa Americana,American Samoa,Samoa américaines,Samoa Americana,ASM,Amer Samoa,5
+020,AD,Andorra,Andorre,Andorra,the Principality of Andorra,la Principauté d'Andorre,el Principado de Andorra,AND,Andorra,6
+024,AO,Angola,Angola,Angola,the Republic of Angola,la République d'Angola,la República de Angola,AGO,Angola,7
+028,AG,Antigua and Barbuda,Antigua-et-Barbuda,Antigua y Barbuda,Antigua and Barbuda,Antigua-et-Barbuda,Antigua y Barbuda,ATG,Antigua Barb,8
+031,AZ,Azerbaijan,Azerbaïdjan,Azerbaiyán,the Republic of Azerbaijan,la République d'Azerbaïdjan,la República de Azerbaiyán,AZE,Azerbaijan,52
+032,AR,Argentina,Argentine,Argentina,the Argentine Republic,la République argentine,la República Argentina,ARG,Argentina,9
+036,AU,Australia,Australie,Australia,Australia,l'Australie,Australia,AUS,Australia,10
+040,AT,Austria,Autriche,Austria,the Republic of Austria,la République d'Autriche,la República de Austria,AUT,Austria,11
+044,BS,Bahamas,Bahamas,Bahamas,the Commonwealth of the Bahamas,le Commonwealth des Bahamas,el Commonwealth de las Bahamas,BHS,Bahamas,12
+048,BH,Bahrain,Bahreïn,Bahrein,the Kingdom of Bahrain,le Royaume de Bahreïn,el Reino de Bahrein,BHR,Bahrain,13
+050,BD,Bangladesh,Bangladesh,Bangladesh,the People's Republic of Bangladesh,la République populaire du Bangladesh,la República Popular de Bangladesh,BGD,Bangladesh,16
+051,AM,Armenia,Arménie,Armenia,the Republic of Armenia,la République d'Arménie,la República de Armenia,ARM,Armenia,1
+052,BB,Barbados,Barbade,Barbados,Barbados,la Barbade,Barbados,BRB,Barbados,14
+056,BE,Belgium,Belgique,Bélgica,the Kingdom of Belgium,le Royaume de Belgique,el Reino de Bélgica,BEL,Belgium,255
+058,,Belgium-Luxembourg,Belgique-Luxembourg,Belgica-Luxemburgo,,,,,Bel-Lux,15
+060,BM,Bermuda,Bermudes,Bermudas,Bermuda,les Bermudes,Bermudas,BMU,Bermuda,17
+064,BT,Bhutan,Bhoutan,Bhután,the Kingdom of Bhutan,le Royaume du Bhoutan,el Reino de Bhután,BTN,Bhutan,18
+068,BO,Bolivia (Plurinat.State),Bolivie (État plurinat.),Bolivia (Estado Plurin.),the Plurinational State of Bolivia,l'État plurinational de Bolivie,el Estado Plurinacional de Bolivia,BOL,Bolivia,19
+070,BA,Bosnia and Herzegovina,Bosnie-Herzégovine,Bosnia y Herzegovina,Bosnia and Herzegovina,la Bosnie-Herzégovine,Bosnia y Herzegovina,BIH,Bosnia Herzg,80
+072,BW,Botswana,Botswana,Botswana,the Republic of Botswana,la République du Botswana,la República de Botswana,BWA,Botswana,20
+074,BV,Bouvet Island,Île Bouvet,Isla Bouvet,Bouvet Island,Île Bouvet,Isla Bouvet,BVT,Bouvet Is,31
+076,BR,Brazil,Brésil,Brasil,the Federative Republic of Brazil,la République fédérative du Brésil,la República Federativa del Brasil,BRA,Brazil,21
+084,BZ,Belize,Belize,Belice,Belize,le Belize,Belice,BLZ,Belize,23
+086,IO,British Indian Ocean Ter,Terr. brit. Océan Indien,Ter. Brit. Océano Índico,British Indian Ocean Territory,Territoire britanique de l'Océan Indien,Territorio Británico del Océano Indico,IOT,Br Ind Oc Tr,24
+090,SB,Solomon Islands,Îles Salomon,Islas Salomón,Solomon Islands,les Îles Salomon,las Islas Salomón,SLB,Solomon Is,25
+092,VG,British Virgin Islands,Îles Vierges britanniq.,Islas Vírgenes Britán.,British Virgin Islands,Îles Vierges britanniques,Islas Vírgenes Británicas,VGB,Br Virgin Is,239
+096,BN,Brunei Darussalam,Brunéi Darussalam,Brunei Darussalam,Brunei Darussalam,le Brunéi Darussalam,Brunei Darussalam,BRN,Brunei Darsm,26
+100,BG,Bulgaria,Bulgarie,Bulgaria,the Republic of Bulgaria,la République de Bulgarie,la República de Bulgaria,BGR,Bulgaria,27
+104,MM,Myanmar,Myanmar,Myanmar,the Republic of the Union of Myanmar,République de l'Union du Myanmar,la República de la Unión de Myanmar,MMR,Myanmar,28
+108,BI,Burundi,Burundi,Burundi,the Republic of Burundi,la République du Burundi,la República de Burundi,BDI,Burundi,29
+112,BY,Belarus,Bélarus,Belarús,the Republic of Belarus,la République du Bélarus,la República de Belarús,BLR,Belarus,57
+116,KH,Cambodia,Cambodge,Camboya,the Kingdom of Cambodia,le Royaume du Cambodge,el Reino de Camboya,KHM,Cambodia,115
+120,CM,Cameroon,Cameroun,Camerún,the Republic of Cameroon,la République du Cameroun,la República del Camerún,CMR,Cameroon,32
+124,CA,Canada,Canada,Canadá,Canada,le Canada,el Canadá,CAN,Canada,33
+128,,Canton and Enderbury Is,"Canton et Enderbury, Îl","Canton y Enderbury, Is",,,,,Canton Is,34
+132,CV,Cabo Verde,Cabo Verde,Cabo Verde,Republic of Cabo Verde,la République de Cabo Verde,la República de Cabo Verde,CPV,Cabo Verde,35
+136,KY,Cayman Islands,Îles Caïmanes,Islas Caimán,Cayman Islands,les Îles Caïmanes,Islas Caimán,CYM,Cayman Is,36
+140,CF,Central African Republic,Rép. centrafricaine,República Centroafricana,the Central African Republic,la République centrafricaine,la República Centroafricana,CAF,Cent Afr Rep,37
+144,LK,Sri Lanka,Sri Lanka,Sri Lanka,the Democratic Socialist Republic of Sri Lanka,la République socialiste démocratique de Sri Lanka,la República Socialista Democrática de Sri Lanka,LKA,Sri Lanka,38
+148,TD,Chad,Tchad,Chad,the Republic of Chad,la République du Tchad,la República del Chad,TCD,Chad,39
+152,CL,Chile,Chili,Chile,the Republic of Chile,la République du Chili,la República de Chile,CHL,Chile,40
+156,CN,China,Chine,China,the People's Republic of China,la République populaire de Chine,la República Popular China,CHN,China,41
+158,TW,Taiwan Province of China,Prov. chinoise de Taïwan,Prov. china de Taiwán,Taiwan Province of China,Province chinoise de Taïwan,Provincia china de Taiwán,TWN,"China,Taiwan",214
+162,CX,Christmas Island,Île Christmas,Isla Christmas,Christmas Island,Île Christmas,Isla Christmas,CXR,Christmas Is,42
+166,CC,Cocos (Keeling) Islands,Îles des Cocos (Keeling),Islas Cocos (Keeling),Cocos (Keeling) Islands,Îles des Cocos (Keeling),Islas Cocos (Keeling),CCK,Cocos Is,43
+170,CO,Colombia,Colombie,Colombia,the Republic of Colombia,la République de Colombie,la República de Colombia,COL,Colombia,44
+174,KM,Comoros,Comores,Comoras,the Union of the Comoros,l'Union des Comores,la Unión de las Comoras,COM,Comoros,45
+175,YT,Mayotte,Mayotte,Mayotte,Mayotte,Mayotte,Mayotte,MYT,Mayotte,270
+178,CG,Congo,Congo,Congo,the Republic of the Congo,la République du Congo,la República del Congo,COG,Congo,46
+180,CD,"Congo, Dem. Rep. of the",Rép. dém. du Congo,Rep. Dem. del Congo,the Democratic Republic of the Congo,la République démocratique du Congo,la República Democrática del Congo,COD,Congo Dem R,250
+184,CK,Cook Islands,Îles Cook,Islas Cook,the Cook Islands,les Îles Cook,las Islas Cook,COK,Cook Is,47
+188,CR,Costa Rica,Costa Rica,Costa Rica,the Republic of Costa Rica,la République du Costa Rica,la República de Costa Rica,CRI,Costa Rica,48
+191,HR,Croatia,Croatie,Croacia,the Republic of Croatia,la République de Croatie,la República de Croacia,HRV,Croatia,98
+192,CU,Cuba,Cuba,Cuba,the Republic of Cuba,la République de Cuba,la República de Cuba,CUB,Cuba,49
+196,CY,Cyprus,Chypre,Chipre,the Republic of Cyprus,la République de Chypre,la República de Chipre,CYP,Cyprus,50
+200,,Czechoslovakia,Tchécoslovaquie,Checoslovaquia,Czechoslovakia,Tchécoslovaquie,Checoslovaquia,CSK,Czechoslovak,51
+203,CZ,Czechia,Tchéquie,Chequia,the Czech Republic,la République tchèque,la República Checa,CZE,Czechia,167
+204,BJ,Benin,Bénin,Benin,the Republic of Benin,la République du Bénin,la República de Benin,BEN,Benin,53
+208,DK,Denmark,Danemark,Dinamarca,the Kingdom of Denmark,le Royaume du Danemark,el Reino de Dinamarca,DNK,Denmark,54
+212,DM,Dominica,Dominique,Dominica,the Commonwealth of Dominica,le Commonwealth de la Dominique,el Commonwealth de Dominica,DMA,Dominica,55
+214,DO,Dominican Republic,République dominicaine,República Dominicana,the Dominican Republic,la République dominicaine,la República Dominicana,DOM,Dominican Rp,56
+218,EC,Ecuador,Équateur,Ecuador,the Republic of Ecuador,la République de l'Équateur,la República del Ecuador,ECU,Ecuador,58
+222,SV,El Salvador,El Salvador,El Salvador,the Republic of El Salvador,la République d'El Salvador,la República de El Salvador,SLV,El Salvador,60
+226,GQ,Equatorial Guinea,Guinée équatoriale,Guinea Ecuatorial,the Republic of Equatorial Guinea,la République de Guinée équatoriale,la República de Guinea Ecuatorial,GNQ,Eq Guinea,61
+230,,Ethiopia PDR,Éthiopie RDP,Etiopía RDP,,,,,Ethiopia PDR,62
+231,ET,Ethiopia,Éthiopie,Etiopía,the Federal Democratic Republic of Ethiopia,la République fédérale démocratique d'Éthiopie,la República Democrática Federal de Etiopía,ETH,Ethiopia,238
+232,ER,Eritrea,Érythrée,Eritrea,the State of Eritrea,l'État d'Érythrée,el Estado de Eritrea,ERI,Eritrea,178
+233,EE,Estonia,Estonie,Estonia,the Republic of Estonia,la République d'Estonie,la República de Estonia,EST,Estonia,63
+234,FO,Faroe Islands,Îles Féroé,Islas Feroe,Faroe Islands,les Îles Féroé,las Islas Feroe,FRO,Faroe Is,64
+238,FK,Falkland Is.(Malvinas),Îles Falkland(Malvinas),Islas Malvinas(Falkland),the Falkland Islands (Malvinas),les Îles Falkland (Malvinas),las Islas Malvinas (Falkland Islands),FLK,Falkland Is,65
+239,GS,SouthGeorgia/Sandwich Is,Géorgie Sud-Îles Sand.S.,Georgia S.-Is.Sandw.Sur,South Georgia and the South Sandwich Islands,Îles Géorgie du Sud et Sandwich du Sud,Islas Georgias del Sur y Sandwich del Sur,SGS,SouthGeorgia,271
+242,FJ,Fiji,Fidji,Fiji,the Republic of Fiji,la République des Fidji,la República de Fiji,FJI,Fiji,66
+246,FI,Finland,Finlande,Finlandia,the Republic of Finland,la République de Finlande,la República de Finlandia,FIN,Finland,67
+248,AX,Åland Islands,Îles d'Åland,Islas Åland,Åland Islands,Îles d'Åland,Islas Åland,ALA,Åland Is,282
+250,FR,France,France,Francia,the French Republic,la République française,la República Francesa,FRA,France,68
+254,GF,French Guiana,Guyane française,Guayana Francesa,French Guiana,Guyane française,Guayana francesa,GUF,Fr Guiana,69
+258,PF,French Polynesia,Polynésie française,Polinesia Francesa,French Polynesia,la Polynésie française,Polinesia Francesa,PYF,Fr Polynesia,70
+260,TF,French Southern Terr,Terres australes fr.,Tierras Australes Fr.,French Southern and Antarctic Territories,les Terres australes et antarctiques françaises,las Tierras Australes y Antárticas Francesas,ATF,Fr South Tr,71
+262,DJ,Djibouti,Djibouti,Djibouti,the Republic of Djibouti,la République de Djibouti,la República de Djibouti,DJI,Djibouti,72
+266,GA,Gabon,Gabon,Gabón,the Gabonese Republic,la République gabonaise,la República Gabonesa,GAB,Gabon,74
+268,GE,Georgia,Géorgie,Georgia,Georgia,la Géorgie,Georgia,GEO,Georgia,73
+270,GM,Gambia,Gambia,Gambia,the Republic of the Gambia,la République de Gambie,la República de Gambia,GMB,Gambia,75
+274,,Gaza Strip(Palestine),Bande de Gaza(Palestine),Faja de Gaza(Palestina),,,,,Gaza Strip,76
+275,PS,Palestine,Palestine,Palestina,Palestine,Palestine,Palestina,PSE,Palestine,299
+276,DE,Germany,Allemagne,Alemania,the Federal Republic of Germany,la République fédérale d'Allemagne,la República Federal de Alemania,DEU,Germany,79
+278,,"Germany,New Länder","Allemagne,NouveauxLänder","Alemania,Nuevos Länder",,,,,Germany NL,77
+280,,"Germany, Fed. Rep. of","Allemagne, Rép. féd. d'","Alemania, Rep. Fed. de",,,,,Germany FR,78
+288,GH,Ghana,Ghana,Ghana,the Republic of Ghana,la République du Ghana,la República de Ghana,GHA,Ghana,81
+292,GI,Gibraltar,Gibraltar,Gibraltar,Gibraltar,Gibraltar,Gibraltar,GIB,Gibraltar,82
+296,KI,Kiribati,Kiribati,Kiribati,the Republic of Kiribati,la République de Kiribati,la República de Kiribati,KIR,Kiribati,83
+300,GR,Greece,Grèce,Grecia,the Hellenic Republic,la République hellénique,la República Helénica,GRC,Greece,84
+304,GL,Greenland,Groenland,Groenlandia,Greenland,Groenland,Groenlandia,GRL,Greenland,85
+308,GD,Grenada,Grenade,Granada,Grenada,la Grenade,Granada,GRD,Grenada,86
+312,GP,Guadeloupe,Guadeloupe,Guadalupe,Guadeloupe,la Guadeloupe,Guadalupe,GLP,Guadeloupe,87
+316,GU,Guam,Guam,Guam,Guam,Guam,Guam,GUM,Guam,88
+320,GT,Guatemala,Guatemala,Guatemala,the Republic of Guatemala,la République du Guatemala,la República de Guatemala,GTM,Guatemala,89
+324,GN,Guinea,Guinée,Guinea,the Republic of Guinea,la République de Guinée,la República de Guinea,GIN,Guinea,90
+328,GY,Guyana,Guyana,Guyana,the Co-operative Republic of Guyana,la République coopérative du Guyana,la República Cooperativa de Guyana,GUY,Guyana,91
+332,HT,Haiti,Haïti,Haití,the Republic of Haiti,la République d'Haïti,la República de Haití,HTI,Haiti,93
+334,HM,Heard and McDonald Is.,Îles Heard et McDonald,Islas Heard y McDonald,Heard Island and McDonald Island,Îles Heard et McDonald,Islas Heard y McDonald,HMD,Heard Is,92
+336,VA,Holy See,Saint-Siège,Santa Sede,Holy See,le Saint-Siège,la Santa Sede,VAT,Holy See,94
+340,HN,Honduras,Honduras,Honduras,the Republic of Honduras,la République du Honduras,la República de Honduras,HND,Honduras,95
+344,HK,"China, Hong Kong SAR","Chine, RAS de Hong-Kong","China, RAE de Hong Kong","China, Hong Kong Special Administrative Region",Chine - Région administrative spéciale de Hong-Kong,"China, Región Administrativa Especial de Hong Kong",HKG,"China,H.Kong",96
+348,HU,Hungary,Hongrie,Hungría,Hungary,la Hongrie,Hungría,HUN,Hungary,97
+352,IS,Iceland,Islande,Islandia,the Republic of Iceland,la République d'Islande,la República de Islandia,ISL,Iceland,99
+356,IN,India,Inde,India,the Republic of India,la République de l'Inde,la República de la India,IND,India,100
+360,ID,Indonesia,Indonésie,Indonesia,the Republic of Indonesia,la République d'Indonésie,la República de Indonesia,IDN,Indonesia,101
+364,IR,Iran (Islamic Rep. of),Iran (Rép. islamique d'),Irán (Rep. Islámica del),the Islamic Republic of Iran,la République islamique d'Iran,la República Islámica del Irán,IRN,Iran,102
+368,IQ,Iraq,Iraq,Iraq,the Republic of Iraq,la République d'Iraq,la República del Iraq,IRQ,Iraq,103
+372,IE,Ireland,Irlande,Irlanda,Ireland,l'Irlande,Irlanda,IRL,Ireland,104
+376,IL,Israel,Israël,Israel,the State of Israel,l'État d'Israël,el Estado de Israel,ISR,Israel,105
+380,IT,Italy,Italie,Italia,the Republic of Italy,la République italienne,la República Italiana,ITA,Italy,106
+384,CI,Côte d'Ivoire,Côte d'Ivoire,Côte d'Ivoire,the Republic of Côte d'Ivoire,la République de Côte d'Ivoire,la República de Côte d'Ivoire,CIV,Côte dIvoire,107
+388,JM,Jamaica,Jamaïque,Jamaica,Jamaica,la Jamaïque,Jamaica,JAM,Jamaica,109
+392,JP,Japan,Japon,Japón,Japan,le Japon,el Japón,JPN,Japan,110
+396,JT,Johnston Island,"Johnston, Ile","Johnston, Isla",Johnston Island,Île Johnston,Isla Johnston,JTN,Johnston Is,111
+398,KZ,Kazakhstan,Kazakhstan,Kazajstán,the Republic of Kazakhstan,la République du Kazakhstan,la República de Kazajstán,KAZ,Kazakhstan,108
+400,JO,Jordan,Jordanie,Jordania,the Hashemite Kingdom of Jordan,le Royaume hachémite de Jordanie,el Reino Hachemita de Jordania,JOR,Jordan,112
+402,,West Bank,Cisjordanie,Cisjordania,The West Bank,la Cisjordanie,Ribera Occidental,,West Bank,245
+404,KE,Kenya,Kenya,Kenya,the Republic of Kenya,la République du Kenya,la República de Kenya,KEN,Kenya,114
+408,KP,"Korea, Dem. People's Rep",Rép. pop. dém. de Corée,Rep. Pop. Dem. de Corea,the Democratic People's Republic of Korea,la République populaire démocratique de Corée,la República Popular Democrática de Corea,PRK,Korea D P Rp,116
+410,KR,"Korea, Republic of",République de Corée,República de Corea,the Republic of Korea,la République de Corée,la República de Corea,KOR,Korea Rep,117
+414,KW,Kuwait,Koweït,Kuwait,the State of Kuwait,l'État du Koweït,el Estado de Kuwait,KWT,Kuwait,118
+417,KG,Kyrgyzstan,Kirghizistan,Kirguistán,the Kyrgyz Republic,la République kirghize,la República Kirguisa,KGZ,Kyrgyzstan,113
+418,LA,Lao People's Dem. Rep.,Rép. dém. pop. lao,Rep. Dem. Pop. Lao,the Lao People's Democratic Republic,la République démocratique populaire lao,la República Democrática Popular Lao,LAO,Lao P.Dem.R.,120
+422,LB,Lebanon,Liban,Líbano,the Lebanese Republic,la République libanaise,la República libanesa,LBN,Lebanon,121
+426,LS,Lesotho,Lesotho,Lesotho,the Kingdom of Lesotho,le Royaume du Lesotho,el Reino de Lesotho,LSO,Lesotho,122
+428,LV,Latvia,Lettonie,Letonia,the Republic of Latvia,la République de Lettonie,la República de Letonia,LVA,Latvia,119
+430,LR,Liberia,Libéria,Liberia,the Republic of Liberia,la République du Libéria,la República de Liberia,LBR,Liberia,123
+434,LY,Libya,Libye,Libia,State of Libya,l'État de Libye,Estado de Libia,LBY,Libya,124
+438,LI,Liechtenstein,Liechtenstein,Liechtenstein,the Principality of Liechtenstein,la Principauté du Liechtenstein,el Principado de Liechtenstein,LIE,Liechtensten,125
+440,LT,Lithuania,Lituanie,Lituania,the Republic of Lithuania,la République de Lituanie,la República de Lituania,LTU,Lithuania,126
+442,LU,Luxembourg,Luxembourg,Luxemburgo,the Grand Duchy of Luxembourg,le Grand-Duché de Luxembourg,el Gran Ducado de Luxemburgo,LUX,Luxembourg,256
+446,MO,"China, Macao SAR","Chine, RAS de Macao","China, RAE de Macao","China, Macao SAR",Chine - RAS de Macao,"China, Región Administrativa Especial de Macao",MAC,"China, Macao",128
+450,MG,Madagascar,Madagascar,Madagascar,the Republic of Madagascar,la République de Madagascar,la República de Madagascar,MDG,Madagascar,129
+454,MW,Malawi,Malawi,Malawi,the Republic of Malawi,la République du Malawi,la República de Malawi,MWI,Malawi,130
+458,MY,Malaysia,Malaisie,Malasia,Malaysia,la Malaisie,Malasia,MYS,Malaysia,131
+462,MV,Maldives,Maldives,Maldivas,the Republic of Maldives,la République des Maldives,la República de Maldivas,MDV,Maldives,132
+466,ML,Mali,Mali,Malí,the Republic of Mali,la République du Mali,la República de Malí,MLI,Mali,133
+470,MT,Malta,Malte,Malta,the Republic of Malta,la République de Malte,la República de Malta,MLT,Malta,134
+474,MQ,Martinique,Martinique,Martinica,Martinique,Martinique,Martinica,MTQ,Martinique,135
+478,MR,Mauritania,Mauritanie,Mauritania,the Islamic Republic of Mauritania,la République islamique de Mauritanie,la República Islámica de Mauritania,MRT,Mauritania,136
+480,MU,Mauritius,Maurice,Mauricio,the Republic of Mauritius,la République de Maurice,la República de Mauricio,MUS,Mauritius,137
+484,MX,Mexico,Mexique,México,the United Mexican States,les États-Unis du Mexique,los Estados Unidos Mexicanos,MEX,Mexico,138
+488,MI,Midway Islands,"Midway, Îles","Midway, Islas",Midway Island,Île Midway,Islas Midway,MID,Midway Is,139
+492,MC,Monaco,Monaco,Mónaco,the Principality of Monaco,la Principauté de Monaco,el Principado de Mónaco,MCO,Monaco,140
+496,MN,Mongolia,Mongolie,Mongolia,Mongolia,la Mongolie,Mongolia,MNG,Mongolia,141
+498,MD,"Moldova, Republic of",République de Moldova,República de Moldova,the Republic of Moldova,la République de Moldova,la República de Moldova,MDA,Moldova Rep,146
+499,ME,Montenegro,Monténégro,Montenegro,Montenegro,le Monténégro,Montenegro,MNE,Montenegro,273
+500,MS,Montserrat,Montserrat,Montserrat,Montserrat,Montserrat,Montserrat,MSR,Montserrat,142
+504,MA,Morocco,Maroc,Marruecos,the Kingdom of Morocco,le Royaume du Maroc,el Reino de Marruecos,MAR,Morocco,143
+508,MZ,Mozambique,Mozambique,Mozambique,the Republic of Mozambique,la République du Mozambique,la República de Mozambique,MOZ,Mozambique,144
+512,OM,Oman,Oman,Omán,the Sultanate of Oman,le Sultanat d'Oman,la Sultanía de Omán,OMN,Oman,221
+516,NA,Namibia,Namibie,Namibia,the Republic of Namibia,la République de Namibie,la República de Namibia,NAM,Namibia,147
+520,NR,Nauru,Nauru,Nauru,the Republic of Nauru,la République de Nauru,la República de Nauru,NRU,Nauru,148
+524,NP,Nepal,Népal,Nepal,Federal Democratic Republic of Nepal,République démocratique fédérale du Nepal,República Federal Democrática de Nepal,NPL,Nepal,149
+528,NL,Netherlands,Pays-Bas,Países Bajos,the Kingdom of the Netherlands,le Royaume des Pays-Bas,el Reino de los Países Bajos,NLD,Netherlands,150
+530,AN,Netherlands Antilles,Antilles néerlandaises,Antillas Neerlandesas,Netherlands Antilles,les Antilles néerlandaises,Antillas Neerlandesas,ANT,NethAntilles,151
+531,CW,Curaçao,Curaçao,Curaçao,Curaçao,Curaçao,Curaçao,CUW,Curaçao,286
+532,AN,Netherlands Antilles,Antilles néerlandaises,Antillas Neerlandesas,Netherlands Antilles,les Antilles néerlandaises,Antillas Neerlandesas,ANT,NethAntilles,278
+533,AW,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,ABW,Aruba,22
+534,SX,Sint Maarten,Sint Maarten,Sint Maarten,Sint Maarten (Dutch Part),Sint Maarten (Partie néerlandaise),Sint Maarten (Parte de los Países Bajos),SXM,Sint Maarten,289
+535,BQ,Bonaire/S.Eustatius/Saba,Bonaire/S.Eustatius/Saba,Bonaire/S.Eustatius/Saba,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius et Saba","Bonaire, Sint Eustatius y Saba",BES,Bonaire/Eust,283
+536,,Neutral Zone,Zone neutre,Zona Neutral,,,,,Neutral Zone,152
+540,NC,New Caledonia,Nouvelle-Calédonie,Nueva Caledonia,New Caledonia,Nouvelle-Calédonie,Nueva Caledonia,NCL,NewCaledonia,153
+548,VU,Vanuatu,Vanuatu,Vanuatu,the Republic of Vanuatu,la République de Vanuatu,la República de Vanuatu,VUT,Vanuatu,155
+554,NZ,New Zealand,Nouvelle-Zélande,Nueva Zelandia,New Zealand,la Nouvelle-Zélande,Nueva Zelandia,NZL,New Zealand,156
+558,NI,Nicaragua,Nicaragua,Nicaragua,the Republic of Nicaragua,la République du Nicaragua,la República de Nicaragua,NIC,Nicaragua,157
+562,NE,Niger,Niger,Níger,the Republic of the Niger,la République du Niger,la República del Níger,NER,Niger,158
+566,NG,Nigeria,Nigéria,Nigeria,the Federal Republic of Nigeria,la République fédérale du Nigéria,la República Federal de Nigeria,NGA,Nigeria,159
+570,NU,Niue,Nioué,Niue,the Republic of Niue,la République de Nioué,la República de Niue,NIU,Niue,160
+574,NF,Norfolk Island,Île Norfolk,Isla Norfolk,Territory of Norfolk Island,Île Norfolk,Isla Norfolk,NFK,Norfolk Is,161
+578,NO,Norway,Norvège,Noruega,the Kingdom of Norway,le Royaume de Norvège,el Reino de Noruega,NOR,Norway,162
+580,MP,Northern Mariana Is.,Îles Mariannes du Nord,Islas Marianas septent.,Northern Mariana Islands,Commonwealth des Mariannes du Nord,Islas Marianas septentrionales,MNP,N Marianas,163
+581,UM,US Minor Outlying Is.,Îles Mineures EloignésEU,Is Menores PeriféricasEU,the United States Minor Islands,Îles mineures éloignées des États-Unis,Islas Menores Periféricas de los Estados Unidos,UMI,US Minor Is,232
+582,,Pacific Islands Trust Tr,"Pacifique, Îles du","Pacifico, Islas del",Pacific Islands Trust Territory,Territoire des Îles du Pacifique,Territorio de las Islas del Pacífico,,Pacific Is,164
+583,FM,"Micronesia, Fed.States of",Micronésie(États féd.de),Micronesia(Estados Fed.),the Federated States of Micronesia,les États fédérés de Micronésie,los Estados Federados de Micronesia,FSM,Micronesia,145
+584,MH,Marshall Islands,Îles Marshall,Islas Marshall,the Republic of the Marshall Islands,la République des Îles Marshall,la República de las Islas Marshall,MHL,Marshall Is,127
+585,PW,Palau,Palaos,Palau,the Republic of Palau,la République des Palaos,la República de Palau,PLW,Palau,180
+586,PK,Pakistan,Pakistan,Pakistán,the Islamic Republic of Pakistan,la République islamique du Pakistan,la República Islámica del Pakistán,PAK,Pakistan,165
+591,PA,Panama,Panama,Panamá,the Republic of Panama,la République du Panama,la República de Panamá,PAN,Panama,166
+598,PG,Papua New Guinea,Papouasie-Nlle-Guinée,Papua Nueva Guinea,Independent State of Papua New Guinea,État indépendant de Papouasie-Nouvelle-Guinée,Estado Independiente de Papua Nueva Guinea,PNG,Papua N Guin,168
+600,PY,Paraguay,Paraguay,Paraguay,the Republic of Paraguay,la République du Paraguay,la República del Paraguay,PRY,Paraguay,169
+604,PE,Peru,Pérou,Perú,the Republic of Peru,la République du Pérou,la República del Perú,PER,Peru,170
+608,PH,Philippines,Philippines,Filipinas,the Republic of the Philippines,la République des Philippines,la República de Filipinas,PHL,Philippines,171
+612,PN,Pitcairn Islands,Îles Pitcairn,Islas Pitcairn,Pitcairn Islands,Îles Pitcairn,Islas Pitcairn,PCN,Pitcairn Is,172
+616,PL,Poland,Pologne,Polonia,the Republic of Poland,la République de Pologne,la República de Polonia,POL,Poland,173
+620,PT,Portugal,Portugal,Portugal,the Portuguese Republic,la République portugaise,la República Portuguesa,PRT,Portugal,174
+624,GW,Guinea-Bissau,Guinée-Bissau,Guinea-Bissau,the Republic of Guinea-Bissau,la République de Guinée-Bissau,la República de Guinea-Bissau,GNB,GuineaBissau,175
+626,TL,Timor-Leste,Timor-Leste,Timor-Leste,the Democratic Republic of Timor-Leste,la République démocratique du Timor-Leste,la República Democrática de Timor-Leste,TLS,Timor-Leste,176
+630,PR,Puerto Rico,Porto Rico,Puerto Rico,Puerto Rico,Porto Rico,Puerto Rico,PRI,Puerto Rico,177
+634,QA,Qatar,Qatar,Qatar,the State of Qatar,l'État du Qatar,el Estado de Qatar,QAT,Qatar,179
+638,RE,Réunion,Réunion,Reunión,Réunion,Réunion,Reunión,REU,Réunion,182
+642,RO,Romania,Roumanie,Rumania,Romania,la Roumanie,Rumania,ROU,Romania,183
+643,RU,Russian Federation,Fédération de Russie,Federación de Rusia,the Russian Federation,la Fédération de Russie,la Federación de Rusia,RUS,Russian Fed,185
+646,RW,Rwanda,Rwanda,Rwanda,the Republic of Rwanda,la République du Rwanda,la República de Rwanda,RWA,Rwanda,184
+652,BL,Saint Barthélemy,Saint-Barthélemy,San Bartolomé,Saint Barthélemy,Saint-Barthélemy,San Bartolomé,BLM,StBarthélemy,287
+654,SH,Saint Helena,Sainte-Hélène,Santa Elena,"Saint Helena, Ascension and Tristan da Cunha","Sainte-Hélène, Ascension et Tristan da Cunha","Santa Elena, Ascension y Tristan da Cunha",SHN,St Helena,187
+659,KN,Saint Kitts and Nevis,Saint-Kitts-et-Nevis,Saint Kitts y Nevis,Saint Kitts and Nevis,Saint-Kitts-et-Nevis,Saint Kitts y Nevis,KNA,St Kitts Nev,188
+660,AI,Anguilla,Anguilla,Anguila,Anguilla,Anguilla,Anguila,AIA,Anguilla,258
+662,LC,Saint Lucia,Sainte-Lucie,Santa Lucía,Saint Lucia,Sainte-Lucie,Santa Lucía,LCA,St Lucia,189
+663,MF,Saint-Martin,Saint-Martin,Saint-Martin,Saint-Martin (French Part),Saint-Martin (Partie française),Saint-Martin (Parte francesa),MAF,Saint-Martin,288
+666,PM,St. Pierre and Miquelon,Saint-Pierre-et-Miquelon,San Pedro y Miquelón,Saint Pierre and Miquelon,Saint-Pierre-et-Miquelon,Saint-Pierre y Miquelon,SPM,St Pier Mq,190
+670,VC,Saint Vincent/Grenadines,Saint-Vincent/Grenadines,San Vicente/Grenadinas,Saint Vincent and the Grenadines,Saint-Vincent-et-les Grenadines,San Vicente y las Granadinas,VCT,St Vincent,191
+674,SM,San Marino,Saint-Marin,San Marino,the Republic of San Marino,la République de Saint-Marin,la República de San Marino,SMR,San Marino,192
+678,ST,Sao Tome and Principe,Sao Tomé-et-Principe,Santo Tomé y Príncipe,the Democratic Republic of Sao Tome and Principe,la République démocratique de Sao Tomé-et-Principe,la República Democrática de Santo Tomé y Príncipe,STP,Sao Tome Prn,193
+680,,Sark,Sercq,Sark,,,,,Sark,294
+682,SA,Saudi Arabia,Arabie saoudite,Arabia Saudita,the Kingdom of Saudi Arabia,le Royaume d'Arabie saoudite,el Reino de Arabia Saudita,SAU,Saudi Arabia,194
+686,SN,Senegal,Sénégal,Senegal,the Republic of Senegal,la République du Sénégal,la República del Senegal,SEN,Senegal,195
+688,RS,Serbia,Serbie,Serbia,the Republic of Serbia,la République de Serbie,la República de Serbia,SRB,Serbia,272
+690,SC,Seychelles,Seychelles,Seychelles,the Republic of Seychelles,la République des Seychelles,la República de Seychelles,SYC,Seychelles,196
+694,SL,Sierra Leone,Sierra Leone,Sierra Leona,the Republic of Sierra Leone,la République de Sierra Leone,la República de Sierra Leona,SLE,Sierra Leone,197
+702,SG,Singapore,Singapour,Singapur,the Republic of Singapore,la République de Singapour,la República de Singapur,SGP,Singapore,200
+703,SK,Slovakia,Slovaquie,Eslovaquia,the Slovak Republic,la République slovaque,la República Eslovaca,SVK,Slovakia,199
+704,VN,Viet Nam,Viet Nam,Viet Nam,the Socialist Republic of Viet Nam,la République socialiste du Viet Nam,la República Socialista de Viet Nam,VNM,Viet Nam,237
+705,SI,Slovenia,Slovénie,Eslovenia,the Republic of Slovenia,la République de Slovénie,la República de Eslovenia,SVN,Slovenia,198
+706,SO,Somalia,Somalie,Somalia,the Federal Republic of Somalia,la République fédérale de Somalie,la República Federal de Somalia,SOM,Somalia,201
+710,ZA,South Africa,Afrique du Sud,Sudáfrica,the Republic of South Africa,la République sud-africaine,la República de Sudáfrica,ZAF,South Africa,202
+716,ZW,Zimbabwe,Zimbabwe,Zimbabwe,the Republic of Zimbabwe,la République du Zimbabwe,la República de Zimbabwe,ZWE,Zimbabwe,181
+720,,"Yemen, Democratic",Yemen Democratique,Yemen Democratico,,,,,Yemen Dem,247
+724,ES,Spain,Espagne,España,the Kingdom of Spain,le Royaume d'Espagne,el Reino de España,ESP,Spain,203
+728,SS,South Sudan,Soudan du Sud,Sudán del Sur,the Republic of South Sudan,la République du Soudan du Sud,la República de Sudán del Sur,SSD,South Sudan,290
+729,SD,Sudan,Soudan,Sudán,the Republic of the Sudan,la République du Soudan,la República del Sudán,SDN,Sudan,298
+732,EH,Western Sahara,Sahara occidental,Sahara Occidental,Western Sahara,Sahara occidental,Sáhara occidental,ESH,Westn Sahara,205
+736,,Sudan (former),Soudan (ex),Sudán (ex),the Republic of the Sudan,la République du Soudan,la República del Sudán,,Sudan (frm),206
+740,SR,Suriname,Suriname,Suriname,the Republic of Suriname,la République du Suriname,la República de Suriname,SUR,Suriname,207
+744,SJ,Svalbard and Jan Mayen,Îles Svalbard/Jan Mayen,Islas Svalbard/Jan Mayen,Svalbard and Jan Mayen Islands,Îles Svalbard et Jan Mayen,Islas Svalbard y Jan Mayen,SJM,Svalbard Is,260
+748,SZ,Eswatini,Eswatini,Eswatini,the Kingdom of Eswatini,le Royaume d’Eswatini,el Reino de Eswatini,SWZ,Eswatini,209
+752,SE,Sweden,Suède,Suecia,the Kingdom of Sweden,le Royaume de Suède,el Reino de Suecia,SWE,Sweden,210
+756,CH,Switzerland,Suisse,Suiza,the Swiss Confederation,la Confédération suisse,la Confederación Suiza,CHE,Switzerland,211
+760,SY,Syrian Arab Republic,Rép. arabe syrienne,República Árabe Siria,the Syrian Arab Republic,la République arabe syrienne,la República Árabe Siria,SYR,Syria,212
+762,TJ,Tajikistan,Tadjikistan,Tayikistán,the Republic of Tajikistan,la République du Tadjikistan,la República de Tayikistán,TJK,Tajikistan,208
+764,TH,Thailand,Thaïlande,Tailandia,the Kingdom of Thailand,le Royaume de Thaïlande,el Reino de Tailandia,THA,Thailand,216
+768,TG,Togo,Togo,Togo,the Togolese Republic,la République togolaise,la República Togolesa,TGO,Togo,217
+772,TK,Tokelau,Tokélaou,Tokelau,Tokelau,les Tokélaou,Tokelau,TKL,Tokelau,218
+776,TO,Tonga,Tonga,Tonga,the Kingdom of Tonga,le Royaume des Tonga,el Reino de Tonga,TON,Tonga,219
+780,TT,Trinidad and Tobago,Trinité-et-Tobago,Trinidad y Tabago,the Republic of Trinidad and Tobago,la République de Trinité-et-Tobago,la República de Trinidad y Tabago,TTO,Trinidad Tob,220
+784,AE,United Arab Emirates,Émirats arabes unis,Emiratos Árabes Unidos,the United Arab Emirates,les Émirats arabes unis,los Emiratos Árabes Unidos,ARE,Untd Arab Em,225
+788,TN,Tunisia,Tunisie,Túnez,the Republic of Tunisia,la République tunisienne,la República de Túnez,TUN,Tunisia,222
+792,TR,Turkey,Turquie,Turquía,the Republic of Turkey,la République turque,la República de Turquía,TUR,Turkey,223
+795,TM,Turkmenistan,Turkménistan,Turkmenistán,Turkmenistan,le Turkménistan,Turkmenistán,TKM,Turkmenistan,213
+796,TC,Turks and Caicos Is.,Îles Turques et Caïques,Islas Turcas y Caicos,Turks and Caicos Islands,Îles Turques et Caïques,Islas Turcas y Caicos,TCA,Turks Caicos,224
+798,TV,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,Tuvalu,TUV,Tuvalu,227
+800,UG,Uganda,Ouganda,Uganda,the Republic of Uganda,la République de l'Ouganda,la República de Uganda,UGA,Uganda,226
+804,UA,Ukraine,Ukraine,Ucrania,Ukraine,l'Ukraine,Ucrania,UKR,Ukraine,230
+807,MK,North Macedonia,Macédoine du Nord,Macedonia del Norte,the Republic of North Macedonia,la République de Macédoine du Nord,la República de Macedonia del Norte,MKD,NorthMacedon,154
+810,SU,Un. Sov. Soc. Rep.,Union des Rép.soc.sov.,Unión de Rep.Soc.Sov.,Union of Soviet Socialist Republics,Union des Républiques socialistes soviétiques,Unión de Rep.Soc.Sov.,SUN,USSR,228
+818,EG,Egypt,Égypte,Egipto,the Arab Republic of Egypt,la République arabe d'Égypte,la República Árabe de Egipto,EGY,Egypt,59
+826,GB,United Kingdom,Royaume-Uni,Reino Unido,the United Kingdom of Great Britain and Northern Ireland,le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,el Reino Unido de Gran Bretaña e Irlanda del Norte,GBR,UK,229
+830,,Channel Islands,Îles Anglo-Normandes,Islas Anglonormandas,Channel Islands,Iles Anglo-Normandes,Islas Normandas,,Channel Is,259
+831,GG,Guernsey,Guernesey,Isla de Guernesey,Bailiwick of Guernsey,Guernesey,Isla de Guernesey,GGY,Guernsey,284
+832,JE,Jersey,Le Jersey,Jersey,Bailiwick of Jersey,Jersey,Jersey,JEY,Jersey,285
+833,IM,Isle of Man,Île de Man,Isla de Man,Isle of Man,Île de Man,Isla de Man,IMN,Isle of Man,264
+834,TZ,"Tanzania, United Rep. of",Rép.-Unie de Tanzanie,Rep. Unida de Tanzanía,the United Republic of Tanzania,la République-Unie de Tanzanie,la República Unida de Tanzanía,TZA,Tanzania,215
+836,,Zanzibar,Zanzibar,Zanzíbar,Zanzibar,Zanzibar,Zanzibar,EAZ,Zanzibar,276
+840,US,United States of America,États-Unis d'Amérique,EstadosUnidos de América,the United States of America,les États-Unis d'Amérique,los Estados Unidos de América,USA,USA,231
+850,VI,US Virgin Islands,Îles Vierges américaines,Islas Vírgenes (EE.UU.),the United States Virgin Islands,les Îles Vierges américaines,las Islas Vírgenes (EE.UU.),VIR,US Virgin Is,240
+854,BF,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,le Burkina Faso,Burkina Faso,BFA,Burkina Faso,233
+858,UY,Uruguay,Uruguay,Uruguay,the Eastern Republic of Uruguay,la République orientale de l'Uruguay,la República Oriental del Uruguay,URY,Uruguay,234
+860,UZ,Uzbekistan,Ouzbékistan,Uzbekistán,the Republic of Uzbekistan,la République d'Ouzbékistan,la República de Uzbekistán,UZB,Uzbekistan,235
+862,VE,"Venezuela, Boliv Rep of","Venezuela, Rép boliv du","Venezuela, Rep Boliv de",the Bolivarian Republic of Venezuela,la République bolivarienne du Venezuela,la República Bolivariana de Venezuela,VEN,Venezuela,236
+872,WK,Wake Island,"Wake, Île de","Wake, Isla",Wake Island,Îles Wake,Isla Wake,WAK,Wake Is,242
+876,WF,Wallis and Futuna Is.,Îles Wallis et Futuna,Islas Wallis y Futuna,Wallis and Futuna Islands,les Îles Wallis et Futuna,Islas Wallis y Futuna,WLF,Wallis Fut I,243
+882,WS,Samoa,Samoa,Samoa,the Independent State of Samoa,l'État indépendant du Samoa,el Estado Independiente de Samoa,WSM,Samoa,244
+886,,Yemen Arab Republic,"Yemen, Rep. Arabe","Yemen, Republica Araba",,,,,Yemen Ar Rp,246
+887,YE,Yemen,Yémen,Yemen,the Republic of Yemen,la République du Yémen,la República del Yemen,YEM,Yemen,249
+890,YU,Yugoslavia SFR,RFS de Yougoslavie,RFS de Yugoslavia,Socialist Federal Republic of Yugoslavia,République socialiste fédérative de Yougoslavie,RFS de Yugoslavia,YUG,Yugoslav SFR,248
+891,CS,Serbia and Montenegro,Serbie-et-Monténégro,Serbia y Montenegro,Serbia and Montenegro,Serbie-et-Monténégro,Serbia y Montenegro,SCG,Serbia-Monte,186
+894,ZM,Zambia,Zambie,Zambia,the Republic of Zambia,la République de Zambie,la República de Zambia,ZMB,Zambia,251
+896,,Other nei,Autres nca,Otros nep,Others,Autres,Otros,,Other nei,252
+FAO. 2021. Fishery and Aquaculture Statistics. Global fish trade - By partner country. 2019 (FishstatJ). In: FAO Fisheries and Aquaculture Division [online]. Rome. Updated 2021. www.fao.org/fishery/statistics/software/fishstatj/en,,,,,,,,,,

@@ -1,0 +1,11 @@
+﻿item,edible_fraction,note,source
+Poultry Meat,0.92,"""chicken meat"" to ""meat canned chicken"". Based on Warriss et al., we assume an additional step is needed to convert carcass to edible weight (i.e., without bones) and this is the closest FAO conversion factor that resembles this step. ","UN FAO, 2017. Technical Conversion Factors for Agricultural Commodities. "
+Pigmeat,0.73,"""pig meat, carcass weight"" to ""pork"" .","UN FAO, 2017. Technical Conversion Factors for Agricultural Commodities. "
+Bovine Meat,0.71,"""meat of cattle, carcass weight"" to ""beef and veal, boneless"".","UN FAO, 2017. Technical Conversion Factors for Agricultural Commodities. "
+Mutton & Goat Meat,0.71,"""meat of cattle, carcass weight"" to ""beef and veal, boneless"". FAO does not provide a value specific to sheep or goats, but since the dressing percentages are similar between cattle and sheep, we assume the edible weight % is also similar.","UN FAO, 2017. Technical Conversion Factors for Agricultural Commodities. "
+Aquatic animals,0.6,"Crude assumption for whole fish to edible tissues based on cyprinids (0.54), peneaus shrimps (0.57), and pacific salmon (0.62)","UN FAO, 1989. Yield and nutritional value of the commercially more important fish species. Available at: http://www.fao.org/docrep/003/t0219e/T0219E00.htm"
+"Pigmeat, extensive",0.73,,
+"Pigmeat, intensive",0.73,,
+"Poultry Meat, extensive",0.92,,
+"Poultry Meat, intensive",0.92,,
+Crops,1,"Most items are raw unprocessed commodities, for the most part edible with the exception in some cases of skins, peels, etc.",

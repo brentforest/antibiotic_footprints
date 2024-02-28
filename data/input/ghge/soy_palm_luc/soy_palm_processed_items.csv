@@ -1,0 +1,5 @@
+item_code,item,processed_item_code,processed_item,fbs_item_code,fbs_item,product_fraction,value_fraction
+236,Soybeans,236,Soybeans,2555,Soyabeans,1,1
+236,Soybeans,237,"Oil, soybean",2571,Soyabean Oil,0.18,0.34
+254,Oil palm fruit,257,"Oil, palm",2577,Palm Oil,0.19,0.84
+254,Oil palm fruit,258,"Oil, palm kernel",2576,Palmkernel Oil,0.0276,0.136

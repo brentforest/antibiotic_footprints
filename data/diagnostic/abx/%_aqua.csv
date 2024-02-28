@@ -1,0 +1,1407 @@
+country_code,country,fbs_item_code,fbs_item,mt_production_aqua,mt_production_total,%_production_aqua
+1,Armenia,2761.0,Freshwater Fish,17560.0,17627.34,0.9961797979729216
+1,Armenia,2765.0,Crustaceans,0.0,642.66,0.0
+2,Afghanistan,2761.0,Freshwater Fish,8000.0,10100.0,0.7920792079207921
+3,Albania,2761.0,Freshwater Fish,1759.0,4272.0,0.41175093632958804
+3,Albania,2762.0,Demersal Fish,3470.0,5235.0,0.6628462273161414
+3,Albania,2763.0,Pelagic Fish,0.0,2450.0,0.0
+3,Albania,2764.0,"Marine Fish, Other",0.0,44.0,0.0
+3,Albania,2765.0,Crustaceans,0.0,1519.0,0.0
+3,Albania,2766.0,Cephalopods,0.0,415.0,0.0
+3,Albania,2767.0,"Molluscs, Other",1071.0,1075.0,0.9962790697674418
+3,Albania,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+4,Algeria,2761.0,Freshwater Fish,2514.6099999999997,2514.6099999999997,1.0
+4,Algeria,2762.0,Demersal Fish,1657.54,7677.46,0.21589692424317417
+4,Algeria,2763.0,Pelagic Fish,0.0,75918.86,0.0
+4,Algeria,2764.0,"Marine Fish, Other",0.0,15176.77,0.0
+4,Algeria,2765.0,Crustaceans,0.0,2141.98,0.0
+4,Algeria,2766.0,Cephalopods,0.0,884.91,0.0
+4,Algeria,2767.0,"Molluscs, Other",563.0500000000001,569.69,0.9883445382576489
+4,Algeria,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+5,American Samoa,2761.0,Freshwater Fish,20.0,20.0,1.0
+5,American Samoa,2762.0,Demersal Fish,0.0,28.0,0.0
+5,American Samoa,2763.0,Pelagic Fish,0.0,3289.0,0.0
+5,American Samoa,2764.0,"Marine Fish, Other",0.0,9.0,0.0
+5,American Samoa,2765.0,Crustaceans,0.0,1.0,0.0
+5,American Samoa,2766.0,Cephalopods,0.0,0.0,0.0
+5,American Samoa,2767.0,"Molluscs, Other",0.0,0.0,0.0
+6,Andorra,2761.0,Freshwater Fish,0.0,0.0,0.0
+7,Angola,2761.0,Freshwater Fish,1925.0,25425.0,0.07571288102261553
+7,Angola,2762.0,Demersal Fish,0.0,60480.0,0.0
+7,Angola,2763.0,Pelagic Fish,0.0,288073.0,0.0
+7,Angola,2764.0,"Marine Fish, Other",0.0,32855.0,0.0
+7,Angola,2765.0,Crustaceans,0.0,2626.0,0.0
+7,Angola,2766.0,Cephalopods,0.0,1728.0,0.0
+8,Antigua and Barbuda,2761.0,Freshwater Fish,10.0,10.0,1.0
+8,Antigua and Barbuda,2762.0,Demersal Fish,0.0,1027.0,0.0
+8,Antigua and Barbuda,2763.0,Pelagic Fish,0.0,80.0,0.0
+8,Antigua and Barbuda,2764.0,"Marine Fish, Other",0.0,197.0,0.0
+8,Antigua and Barbuda,2765.0,Crustaceans,0.0,278.0,0.0
+8,Antigua and Barbuda,2767.0,"Molluscs, Other",0.0,1583.0,0.0
+9,Argentina,2761.0,Freshwater Fish,2564.09,28048.09,0.09141763307234112
+9,Argentina,2762.0,Demersal Fish,0.0,439647.0,0.0
+9,Argentina,2763.0,Pelagic Fish,0.0,23471.0,0.0
+9,Argentina,2764.0,"Marine Fish, Other",0.0,559.0,0.0
+9,Argentina,2765.0,Crustaceans,0.0,218096.0,0.0
+9,Argentina,2766.0,Cephalopods,0.0,96295.0,0.0
+9,Argentina,2767.0,"Molluscs, Other",19.5,22562.5,0.0008642659279778393
+9,Argentina,2769.0,"Aquatic Animals, Others",8.6,8.6,1.0
+9,Argentina,2775.0,Aquatic Plants,0.0,0.0,0.0
+10,Australia,2761.0,Freshwater Fish,61504.81999999999,63332.95,0.9711346147621419
+10,Australia,2762.0,Demersal Fish,0.0,31246.72,0.0
+10,Australia,2763.0,Pelagic Fish,8252.0,86485.67,0.09541465077393746
+10,Australia,2764.0,"Marine Fish, Other",2951.0,16361.58,0.18036155432421563
+10,Australia,2765.0,Crustaceans,4867.410000000001,39039.520000000004,0.12467904318495719
+10,Australia,2766.0,Cephalopods,0.0,2563.4300000000003,0.0
+10,Australia,2767.0,"Molluscs, Other",11878.03,22566.14,0.5263651648000057
+10,Australia,2769.0,"Aquatic Animals, Others",0.0,266.3,0.0
+10,Australia,2775.0,Aquatic Plants,0.0,1923.0,0.0
+11,Austria,2761.0,Freshwater Fish,4250.03,4600.03,0.9239135396943063
+11,Austria,2765.0,Crustaceans,0.0,0.0,0.0
+12,Bahamas,2761.0,Freshwater Fish,0.0,0.0,0.0
+12,Bahamas,2762.0,Demersal Fish,0.0,483.63,0.0
+12,Bahamas,2763.0,Pelagic Fish,0.0,43.14,0.0
+12,Bahamas,2764.0,"Marine Fish, Other",0.0,3.32,0.0
+12,Bahamas,2765.0,Crustaceans,5.0,6271.72,0.0007972294681522771
+12,Bahamas,2766.0,Cephalopods,0.0,0.0,0.0
+12,Bahamas,2767.0,"Molluscs, Other",0.0,3068.59,0.0
+12,Bahamas,2769.0,"Aquatic Animals, Others",0.0,280.51,0.0
+13,Bahrain,2761.0,Freshwater Fish,0.0,301.0,0.0
+13,Bahrain,2762.0,Demersal Fish,5.5,5386.5,0.001021071196509793
+13,Bahrain,2763.0,Pelagic Fish,0.0,1356.0,0.0
+13,Bahrain,2764.0,"Marine Fish, Other",0.0,445.0,0.0
+13,Bahrain,2765.0,Crustaceans,0.0,7454.0,0.0
+13,Bahrain,2766.0,Cephalopods,0.0,190.0,0.0
+13,Bahrain,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+14,Barbados,2761.0,Freshwater Fish,25.0,25.0,1.0
+14,Barbados,2762.0,Demersal Fish,0.0,35.0,0.0
+14,Barbados,2763.0,Pelagic Fish,0.0,1227.0,0.0
+14,Barbados,2764.0,"Marine Fish, Other",0.0,230.0,0.0
+14,Barbados,2765.0,Crustaceans,0.5,0.5,1.0
+14,Barbados,2767.0,"Molluscs, Other",0.0,0.0,0.0
+16,Bangladesh,2761.0,Freshwater Fish,2209839.0,3672506.0,0.601725089080862
+16,Bangladesh,2762.0,Demersal Fish,0.0,91728.0,0.0
+16,Bangladesh,2763.0,Pelagic Fish,0.0,4253.0,0.0
+16,Bangladesh,2764.0,"Marine Fish, Other",132929.0,363794.0,0.36539635068197934
+16,Bangladesh,2765.0,Crustaceans,145832.0,251938.0,0.5788408259174876
+16,Bangladesh,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+17,Bermuda,2761.0,Freshwater Fish,0.0,0.0,0.0
+17,Bermuda,2762.0,Demersal Fish,0.0,102.0,0.0
+17,Bermuda,2763.0,Pelagic Fish,0.0,237.0,0.0
+17,Bermuda,2764.0,"Marine Fish, Other",0.0,6.0,0.0
+17,Bermuda,2765.0,Crustaceans,0.0,40.0,0.0
+17,Bermuda,2767.0,"Molluscs, Other",0.0,0.0,0.0
+18,Bhutan,2761.0,Freshwater Fish,209.27,224.27,0.9331163329914834
+19,Bolivia (Plurinational State of),2761.0,Freshwater Fish,3525.0,11425.0,0.3085339168490153
+19,Bolivia (Plurinational State of),2763.0,Pelagic Fish,0.0,0.0,0.0
+20,Botswana,2761.0,Freshwater Fish,35.0,73.0,0.4794520547945205
+21,Brazil,2761.0,Freshwater Fish,529623.6,748618.6,0.7074678614717829
+21,Brazil,2762.0,Demersal Fish,0.0,222971.0,0.0
+21,Brazil,2763.0,Pelagic Fish,0.0,171172.39,0.0
+21,Brazil,2764.0,"Marine Fish, Other",20.0,29420.0,0.0006798096532970768
+21,Brazil,2765.0,Crustaceans,54485.72,110945.72,0.49110249588717797
+21,Brazil,2766.0,Cephalopods,0.0,3020.0,0.0
+21,Brazil,2767.0,"Molluscs, Other",15215.78,23570.78,0.6455357014065721
+21,Brazil,2768.0,"Meat, Aquatic Mammals",0.0,0.0,0.0
+21,Brazil,2769.0,"Aquatic Animals, Others",205.0,205.0,1.0
+21,Brazil,2775.0,Aquatic Plants,730.0,730.0,1.0
+22,Aruba,2761.0,Freshwater Fish,0.0,0.0,0.0
+22,Aruba,2762.0,Demersal Fish,0.0,68.0,0.0
+22,Aruba,2763.0,Pelagic Fish,0.0,45.0,0.0
+22,Aruba,2764.0,"Marine Fish, Other",0.0,50.0,0.0
+23,Belize,2761.0,Freshwater Fish,60.0,60.0,1.0
+23,Belize,2762.0,Demersal Fish,0.0,2402.2,0.0
+23,Belize,2763.0,Pelagic Fish,0.0,197143.32,0.0
+23,Belize,2764.0,"Marine Fish, Other",0.0,9306.79,0.0
+23,Belize,2765.0,Crustaceans,500.0,500.0,1.0
+23,Belize,2766.0,Cephalopods,0.0,2.29,0.0
+23,Belize,2767.0,"Molluscs, Other",0.0,4288.0,0.0
+23,Belize,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+23,Belize,2775.0,Aquatic Plants,3.0,3.0,1.0
+25,Solomon Islands,2761.0,Freshwater Fish,1.0,1.0,1.0
+25,Solomon Islands,2762.0,Demersal Fish,0.0,54.0,0.0
+25,Solomon Islands,2763.0,Pelagic Fish,0.0,68953.0,0.0
+25,Solomon Islands,2764.0,"Marine Fish, Other",0.0,298.0,0.0
+25,Solomon Islands,2765.0,Crustaceans,0.0,15.0,0.0
+25,Solomon Islands,2767.0,"Molluscs, Other",0.0,5.0,0.0
+25,Solomon Islands,2769.0,"Aquatic Animals, Others",0.0,100.0,0.0
+25,Solomon Islands,2775.0,Aquatic Plants,5600.0,5600.0,1.0
+26,Brunei Darussalam,2761.0,Freshwater Fish,113.14999999999999,908.15,0.12459395474315917
+26,Brunei Darussalam,2762.0,Demersal Fish,167.9,1637.54,0.10253184655031328
+26,Brunei Darussalam,2763.0,Pelagic Fish,59.93000000000001,5270.43,0.011370988704906432
+26,Brunei Darussalam,2764.0,"Marine Fish, Other",0.0,3608.24,0.0
+26,Brunei Darussalam,2765.0,Crustaceans,592.1999999999999,3108.39,0.19051663401310645
+26,Brunei Darussalam,2766.0,Cephalopods,0.0,90.82,0.0
+26,Brunei Darussalam,2767.0,"Molluscs, Other",0.0,0.0,0.0
+26,Brunei Darussalam,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+27,Bulgaria,2761.0,Freshwater Fish,13571.08,13657.08,0.9937028998878238
+27,Bulgaria,2762.0,Demersal Fish,0.0,689.0,0.0
+27,Bulgaria,2763.0,Pelagic Fish,0.0,4799.0,0.0
+27,Bulgaria,2764.0,"Marine Fish, Other",0.0,0.0,0.0
+27,Bulgaria,2765.0,Crustaceans,7.45,7.45,1.0
+27,Bulgaria,2766.0,Cephalopods,0.0,0.0,0.0
+27,Bulgaria,2767.0,"Molluscs, Other",2932.41,7688.41,0.38140655870329493
+27,Bulgaria,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+27,Bulgaria,2775.0,Aquatic Plants,2.6500000000000004,2.6500000000000004,1.0
+28,Myanmar,2761.0,Freshwater Fish,1019871.3899999999,1907321.39,0.5347139686825407
+28,Myanmar,2762.0,Demersal Fish,14.83,14.83,1.0
+28,Myanmar,2763.0,Pelagic Fish,0.0,10761.0,0.0
+28,Myanmar,2764.0,"Marine Fish, Other",0.0,1025505.0,0.0
+28,Myanmar,2765.0,Crustaceans,62255.15,87929.15,0.7080149188295349
+28,Myanmar,2769.0,"Aquatic Animals, Others",0.0,1730.0,0.0
+28,Myanmar,2775.0,Aquatic Plants,11.42,11.42,1.0
+29,Burundi,2761.0,Freshwater Fish,1555.0,21927.0,0.07091713412687554
+32,Cameroon,2761.0,Freshwater Fish,2500.0,34015.0,0.07349698662354844
+32,Cameroon,2762.0,Demersal Fish,0.0,85249.86,0.0
+32,Cameroon,2763.0,Pelagic Fish,0.0,123437.43,0.0
+32,Cameroon,2764.0,"Marine Fish, Other",0.0,12871.5,0.0
+32,Cameroon,2765.0,Crustaceans,0.0,43879.86,0.0
+32,Cameroon,2766.0,Cephalopods,0.0,0.17,0.0
+32,Cameroon,2767.0,"Molluscs, Other",0.0,0.0,0.0
+33,Canada,2761.0,Freshwater Fish,143200.0,176017.78,0.8135541761747024
+33,Canada,2762.0,Demersal Fish,0.0,182565.16,0.0
+33,Canada,2763.0,Pelagic Fish,0.0,154517.68,0.0
+33,Canada,2764.0,"Marine Fish, Other",821.0,8585.0,0.09563191613278975
+33,Canada,2765.0,Crustaceans,14.0,251842.0,5.559040986015041e-05
+33,Canada,2766.0,Cephalopods,0.0,85.0,0.0
+33,Canada,2767.0,"Molluscs, Other",43191.0,155676.0,0.27744160949664687
+33,Canada,2769.0,"Aquatic Animals, Others",0.0,15942.0,0.0
+33,Canada,2775.0,Aquatic Plants,0.0,12655.0,0.0
+35,Cabo Verde,2761.0,Freshwater Fish,0.0,0.0,0.0
+35,Cabo Verde,2762.0,Demersal Fish,0.0,3.0,0.0
+35,Cabo Verde,2763.0,Pelagic Fish,0.0,16761.0,0.0
+35,Cabo Verde,2764.0,"Marine Fish, Other",0.0,295.0,0.0
+35,Cabo Verde,2765.0,Crustaceans,5.0,7.0,0.7142857142857143
+35,Cabo Verde,2766.0,Cephalopods,0.0,10.0,0.0
+35,Cabo Verde,2767.0,"Molluscs, Other",0.0,13.0,0.0
+35,Cabo Verde,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+36,Cayman Islands,2761.0,Freshwater Fish,0.0,0.0,0.0
+36,Cayman Islands,2763.0,Pelagic Fish,0.0,0.0,0.0
+36,Cayman Islands,2764.0,"Marine Fish, Other",0.0,125.0,0.0
+36,Cayman Islands,2765.0,Crustaceans,0.0,0.0,0.0
+37,Central African Republic,2761.0,Freshwater Fish,140.0,29140.0,0.004804392587508579
+37,Central African Republic,2775.0,Aquatic Plants,50.0,50.0,1.0
+38,Sri Lanka,2761.0,Freshwater Fish,27447.690000000002,117787.69,0.23302681290379326
+38,Sri Lanka,2762.0,Demersal Fish,0.0,7144.900000000001,0.0
+38,Sri Lanka,2763.0,Pelagic Fish,0.0,324399.89999999997,0.0
+38,Sri Lanka,2764.0,"Marine Fish, Other",0.0,38435.3,0.0
+38,Sri Lanka,2765.0,Crustaceans,6097.87,37097.87,0.1643725097963845
+38,Sri Lanka,2766.0,Cephalopods,0.0,10570.0,0.0
+38,Sri Lanka,2767.0,"Molluscs, Other",15.0,1605.0,0.009345794392523364
+38,Sri Lanka,2769.0,"Aquatic Animals, Others",280.13,2905.23,0.09642265844700763
+38,Sri Lanka,2775.0,Aquatic Plants,246.8,246.8,1.0
+39,Chad,2761.0,Freshwater Fish,85.0,107085.0,0.0007937619647943223
+39,Chad,2775.0,Aquatic Plants,20.0,20.0,1.0
+40,Chile,2761.0,Freshwater Fish,989546.0,989546.0,1.0
+40,Chile,2762.0,Demersal Fish,1.0,76750.48,1.3029234475145954e-05
+40,Chile,2763.0,Pelagic Fish,5.0,1705062.78,2.932443343816349e-06
+40,Chile,2764.0,"Marine Fish, Other",0.0,407.0,0.0
+40,Chile,2765.0,Crustaceans,0.0,51991.68,0.0
+40,Chile,2766.0,Cephalopods,13.0,61621.0,0.00021096704045698707
+40,Chile,2767.0,"Molluscs, Other",395139.0,435296.0,0.9077478313607292
+40,Chile,2769.0,"Aquatic Animals, Others",0.0,35785.0,0.0
+40,Chile,2775.0,Aquatic Plants,22582.0,427508.0,0.05282240332344658
+41,"China, mainland",2761.0,Freshwater Fish,25470349.0,26921498.0,0.9460970188211666
+41,"China, mainland",2762.0,Demersal Fish,916145.0,2758135.56,0.33216097616318757
+41,"China, mainland",2763.0,Pelagic Fish,240221.0,3927805.38,0.06115908930294301
+41,"China, mainland",2764.0,"Marine Fish, Other",459347.0,3420074.77,0.13430905196262713
+41,"China, mainland",2765.0,Crustaceans,5674350.0,7877482.78,0.720325281371164
+41,"China, mainland",2766.0,Cephalopods,0.0,1002016.0,0.0
+41,"China, mainland",2767.0,"Molluscs, Other",14579369.0,15196142.0,0.9594125272059184
+41,"China, mainland",2769.0,"Aquatic Animals, Others",907085.99,1130521.5,0.8023606716015573
+41,"China, mainland",2775.0,Aquatic Plants,20176992.0,20351442.0,0.9914281258301009
+44,Colombia,2761.0,Freshwater Fish,165443.45,187938.63999999998,0.8803056678498898
+44,Colombia,2762.0,Demersal Fish,0.0,16176.85,0.0
+44,Colombia,2763.0,Pelagic Fish,0.0,56010.6,0.0
+44,Colombia,2764.0,"Marine Fish, Other",0.0,1443.22,0.0
+44,Colombia,2765.0,Crustaceans,5582.0,9861.349999999999,0.5660482591125963
+44,Colombia,2766.0,Cephalopods,0.0,10.93,0.0
+44,Colombia,2767.0,"Molluscs, Other",0.0,992.36,0.0
+44,Colombia,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+45,Comoros,2761.0,Freshwater Fish,0.0,0.0,0.0
+45,Comoros,2762.0,Demersal Fish,0.0,1853.0,0.0
+45,Comoros,2763.0,Pelagic Fish,0.0,14367.0,0.0
+45,Comoros,2764.0,"Marine Fish, Other",0.0,1543.0,0.0
+45,Comoros,2765.0,Crustaceans,0.0,0.0,0.0
+45,Comoros,2767.0,"Molluscs, Other",0.0,0.0,0.0
+46,Congo,2761.0,Freshwater Fish,731.0,39773.0,0.01837930254192543
+46,Congo,2762.0,Demersal Fish,0.0,7577.0,0.0
+46,Congo,2763.0,Pelagic Fish,0.0,20790.84,0.0
+46,Congo,2764.0,"Marine Fish, Other",0.0,2176.0,0.0
+46,Congo,2765.0,Crustaceans,0.0,689.0,0.0
+46,Congo,2766.0,Cephalopods,0.0,75.0,0.0
+47,Cook Islands,2761.0,Freshwater Fish,1.0,1.0,1.0
+47,Cook Islands,2762.0,Demersal Fish,0.0,303.0,0.0
+47,Cook Islands,2763.0,Pelagic Fish,0.0,5889.0,0.0
+47,Cook Islands,2764.0,"Marine Fish, Other",0.0,160.0,0.0
+47,Cook Islands,2765.0,Crustaceans,0.0,10.0,0.0
+47,Cook Islands,2766.0,Cephalopods,0.0,30.0,0.0
+47,Cook Islands,2767.0,"Molluscs, Other",7.5,17.5,0.42857142857142855
+47,Cook Islands,2769.0,"Aquatic Animals, Others",0.0,5.0,0.0
+47,Cook Islands,2775.0,Aquatic Plants,0.0,0.0,0.0
+48,Costa Rica,2761.0,Freshwater Fish,19880.0,19930.0,0.997491219267436
+48,Costa Rica,2762.0,Demersal Fish,600.0,7970.0,0.07528230865746549
+48,Costa Rica,2763.0,Pelagic Fish,0.0,4230.0,0.0
+48,Costa Rica,2764.0,"Marine Fish, Other",0.0,1695.0,0.0
+48,Costa Rica,2765.0,Crustaceans,2751.0,2991.0,0.9197592778335005
+48,Costa Rica,2766.0,Cephalopods,0.0,5.0,0.0
+48,Costa Rica,2767.0,"Molluscs, Other",19.0,44.0,0.4318181818181818
+48,Costa Rica,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+49,Cuba,2761.0,Freshwater Fish,19225.6,21024.6,0.9144335682961864
+49,Cuba,2762.0,Demersal Fish,0.0,5157.6,0.0
+49,Cuba,2763.0,Pelagic Fish,0.0,2588.8999999999996,0.0
+49,Cuba,2764.0,"Marine Fish, Other",0.0,4000.0,0.0
+49,Cuba,2765.0,Crustaceans,6656.8,10987.3,0.605863132889791
+49,Cuba,2766.0,Cephalopods,0.0,0.0,0.0
+49,Cuba,2767.0,"Molluscs, Other",1218.2,1842.2,0.6612745630224731
+49,Cuba,2769.0,"Aquatic Animals, Others",0.0,34.0,0.0
+50,Cyprus,2761.0,Freshwater Fish,54.05,74.05,0.7299122214719784
+50,Cyprus,2762.0,Demersal Fish,8004.0,8541.0,0.9371268001404988
+50,Cyprus,2763.0,Pelagic Fish,0.0,900.0,0.0
+50,Cyprus,2764.0,"Marine Fish, Other",0.0,3.0,0.0
+50,Cyprus,2765.0,Crustaceans,21.13,27.13,0.7788426096572061
+50,Cyprus,2766.0,Cephalopods,0.0,34.0,0.0
+50,Cyprus,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+52,Azerbaijan,2761.0,Freshwater Fish,531.4,1606.4,0.3308017928286852
+52,Azerbaijan,2762.0,Demersal Fish,0.0,70.0,0.0
+53,Benin,2761.0,Freshwater Fish,5742.45,31005.949999999997,0.18520477521249956
+53,Benin,2762.0,Demersal Fish,0.0,12605.9,0.0
+53,Benin,2763.0,Pelagic Fish,0.0,32259.5,0.0
+53,Benin,2764.0,"Marine Fish, Other",0.0,260.0,0.0
+53,Benin,2765.0,Crustaceans,0.0,3241.0,0.0
+53,Benin,2766.0,Cephalopods,0.0,0.0,0.0
+53,Benin,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+54,Denmark,2761.0,Freshwater Fish,33331.54,34779.54,0.958366326869188
+54,Denmark,2762.0,Demersal Fish,0.0,245677.0,0.0
+54,Denmark,2763.0,Pelagic Fish,292.33,321247.33,0.0009099842168338021
+54,Denmark,2764.0,"Marine Fish, Other",0.0,40.0,0.0
+54,Denmark,2765.0,Crustaceans,0.09,12820.09,7.020231527235768e-06
+54,Denmark,2766.0,Cephalopods,0.0,232.0,0.0
+54,Denmark,2767.0,"Molluscs, Other",6597.53,54332.53,0.12142872787260228
+54,Denmark,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+54,Denmark,2775.0,Aquatic Plants,0.0,0.0,0.0
+55,Dominica,2761.0,Freshwater Fish,0.0,0.0,0.0
+55,Dominica,2763.0,Pelagic Fish,0.0,433.0,0.0
+55,Dominica,2764.0,"Marine Fish, Other",0.0,350.0,0.0
+55,Dominica,2765.0,Crustaceans,0.0,0.0,0.0
+56,Dominican Republic,2761.0,Freshwater Fish,2185.0,3530.0,0.6189801699716714
+56,Dominican Republic,2762.0,Demersal Fish,250.0,3310.0,0.0755287009063444
+56,Dominican Republic,2763.0,Pelagic Fish,50.0,3015.0,0.01658374792703151
+56,Dominican Republic,2764.0,"Marine Fish, Other",0.0,2815.0,0.0
+56,Dominican Republic,2765.0,Crustaceans,434.0,2459.0,0.17649450996339974
+56,Dominican Republic,2766.0,Cephalopods,0.0,85.0,0.0
+56,Dominican Republic,2767.0,"Molluscs, Other",0.0,1825.0,0.0
+56,Dominican Republic,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+57,Belarus,2761.0,Freshwater Fish,9590.7,10248.7,0.9357967351956834
+57,Belarus,2765.0,Crustaceans,0.0,5.0,0.0
+58,Ecuador,2761.0,Freshwater Fish,15477.0,15591.599999999999,0.9926498884014471
+58,Ecuador,2762.0,Demersal Fish,0.0,39916.93,0.0
+58,Ecuador,2763.0,Pelagic Fish,0.0,548909.12,0.0
+58,Ecuador,2764.0,"Marine Fish, Other",0.0,2887.38,0.0
+58,Ecuador,2765.0,Crustaceans,679985.0,688254.09,0.9879854110274885
+58,Ecuador,2766.0,Cephalopods,0.0,7944.4,0.0
+58,Ecuador,2767.0,"Molluscs, Other",78.0,78.72,0.9908536585365854
+58,Ecuador,2769.0,"Aquatic Animals, Others",250.0,250.0,1.0
+58,Ecuador,2775.0,Aquatic Plants,45.0,45.0,1.0
+59,Egypt,2761.0,Freshwater Fish,1306339.0,1537288.0,0.8497685534525736
+59,Egypt,2762.0,Demersal Fish,335487.0,409716.0,0.8188281638988958
+59,Egypt,2763.0,Pelagic Fish,0.0,54315.0,0.0
+59,Egypt,2764.0,"Marine Fish, Other",0.0,4373.0,0.0
+59,Egypt,2765.0,Crustaceans,123.0,25304.0,0.0048608915586468545
+59,Egypt,2766.0,Cephalopods,0.0,2874.0,0.0
+59,Egypt,2767.0,"Molluscs, Other",0.0,5121.0,0.0
+59,Egypt,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+60,El Salvador,2761.0,Freshwater Fish,7501.0,8251.0,0.9091019270391467
+60,El Salvador,2762.0,Demersal Fish,0.0,470.0,0.0
+60,El Salvador,2763.0,Pelagic Fish,0.0,40758.0,0.0
+60,El Salvador,2764.0,"Marine Fish, Other",3.0,6833.0,0.00043904580711254205
+60,El Salvador,2765.0,Crustaceans,1151.0,2081.0,0.5530994714079769
+60,El Salvador,2766.0,Cephalopods,0.0,20.0,0.0
+60,El Salvador,2767.0,"Molluscs, Other",25.0,35.0,0.7142857142857143
+61,Equatorial Guinea,2761.0,Freshwater Fish,15.0,1040.0,0.014423076923076924
+61,Equatorial Guinea,2762.0,Demersal Fish,0.0,650.0,0.0
+61,Equatorial Guinea,2763.0,Pelagic Fish,0.0,4251.0,0.0
+61,Equatorial Guinea,2764.0,"Marine Fish, Other",0.0,453.0,0.0
+61,Equatorial Guinea,2765.0,Crustaceans,0.0,20.0,0.0
+61,Equatorial Guinea,2766.0,Cephalopods,0.0,20.0,0.0
+61,Equatorial Guinea,2767.0,"Molluscs, Other",0.0,0.0,0.0
+61,Equatorial Guinea,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+63,Estonia,2761.0,Freshwater Fish,1061.04,6500.04,0.16323591854819355
+63,Estonia,2762.0,Demersal Fish,0.0,4586.0,0.0
+63,Estonia,2763.0,Pelagic Fish,0.0,66874.0,0.0
+63,Estonia,2764.0,"Marine Fish, Other",0.0,0.0,0.0
+63,Estonia,2765.0,Crustaceans,0.93,9796.93,9.49276967376515e-05
+63,Estonia,2766.0,Cephalopods,0.0,0.0,0.0
+63,Estonia,2767.0,"Molluscs, Other",0.0,0.0,0.0
+63,Estonia,2775.0,Aquatic Plants,0.0,60.0,0.0
+64,Faroe Islands,2761.0,Freshwater Fish,95000.0,95000.0,1.0
+64,Faroe Islands,2762.0,Demersal Fish,0.0,442551.23,0.0
+64,Faroe Islands,2763.0,Pelagic Fish,0.0,200285.0,0.0
+64,Faroe Islands,2764.0,"Marine Fish, Other",0.0,0.0,0.0
+64,Faroe Islands,2765.0,Crustaceans,0.0,4630.8,0.0
+64,Faroe Islands,2766.0,Cephalopods,0.0,121.92,0.0
+64,Faroe Islands,2767.0,"Molluscs, Other",0.0,5529.85,0.0
+64,Faroe Islands,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+64,Faroe Islands,2775.0,Aquatic Plants,175.0,175.0,1.0
+65,Falkland Islands (Malvinas),2761.0,Freshwater Fish,0.0,1.0,0.0
+65,Falkland Islands (Malvinas),2762.0,Demersal Fish,0.0,10216.9,0.0
+65,Falkland Islands (Malvinas),2763.0,Pelagic Fish,0.0,2099.2,0.0
+65,Falkland Islands (Malvinas),2764.0,"Marine Fish, Other",0.0,0.0,0.0
+65,Falkland Islands (Malvinas),2765.0,Crustaceans,0.0,10.0,0.0
+65,Falkland Islands (Malvinas),2766.0,Cephalopods,0.0,73448.2,0.0
+65,Falkland Islands (Malvinas),2767.0,"Molluscs, Other",0.0,3.0,0.0
+65,Falkland Islands (Malvinas),2769.0,"Aquatic Animals, Others",0.0,333.0,0.0
+66,Fiji,2761.0,Freshwater Fish,230.0,303.0,0.759075907590759
+66,Fiji,2762.0,Demersal Fish,0.0,6522.0,0.0
+66,Fiji,2763.0,Pelagic Fish,0.0,17244.0,0.0
+66,Fiji,2764.0,"Marine Fish, Other",0.0,20240.0,0.0
+66,Fiji,2765.0,Crustaceans,27.0,622.0,0.04340836012861737
+66,Fiji,2766.0,Cephalopods,0.0,92.0,0.0
+66,Fiji,2767.0,"Molluscs, Other",0.0,2809.0,0.0
+66,Fiji,2769.0,"Aquatic Animals, Others",0.0,230.0,0.0
+66,Fiji,2775.0,Aquatic Plants,500.0,500.0,1.0
+67,Finland,2761.0,Freshwater Fish,14540.5,48970.77,0.2969220210341802
+67,Finland,2762.0,Demersal Fish,0.0,146.20999999999998,0.0
+67,Finland,2763.0,Pelagic Fish,0.0,129204.69,0.0
+67,Finland,2764.0,"Marine Fish, Other",755.3,755.3,1.0
+67,Finland,2765.0,Crustaceans,0.0,135.0,0.0
+68,France,2761.0,Freshwater Fish,40982.119999999995,42430.119999999995,0.965873299439172
+68,France,2762.0,Demersal Fish,5474.29,145664.04,0.037581615888176656
+68,France,2763.0,Pelagic Fish,0.0,250595.43,0.0
+68,France,2764.0,"Marine Fish, Other",1083.64,1380.64,0.78488237339205
+68,France,2765.0,Crustaceans,68.63,14382.63,0.004771728119266087
+68,France,2766.0,Cephalopods,0.0,16220.0,0.0
+68,France,2767.0,"Molluscs, Other",148154.77,205679.77,0.7203176569090873
+68,France,2769.0,"Aquatic Animals, Others",5.0,948.19,0.0052732047374471356
+68,France,2775.0,Aquatic Plants,382.90999999999997,51682.96000000001,0.00740882488154703
+69,French Guiana,2761.0,Freshwater Fish,2.0,52.0,0.038461538461538464
+69,French Guiana,2762.0,Demersal Fish,0.0,1303.0,0.0
+69,French Guiana,2763.0,Pelagic Fish,0.0,88.0,0.0
+69,French Guiana,2764.0,"Marine Fish, Other",0.0,50.0,0.0
+69,French Guiana,2765.0,Crustaceans,0.0,255.0,0.0
+70,French Polynesia,2761.0,Freshwater Fish,0.0,50.0,0.0
+70,French Polynesia,2762.0,Demersal Fish,25.0,286.0,0.08741258741258741
+70,French Polynesia,2763.0,Pelagic Fish,0.0,8815.0,0.0
+70,French Polynesia,2764.0,"Marine Fish, Other",0.0,4200.0,0.0
+70,French Polynesia,2765.0,Crustaceans,121.0,190.0,0.6368421052631579
+70,French Polynesia,2767.0,"Molluscs, Other",0.0,150.0,0.0
+70,French Polynesia,2769.0,"Aquatic Animals, Others",1210.0,1261.0,0.9595559080095163
+72,Djibouti,2761.0,Freshwater Fish,0.0,0.0,0.0
+72,Djibouti,2762.0,Demersal Fish,0.0,613.4300000000001,0.0
+72,Djibouti,2763.0,Pelagic Fish,0.0,1595.79,0.0
+72,Djibouti,2764.0,"Marine Fish, Other",0.0,60.82,0.0
+72,Djibouti,2765.0,Crustaceans,0.0,0.1,0.0
+72,Djibouti,2766.0,Cephalopods,0.0,0.0,0.0
+73,Georgia,2761.0,Freshwater Fish,2444.7,2464.7,0.991885422160912
+73,Georgia,2762.0,Demersal Fish,0.0,4908.86,0.0
+73,Georgia,2763.0,Pelagic Fish,0.0,233936.24,0.0
+73,Georgia,2764.0,"Marine Fish, Other",0.0,12858.49,0.0
+73,Georgia,2766.0,Cephalopods,0.0,31.86,0.0
+73,Georgia,2767.0,"Molluscs, Other",0.0,0.0,0.0
+74,Gabon,2761.0,Freshwater Fish,45.0,10898.0,0.004129198017984952
+74,Gabon,2762.0,Demersal Fish,0.0,8899.0,0.0
+74,Gabon,2763.0,Pelagic Fish,0.0,7681.0,0.0
+74,Gabon,2764.0,"Marine Fish, Other",0.0,990.0,0.0
+74,Gabon,2765.0,Crustaceans,0.0,228.0,0.0
+74,Gabon,2766.0,Cephalopods,0.0,349.0,0.0
+74,Gabon,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+75,Gambia,2761.0,Freshwater Fish,15.0,2619.1,0.005727158184109045
+75,Gambia,2762.0,Demersal Fish,0.0,17282.22,0.0
+75,Gambia,2763.0,Pelagic Fish,0.0,32448.18,0.0
+75,Gambia,2764.0,"Marine Fish, Other",0.0,1433.83,0.0
+75,Gambia,2765.0,Crustaceans,0.0,1557.96,0.0
+75,Gambia,2766.0,Cephalopods,0.0,732.29,0.0
+75,Gambia,2767.0,"Molluscs, Other",20.0,160.08,0.1249375312343828
+79,Germany,2761.0,Freshwater Fish,18615.0,37098.5,0.5017723088534577
+79,Germany,2762.0,Demersal Fish,0.0,79269.0,0.0
+79,Germany,2763.0,Pelagic Fish,0.0,116666.0,0.0
+79,Germany,2764.0,"Marine Fish, Other",0.0,4.0,0.0
+79,Germany,2765.0,Crustaceans,24.0,9955.3,0.0024107761694775647
+79,Germany,2766.0,Cephalopods,0.0,41.0,0.0
+79,Germany,2767.0,"Molluscs, Other",22117.0,22117.0,1.0
+79,Germany,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+80,Bosnia and Herzegovina,2761.0,Freshwater Fish,3781.7999999999997,4081.7999999999997,0.9265030133764516
+80,Bosnia and Herzegovina,2762.0,Demersal Fish,175.6,175.6,1.0
+80,Bosnia and Herzegovina,2764.0,"Marine Fish, Other",0.0,5.0,0.0
+80,Bosnia and Herzegovina,2767.0,"Molluscs, Other",0.0,0.0,0.0
+81,Ghana,2761.0,Freshwater Fish,52350.0,145259.49,0.3603895346183578
+81,Ghana,2762.0,Demersal Fish,0.0,55582.54,0.0
+81,Ghana,2763.0,Pelagic Fish,0.0,228747.94,0.0
+81,Ghana,2764.0,"Marine Fish, Other",0.0,12233.21,0.0
+81,Ghana,2765.0,Crustaceans,10.0,613.46,0.016300981319075408
+81,Ghana,2766.0,Cephalopods,0.0,3057.81,0.0
+82,Gibraltar,2764.0,"Marine Fish, Other",0.0,1.0,0.0
+83,Kiribati,2761.0,Freshwater Fish,2.0,4.0,0.5
+83,Kiribati,2762.0,Demersal Fish,0.0,1636.0,0.0
+83,Kiribati,2763.0,Pelagic Fish,0.0,222926.0,0.0
+83,Kiribati,2764.0,"Marine Fish, Other",0.0,430.0,0.0
+83,Kiribati,2765.0,Crustaceans,0.0,20.0,0.0
+83,Kiribati,2766.0,Cephalopods,0.0,1.0,0.0
+83,Kiribati,2767.0,"Molluscs, Other",0.0,20.0,0.0
+83,Kiribati,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+83,Kiribati,2775.0,Aquatic Plants,3650.0,3650.0,1.0
+84,Greece,2761.0,Freshwater Fish,2314.46,3042.46,0.760719943729745
+84,Greece,2762.0,Demersal Fish,102406.90000000001,124394.90000000001,0.823240341846812
+84,Greece,2763.0,Pelagic Fish,20.6,40611.6,0.0005072442356371087
+84,Greece,2764.0,"Marine Fish, Other",131.9,5079.9,0.025965078052717576
+84,Greece,2765.0,Crustaceans,108.82,6436.82,0.0169058634543144
+84,Greece,2766.0,Cephalopods,0.0,7303.0,0.0
+84,Greece,2767.0,"Molluscs, Other",23696.6,24899.6,0.9516859708589697
+84,Greece,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+84,Greece,2775.0,Aquatic Plants,142.3,142.3,1.0
+85,Greenland,2761.0,Freshwater Fish,0.0,10.0,0.0
+85,Greenland,2762.0,Demersal Fish,0.0,115069.0,0.0
+85,Greenland,2763.0,Pelagic Fish,0.0,45952.0,0.0
+85,Greenland,2764.0,"Marine Fish, Other",0.0,698.0,0.0
+85,Greenland,2765.0,Crustaceans,0.0,102801.0,0.0
+85,Greenland,2767.0,"Molluscs, Other",0.0,649.0,0.0
+86,Grenada,2761.0,Freshwater Fish,0.5,0.5,1.0
+86,Grenada,2762.0,Demersal Fish,0.0,348.0,0.0
+86,Grenada,2763.0,Pelagic Fish,0.0,2194.0,0.0
+86,Grenada,2764.0,"Marine Fish, Other",0.0,34.0,0.0
+86,Grenada,2765.0,Crustaceans,0.0,30.0,0.0
+86,Grenada,2766.0,Cephalopods,0.0,0.0,0.0
+86,Grenada,2767.0,"Molluscs, Other",0.0,26.0,0.0
+86,Grenada,2769.0,"Aquatic Animals, Others",0.0,2.0,0.0
+86,Grenada,2775.0,Aquatic Plants,20.0,20.0,1.0
+87,Guadeloupe,2761.0,Freshwater Fish,2.0,2.0,1.0
+87,Guadeloupe,2762.0,Demersal Fish,20.0,20.0,1.0
+87,Guadeloupe,2763.0,Pelagic Fish,0.0,815.0,0.0
+87,Guadeloupe,2764.0,"Marine Fish, Other",0.0,2095.0,0.0
+87,Guadeloupe,2765.0,Crustaceans,2.0,77.0,0.025974025974025976
+87,Guadeloupe,2767.0,"Molluscs, Other",0.0,115.0,0.0
+87,Guadeloupe,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+88,Guam,2761.0,Freshwater Fish,100.0,100.0,1.0
+88,Guam,2762.0,Demersal Fish,0.0,6.0,0.0
+88,Guam,2763.0,Pelagic Fish,0.0,316.0,0.0
+88,Guam,2764.0,"Marine Fish, Other",0.0,9.0,0.0
+88,Guam,2765.0,Crustaceans,10.0,11.0,0.9090909090909091
+88,Guam,2766.0,Cephalopods,0.0,1.0,0.0
+88,Guam,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+89,Guatemala,2761.0,Freshwater Fish,11100.0,13460.0,0.8246656760772659
+89,Guatemala,2762.0,Demersal Fish,0.0,494.0,0.0
+89,Guatemala,2763.0,Pelagic Fish,0.0,12593.0,0.0
+89,Guatemala,2764.0,"Marine Fish, Other",0.0,309.0,0.0
+89,Guatemala,2765.0,Crustaceans,19500.0,20470.0,0.9526135808500245
+89,Guatemala,2766.0,Cephalopods,0.0,3.0,0.0
+89,Guatemala,2767.0,"Molluscs, Other",0.0,4.0,0.0
+90,Guinea,2761.0,Freshwater Fish,806.2,54515.2,0.014788536041324256
+90,Guinea,2762.0,Demersal Fish,0.0,149134.0,0.0
+90,Guinea,2763.0,Pelagic Fish,0.0,156373.0,0.0
+90,Guinea,2764.0,"Marine Fish, Other",0.0,0.0,0.0
+90,Guinea,2765.0,Crustaceans,0.0,632.0,0.0
+90,Guinea,2766.0,Cephalopods,0.0,2345.0,0.0
+91,Guyana,2761.0,Freshwater Fish,52.989999999999995,752.99,0.07037278051501347
+91,Guyana,2762.0,Demersal Fish,0.0,2510.0,0.0
+91,Guyana,2763.0,Pelagic Fish,0.0,1463.0,0.0
+91,Guyana,2764.0,"Marine Fish, Other",0.0,18606.0,0.0
+91,Guyana,2765.0,Crustaceans,190.03,15998.03,0.011878337520307187
+93,Haiti,2761.0,Freshwater Fish,1560.0,2160.0,0.7222222222222222
+93,Haiti,2764.0,"Marine Fish, Other",0.0,15130.0,0.0
+93,Haiti,2765.0,Crustaceans,0.0,550.0,0.0
+93,Haiti,2767.0,"Molluscs, Other",0.0,50.0,0.0
+93,Haiti,2769.0,"Aquatic Animals, Others",0.0,20.0,0.0
+95,Honduras,2761.0,Freshwater Fish,36000.0,36600.0,0.9836065573770492
+95,Honduras,2762.0,Demersal Fish,0.0,0.0,0.0
+95,Honduras,2763.0,Pelagic Fish,0.0,0.0,0.0
+95,Honduras,2764.0,"Marine Fish, Other",0.0,3200.0,0.0
+95,Honduras,2765.0,Crustaceans,32100.0,39329.0,0.8161916143303923
+95,Honduras,2766.0,Cephalopods,0.0,0.0,0.0
+95,Honduras,2767.0,"Molluscs, Other",0.0,450.0,0.0
+95,Honduras,2769.0,"Aquatic Animals, Others",0.0,433.0,0.0
+96,"China, Hong Kong SAR",2761.0,Freshwater Fish,1294.0,1294.0,1.0
+96,"China, Hong Kong SAR",2762.0,Demersal Fish,1220.0,27545.0,0.0442911599201307
+96,"China, Hong Kong SAR",2763.0,Pelagic Fish,83.0,11912.0,0.006967763599731364
+96,"China, Hong Kong SAR",2764.0,"Marine Fish, Other",570.0,74390.0,0.007662320204328539
+96,"China, Hong Kong SAR",2765.0,Crustaceans,0.0,4405.0,0.0
+96,"China, Hong Kong SAR",2766.0,Cephalopods,0.0,6080.0,0.0
+96,"China, Hong Kong SAR",2767.0,"Molluscs, Other",620.1,1090.1,0.5688468947802955
+96,"China, Hong Kong SAR",2775.0,Aquatic Plants,0.0,0.0,0.0
+97,Hungary,2761.0,Freshwater Fish,17283.31,22099.31,0.782074643959472
+97,Hungary,2765.0,Crustaceans,0.0,0.0,0.0
+98,Croatia,2761.0,Freshwater Fish,3520.0,4083.0,0.8621111927504286
+98,Croatia,2762.0,Demersal Fish,13550.0,16841.0,0.8045840508283356
+98,Croatia,2763.0,Pelagic Fish,1370.0,59755.0,0.022926951719521377
+98,Croatia,2764.0,"Marine Fish, Other",0.0,67.0,0.0
+98,Croatia,2765.0,Crustaceans,0.0,1022.0,0.0
+98,Croatia,2766.0,Cephalopods,0.0,780.0,0.0
+98,Croatia,2767.0,"Molluscs, Other",1005.0,1275.0,0.788235294117647
+98,Croatia,2769.0,"Aquatic Animals, Others",0.0,201.45,0.0
+99,Iceland,2761.0,Freshwater Fish,33578.0,33697.0,0.9964685283556399
+99,Iceland,2762.0,Demersal Fish,380.8,694621.8,0.0005482119910431834
+99,Iceland,2763.0,Pelagic Fish,0.0,201019.0,0.0
+99,Iceland,2764.0,"Marine Fish, Other",0.0,0.0,0.0
+99,Iceland,2765.0,Crustaceans,0.0,3189.0,0.0
+99,Iceland,2766.0,Cephalopods,0.0,17.0,0.0
+99,Iceland,2767.0,"Molluscs, Other",0.0,893.0,0.0
+99,Iceland,2769.0,"Aquatic Animals, Others",0.0,5951.0,0.0
+99,Iceland,2775.0,Aquatic Plants,0.0,17533.0,0.0
+100,India,2761.0,Freshwater Fish,6892792.0,8616108.82,0.7999889676416598
+100,India,2762.0,Demersal Fish,0.0,1172712.02,0.0
+100,India,2763.0,Pelagic Fish,0.0,1565983.46,0.0
+100,India,2764.0,"Marine Fish, Other",113000.0,269332.65,0.4195555199119007
+100,India,2765.0,Crustaceans,776208.0,1281052.42,0.6059143153564317
+100,India,2766.0,Cephalopods,0.0,217699.0,0.0
+100,India,2767.0,"Molluscs, Other",13000.0,136649.64,0.09513380349922619
+100,India,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+100,India,2775.0,Aquatic Plants,5300.0,23699.99,0.22362878634126004
+101,Indonesia,2761.0,Freshwater Fish,4881500.0,5468885.0,0.8925951085093213
+101,Indonesia,2762.0,Demersal Fish,27900.0,1576390.0,0.0176986659392663
+101,Indonesia,2763.0,Pelagic Fish,0.0,3417545.0,0.0
+101,Indonesia,2764.0,"Marine Fish, Other",3600.0,963890.0,0.0037348660116818307
+101,Indonesia,2765.0,Crustaceans,977800.0,1502730.0,0.6506824246537968
+101,Indonesia,2766.0,Cephalopods,0.0,251890.0,0.0
+101,Indonesia,2767.0,"Molluscs, Other",58400.0,132390.0,0.44112093058388097
+101,Indonesia,2769.0,"Aquatic Animals, Others",25800.0,168570.0,0.15305214450969923
+101,Indonesia,2775.0,Aquatic Plants,9918400.0,9962900.0,0.9955334290216704
+102,Iran (Islamic Republic of),2761.0,Freshwater Fish,424990.0,524940.0,0.8095972873090258
+102,Iran (Islamic Republic of),2762.0,Demersal Fish,8960.0,119944.0,0.07470152737944374
+102,Iran (Islamic Republic of),2763.0,Pelagic Fish,0.0,522784.0,0.0
+102,Iran (Islamic Republic of),2764.0,"Marine Fish, Other",16000.0,43455.0,0.36819698538718215
+102,Iran (Islamic Republic of),2765.0,Crustaceans,55050.0,67650.0,0.8137472283813747
+102,Iran (Islamic Republic of),2766.0,Cephalopods,0.0,3965.0,0.0
+102,Iran (Islamic Republic of),2767.0,"Molluscs, Other",0.0,0.0,0.0
+102,Iran (Islamic Republic of),2769.0,"Aquatic Animals, Others",0.0,2105.0,0.0
+103,Iraq,2761.0,Freshwater Fish,22269.0,49952.0,0.4458079756566304
+103,Iraq,2762.0,Demersal Fish,0.0,8021.0,0.0
+103,Iraq,2763.0,Pelagic Fish,0.0,1680.0,0.0
+103,Iraq,2764.0,"Marine Fish, Other",0.0,1060.0,0.0
+103,Iraq,2765.0,Crustaceans,0.0,1625.0,0.0
+104,Ireland,2761.0,Freshwater Fish,11941.0,12026.0,0.992931980708465
+104,Ireland,2762.0,Demersal Fish,0.0,58602.759999999995,0.0
+104,Ireland,2763.0,Pelagic Fish,0.0,121288.98,0.0
+104,Ireland,2764.0,"Marine Fish, Other",0.0,81.91,0.0
+104,Ireland,2765.0,Crustaceans,0.0,17626.28,0.0
+104,Ireland,2766.0,Cephalopods,0.0,1889.4199999999998,0.0
+104,Ireland,2767.0,"Molluscs, Other",25900.0,35263.1,0.7344788178010442
+104,Ireland,2769.0,"Aquatic Animals, Others",30.7,36.82,0.8337859858772406
+104,Ireland,2775.0,Aquatic Plants,42.0,29542.0,0.0014217046916254823
+105,Israel,2761.0,Freshwater Fish,11605.0,12121.0,0.9574292550119627
+105,Israel,2762.0,Demersal Fish,5290.0,6335.0,0.835043409629045
+105,Israel,2763.0,Pelagic Fish,0.0,275.0,0.0
+105,Israel,2764.0,"Marine Fish, Other",55.0,110.0,0.5
+105,Israel,2765.0,Crustaceans,0.0,10.0,0.0
+105,Israel,2766.0,Cephalopods,0.0,145.0,0.0
+105,Israel,2767.0,"Molluscs, Other",0.0,0.0,0.0
+106,Italy,2761.0,Freshwater Fish,37028.0,40829.0,0.9069044061818805
+106,Italy,2762.0,Demersal Fish,13400.0,45282.0,0.2959233249414778
+106,Italy,2763.0,Pelagic Fish,0.0,85986.0,0.0
+106,Italy,2764.0,"Marine Fish, Other",0.0,1330.0,0.0
+106,Italy,2765.0,Crustaceans,1.8,20707.8,8.692376785559066e-05
+106,Italy,2766.0,Cephalopods,0.0,18225.0,0.0
+106,Italy,2767.0,"Molluscs, Other",93170.0,115580.0,0.8061083232393148
+106,Italy,2769.0,"Aquatic Animals, Others",0.0,109.0,0.0
+106,Italy,2775.0,Aquatic Plants,0.0,1200.0,0.0
+108,Kazakhstan,2761.0,Freshwater Fish,6933.09,48988.399999999994,0.14152513656294144
+108,Kazakhstan,2762.0,Demersal Fish,0.0,970.63,0.0
+108,Kazakhstan,2763.0,Pelagic Fish,0.0,2618.66,0.0
+109,Jamaica,2761.0,Freshwater Fish,1148.45,2294.45,0.500533897012356
+109,Jamaica,2763.0,Pelagic Fish,0.0,0.0,0.0
+109,Jamaica,2764.0,"Marine Fish, Other",0.0,12100.0,0.0
+109,Jamaica,2765.0,Crustaceans,2.0,231.0,0.008658008658008658
+109,Jamaica,2767.0,"Molluscs, Other",0.0,0.0,0.0
+110,Japan,2761.0,Freshwater Fish,47229.0,159436.0,0.2962254446925412
+110,Japan,2762.0,Demersal Fish,68100.0,425568.87,0.1600211030473164
+110,Japan,2763.0,Pelagic Fish,160400.0,1569028.79,0.10222884437958592
+110,Japan,2764.0,"Marine Fish, Other",2700.0,176616.67,0.01528734518661234
+110,Japan,2765.0,Crustaceans,1400.0,58030.0,0.024125452352231604
+110,Japan,2766.0,Cephalopods,0.0,109800.0,0.0
+110,Japan,2767.0,"Molluscs, Other",305500.0,700741.0,0.4359670691453761
+110,Japan,2769.0,"Aquatic Animals, Others",12919.240000000002,27487.24,0.47000862945861427
+110,Japan,2775.0,Aquatic Plants,345500.0,412300.0,0.8379820519039535
+112,Jordan,2761.0,Freshwater Fish,1350.0,1946.0,0.6937307297019527
+112,Jordan,2762.0,Demersal Fish,0.0,51.0,0.0
+112,Jordan,2763.0,Pelagic Fish,0.0,176.0,0.0
+112,Jordan,2764.0,"Marine Fish, Other",0.0,50.0,0.0
+113,Kyrgyzstan,2761.0,Freshwater Fish,2675.0,2695.0,0.9925788497217068
+114,Kenya,2761.0,Freshwater Fish,18550.0,116550.0,0.15915915915915915
+114,Kenya,2762.0,Demersal Fish,0.0,14122.0,0.0
+114,Kenya,2763.0,Pelagic Fish,0.0,10271.0,0.0
+114,Kenya,2764.0,"Marine Fish, Other",0.0,1135.0,0.0
+114,Kenya,2765.0,Crustaceans,0.0,745.0,0.0
+114,Kenya,2766.0,Cephalopods,0.0,2085.0,0.0
+114,Kenya,2767.0,"Molluscs, Other",0.0,0.0,0.0
+114,Kenya,2769.0,"Aquatic Animals, Others",0.0,210.0,0.0
+114,Kenya,2775.0,Aquatic Plants,400.0,400.0,1.0
+115,Cambodia,2761.0,Freshwater Fish,290700.0,814615.0,0.3568556925664271
+115,Cambodia,2762.0,Demersal Fish,840.0,840.0,1.0
+115,Cambodia,2763.0,Pelagic Fish,0.0,0.0,0.0
+115,Cambodia,2764.0,"Marine Fish, Other",198.0,104963.0,0.0018863790097462915
+115,Cambodia,2765.0,Crustaceans,1590.0,19570.0,0.08124680633622892
+115,Cambodia,2766.0,Cephalopods,0.0,5600.0,0.0
+115,Cambodia,2767.0,"Molluscs, Other",11900.0,21330.0,0.5578996718237225
+115,Cambodia,2769.0,"Aquatic Animals, Others",180.0,180.0,1.0
+115,Cambodia,2775.0,Aquatic Plants,2000.0,2000.0,1.0
+116,Democratic People's Republic of Korea,2761.0,Freshwater Fish,13860.0,18960.0,0.7310126582278481
+116,Democratic People's Republic of Korea,2762.0,Demersal Fish,15.0,67015.0,0.00022383048571215399
+116,Democratic People's Republic of Korea,2764.0,"Marine Fish, Other",120.0,110120.0,0.0010897203051216855
+116,Democratic People's Republic of Korea,2765.0,Crustaceans,0.0,16500.0,0.0
+116,Democratic People's Republic of Korea,2766.0,Cephalopods,0.0,10000.0,0.0
+116,Democratic People's Republic of Korea,2767.0,"Molluscs, Other",62400.0,62400.0,1.0
+116,Democratic People's Republic of Korea,2769.0,"Aquatic Animals, Others",165.0,265.0,0.6226415094339622
+116,Democratic People's Republic of Korea,2775.0,Aquatic Plants,603000.0,603000.0,1.0
+117,Republic of Korea,2761.0,Freshwater Fish,26960.0,44076.0,0.611670750521826
+117,Republic of Korea,2762.0,Demersal Fish,58162.0,215334.3,0.27010095465515715
+117,Republic of Korea,2763.0,Pelagic Fish,21453.0,932920.0700000001,0.022995539156961217
+117,Republic of Korea,2764.0,"Marine Fish, Other",47.0,2489.0,0.01888308557653676
+117,Republic of Korea,2765.0,Crustaceans,7952.0,79782.13,0.09967144271530479
+117,Republic of Korea,2766.0,Cephalopods,0.0,104179.0,0.0
+117,Republic of Korea,2767.0,"Molluscs, Other",442046.0,527886.0,0.8373891332598327
+117,Republic of Korea,2769.0,"Aquatic Animals, Others",31464.0,37451.97,0.8401160205991834
+117,Republic of Korea,2775.0,Aquatic Plants,1812765.0,1821475.0,0.9952181611056973
+118,Kuwait,2761.0,Freshwater Fish,190.0,289.0,0.657439446366782
+118,Kuwait,2762.0,Demersal Fish,10.0,1230.0,0.008130081300813009
+118,Kuwait,2763.0,Pelagic Fish,0.0,396.0,0.0
+118,Kuwait,2764.0,"Marine Fish, Other",0.0,383.0,0.0
+118,Kuwait,2765.0,Crustaceans,0.0,918.0,0.0
+119,Latvia,2761.0,Freshwater Fish,608.64,4701.639999999999,0.12945270161050187
+119,Latvia,2762.0,Demersal Fish,0.0,1633.0,0.0
+119,Latvia,2763.0,Pelagic Fish,0.0,64340.0,0.0
+119,Latvia,2764.0,"Marine Fish, Other",0.0,39513.85,0.0
+119,Latvia,2765.0,Crustaceans,0.0,1319.0,0.0
+119,Latvia,2766.0,Cephalopods,0.0,0.0,0.0
+119,Latvia,2775.0,Aquatic Plants,0.0,0.0,0.0
+120,Lao People's Democratic Republic,2761.0,Freshwater Fish,112920.0,183820.0,0.6142965944946143
+120,Lao People's Democratic Republic,2769.0,"Aquatic Animals, Others",80.0,80.0,1.0
+121,Lebanon,2761.0,Freshwater Fish,1015.0,1025.3,0.9899541597581196
+121,Lebanon,2762.0,Demersal Fish,1.0,1090.9,0.0009166743056192134
+121,Lebanon,2763.0,Pelagic Fish,0.0,1493.6,0.0
+121,Lebanon,2764.0,"Marine Fish, Other",0.0,0.0,0.0
+121,Lebanon,2765.0,Crustaceans,18.0,44.0,0.4090909090909091
+121,Lebanon,2766.0,Cephalopods,0.0,0.0,0.0
+121,Lebanon,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+122,Lesotho,2761.0,Freshwater Fish,2600.46,2652.46,0.9803955573316846
+123,Liberia,2761.0,Freshwater Fish,250.0,1040.8400000000001,0.24019061527228006
+123,Liberia,2762.0,Demersal Fish,0.0,8589.7,0.0
+123,Liberia,2763.0,Pelagic Fish,0.0,6496.36,0.0
+123,Liberia,2764.0,"Marine Fish, Other",0.0,429.0,0.0
+123,Liberia,2765.0,Crustaceans,0.0,58.15,0.0
+123,Liberia,2766.0,Cephalopods,0.0,210.39,0.0
+123,Liberia,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+124,Libya,2761.0,Freshwater Fish,10.0,10.0,1.0
+124,Libya,2762.0,Demersal Fish,0.0,18660.0,0.0
+124,Libya,2763.0,Pelagic Fish,0.0,11485.0,0.0
+124,Libya,2764.0,"Marine Fish, Other",0.0,0.0,0.0
+124,Libya,2765.0,Crustaceans,0.0,515.0,0.0
+124,Libya,2766.0,Cephalopods,0.0,1790.0,0.0
+124,Libya,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+125,Liechtenstein,2761.0,Freshwater Fish,0.0,0.0,0.0
+126,Lithuania,2761.0,Freshwater Fish,4201.54,5695.09,0.7377477792273696
+126,Lithuania,2762.0,Demersal Fish,0.0,3143.67,0.0
+126,Lithuania,2763.0,Pelagic Fish,0.0,93212.01,0.0
+126,Lithuania,2764.0,"Marine Fish, Other",0.0,0.0,0.0
+126,Lithuania,2765.0,Crustaceans,0.0,4120.52,0.0
+126,Lithuania,2766.0,Cephalopods,0.0,0.0,0.0
+126,Lithuania,2767.0,"Molluscs, Other",0.0,0.0,0.0
+127,Marshall Islands,2761.0,Freshwater Fish,0.0,0.0,0.0
+127,Marshall Islands,2762.0,Demersal Fish,0.0,255.0,0.0
+127,Marshall Islands,2763.0,Pelagic Fish,0.0,98597.0,0.0
+127,Marshall Islands,2764.0,"Marine Fish, Other",0.0,2800.0,0.0
+127,Marshall Islands,2765.0,Crustaceans,0.0,0.0,0.0
+127,Marshall Islands,2767.0,"Molluscs, Other",3.3,3.3,1.0
+127,Marshall Islands,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+128,"China, Macao SAR",2761.0,Freshwater Fish,0.0,0.0,0.0
+128,"China, Macao SAR",2764.0,"Marine Fish, Other",0.0,1020.0,0.0
+128,"China, Macao SAR",2765.0,Crustaceans,0.0,440.0,0.0
+128,"China, Macao SAR",2767.0,"Molluscs, Other",0.0,40.0,0.0
+129,Madagascar,2761.0,Freshwater Fish,878.26,15416.26,0.056969718985019714
+129,Madagascar,2762.0,Demersal Fish,0.0,310.0,0.0
+129,Madagascar,2763.0,Pelagic Fish,0.0,8520.0,0.0
+129,Madagascar,2764.0,"Marine Fish, Other",0.0,43135.0,0.0
+129,Madagascar,2765.0,Crustaceans,4307.56,28242.56,0.15252016814339778
+129,Madagascar,2766.0,Cephalopods,0.0,9905.0,0.0
+129,Madagascar,2767.0,"Molluscs, Other",0.0,12589.0,0.0
+129,Madagascar,2769.0,"Aquatic Animals, Others",50.0,1200.0,0.041666666666666664
+129,Madagascar,2775.0,Aquatic Plants,8864.59,9664.59,0.9172235966554194
+130,Malawi,2761.0,Freshwater Fish,8262.0,163184.0,0.05062996372193352
+130,Malawi,2765.0,Crustaceans,0.0,0.0,0.0
+131,Malaysia,2761.0,Freshwater Fish,124437.31,165330.58,0.7526575543374977
+131,Malaysia,2762.0,Demersal Fish,22135.48,329557.26999999996,0.06716732421044756
+131,Malaysia,2763.0,Pelagic Fish,3669.06,586154.3200000001,0.006259546120891849
+131,Malaysia,2764.0,"Marine Fish, Other",2791.25,314410.17,0.008877734457508165
+131,Malaysia,2765.0,Crustaceans,53909.229999999996,176750.95,0.3050010763732811
+131,Malaysia,2766.0,Cephalopods,0.0,70603.05,0.0
+131,Malaysia,2767.0,"Molluscs, Other",16608.04,20854.53,0.7963756555530143
+131,Malaysia,2769.0,"Aquatic Animals, Others",620.67,25605.299999999996,0.02423990345748732
+131,Malaysia,2775.0,Aquatic Plants,188110.0,188110.0,1.0
+132,Maldives,2761.0,Freshwater Fish,0.0,0.0,0.0
+132,Maldives,2762.0,Demersal Fish,0.0,0.0,0.0
+132,Maldives,2763.0,Pelagic Fish,0.0,134504.0,0.0
+132,Maldives,2764.0,"Marine Fish, Other",0.0,565.0,0.0
+132,Maldives,2765.0,Crustaceans,0.0,0.0,0.0
+132,Maldives,2767.0,"Molluscs, Other",0.0,0.0,0.0
+132,Maldives,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+133,Mali,2761.0,Freshwater Fish,6985.0,116347.0,0.060035927011439914
+134,Malta,2761.0,Freshwater Fish,0.0,2.0,0.0
+134,Malta,2762.0,Demersal Fish,1845.46,2157.83,0.8552388278965443
+134,Malta,2763.0,Pelagic Fish,2187.0,3975.26,0.5501526944149565
+134,Malta,2764.0,"Marine Fish, Other",8.23,8.23,1.0
+134,Malta,2765.0,Crustaceans,0.0,56.44,0.0
+134,Malta,2766.0,Cephalopods,0.0,62.82,0.0
+134,Malta,2769.0,"Aquatic Animals, Others",0.0,0.03,0.0
+135,Martinique,2761.0,Freshwater Fish,0.5,0.5,1.0
+135,Martinique,2762.0,Demersal Fish,35.0,40.0,0.875
+135,Martinique,2763.0,Pelagic Fish,0.0,661.3,0.0
+135,Martinique,2764.0,"Marine Fish, Other",0.0,196.7,0.0
+135,Martinique,2765.0,Crustaceans,7.5,42.5,0.17647058823529413
+135,Martinique,2767.0,"Molluscs, Other",0.0,52.0,0.0
+135,Martinique,2769.0,"Aquatic Animals, Others",0.0,1.0,0.0
+136,Mauritania,2761.0,Freshwater Fish,0.0,15000.0,0.0
+136,Mauritania,2762.0,Demersal Fish,0.0,71332.14,0.0
+136,Mauritania,2763.0,Pelagic Fish,0.0,536429.78,0.0
+136,Mauritania,2764.0,"Marine Fish, Other",0.0,39802.0,0.0
+136,Mauritania,2765.0,Crustaceans,0.0,1761.4,0.0
+136,Mauritania,2766.0,Cephalopods,0.0,49226.0,0.0
+136,Mauritania,2767.0,"Molluscs, Other",0.0,7298.19,0.0
+136,Mauritania,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+137,Mauritius,2761.0,Freshwater Fish,5.9,5.9,1.0
+137,Mauritius,2762.0,Demersal Fish,3226.0,5393.0,0.598182829593918
+137,Mauritius,2763.0,Pelagic Fish,0.0,28383.0,0.0
+137,Mauritius,2764.0,"Marine Fish, Other",0.0,2928.0,0.0
+137,Mauritius,2765.0,Crustaceans,2.3,2.3,1.0
+137,Mauritius,2766.0,Cephalopods,0.0,665.0,0.0
+137,Mauritius,2767.0,"Molluscs, Other",17.0,17.0,1.0
+137,Mauritius,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+138,Mexico,2761.0,Freshwater Fish,67789.05,228621.05,0.2965127226911083
+138,Mexico,2762.0,Demersal Fish,0.0,188405.0,0.0
+138,Mexico,2763.0,Pelagic Fish,6952.030000000001,727638.03,0.009554242237723611
+138,Mexico,2764.0,"Marine Fish, Other",11.82,51599.82,0.00022907056652523208
+138,Mexico,2765.0,Crustaceans,170076.99,304655.99,0.5582591368054178
+138,Mexico,2766.0,Cephalopods,0.0,52258.0,0.0
+138,Mexico,2767.0,"Molluscs, Other",6387.82,94912.82,0.06730197248380144
+138,Mexico,2769.0,"Aquatic Animals, Others",14.3,40917.41,0.0003494844859437584
+138,Mexico,2775.0,Aquatic Plants,10.0,7335.639999999999,0.001363207572890709
+140,Monaco,2764.0,"Marine Fish, Other",0.0,1.0,0.0
+141,Mongolia,2761.0,Freshwater Fish,0.0,30.0,0.0
+142,Montserrat,2761.0,Freshwater Fish,0.0,0.0,0.0
+142,Montserrat,2764.0,"Marine Fish, Other",0.0,30.0,0.0
+143,Morocco,2761.0,Freshwater Fish,703.0,16204.6,0.04338274317169199
+143,Morocco,2762.0,Demersal Fish,169.2,49750.899999999994,0.003400943500519589
+143,Morocco,2763.0,Pelagic Fish,0.0,1264668.0,0.0
+143,Morocco,2764.0,"Marine Fish, Other",0.0,30123.6,0.0
+143,Morocco,2765.0,Crustaceans,0.0,7829.4,0.0
+143,Morocco,2766.0,Cephalopods,0.0,89763.59999999999,0.0
+143,Morocco,2767.0,"Molluscs, Other",453.10999999999996,1664.01,0.27230004627376037
+143,Morocco,2769.0,"Aquatic Animals, Others",0.0,1.74,0.0
+143,Morocco,2775.0,Aquatic Plants,272.8,17590.51,0.015508362179379679
+144,Mozambique,2761.0,Freshwater Fish,2458.0,119888.0,0.020502468971039637
+144,Mozambique,2762.0,Demersal Fish,0.0,7825.0,0.0
+144,Mozambique,2763.0,Pelagic Fish,0.0,5433.0,0.0
+144,Mozambique,2764.0,"Marine Fish, Other",0.0,231292.0,0.0
+144,Mozambique,2765.0,Crustaceans,0.0,25540.0,0.0
+144,Mozambique,2766.0,Cephalopods,0.0,4701.0,0.0
+144,Mozambique,2767.0,"Molluscs, Other",0.0,0.0,0.0
+144,Mozambique,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+144,Mozambique,2775.0,Aquatic Plants,0.0,0.0,0.0
+145,Micronesia (Federated States of),2761.0,Freshwater Fish,0.0,5.0,0.0
+145,Micronesia (Federated States of),2762.0,Demersal Fish,0.0,5.0,0.0
+145,Micronesia (Federated States of),2763.0,Pelagic Fish,0.0,173729.0,0.0
+145,Micronesia (Federated States of),2764.0,"Marine Fish, Other",0.0,10400.0,0.0
+145,Micronesia (Federated States of),2765.0,Crustaceans,0.0,25.0,0.0
+145,Micronesia (Federated States of),2766.0,Cephalopods,0.0,20.0,0.0
+145,Micronesia (Federated States of),2767.0,"Molluscs, Other",0.0,0.0,0.0
+145,Micronesia (Federated States of),2769.0,"Aquatic Animals, Others",0.0,150.0,0.0
+145,Micronesia (Federated States of),2775.0,Aquatic Plants,0.0,0.0,0.0
+146,Republic of Moldova,2761.0,Freshwater Fish,12650.0,12700.0,0.9960629921259843
+146,Republic of Moldova,2765.0,Crustaceans,0.0,0.0,0.0
+147,Namibia,2761.0,Freshwater Fish,38.38,2838.38,0.013521797645135607
+147,Namibia,2762.0,Demersal Fish,0.0,153751.0,0.0
+147,Namibia,2763.0,Pelagic Fish,0.0,305754.0,0.0
+147,Namibia,2764.0,"Marine Fish, Other",0.0,0.0,0.0
+147,Namibia,2765.0,Crustaceans,0.0,4116.0,0.0
+147,Namibia,2766.0,Cephalopods,0.0,629.0,0.0
+147,Namibia,2767.0,"Molluscs, Other",350.58,350.58,1.0
+147,Namibia,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+147,Namibia,2775.0,Aquatic Plants,0.0,0.0,0.0
+148,Nauru,2761.0,Freshwater Fish,0.3,0.3,1.0
+148,Nauru,2762.0,Demersal Fish,0.0,23.0,0.0
+148,Nauru,2763.0,Pelagic Fish,0.0,33379.0,0.0
+148,Nauru,2764.0,"Marine Fish, Other",0.0,100.0,0.0
+149,Nepal,2761.0,Freshwater Fish,71252.0,92252.0,0.7723626588041451
+150,Netherlands,2761.0,Freshwater Fish,5270.0,6616.0,0.7965538089480049
+150,Netherlands,2762.0,Demersal Fish,120.0,121047.0,0.0009913504671739076
+150,Netherlands,2763.0,Pelagic Fish,110.0,165978.0,0.0006627384352143055
+150,Netherlands,2764.0,"Marine Fish, Other",0.0,5.0,0.0
+150,Netherlands,2765.0,Crustaceans,0.0,18805.0,0.0
+150,Netherlands,2766.0,Cephalopods,0.0,1921.0,0.0
+150,Netherlands,2767.0,"Molluscs, Other",40750.0,52239.0,0.7800685311740271
+150,Netherlands,2769.0,"Aquatic Animals, Others",100.0,100.0,1.0
+153,New Caledonia,2761.0,Freshwater Fish,0.0,0.0,0.0
+153,New Caledonia,2762.0,Demersal Fish,8.67,177.67,0.04879833398998143
+153,New Caledonia,2763.0,Pelagic Fish,0.0,2925.0,0.0
+153,New Caledonia,2764.0,"Marine Fish, Other",0.0,20.0,0.0
+153,New Caledonia,2765.0,Crustaceans,1444.0,1532.0,0.9425587467362925
+153,New Caledonia,2766.0,Cephalopods,0.0,0.0,0.0
+153,New Caledonia,2767.0,"Molluscs, Other",0.0,18.0,0.0
+153,New Caledonia,2769.0,"Aquatic Animals, Others",39.22,325.49,0.12049525331039355
+154,North Macedonia,2761.0,Freshwater Fish,1946.5,2346.0,0.8297101449275363
+155,Vanuatu,2761.0,Freshwater Fish,6.18,12.36,0.5
+155,Vanuatu,2762.0,Demersal Fish,0.0,3895.8,0.0
+155,Vanuatu,2763.0,Pelagic Fish,0.0,38378.380000000005,0.0
+155,Vanuatu,2764.0,"Marine Fish, Other",0.0,1500.0,0.0
+155,Vanuatu,2765.0,Crustaceans,10.0,760.0,0.013157894736842105
+155,Vanuatu,2766.0,Cephalopods,0.0,0.0,0.0
+155,Vanuatu,2767.0,"Molluscs, Other",0.0,50.0,0.0
+155,Vanuatu,2769.0,"Aquatic Animals, Others",0.0,68.0,0.0
+156,New Zealand,2761.0,Freshwater Fish,14209.0,14649.0,0.9699638200559765
+156,New Zealand,2762.0,Demersal Fish,0.0,196012.17,0.0
+156,New Zealand,2763.0,Pelagic Fish,0.0,161403.96,0.0
+156,New Zealand,2764.0,"Marine Fish, Other",0.0,107.0,0.0
+156,New Zealand,2765.0,Crustaceans,0.0,4004.24,0.0
+156,New Zealand,2766.0,Cephalopods,0.0,43973.03,0.0
+156,New Zealand,2767.0,"Molluscs, Other",100373.0,103366.0,0.971044637501693
+156,New Zealand,2769.0,"Aquatic Animals, Others",0.0,1103.22,0.0
+156,New Zealand,2775.0,Aquatic Plants,0.0,509.46,0.0
+157,Nicaragua,2761.0,Freshwater Fish,10.0,343.7,0.02909514111143439
+157,Nicaragua,2762.0,Demersal Fish,0.0,5057.5,0.0
+157,Nicaragua,2763.0,Pelagic Fish,0.0,18185.94,0.0
+157,Nicaragua,2764.0,"Marine Fish, Other",0.0,495.38000000000005,0.0
+157,Nicaragua,2765.0,Crustaceans,29490.0,37316.44,0.7902683106963043
+157,Nicaragua,2766.0,Cephalopods,0.0,12.219999999999999,0.0
+157,Nicaragua,2767.0,"Molluscs, Other",0.0,11684.199999999999,0.0
+157,Nicaragua,2769.0,"Aquatic Animals, Others",0.0,8333.1,0.0
+158,Niger,2761.0,Freshwater Fish,351.65000000000003,40409.65,0.008702129318120796
+159,Nigeria,2761.0,Freshwater Fish,289444.0,662788.42,0.4367064831941391
+159,Nigeria,2762.0,Demersal Fish,0.0,171137.57,0.0
+159,Nigeria,2763.0,Pelagic Fish,0.0,164422.72999999998,0.0
+159,Nigeria,2764.0,"Marine Fish, Other",0.0,55380.57,0.0
+159,Nigeria,2765.0,Crustaceans,99.0,55944.66,0.0017696058926803737
+159,Nigeria,2766.0,Cephalopods,0.0,559.95,0.0
+159,Nigeria,2767.0,"Molluscs, Other",0.0,4322.35,0.0
+160,Niue,2761.0,Freshwater Fish,0.0,0.0,0.0
+160,Niue,2763.0,Pelagic Fish,0.0,38.0,0.0
+160,Niue,2764.0,"Marine Fish, Other",0.0,0.0,0.0
+160,Niue,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+162,Norway,2761.0,Freshwater Fish,1448050.33,1448400.33,0.9997583541008997
+162,Norway,2762.0,Demersal Fish,2420.0299999999997,1229663.1700000002,0.0019680430048173267
+162,Norway,2763.0,Pelagic Fish,0.0,809927.24,0.0
+162,Norway,2764.0,"Marine Fish, Other",291.07,367.07,0.7929550222028496
+162,Norway,2765.0,Crustaceans,7.91,270571.58999999997,2.9234407056557567e-05
+162,Norway,2766.0,Cephalopods,0.0,236.0,0.0
+162,Norway,2767.0,"Molluscs, Other",2156.1699999999996,3075.1699999999996,0.7011547329090749
+162,Norway,2769.0,"Aquatic Animals, Others",0.0,4.0,0.0
+162,Norway,2775.0,Aquatic Plants,116.88,163068.88,0.0007167523318980298
+163,Northern Mariana Islands,2761.0,Freshwater Fish,19.0,19.0,1.0
+163,Northern Mariana Islands,2762.0,Demersal Fish,0.0,9.0,0.0
+163,Northern Mariana Islands,2763.0,Pelagic Fish,0.0,1191.0,0.0
+163,Northern Mariana Islands,2764.0,"Marine Fish, Other",0.0,5.0,0.0
+163,Northern Mariana Islands,2765.0,Crustaceans,23.0,23.0,1.0
+163,Northern Mariana Islands,2766.0,Cephalopods,0.0,0.0,0.0
+163,Northern Mariana Islands,2767.0,"Molluscs, Other",0.0,1.0,0.0
+163,Northern Mariana Islands,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+165,Pakistan,2761.0,Freshwater Fish,160438.0,306119.0,0.5241033715646529
+165,Pakistan,2762.0,Demersal Fish,0.0,69521.0,0.0
+165,Pakistan,2763.0,Pelagic Fish,0.0,206544.0,0.0
+165,Pakistan,2764.0,"Marine Fish, Other",0.0,23789.0,0.0
+165,Pakistan,2765.0,Crustaceans,306.0,27492.0,0.011130510694020079
+165,Pakistan,2766.0,Cephalopods,0.0,9800.0,0.0
+165,Pakistan,2767.0,"Molluscs, Other",0.0,3195.0,0.0
+165,Pakistan,2769.0,"Aquatic Animals, Others",0.0,2787.0,0.0
+166,Panama,2761.0,Freshwater Fish,455.0,580.0,0.7844827586206896
+166,Panama,2762.0,Demersal Fish,0.0,2251.0,0.0
+166,Panama,2763.0,Pelagic Fish,1604.5,223855.6,0.0071675669494084574
+166,Panama,2764.0,"Marine Fish, Other",0.0,4444.0,0.0
+166,Panama,2765.0,Crustaceans,5155.72,6744.72,0.7644083075353758
+166,Panama,2766.0,Cephalopods,0.0,0.0,0.0
+166,Panama,2767.0,"Molluscs, Other",0.0,16.0,0.0
+166,Panama,2769.0,"Aquatic Animals, Others",0.0,883.0,0.0
+167,Czechia,2761.0,Freshwater Fish,20986.0,24707.0,0.8493949083255757
+168,Papua New Guinea,2761.0,Freshwater Fish,1750.0,13413.0,0.13047043912622083
+168,Papua New Guinea,2762.0,Demersal Fish,0.0,1850.0,0.0
+168,Papua New Guinea,2763.0,Pelagic Fish,0.0,267440.0,0.0
+168,Papua New Guinea,2764.0,"Marine Fish, Other",0.0,4520.0,0.0
+168,Papua New Guinea,2765.0,Crustaceans,0.0,1115.0,0.0
+168,Papua New Guinea,2767.0,"Molluscs, Other",1.0,1.0,1.0
+168,Papua New Guinea,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+168,Papua New Guinea,2775.0,Aquatic Plants,4300.0,4300.0,1.0
+169,Paraguay,2761.0,Freshwater Fish,12000.0,28940.46,0.4146444113189632
+169,Paraguay,2765.0,Crustaceans,0.0,0.0,0.0
+170,Peru,2761.0,Freshwater Fish,56888.090000000004,74547.93,0.7631075738789798
+170,Peru,2762.0,Demersal Fish,14.8,121022.65000000001,0.00012229115789482383
+170,Peru,2763.0,Pelagic Fish,0.0,3904282.81,0.0
+170,Peru,2764.0,"Marine Fish, Other",0.0,73076.0,0.0
+170,Peru,2765.0,Crustaceans,43541.11,96366.34,0.45182903075908043
+170,Peru,2766.0,Cephalopods,0.0,539180.73,0.0
+170,Peru,2767.0,"Molluscs, Other",53495.76,155986.17,0.3429519424702844
+170,Peru,2769.0,"Aquatic Animals, Others",0.0,4442.96,0.0
+170,Peru,2775.0,Aquatic Plants,0.0,36347.78,0.0
+171,Philippines,2761.0,Freshwater Fish,708038.9199999999,807889.9199999999,0.8764051914399427
+171,Philippines,2762.0,Demersal Fish,466.9,310565.9,0.0015033846278680303
+171,Philippines,2763.0,Pelagic Fish,8.4,1455456.4,5.771385525529999e-06
+171,Philippines,2764.0,"Marine Fish, Other",802.9100000000001,13415.91,0.059847598858370404
+171,Philippines,2765.0,Crustaceans,87344.79000000001,166158.79,0.5256705949772504
+171,Philippines,2766.0,Cephalopods,0.0,52178.0,0.0
+171,Philippines,2767.0,"Molluscs, Other",61615.22,107788.22,0.5716322247458953
+171,Philippines,2769.0,"Aquatic Animals, Others",0.0,3574.13,0.0
+171,Philippines,2775.0,Aquatic Plants,1499961.2399999998,1500325.7699999998,0.9997570327676235
+173,Poland,2761.0,Freshwater Fish,44718.0,67167.0,0.6657733708517576
+173,Poland,2762.0,Demersal Fish,0.0,56103.0,0.0
+173,Poland,2763.0,Pelagic Fish,0.0,131832.0,0.0
+173,Poland,2764.0,"Marine Fish, Other",0.0,1.0,0.0
+173,Poland,2765.0,Crustaceans,1.0,1052.0,0.0009505703422053232
+173,Poland,2766.0,Cephalopods,0.0,7.0,0.0
+174,Portugal,2761.0,Freshwater Fish,665.17,824.17,0.8070786366890326
+174,Portugal,2762.0,Demersal Fish,6487.23,49533.229999999996,0.13096723149287862
+174,Portugal,2763.0,Pelagic Fish,0.0,124832.0,0.0
+174,Portugal,2764.0,"Marine Fish, Other",0.0,120.0,0.0
+174,Portugal,2765.0,Crustaceans,2.29,2102.29,0.0010892883474687128
+174,Portugal,2766.0,Cephalopods,0.0,8732.0,0.0
+174,Portugal,2767.0,"Molluscs, Other",6501.1,11054.1,0.5881166264101103
+174,Portugal,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+174,Portugal,2775.0,Aquatic Plants,35.0,1146.49,0.03052795924953554
+175,Guinea-Bissau,2761.0,Freshwater Fish,5.0,155.0,0.03225806451612903
+175,Guinea-Bissau,2762.0,Demersal Fish,0.0,3455.0,0.0
+175,Guinea-Bissau,2763.0,Pelagic Fish,0.0,315.0,0.0
+175,Guinea-Bissau,2764.0,"Marine Fish, Other",0.0,2730.0,0.0
+175,Guinea-Bissau,2765.0,Crustaceans,0.0,61.0,0.0
+175,Guinea-Bissau,2766.0,Cephalopods,0.0,0.0,0.0
+175,Guinea-Bissau,2767.0,"Molluscs, Other",0.0,0.0,0.0
+176,Timor-Leste,2761.0,Freshwater Fish,119.0,119.0,1.0
+176,Timor-Leste,2763.0,Pelagic Fish,0.0,6.0,0.0
+176,Timor-Leste,2764.0,"Marine Fish, Other",0.0,3153.21,0.0
+176,Timor-Leste,2765.0,Crustaceans,1.0,59.620000000000005,0.01677289500167729
+176,Timor-Leste,2766.0,Cephalopods,0.0,15.16,0.0
+176,Timor-Leste,2769.0,"Aquatic Animals, Others",0.0,1.01,0.0
+176,Timor-Leste,2775.0,Aquatic Plants,1500.0,1500.0,1.0
+177,Puerto Rico,2761.0,Freshwater Fish,8.0,8.0,1.0
+177,Puerto Rico,2762.0,Demersal Fish,0.0,386.12,0.0
+177,Puerto Rico,2763.0,Pelagic Fish,0.0,148.8,0.0
+177,Puerto Rico,2764.0,"Marine Fish, Other",0.0,1.45,0.0
+177,Puerto Rico,2765.0,Crustaceans,12.0,160.81,0.07462222498600833
+177,Puerto Rico,2766.0,Cephalopods,0.0,6.75,0.0
+177,Puerto Rico,2767.0,"Molluscs, Other",0.0,813.09,0.0
+177,Puerto Rico,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+178,Eritrea,2761.0,Freshwater Fish,0.0,23.08,0.0
+178,Eritrea,2762.0,Demersal Fish,0.0,3360.94,0.0
+178,Eritrea,2763.0,Pelagic Fish,0.0,1756.81,0.0
+178,Eritrea,2764.0,"Marine Fish, Other",0.0,11.2,0.0
+178,Eritrea,2765.0,Crustaceans,0.0,424.90999999999997,0.0
+178,Eritrea,2766.0,Cephalopods,0.0,63.46,0.0
+178,Eritrea,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+179,Qatar,2761.0,Freshwater Fish,10.0,10.0,1.0
+179,Qatar,2762.0,Demersal Fish,0.0,9610.0,0.0
+179,Qatar,2763.0,Pelagic Fish,0.0,5443.0,0.0
+179,Qatar,2764.0,"Marine Fish, Other",0.0,1598.0,0.0
+179,Qatar,2765.0,Crustaceans,0.0,439.0,0.0
+179,Qatar,2766.0,Cephalopods,0.0,40.0,0.0
+180,Palau,2761.0,Freshwater Fish,15.0,15.0,1.0
+180,Palau,2762.0,Demersal Fish,7.0,1003.1199999999999,0.006978227928861952
+180,Palau,2763.0,Pelagic Fish,0.0,3602.0,0.0
+180,Palau,2764.0,"Marine Fish, Other",0.0,750.0,0.0
+180,Palau,2765.0,Crustaceans,0.0,0.0,0.0
+180,Palau,2767.0,"Molluscs, Other",0.0,0.0,0.0
+180,Palau,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+181,Zimbabwe,2761.0,Freshwater Fish,12495.27,29225.369999999995,0.42754873590993037
+181,Zimbabwe,2765.0,Crustaceans,0.0,0.0,0.0
+182,Réunion,2761.0,Freshwater Fish,10.0,10.0,1.0
+182,Réunion,2762.0,Demersal Fish,0.0,39.0,0.0
+182,Réunion,2763.0,Pelagic Fish,0.0,2228.0,0.0
+182,Réunion,2764.0,"Marine Fish, Other",0.0,3.0,0.0
+182,Réunion,2765.0,Crustaceans,0.0,0.0,0.0
+182,Réunion,2766.0,Cephalopods,0.0,0.0,0.0
+182,Réunion,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+183,Romania,2761.0,Freshwater Fish,12847.740000000002,16646.12,0.7718158946349061
+183,Romania,2762.0,Demersal Fish,0.0,72.58,0.0
+183,Romania,2763.0,Pelagic Fish,0.0,79.05,0.0
+183,Romania,2764.0,"Marine Fish, Other",0.0,4.2,0.0
+183,Romania,2765.0,Crustaceans,0.04,0.04,1.0
+183,Romania,2766.0,Cephalopods,0.0,0.0,0.0
+183,Romania,2767.0,"Molluscs, Other",0.0,6973.19,0.0
+183,Romania,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+184,Rwanda,2761.0,Freshwater Fish,3850.0,24760.199999999997,0.1554914742207252
+185,Russian Federation,2761.0,Freshwater Fish,215863.0,938545.0,0.22999749612432008
+185,Russian Federation,2762.0,Demersal Fish,0.0,2769209.9,0.0
+185,Russian Federation,2763.0,Pelagic Fish,0.0,1068905.8599999999,0.0
+185,Russian Federation,2764.0,"Marine Fish, Other",0.0,337.0,0.0
+185,Russian Federation,2765.0,Crustaceans,142.0,141282.0,0.0010050820345125352
+185,Russian Federation,2766.0,Cephalopods,0.0,98228.0,0.0
+185,Russian Federation,2767.0,"Molluscs, Other",16799.0,40098.0,0.4189485759888274
+185,Russian Federation,2769.0,"Aquatic Animals, Others",4916.0,24200.0,0.20314049586776858
+185,Russian Federation,2775.0,Aquatic Plants,10573.0,19544.0,0.5409844453540729
+187,"Saint Helena, Ascension and Tristan da Cunha",2761.0,Freshwater Fish,0.0,0.0,0.0
+187,"Saint Helena, Ascension and Tristan da Cunha",2762.0,Demersal Fish,0.0,15.0,0.0
+187,"Saint Helena, Ascension and Tristan da Cunha",2763.0,Pelagic Fish,0.0,355.0,0.0
+187,"Saint Helena, Ascension and Tristan da Cunha",2764.0,"Marine Fish, Other",0.0,60.0,0.0
+187,"Saint Helena, Ascension and Tristan da Cunha",2765.0,Crustaceans,0.0,392.68,0.0
+187,"Saint Helena, Ascension and Tristan da Cunha",2766.0,Cephalopods,0.0,10.39,0.0
+188,Saint Kitts and Nevis,2761.0,Freshwater Fish,1.0,1.0,1.0
+188,Saint Kitts and Nevis,2762.0,Demersal Fish,0.0,193.0,0.0
+188,Saint Kitts and Nevis,2763.0,Pelagic Fish,0.0,95.0,0.0
+188,Saint Kitts and Nevis,2764.0,"Marine Fish, Other",0.0,2.0,0.0
+188,Saint Kitts and Nevis,2765.0,Crustaceans,0.0,25.0,0.0
+188,Saint Kitts and Nevis,2766.0,Cephalopods,0.0,0.0,0.0
+188,Saint Kitts and Nevis,2767.0,"Molluscs, Other",0.0,340.0,0.0
+188,Saint Kitts and Nevis,2775.0,Aquatic Plants,0.0,0.0,0.0
+189,Saint Lucia,2761.0,Freshwater Fish,13.81,13.81,1.0
+189,Saint Lucia,2762.0,Demersal Fish,0.0,42.26,0.0
+189,Saint Lucia,2763.0,Pelagic Fish,0.0,1004.51,0.0
+189,Saint Lucia,2764.0,"Marine Fish, Other",0.0,419.61,0.0
+189,Saint Lucia,2765.0,Crustaceans,3.41,16.91,0.20165582495564754
+189,Saint Lucia,2767.0,"Molluscs, Other",0.0,365.22,0.0
+189,Saint Lucia,2775.0,Aquatic Plants,102.5,102.5,1.0
+190,Saint Pierre and Miquelon,2761.0,Freshwater Fish,0.0,0.0,0.0
+190,Saint Pierre and Miquelon,2762.0,Demersal Fish,0.0,476.0,0.0
+190,Saint Pierre and Miquelon,2763.0,Pelagic Fish,0.0,234.0,0.0
+190,Saint Pierre and Miquelon,2764.0,"Marine Fish, Other",0.0,24.0,0.0
+190,Saint Pierre and Miquelon,2765.0,Crustaceans,0.0,150.0,0.0
+190,Saint Pierre and Miquelon,2766.0,Cephalopods,0.0,0.0,0.0
+190,Saint Pierre and Miquelon,2767.0,"Molluscs, Other",0.0,87.0,0.0
+190,Saint Pierre and Miquelon,2769.0,"Aquatic Animals, Others",0.0,2359.0,0.0
+191,Saint Vincent and the Grenadines,2761.0,Freshwater Fish,0.0,0.0,0.0
+191,Saint Vincent and the Grenadines,2762.0,Demersal Fish,0.0,74.0,0.0
+191,Saint Vincent and the Grenadines,2763.0,Pelagic Fish,0.0,1346.0,0.0
+191,Saint Vincent and the Grenadines,2764.0,"Marine Fish, Other",0.0,6.0,0.0
+191,Saint Vincent and the Grenadines,2765.0,Crustaceans,0.0,49.0,0.0
+191,Saint Vincent and the Grenadines,2766.0,Cephalopods,0.0,0.0,0.0
+191,Saint Vincent and the Grenadines,2767.0,"Molluscs, Other",0.0,285.0,0.0
+191,Saint Vincent and the Grenadines,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+191,Saint Vincent and the Grenadines,2775.0,Aquatic Plants,0.0,0.0,0.0
+192,San Marino,2761.0,Freshwater Fish,0.0,0.0,0.0
+193,Sao Tome and Principe,2761.0,Freshwater Fish,0.0,0.0,0.0
+193,Sao Tome and Principe,2762.0,Demersal Fish,0.0,2458.3,0.0
+193,Sao Tome and Principe,2763.0,Pelagic Fish,0.0,2517.96,0.0
+193,Sao Tome and Principe,2764.0,"Marine Fish, Other",0.0,1107.92,0.0
+193,Sao Tome and Principe,2765.0,Crustaceans,0.0,0.0,0.0
+193,Sao Tome and Principe,2766.0,Cephalopods,0.0,33.28,0.0
+193,Sao Tome and Principe,2767.0,"Molluscs, Other",0.0,67.85,0.0
+194,Saudi Arabia,2761.0,Freshwater Fish,13265.0,13309.17,0.9966812355691602
+194,Saudi Arabia,2762.0,Demersal Fish,1300.0,31477.2,0.04129973441093871
+194,Saudi Arabia,2763.0,Pelagic Fish,35.0,22588.91,0.0015494328854291774
+194,Saudi Arabia,2764.0,"Marine Fish, Other",0.0,1111.0,0.0
+194,Saudi Arabia,2765.0,Crustaceans,60800.0,73009.62,0.8327669696130455
+194,Saudi Arabia,2766.0,Cephalopods,0.0,1431.9,0.0
+194,Saudi Arabia,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+195,Senegal,2761.0,Freshwater Fish,324.0,32557.09,0.009951749373178009
+195,Senegal,2762.0,Demersal Fish,0.0,62185.44,0.0
+195,Senegal,2763.0,Pelagic Fish,0.0,381815.23,0.0
+195,Senegal,2764.0,"Marine Fish, Other",0.0,9063.59,0.0
+195,Senegal,2765.0,Crustaceans,0.0,5442.389999999999,0.0
+195,Senegal,2766.0,Cephalopods,0.0,12463.49,0.0
+195,Senegal,2767.0,"Molluscs, Other",686.0,11021.92,0.062239609795752465
+195,Senegal,2775.0,Aquatic Plants,0.0,0.0,0.0
+196,Seychelles,2761.0,Freshwater Fish,0.0,0.0,0.0
+196,Seychelles,2762.0,Demersal Fish,0.0,2810.0,0.0
+196,Seychelles,2763.0,Pelagic Fish,0.0,129432.0,0.0
+196,Seychelles,2764.0,"Marine Fish, Other",0.0,2710.0,0.0
+196,Seychelles,2765.0,Crustaceans,0.0,95.0,0.0
+196,Seychelles,2766.0,Cephalopods,0.0,40.0,0.0
+196,Seychelles,2769.0,"Aquatic Animals, Others",0.0,345.0,0.0
+197,Sierra Leone,2761.0,Freshwater Fish,85.0,9815.0,0.008660213958227204
+197,Sierra Leone,2762.0,Demersal Fish,0.0,52317.0,0.0
+197,Sierra Leone,2763.0,Pelagic Fish,0.0,126792.0,0.0
+197,Sierra Leone,2764.0,"Marine Fish, Other",0.0,11250.0,0.0
+197,Sierra Leone,2765.0,Crustaceans,0.0,1415.0,0.0
+197,Sierra Leone,2766.0,Cephalopods,0.0,121.0,0.0
+197,Sierra Leone,2767.0,"Molluscs, Other",0.0,475.0,0.0
+198,Slovenia,2761.0,Freshwater Fish,1229.6000000000001,1375.6,0.8938644954928759
+198,Slovenia,2762.0,Demersal Fish,80.0,168.0,0.47619047619047616
+198,Slovenia,2763.0,Pelagic Fish,0.0,9.0,0.0
+198,Slovenia,2764.0,"Marine Fish, Other",0.0,5.0,0.0
+198,Slovenia,2765.0,Crustaceans,0.0,1.0,0.0
+198,Slovenia,2766.0,Cephalopods,0.0,30.0,0.0
+198,Slovenia,2767.0,"Molluscs, Other",834.3,835.3,0.998802825332216
+198,Slovenia,2769.0,"Aquatic Animals, Others",0.0,1.36,0.0
+199,Slovakia,2761.0,Freshwater Fish,2687.54,4552.54,0.5903385802211513
+200,Singapore,2761.0,Freshwater Fish,3411.88,3457.83,0.9867113189485892
+200,Singapore,2762.0,Demersal Fish,1167.09,1739.17,0.6710614833512537
+200,Singapore,2763.0,Pelagic Fish,113.32,442.84,0.25589377653328516
+200,Singapore,2764.0,"Marine Fish, Other",15.37,166.11,0.09252904701703689
+200,Singapore,2765.0,Crustaceans,195.21,442.48,0.4411724823720846
+200,Singapore,2766.0,Cephalopods,0.0,72.13,0.0
+200,Singapore,2767.0,"Molluscs, Other",405.05,405.05,1.0
+200,Singapore,2769.0,"Aquatic Animals, Others",523.47,523.47,1.0
+201,Somalia,2761.0,Freshwater Fish,0.0,200.0,0.0
+201,Somalia,2764.0,"Marine Fish, Other",0.0,28700.0,0.0
+201,Somalia,2765.0,Crustaceans,0.0,500.0,0.0
+201,Somalia,2766.0,Cephalopods,0.0,600.0,0.0
+202,South Africa,2761.0,Freshwater Fish,2097.2,2997.2,0.6997197384225277
+202,South Africa,2762.0,Demersal Fish,0.0,139882.50999999998,0.0
+202,South Africa,2763.0,Pelagic Fish,0.0,280144.88,0.0
+202,South Africa,2764.0,"Marine Fish, Other",0.0,9340.230000000001,0.0
+202,South Africa,2765.0,Crustaceans,0.0,1972.03,0.0
+202,South Africa,2766.0,Cephalopods,0.0,8117.57,0.0
+202,South Africa,2767.0,"Molluscs, Other",5092.72,5145.39,0.9897636525122488
+202,South Africa,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+202,South Africa,2775.0,Aquatic Plants,2154.54,11154.54,0.19315363968393137
+203,Spain,2761.0,Freshwater Fish,17504.68,22246.53,0.7868499042322556
+203,Spain,2762.0,Demersal Fish,51303.17,349966.44,0.14659454203665928
+203,Spain,2763.0,Pelagic Fish,8125.7300000000005,535318.15,0.015179253683066789
+203,Spain,2764.0,"Marine Fish, Other",0.0,908.0699999999999,0.0
+203,Spain,2765.0,Crustaceans,184.73999999999998,14881.36,0.012414187950563656
+203,Spain,2766.0,Cephalopods,0.81,24388.79,3.321197976611386e-05
+203,Spain,2767.0,"Molluscs, Other",230773.14,239028.88,0.965461328354967
+203,Spain,2769.0,"Aquatic Animals, Others",0.0,822.84,0.0
+203,Spain,2775.0,Aquatic Plants,8.44,3160.73,0.00267026920996099
+205,Western Sahara,2764.0,"Marine Fish, Other",0.0,0.0,0.0
+205,Western Sahara,2765.0,Crustaceans,0.0,0.0,0.0
+205,Western Sahara,2767.0,"Molluscs, Other",0.0,0.0,0.0
+206,Sudan (former),2761.0,Freshwater Fish,0.0,0.0,0.0
+206,Sudan (former),2762.0,Demersal Fish,0.0,0.0,0.0
+206,Sudan (former),2763.0,Pelagic Fish,0.0,0.0,0.0
+206,Sudan (former),2764.0,"Marine Fish, Other",0.0,0.0,0.0
+206,Sudan (former),2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+206,Sudan (former),2775.0,Aquatic Plants,0.0,0.0,0.0
+207,Suriname,2761.0,Freshwater Fish,80.0,930.0,0.08602150537634409
+207,Suriname,2762.0,Demersal Fish,0.0,383.0,0.0
+207,Suriname,2763.0,Pelagic Fish,0.0,5680.0,0.0
+207,Suriname,2764.0,"Marine Fish, Other",0.0,23777.0,0.0
+207,Suriname,2765.0,Crustaceans,30.0,6791.0,0.004417611544691504
+208,Tajikistan,2761.0,Freshwater Fish,736.0,2452.33,0.3001227404142183
+209,Eswatini,2761.0,Freshwater Fish,100.0,165.0,0.6060606060606061
+209,Eswatini,2765.0,Crustaceans,0.0,0.0,0.0
+210,Sweden,2761.0,Freshwater Fish,9602.0,16973.0,0.5657220291050492
+210,Sweden,2762.0,Demersal Fish,0.0,16649.0,0.0
+210,Sweden,2763.0,Pelagic Fish,0.0,156382.0,0.0
+210,Sweden,2764.0,"Marine Fish, Other",0.0,4.0,0.0
+210,Sweden,2765.0,Crustaceans,0.3,3899.3,7.693688610776293e-05
+210,Sweden,2766.0,Cephalopods,0.0,9.0,0.0
+210,Sweden,2767.0,"Molluscs, Other",1900.0,1923.0,0.9880395215808633
+211,Switzerland,2761.0,Freshwater Fish,2018.1000000000001,3389.64,0.5953729599603498
+211,Switzerland,2765.0,Crustaceans,30.0,40.8,0.7352941176470589
+212,Syrian Arab Republic,2761.0,Freshwater Fish,2255.0,4755.0,0.47423764458464773
+212,Syrian Arab Republic,2762.0,Demersal Fish,0.0,565.0,0.0
+212,Syrian Arab Republic,2763.0,Pelagic Fish,0.0,760.0,0.0
+212,Syrian Arab Republic,2764.0,"Marine Fish, Other",0.0,145.0,0.0
+212,Syrian Arab Republic,2765.0,Crustaceans,0.0,70.0,0.0
+212,Syrian Arab Republic,2767.0,"Molluscs, Other",0.0,40.0,0.0
+212,Syrian Arab Republic,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+213,Turkmenistan,2761.0,Freshwater Fish,90.0,15089.0,0.0059646099807807015
+213,Turkmenistan,2762.0,Demersal Fish,0.0,1.0,0.0
+213,Turkmenistan,2765.0,Crustaceans,0.0,0.0,0.0
+214,"China, Taiwan Province of",2761.0,Freshwater Fish,152871.96,153085.96,0.9986020925759619
+214,"China, Taiwan Province of",2762.0,Demersal Fish,39192.4,89543.4,0.43769166683418326
+214,"China, Taiwan Province of",2763.0,Pelagic Fish,3109.22,628951.22,0.004943499433867065
+214,"China, Taiwan Province of",2764.0,"Marine Fish, Other",2342.5,23132.5,0.10126445477142548
+214,"China, Taiwan Province of",2765.0,Crustaceans,17621.15,24539.15,0.7180831446892008
+214,"China, Taiwan Province of",2766.0,Cephalopods,0.0,44902.0,0.0
+214,"China, Taiwan Province of",2767.0,"Molluscs, Other",73499.6,74529.6,0.9861799875485713
+214,"China, Taiwan Province of",2769.0,"Aquatic Animals, Others",2862.0,2866.94,0.9982769084808193
+214,"China, Taiwan Province of",2775.0,Aquatic Plants,986.07,1288.5500000000002,0.7652555197702844
+215,United Republic of Tanzania,2761.0,Freshwater Fish,16228.0,400584.0,0.04051085415293671
+215,United Republic of Tanzania,2762.0,Demersal Fish,0.0,37338.0,0.0
+215,United Republic of Tanzania,2763.0,Pelagic Fish,0.0,37765.0,0.0
+215,United Republic of Tanzania,2764.0,"Marine Fish, Other",0.0,117.0,0.0
+215,United Republic of Tanzania,2765.0,Crustaceans,336.4,5481.4,0.06137118254460539
+215,United Republic of Tanzania,2766.0,Cephalopods,0.0,6122.0,0.0
+215,United Republic of Tanzania,2769.0,"Aquatic Animals, Others",0.0,514.89,0.0
+215,United Republic of Tanzania,2775.0,Aquatic Plants,1449.0,1449.0,1.0
+216,Thailand,2761.0,Freshwater Fish,429759.0,559886.0,0.7675830436910371
+216,Thailand,2762.0,Demersal Fish,1664.0,137551.0,0.012097331171710857
+216,Thailand,2763.0,Pelagic Fish,0.0,566864.0,0.0
+216,Thailand,2764.0,"Marine Fish, Other",0.0,451012.0,0.0
+216,Thailand,2765.0,Crustaceans,414615.0,533155.0,0.7776631561178269
+216,Thailand,2766.0,Cephalopods,0.0,98374.0,0.0
+216,Thailand,2767.0,"Molluscs, Other",116135.0,149161.0,0.7785882368715683
+216,Thailand,2769.0,"Aquatic Animals, Others",2093.0,10728.0,0.19509694258016405
+216,Thailand,2775.0,Aquatic Plants,0.0,0.0,0.0
+217,Togo,2761.0,Freshwater Fish,1000.0,7511.0,0.13313806417254692
+217,Togo,2762.0,Demersal Fish,0.0,1491.0,0.0
+217,Togo,2763.0,Pelagic Fish,0.0,16954.0,0.0
+217,Togo,2764.0,"Marine Fish, Other",0.0,560.0,0.0
+217,Togo,2765.0,Crustaceans,0.0,18.0,0.0
+217,Togo,2766.0,Cephalopods,0.0,13.0,0.0
+217,Togo,2767.0,"Molluscs, Other",0.0,0.0,0.0
+218,Tokelau,2761.0,Freshwater Fish,0.0,0.0,0.0
+218,Tokelau,2762.0,Demersal Fish,0.0,1.0,0.0
+218,Tokelau,2763.0,Pelagic Fish,0.0,75.0,0.0
+218,Tokelau,2764.0,"Marine Fish, Other",0.0,10.0,0.0
+219,Tonga,2761.0,Freshwater Fish,0.0,0.0,0.0
+219,Tonga,2762.0,Demersal Fish,0.0,178.0,0.0
+219,Tonga,2763.0,Pelagic Fish,0.0,335.0,0.0
+219,Tonga,2764.0,"Marine Fish, Other",0.0,700.0,0.0
+219,Tonga,2765.0,Crustaceans,0.0,2.0,0.0
+219,Tonga,2767.0,"Molluscs, Other",0.0,3.0,0.0
+219,Tonga,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+219,Tonga,2775.0,Aquatic Plants,90.0,90.0,1.0
+220,Trinidad and Tobago,2761.0,Freshwater Fish,53.0,53.0,1.0
+220,Trinidad and Tobago,2762.0,Demersal Fish,0.0,521.5799999999999,0.0
+220,Trinidad and Tobago,2763.0,Pelagic Fish,0.0,5535.2699999999995,0.0
+220,Trinidad and Tobago,2764.0,"Marine Fish, Other",0.0,6078.34,0.0
+220,Trinidad and Tobago,2765.0,Crustaceans,0.0,847.48,0.0
+220,Trinidad and Tobago,2766.0,Cephalopods,0.0,0.0,0.0
+220,Trinidad and Tobago,2767.0,"Molluscs, Other",0.0,0.0,0.0
+221,Oman,2761.0,Freshwater Fish,192.0,192.0,1.0
+221,Oman,2762.0,Demersal Fish,862.0,76941.0,0.011203389610220818
+221,Oman,2763.0,Pelagic Fish,0.0,482470.0,0.0
+221,Oman,2764.0,"Marine Fish, Other",0.0,4168.0,0.0
+221,Oman,2765.0,Crustaceans,0.0,1912.0,0.0
+221,Oman,2766.0,Cephalopods,0.0,14533.0,0.0
+221,Oman,2767.0,"Molluscs, Other",0.0,24.0,0.0
+222,Tunisia,2761.0,Freshwater Fish,628.0,1328.0,0.47289156626506024
+222,Tunisia,2762.0,Demersal Fish,21925.0,54100.0,0.40526802218114605
+222,Tunisia,2763.0,Pelagic Fish,0.0,53767.0,0.0
+222,Tunisia,2764.0,"Marine Fish, Other",0.0,4030.0,0.0
+222,Tunisia,2765.0,Crustaceans,1.2,6331.2,0.00018953752843062926
+222,Tunisia,2766.0,Cephalopods,0.0,9995.0,0.0
+222,Tunisia,2767.0,"Molluscs, Other",169.0,1169.0,0.14456800684345594
+222,Tunisia,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+222,Tunisia,2775.0,Aquatic Plants,170.0,170.0,1.0
+223,Turkey,2761.0,Freshwater Fish,126075.0,150812.0,0.8359745908813623
+223,Turkey,2762.0,Demersal Fish,240743.0,265011.0,0.9084264426759644
+223,Turkey,2763.0,Pelagic Fish,465.0,354421.0,0.0013119990068308593
+223,Turkey,2764.0,"Marine Fish, Other",0.0,383.0,0.0
+223,Turkey,2765.0,Crustaceans,0.0,5847.0,0.0
+223,Turkey,2766.0,Cephalopods,0.0,1853.0,0.0
+223,Turkey,2767.0,"Molluscs, Other",4168.0,55838.0,0.07464450732476091
+223,Turkey,2769.0,"Aquatic Animals, Others",43.0,497.0,0.08651911468812877
+224,Turks and Caicos Islands,2761.0,Freshwater Fish,0.0,0.0,0.0
+224,Turks and Caicos Islands,2763.0,Pelagic Fish,0.0,0.0,0.0
+224,Turks and Caicos Islands,2764.0,"Marine Fish, Other",0.0,30.0,0.0
+224,Turks and Caicos Islands,2765.0,Crustaceans,0.0,129.0,0.0
+224,Turks and Caicos Islands,2767.0,"Molluscs, Other",0.5,765.5,0.0006531678641410843
+225,United Arab Emirates,2761.0,Freshwater Fish,275.0,365.0,0.7534246575342466
+225,United Arab Emirates,2762.0,Demersal Fish,2640.0,41600.0,0.06346153846153846
+225,United Arab Emirates,2763.0,Pelagic Fish,70.0,31155.0,0.0022468303643074948
+225,United Arab Emirates,2764.0,"Marine Fish, Other",0.0,2420.0,0.0
+225,United Arab Emirates,2765.0,Crustaceans,225.0,525.0,0.42857142857142855
+225,United Arab Emirates,2766.0,Cephalopods,0.0,150.0,0.0
+225,United Arab Emirates,2767.0,"Molluscs, Other",13.0,13.0,1.0
+226,Uganda,2761.0,Freshwater Fish,102942.7,706166.7,0.145776769139638
+226,Uganda,2765.0,Crustaceans,0.0,0.0,0.0
+227,Tuvalu,2761.0,Freshwater Fish,2.5,2.5,1.0
+227,Tuvalu,2762.0,Demersal Fish,0.0,1.0,0.0
+227,Tuvalu,2763.0,Pelagic Fish,0.0,7355.0,0.0
+227,Tuvalu,2764.0,"Marine Fish, Other",0.0,990.0,0.0
+229,United Kingdom of Great Britain and Northern Ireland,2761.0,Freshwater Fish,202890.0,204046.0,0.9943346108230497
+229,United Kingdom of Great Britain and Northern Ireland,2762.0,Demersal Fish,85.0,202520.59,0.00041971041067972396
+229,United Kingdom of Great Britain and Northern Ireland,2763.0,Pelagic Fish,0.0,273568.3,0.0
+229,United Kingdom of Great Britain and Northern Ireland,2764.0,"Marine Fish, Other",0.0,2.0,0.0
+229,United Kingdom of Great Britain and Northern Ireland,2765.0,Crustaceans,0.0,72626.02,0.0
+229,United Kingdom of Great Britain and Northern Ireland,2766.0,Cephalopods,0.0,12804.0,0.0
+229,United Kingdom of Great Britain and Northern Ireland,2767.0,"Molluscs, Other",16525.0,73865.0,0.22371894672713735
+229,United Kingdom of Great Britain and Northern Ireland,2769.0,"Aquatic Animals, Others",0.0,3.0,0.0
+229,United Kingdom of Great Britain and Northern Ireland,2775.0,Aquatic Plants,0.0,0.0,0.0
+230,Ukraine,2761.0,Freshwater Fish,18603.71,50248.31,0.3702355362797276
+230,Ukraine,2762.0,Demersal Fish,0.0,12008.72,0.0
+230,Ukraine,2763.0,Pelagic Fish,0.0,2625.81,0.0
+230,Ukraine,2764.0,"Marine Fish, Other",0.0,398.93,0.0
+230,Ukraine,2765.0,Crustaceans,0.0,22860.469999999998,0.0
+230,Ukraine,2766.0,Cephalopods,0.0,0.0,0.0
+230,Ukraine,2767.0,"Molluscs, Other",0.0,11438.759999999998,0.0
+230,Ukraine,2769.0,"Aquatic Animals, Others",0.0,494.69999999999993,0.0
+230,Ukraine,2775.0,Aquatic Plants,0.0,0.0,0.0
+231,United States of America,2761.0,Freshwater Fish,198433.33000000002,601253.33,0.3300328166165833
+231,United States of America,2762.0,Demersal Fish,3244.58,2425906.58,0.0013374711238880435
+231,United States of America,2763.0,Pelagic Fish,400.0,971230.0,0.0004118488926412899
+231,United States of America,2764.0,"Marine Fish, Other",672.0,329565.0,0.0020390514769468844
+231,United States of America,2765.0,Crustaceans,74333.83,256927.83000000002,0.289317938037308
+231,United States of America,2766.0,Cephalopods,0.0,53938.0,0.0
+231,United States of America,2767.0,"Molluscs, Other",212957.97,646307.97,0.3294992169135714
+231,United States of America,2769.0,"Aquatic Animals, Others",0.0,5152.0,0.0
+231,United States of America,2775.0,Aquatic Plants,263.0,3394.0,0.0774896876841485
+233,Burkina Faso,2761.0,Freshwater Fish,440.0,25205.0,0.017456853798849436
+233,Burkina Faso,2775.0,Aquatic Plants,140.0,140.0,1.0
+234,Uruguay,2761.0,Freshwater Fish,106.67,5506.67,0.01937105364948326
+234,Uruguay,2762.0,Demersal Fish,0.0,51014.67,0.0
+234,Uruguay,2763.0,Pelagic Fish,0.0,8684.52,0.0
+234,Uruguay,2764.0,"Marine Fish, Other",0.0,944.0,0.0
+234,Uruguay,2765.0,Crustaceans,0.0,945.0,0.0
+234,Uruguay,2766.0,Cephalopods,0.0,1007.0,0.0
+234,Uruguay,2767.0,"Molluscs, Other",0.0,10.0,0.0
+234,Uruguay,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+234,Uruguay,2775.0,Aquatic Plants,0.0,0.0,0.0
+235,Uzbekistan,2761.0,Freshwater Fish,81717.0,121717.0,0.671368830976774
+236,Venezuela (Bolivarian Republic of),2761.0,Freshwater Fish,4355.0,26234.0,0.166005946481665
+236,Venezuela (Bolivarian Republic of),2762.0,Demersal Fish,0.0,35563.0,0.0
+236,Venezuela (Bolivarian Republic of),2763.0,Pelagic Fish,0.0,179212.0,0.0
+236,Venezuela (Bolivarian Republic of),2764.0,"Marine Fish, Other",0.0,645.0,0.0
+236,Venezuela (Bolivarian Republic of),2765.0,Crustaceans,22000.0,32121.0,0.6849101833691355
+236,Venezuela (Bolivarian Republic of),2766.0,Cephalopods,0.0,210.0,0.0
+236,Venezuela (Bolivarian Republic of),2767.0,"Molluscs, Other",5.0,30192.0,0.00016560678325384207
+236,Venezuela (Bolivarian Republic of),2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+236,Venezuela (Bolivarian Republic of),2775.0,Aquatic Plants,3.0,3.0,1.0
+237,Viet Nam,2761.0,Freshwater Fish,3122700.0,3250820.0,0.9605884053869486
+237,Viet Nam,2763.0,Pelagic Fish,3569.0,451029.0,0.007913016679637008
+237,Viet Nam,2764.0,"Marine Fish, Other",10931.0,2379222.0,0.004594358996344183
+237,Viet Nam,2765.0,Crustaceans,977157.0,1059638.0,0.9221611531485281
+237,Viet Nam,2766.0,Cephalopods,0.0,371693.0,0.0
+237,Viet Nam,2767.0,"Molluscs, Other",315000.0,345984.0,0.9104467258601554
+237,Viet Nam,2769.0,"Aquatic Animals, Others",12900.0,12900.0,1.0
+237,Viet Nam,2775.0,Aquatic Plants,13300.0,13300.0,1.0
+238,Ethiopia,2761.0,Freshwater Fish,430.0,59432.0,0.007235159510028268
+238,Ethiopia,2762.0,Demersal Fish,0.0,0.0,0.0
+238,Ethiopia,2763.0,Pelagic Fish,0.0,0.0,0.0
+238,Ethiopia,2764.0,"Marine Fish, Other",0.0,0.0,0.0
+238,Ethiopia,2765.0,Crustaceans,0.0,0.0,0.0
+238,Ethiopia,2767.0,"Molluscs, Other",0.0,0.0,0.0
+238,Ethiopia,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+239,British Virgin Islands,2761.0,Freshwater Fish,0.0,0.0,0.0
+239,British Virgin Islands,2762.0,Demersal Fish,0.0,351.0,0.0
+239,British Virgin Islands,2763.0,Pelagic Fish,0.0,26.0,0.0
+239,British Virgin Islands,2764.0,"Marine Fish, Other",0.0,770.0,0.0
+239,British Virgin Islands,2765.0,Crustaceans,1.0,41.0,0.024390243902439025
+239,British Virgin Islands,2767.0,"Molluscs, Other",0.0,5.0,0.0
+244,Samoa,2761.0,Freshwater Fish,13.0,14.0,0.9285714285714286
+244,Samoa,2762.0,Demersal Fish,0.0,48.519999999999996,0.0
+244,Samoa,2763.0,Pelagic Fish,0.0,3256.0,0.0
+244,Samoa,2764.0,"Marine Fish, Other",0.0,5115.0,0.0
+244,Samoa,2765.0,Crustaceans,0.3,300.3,0.000999000999000999
+244,Samoa,2767.0,"Molluscs, Other",0.0,1400.0,0.0
+244,Samoa,2769.0,"Aquatic Animals, Others",0.0,685.0,0.0
+244,Samoa,2775.0,Aquatic Plants,0.0,0.0,0.0
+249,Yemen,2761.0,Freshwater Fish,0.0,0.0,0.0
+249,Yemen,2762.0,Demersal Fish,0.0,21169.0,0.0
+249,Yemen,2763.0,Pelagic Fish,0.0,99765.0,0.0
+249,Yemen,2765.0,Crustaceans,0.0,1347.0,0.0
+249,Yemen,2766.0,Cephalopods,0.0,8943.0,0.0
+249,Yemen,2767.0,"Molluscs, Other",0.0,61.0,0.0
+249,Yemen,2769.0,"Aquatic Animals, Others",0.0,23.0,0.0
+250,Democratic Republic of the Congo,2761.0,Freshwater Fish,3300.0,233300.0,0.014144877839691384
+250,Democratic Republic of the Congo,2762.0,Demersal Fish,0.0,3810.0,0.0
+250,Democratic Republic of the Congo,2763.0,Pelagic Fish,0.0,2640.0,0.0
+250,Democratic Republic of the Congo,2764.0,"Marine Fish, Other",0.0,1550.0,0.0
+251,Zambia,2761.0,Freshwater Fish,38480.0,135943.0,0.2830598118329006
+251,Zambia,2765.0,Crustaceans,0.0,0.0,0.0
+255,Belgium,2761.0,Freshwater Fish,86.0,371.0,0.23180592991913745
+255,Belgium,2762.0,Demersal Fish,0.0,14761.0,0.0
+255,Belgium,2763.0,Pelagic Fish,0.0,2331.0,0.0
+255,Belgium,2764.0,"Marine Fish, Other",0.0,11.0,0.0
+255,Belgium,2765.0,Crustaceans,0.0,1699.0,0.0
+255,Belgium,2766.0,Cephalopods,0.0,1533.0,0.0
+255,Belgium,2767.0,"Molluscs, Other",0.0,730.0,0.0
+255,Belgium,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+256,Luxembourg,2761.0,Freshwater Fish,0.0,0.0,0.0
+258,Anguilla,2761.0,Freshwater Fish,0.0,0.0,0.0
+258,Anguilla,2762.0,Demersal Fish,0.0,52.0,0.0
+258,Anguilla,2764.0,"Marine Fish, Other",0.0,401.0,0.0
+258,Anguilla,2765.0,Crustaceans,0.0,225.0,0.0
+258,Anguilla,2767.0,"Molluscs, Other",0.0,80.0,0.0
+259,Channel Islands,2761.0,Freshwater Fish,0.0,0.0,0.0
+259,Channel Islands,2762.0,Demersal Fish,0.0,324.0,0.0
+259,Channel Islands,2763.0,Pelagic Fish,0.0,28.0,0.0
+259,Channel Islands,2764.0,"Marine Fish, Other",0.0,0.0,0.0
+259,Channel Islands,2765.0,Crustaceans,0.0,1347.0,0.0
+259,Channel Islands,2766.0,Cephalopods,0.0,15.0,0.0
+259,Channel Islands,2767.0,"Molluscs, Other",1378.1999999999998,2714.2,0.5077739297030432
+264,Isle of Man,2761.0,Freshwater Fish,0.0,0.0,0.0
+264,Isle of Man,2762.0,Demersal Fish,0.0,10.0,0.0
+264,Isle of Man,2763.0,Pelagic Fish,0.0,3.0,0.0
+264,Isle of Man,2764.0,"Marine Fish, Other",0.0,0.0,0.0
+264,Isle of Man,2765.0,Crustaceans,0.0,488.0,0.0
+264,Isle of Man,2766.0,Cephalopods,0.0,0.0,0.0
+264,Isle of Man,2767.0,"Molluscs, Other",0.0,2438.0,0.0
+270,Mayotte,2761.0,Freshwater Fish,0.0,0.0,0.0
+270,Mayotte,2762.0,Demersal Fish,20.0,275.0,0.07272727272727272
+270,Mayotte,2763.0,Pelagic Fish,0.0,491.0,0.0
+270,Mayotte,2764.0,"Marine Fish, Other",0.0,150.0,0.0
+272,Serbia,2761.0,Freshwater Fish,6806.7699999999995,9353.77,0.7277033752166238
+273,Montenegro,2761.0,Freshwater Fish,695.0,840.0,0.8273809523809523
+273,Montenegro,2762.0,Demersal Fish,139.0,362.0,0.3839779005524862
+273,Montenegro,2763.0,Pelagic Fish,0.0,754.0,0.0
+273,Montenegro,2764.0,"Marine Fish, Other",0.0,56.0,0.0
+273,Montenegro,2765.0,Crustaceans,0.0,46.0,0.0
+273,Montenegro,2766.0,Cephalopods,0.0,44.0,0.0
+273,Montenegro,2767.0,"Molluscs, Other",240.0,247.0,0.97165991902834
+273,Montenegro,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+276,Sudan,2761.0,Freshwater Fish,10050.0,48050.0,0.20915712799167535
+276,Sudan,2762.0,Demersal Fish,0.0,0.0,0.0
+276,Sudan,2763.0,Pelagic Fish,0.0,170.0,0.0
+276,Sudan,2764.0,"Marine Fish, Other",0.0,2600.0,0.0
+276,Sudan,2769.0,"Aquatic Animals, Others",0.0,0.0,0.0
+277,South Sudan,2761.0,Freshwater Fish,25.0,32025.0,0.00078064012490242
+299,Occupied Palestinian Territory,2761.0,Freshwater Fish,70.0,70.0,1.0
+299,Occupied Palestinian Territory,2762.0,Demersal Fish,560.0,816.0,0.6862745098039216
+299,Occupied Palestinian Territory,2763.0,Pelagic Fish,0.0,1523.0,0.0
+299,Occupied Palestinian Territory,2764.0,"Marine Fish, Other",0.0,1631.0,0.0
+299,Occupied Palestinian Territory,2765.0,Crustaceans,0.0,450.0,0.0
+299,Occupied Palestinian Territory,2766.0,Cephalopods,0.0,83.0,0.0
