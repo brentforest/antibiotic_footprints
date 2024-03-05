@@ -1,5 +1,5 @@
 # antibiotic-footprints
-Model inputs, model outputs, and Python code for "Curbing diet-related antibiotic footprints may offer co-benefits for the climate crisis." Runs on Python v3.11.
+Model inputs, model outputs, data summary tables, and Python code for "Curbing diet-related antibiotic footprints may offer co-benefits for the climate crisis." Runs on Python v3.11.
 
 To run the model, run the "pipeline" script. 
 The "run_parameters" file can be used to turn individual scripts on or off. 
