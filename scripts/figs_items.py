@@ -45,7 +45,7 @@ def prep_abx(abx_meat, abx_aqua, abx_crops, abx_groups_drug):
     abx = classify_group_abx(abx, abx_groups_drug, ['item_index', 'item', 'footprint_type']) \
         .groupby(['item_index', 'item'])['footprint'].sum().reset_index()
 
-    abx['footprint_type'] = 'abx'
+    abx['footprint_type'] = 'mg_abx'
 
     abx.to_csv(paths.diagnostic / 'abx/abx_item_strip_plot_data.csv', index=False)
 
@@ -108,7 +108,7 @@ def prep_abx_bko(bko_abx_meat, abx_groups_drug):
     bko_abx_meat = classify_group_abx(bko_abx_meat, abx_groups_drug, ['item_index', 'item', 'footprint_type']) \
         .groupby(['item_index', 'item'])['footprint'].sum().reset_index()
 
-    bko_abx_meat['footprint_type'] = 'abx_bko'
+    bko_abx_meat['footprint_type'] = 'mg_abx_bko'
 
     bko_abx_meat.to_csv(paths.diagnostic / 'abx/abx_item_strip_plot_data_bko.csv', index=False)
 
@@ -168,7 +168,7 @@ def figs_items():
             'size': 6.15}
     matplotlib.rc('font', **font)
 
-    # prep abx, ghghe, abx broken out by source
+    # prep abx, ghg, abx broken out by source
     abx = prep_abx(abx_meat, abx_aqua, abx_crops, abx_groups_drug)
     ghg = prep_ghg(ghg_gleam, ghg_coo, ghg_dist)
     abx_bko = prep_abx_bko(abx_bko_meat, abx_groups_drug)
@@ -195,6 +195,10 @@ def figs_items():
     fp = s_categorical_sort(fp, col='item', sort_order=ORDER)
     bko = s_categorical_sort(bko, col='item', sort_order=BKO_ORDER)
 
+    # Output files BEFORE formatting item name
+    fp.to_csv('../data/output/per_kg_edible_wt_footprints_by_species.csv', index=False)
+    bko.to_csv('../data/output/per_kg_edible_wt_footprints_by_species_system.csv', index=False)
+
     # Add N to item names so they shop up in plots
     fp['n'] = fp.groupby(['item', 'footprint_type'])['footprint'].transform('size')
 
@@ -212,27 +216,24 @@ def figs_items():
 
     fp['item'] = fp['item'] + '\n\nN=' + fp['n'].astype(str)
 
-    fp.to_csv(OUTPUT_PATH + 'abx_item_strip_plot_data.csv', index=False)
-    bko.to_csv(OUTPUT_PATH + 'abx_item_strip_plot_data_by_system.csv', index=False)
-
     # Plot
     #plot_strip_items(fp, hue='footprint_type', palette=['silver', 'orange'], y_max=600)
     #show_save_plot(show=SHOW_FIGS, path=OUTPUT_PATH, filename='abx_item_strip_plot_combo_strip_plot')
 
-    plot_strip_items(s_filter(fp, col='footprint_type', list=['abx']), color='orange', y_label='mg antibiotics per kg food')
+    plot_strip_items(s_filter(fp, col='footprint_type', list=['mg_abx']), color='orange', y_label='mg antibiotics per kg food')
     show_save_plot(show=SHOW_FIGS, path=OUTPUT_PATH, format=['png', 'pdf'], filename='abx_item_strip_plot_w_outliers')
 
-    plot_strip_items(s_filter(fp, col='footprint_type', list=['abx']), color='orange', y_label='mg antibiotics per kg food', y_max=990)
+    plot_strip_items(s_filter(fp, col='footprint_type', list=['mg_abx']), color='orange', y_label='mg antibiotics per kg food', y_max=990)
     show_save_plot(show=SHOW_FIGS, path=OUTPUT_PATH, format=['png', 'pdf'], filename='abx_item_strip_plot')
 
     plot_strip_items(s_filter(fp, col='footprint_type', list=['kg_co2e']), color='lightcoral', y_label='kg CO2e per kg food', y_max=188)
     show_save_plot(show=SHOW_FIGS, path=OUTPUT_PATH, format=['png', 'pdf'], filename='abx_item_strip_plot_ghg')
 
     # Break out by source
-    plot_strip_items(s_filter(bko, col='footprint_type', list=['abx_bko']), color='orange', y_label='mg antibiotics per kg food')
+    plot_strip_items(s_filter(bko, col='footprint_type', list=['mg_abx_bko']), color='orange', y_label='mg antibiotics per kg food')
     show_save_plot(show=SHOW_FIGS, path=OUTPUT_PATH, format=['png', 'pdf'], filename='abx_item_strip_plot_abx_bko_w_outliers')
 
-    plot_strip_items(s_filter(bko, col='footprint_type', list=['abx_bko']), color='orange', y_label='mg antibiotics per kg food', y_max=715)
+    plot_strip_items(s_filter(bko, col='footprint_type', list=['mg_abx_bko']), color='orange', y_label='mg antibiotics per kg food', y_max=715)
     show_save_plot(show=SHOW_FIGS, path=OUTPUT_PATH, format=['png', 'pdf'], filename='abx_item_strip_plot_abx_bko')
 
     plot_strip_items(s_filter(bko, col='footprint_type', list=['kg_co2e_bko']), color='lightcoral', y_label='kg CO2e per kg food', y_max=27)
