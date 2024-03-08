@@ -4,9 +4,8 @@ import winsound
 import scipy.stats as stats
 import statistics
 import statsmodels.api as sm
-pd.options.display.width = 250
-
 from utilities import *
+pd.options.display.width = 250
 
 def flag_sigificance(df, direction, sig_levels=[0.001, 0.01, 0.05]):
 # Add column to df that describes level of significance
@@ -260,6 +259,7 @@ def test_corr(dff, x, y, test='pearson_r', print_log=False, error_beep=True):
 
     if test=='pearson_r':
         s,p = stats.pearsonr(x_vals, y_vals)
+        print(stats.pearsonr(x_vals, y_vals).confidence_interval(confidence_level=0.9))
     elif test=='kendall_tau':
         # Kendall rank correlation coefficient, from -1 to 1
         # Used for checking rank correlation between ordinal vars, or between continuous and ordinal

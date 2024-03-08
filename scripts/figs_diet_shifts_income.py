@@ -22,7 +22,7 @@ pd.options.mode.chained_assignment = None
 SHOW_FIGS = False
 FILE_PATH = '../figures/diet_shifts_income/'
 FIG_FORMAT = ['png', 'pdf']
-DIETS = ['Baseline', 'High income diet', 'EAT-Lancet']
+DIETS = ['Baseline', 'High income', 'EAT-Lancet']
 
 # %_diff: compute percent difference from baseline
 # abs_diff: compute absolute difference from baseline
@@ -31,8 +31,8 @@ STATIC_AXIS_RANGES = True # if True, x- and y-ranges are the same across all sca
 POPULATION_DOT_SCALING = True
 
 if DIFF_PARAM == 'abs_diff':
-    X_LABEL = 'Change in antibiotics from baseline, mg / capita / year'
-    Y_LABEL = 'Change in GHGe from baseline, kg CO2e / capita / year'
+    X_LABEL = 'Change in antibiotics from baseline, grams / capita / year'
+    Y_LABEL = 'Change in GHGe from baseline, mt CO2e / capita / year'
 else:
     X_LABEL='% change in ABU' # Note % change is agnostic to per capita of population-wide
     Y_LABEL='% change in GHGe'
@@ -144,7 +144,7 @@ def plot_diets(abx, ghg):
     plot_strip_diets(abx, x='diet', y='value', order=DIETS, color='orange', y_max=28, y_label='grams antibiotics / capita / year')
     show_save_plot(show=SHOW_FIGS, path=FILE_PATH, format=FIG_FORMAT, filename='strip_plot_abx_by_scenario')
 
-    plot_strip_diets(ghg, x='diet', y='value', order=DIETS, color='lightcoral', y_max=4.5, y_label='kg CO2e / capita / year')
+    plot_strip_diets(ghg, x='diet', y='value', order=DIETS, color='lightcoral', y_max=4.5, y_label='mt CO2e / capita / year')
     show_save_plot(show=SHOW_FIGS, path=FILE_PATH, format=FIG_FORMAT, filename='strip_plot_ghg_by_scenario')
 
     # Strip plots by income
@@ -264,30 +264,21 @@ def figs_diet_shifts_income():
     matplotlib.rc('font', **font)
 
     # Prep data
+    # TODO: NOTE CHANGE IN UNITS FROM MG TO G ANTIBIOTICS, KG TO MT CO2E
     (abx, ghg) = prep_abx_ghg(fp, diet_names, income_reclassification, population)
-    abx['unit'] = 'mg antimicrobials/capita/year'
-    ghg['unit'] = 'kg CO2e/capita/year'
 
     # Compute % diff in footprints from diet shifts
     diff = prep_diff(abx, ghg)
 
     # Make a version with LMICs only and just the US
-    diff_lmic = s_filter(diff, col='income_class', excl_list=['High income diet'])
+    diff_lmic = s_filter(diff, col='income_class', excl_list=['High income'])
     diff_us_lmic = s_filter(diff, col='country', list=['United States of America'])
     diff_us_lmic = pd.concat([diff_lmic, diff_us_lmic])
 
     # Plot
     plot_diets(abx, ghg)
-
     plot_diff(diff, 'EAT-Lancet', x_max=250, y_max=250, label_dots=['India',  'Nigeria', 'Bangladesh', 'Brazil'], clip_on=True)
-    #plot_diff(diff, 'High income diet', x_max=850, y_max=850, label_dots=['India', 'Indonesia', 'Pakistan', 'Nigeria', 'Bangladesh', 'Brazil'], clip_on=True)
-    #plot_diff(diff, 'Intensive pigs & poultry', x_min=-80, x_max=20, y_min=-40, y_max=60, label_dots=['India', 'Nigeria', 'Bangladesh', 'Brazil'])
-    plot_diff(diff, 'High income diet', x_min=-80, x_max=20, y_min=-40, y_max=60, label_dots=['India', 'Nigeria', 'Bangladesh', 'Brazil'], clip_on=True)
-    #plot_diff(diff, 'Extensive pigs & poultry', x_min=-80, x_max=20, y_min=-40, y_max=60, label_dots=[])
-    #plot_diff(diff, 'EAT-Lancet + ext. P&P', x_min=-80, x_max=20, y_min=-40, y_max=60, label_dots=['India', 'Nigeria', 'Bangladesh', 'Brazil'])
-    #plot_diff(diff, 'No bovine + int. mono', x_min=-50, x_max=150, y_max=100, label_dots=['Pakistan', 'Brazil'])
-
-    #plot_diff_all_scenarios(diff, diets=DIETS, label_dots=[])
+    plot_diff(diff, 'High income', x_min=-80, x_max=20, y_min=-40, y_max=60, label_dots=['India', 'Nigeria', 'Bangladesh', 'Brazil'], clip_on=True)
 
     """
     # LMICs only

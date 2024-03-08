@@ -1,19 +1,10 @@
 import numpy as np
 import pandas as pd
-import gc # Garbage collection module, to save memory
 import math
 import paths
 import winsound
-from datetime import datetime
-from utilities_figs import *
 from utilities import *
 from utilities_stats import *
-
-import matplotlib
-import matplotlib.pyplot as plt
-import matplotlib.transforms as mtrans
-import matplotlib.patches as mpatches
-from pandas.api.types import CategoricalDtype
 
 pd.options.display.max_columns = 999
 pd.options.mode.chained_assignment = None

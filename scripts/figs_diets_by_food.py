@@ -1,20 +1,16 @@
 import numpy as np
 import pandas as pd
-import gc # Garbage collection module, to save memory
 import math
 import paths
 import winsound
-from datetime import datetime
 from utilities_figs import *
 from utilities import *
 from utilities_figs import *
-
 import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.transforms as mtrans
 import matplotlib.patches as mpatches
 from pandas.api.types import CategoricalDtype
-
 
 pd.options.display.max_columns = 999
 pd.options.mode.chained_assignment = None
@@ -22,7 +18,7 @@ pd.options.mode.chained_assignment = None
 # If SHOW_FIGS == False, figs fig data are saved
 SHOW_FIGS = False
 FILE_PATH = '../figures/diets_by_food/'
-DIETS = ['Baseline', 'High income diet', 'EAT-Lancet']
+DIETS = ['Baseline', 'High income', 'EAT-Lancet']
 
 def prep_abx_ghg(fp, dm, diet_names, food_groups, food_order, population):
 
@@ -62,8 +58,6 @@ def prep_abx_ghg(fp, dm, diet_names, food_groups, food_order, population):
 
     # reorder food columns
     fp = fp[['diet', 'attribute'] + food_order]
-
-    fp.to_csv(FILE_PATH + 'fig_data.csv', index=False)
 
     abx = s_filter(fp, col='attribute', list=['mg_abx_total'])
     ghg = s_filter(fp, col='attribute', list=['kg_co2e_total'])

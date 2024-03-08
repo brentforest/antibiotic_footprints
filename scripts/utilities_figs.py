@@ -1,10 +1,8 @@
 import numpy as np
 import pandas as pd
-import gc # Garbage collection module, to save memory
 import math
 import paths
 import winsound
-from datetime import datetime
 import seaborn as sns
 from utilities_figs import *
 from utilities import *
