@@ -1,5 +1,5 @@
 # antibiotic-footprints
-Model inputs, model outputs, data summary tables, and Python code for "Curbing diet-related antibiotic footprints may offer co-benefits for the climate crisis." Runs on Python v3.11.
+Model inputs, model outputs, data summary tables, and Python code for Bourey AR, Kim BF, Van Boeckel TP, Schar D, Mulchandani R, Tiseo L, Davis MF, Nachman KE, "Curbing diet-related antibiotic footprints may offer co-benefits for the climate crisis." 2024. Runs on Python v3.11.
 
 See data/output for results and summary tables.
 
